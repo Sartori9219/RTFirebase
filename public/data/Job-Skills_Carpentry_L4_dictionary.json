@@ -1,0 +1,408 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why does my pine birdhouse feel like it weighs as much as an oak tree?",
+        "Probably because you're mixing up your woods. Pine is light and great for birdhouses, while oak is heavy and strong, perfect for furniture!"
+      ],
+      "options": [
+        "Wood Identification (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to make a wooden spoon but I don't want it to taste like a lumberyard.",
+        "Try using hardwood like maple or cherry. They're non-toxic, hard-wearing, and won't give your soup a hint of wood shop!"
+      ],
+      "options": [
+        "Wood Identification (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did my walnut bench turn out darker than my maple one? Did I accidentally spill coffee on it?",
+        "Nope, no coffee spills! Walnut is naturally a darker wood, while maple is lighter. So, it's not a stain, it's just its natural shade!"
+      ],
+      "options": [
+        "Wood Identification (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my screwdriver keep sliding off the screw? It's like a soap opera of tools here.",
+        "You're using a flathead on a Phillips screw! Swap your screwdriver and you'll have less slippery drama."
+      ],
+      "options": [
+        "Hand Tools Usage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I keep hitting my thumb instead of the nail. What am I, a magnet for pain?",
+        "Remember to hold the hammer at the end of the handle, not near the head. It gives you more control and keeps your thumb safe!"
+      ],
+      "options": [
+        "Hand Tools Usage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This saw is more of a toothless tiger. Can't even cut through butter!",
+        "Sounds like you need to sharpen the teeth! Or maybe it's time to use a different saw for that job."
+      ],
+      "options": [
+        "Hand Tools Usage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been sanding this table for hours and I'm barely making a dent. Do I need superpowers?",
+        "No superpowers needed! Just switch to a power sander. It'll make the job faster and you can save your strength for the victory dance."
+      ],
+      "options": [
+        "Power Tools Usage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My power drill is making more smoke than a barbecue grill. Is that normal?",
+        "Definitely not! Unplug it now. You might be overworking it or it might be time for a maintenance check."
+      ],
+      "options": [
+        "Power Tools Usage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I feel like I'm in a disco every time I use this jigsaw. It's dancing more than cutting.",
+        "Maybe you're pushing it too hard. Let the tool do the work and guide it gently. And save the dancing for the disco!"
+      ],
+      "options": [
+        "Power Tools Usage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My chair's legs are more uneven than a mountain range! What went wrong?",
+        "Sounds like a classic case of 'measure twice, cut once'. Remember, accurate measuring and marking are key in carpentry!"
+      ],
+      "options": [
+        "Measuring and Marking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I marked my measurements, but they've vanished faster than my dreams of a straight cut.",
+        "Try using a carpenter's pencil. They're more durable, and the marks won't disappear like a magician's rabbit!"
+      ],
+      "options": [
+        "Measuring and Marking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I measured this board at 2 feet, but it turned out to be 24 inches! Am I in a parallel universe?",
+        "No, you're in the same universe. 2 feet is the same as 24 inches. Time to brush up on your unit conversions!"
+      ],
+      "options": [
+        "Measuring and Marking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my saw keep getting stuck? It's like it's playing hide and seek in the wood.",
+        "Maybe you're using the wrong technique. Try a push stroke for thick wood and a pull stroke for thin wood."
+      ],
+      "options": [
+        "Cutting Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cuts are more crooked than a zigzag pattern! What's the secret?",
+        "Remember to keep your eye on the line you're cutting, not on the saw. The saw knows its job. Trust it."
+      ],
+      "options": [
+        "Cutting Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to cut this plywood, but it's splintering more than a wooden heartbreak.",
+        "Sounds like you need to score the cut line first. It helps control the splintering."
+      ],
+      "options": [
+        "Cutting Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've tried to join these two pieces of wood, but they're acting like two magnets with the same pole.",
+        "Try using a dovetail joint. It's like the perfect handshake between two pieces of wood!"
+      ],
+      "options": [
+        "Joinery Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to join this frame, but it's as shaky as a leaf in a storm. What should I do?",
+        "A mortise and tenon joint should do the trick. It's the superhero of joinery techniques, providing strength and stability."
+      ],
+      "options": [
+        "Joinery Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to make a simple box but I can't figure out how to join the sides. Any ideas?",
+        "A butt joint should work. It's the simplest of joints, just like a straightforward 'hello' between two pieces of wood."
+      ],
+      "options": [
+        "Joinery Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This wood feels rougher than a cat's tongue. How can I smooth it out?",
+        "Grab some sandpaper and go with the grain, not against it. It's like petting a cat, always go in the direction of the fur!"
+      ],
+      "options": [
+        "Sanding and Finishing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been sanding this piece for a while now, but it still doesn't look right."
+      ],
+      "options": [
+        "Sanding and Finishing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My project looks dull, like a rainy day. How can I make it shine?",
+        "Applying a finish will do the trick. It's like the sun coming out, making everything look brighter and richer!"
+      ],
+      "options": [
+        "Sanding and Finishing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to build a wall frame, but it's leaning more than the Tower of Pisa.",
+        "Make sure your studs are plumb and spaced correctly. It's like a choreographed dance, everyone needs to be in their right place!"
+      ],
+      "options": [
+        "Framing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm doing the framing for a room, but it feels like I'm trying to solve a complex puzzle.",
+        "Start with your bottom and top plates, then add your studs. It's like building a ladder, base first then the rungs."
+      ],
+      "options": [
+        "Framing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do I make a window in this wall frame?",
+        "You'll need to add a header and a sill. It's like creating a picture frame within your wall frame."
+      ],
+      "options": [
+        "Framing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to put a roof over my head, but it's looking more like a Picasso painting.",
+        "Start with a well-built frame, then lay your sheathing, underlayment, and finally the shingles. It's like dressing for winter, layer by layer."
+      ],
+      "options": [
+        "Roofing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are my roof shingles looking like a bad hair day, all over the place?",
+        "Shingles need to be laid from the bottom up and overlapped correctly. It's like laying bricks, you need to stagger them for strength and coverage."
+      ],
+      "options": [
+        "Roofing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've done my roofing, but it's leaking like a sieve. What did I do wrong?",
+        "Check your flashing around vents and chimneys. It's like the seals on a submarine, they keep the water out."
+      ],
+      "options": [
+        "Roofing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've installed the floor, but walking on it feels like a rollercoaster ride.",
+        "Make sure your subfloor is level before laying the finished flooring. It's like painting, you need a smooth canvas first."
+      ],
+      "options": [
+        "Flooring (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are there gaps between my floorboards? Did they shrink?",
+        "Wood expands and contracts with temperature and humidity changes. It's like a sponge, it swells when it's wet and shrinks when it's dry."
+      ],
+      "options": [
+        "Flooring (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm laying tile floor, but it's more crooked than a politician.",
+        "Start from the center of the room and use spacers for even gaps. It's like a game of Tetris, everything needs to fit perfectly."
+      ],
+      "options": [
+        "Flooring (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my cabinet door open like it's in a funhouse?",
+        "Remember to measure twice and cut once! Cabinets are like puzzle pieces, they need precision to fit correctly."
+      ],
+      "options": [
+        "Cabinetry and Furniture Making (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I made a chair, but it collapsed when I sat on it.",
+        "Don't forget to reinforce your joints. A chair without good support is like a jellyfish, it can't stand up to pressure!"
+      ],
+      "options": [
+        "Cabinetry and Furniture Making (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I built a bookshelf, but it leans more than the Tower of Pisa.",
+        "Sounds like your shelf isn't square. Just like baking a cake, following the recipe isn't enough, you need to check it's done right."
+      ],
+      "options": [
+        "Cabinetry and Furniture Making (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my birdhouse look like a doghouse?",
+        "Maybe you're reading the blueprint upside down. Remember, birdhouses don't need a front door!"
+      ],
+      "options": [
+        "Blueprint Reading (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think I built a staircase to nowhere.",
+        "Did you miss the part of the blueprint where it shows the second floor? Staircases usually lead somewhere!"
+      ],
+      "options": [
+        "Blueprint Reading (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've got this blueprint, but it looks like a treasure map to me.",
+        "Don't be scared, it's not a dragon at the end, just a beautiful kitchen! Just follow the lines and symbols."
+      ],
+      "options": [
+        "Blueprint Reading (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you wearing those goggles? Going swimming?",
+        "Nope, just about to cut some wood. I prefer my eyes splinter-free, thank you very much!"
+      ],
+      "options": [
+        "Safety Procedures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you tying your shoelaces? The race is over!",
+        "I know, but in the carpentry workshop, untied shoelaces can cause a trip, and trust me, no one wants to kiss a bandsaw!"
+      ],
+      "options": [
+        "Safety Procedures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you wearing that mask? Halloween is months away!",
+        "Just protecting my lungs from dust and fumes. My respiratory system didn't sign up for a sandstorm!"
+      ],
+      "options": [
+        "Safety Procedures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm planning to build a treehouse. How many planks do I need?",
+        "Well, you can't just wing it. Measure the tree, draw a plan, and estimate. Unless you fancy a trip to the lumber yard every other hour!"
+      ],
+      "options": [
+        "Material Estimation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you measuring your sandwich?",
+        "Practicing my estimation skills. Carpentry isn't just about saws and hammers, you know!"
+      ],
+      "options": [
+        "Material Estimation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you have so many extra nails?",
+        "Better to have a few extras than run out mid-project. That's a lesson in material estimation for you!"
+      ],
+      "options": [
+        "Material Estimation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Who says math isn't practical? I just used the Pythagorean theorem to make sure this corner is square.",
+        "Whoa, you've just squared the circle... or should I say, squared the corner?"
+      ],
+      "options": [
+        "Carpentry Math (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you have that perplexed look while holding a measuring tape and a piece of wood?",
+        "Trying to calculate the area of this board. It's a multiplication problem, but I can't remember if I carry the one."
+      ],
+      "options": [
+        "Carpentry Math (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you dividing the length of the wood by 3.1415?",
+        "I'm not. I'm just trying to calculate how many pies I can eat after sawing this lumber."
+      ],
+      "options": [
+        "Carpentry Math (correct answer)"
+      ]
+    }
+  ]
+}

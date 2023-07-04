@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Active listening",
+        "Empathy",
+        "Open-mindedness",
+        "Effective communication",
+        "Assertiveness",
+        "Emotional intelligence",
+        "Identifying underlying issues",
+        "Problem-solving mindset",
+        "Compromise and negotiation",
+        "Setting boundaries",
+        "De-escalation techniques",
+        "Mediation",
+        "Apologizing and forgiveness",
+        "Building trust",
+        "Reflecting and learning"
+    ],
+    "hints": {
+        "Active listening": "Paying close attention to the speaker, asking clarifying questions, and rephrasing their statements to ensure understanding.",
+        "Empathy": "Putting yourself in the other person's shoes to understand their feelings, thoughts, and perspective.",
+        "Open-mindedness": "Being receptive to different ideas and opinions, even if they differ from your own.",
+        "Effective communication": "Clearly and respectfully conveying your thoughts, feelings, and needs to others.",
+        "Assertiveness": "Standing up for your rights and needs while respecting the rights and needs of others.",
+        "Emotional intelligence": "Recognizing and managing your emotions, as well as understanding and empathizing with the emotions of others.",
+        "Identifying underlying issues": "Addressing the root causes of conflicts rather than just the symptoms.",
+        "Problem-solving mindset": "Focusing on finding solutions and creating win-win outcomes rather than dwelling on problems.",
+        "Compromise and negotiation": "Working together to reach a mutually acceptable agreement that satisfies both parties.",
+        "Setting boundaries": "Establishing and maintaining clear limits and expectations in relationships.",
+        "De-escalation techniques": "Using tactics such as humor, active listening, or taking a break to diffuse tense situations.",
+        "Mediation": "Utilizing a neutral third party to help facilitate communication and guide the conflict resolution process.",
+        "Apologizing and forgiveness": "Acknowledging your mistakes, taking responsibility, and offering a sincere apology, as well as being willing to forgive others.",
+        "Building trust": "Developing and maintaining trust through honesty, transparency, and follow-through on commitments.",
+        "Reflecting and learning": "Analyzing past conflicts to identify patterns and areas for improvement, and applying lessons learned to prevent or better manage future conflicts."
+    }
+}

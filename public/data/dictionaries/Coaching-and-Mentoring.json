@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Goal setting",
+        "Active listening",
+        "Feedback and reflection",
+        "Empathy and understanding",
+        "Building rapport and trust",
+        "Encouragement and motivation",
+        "Time management skills",
+        "Problem-solving techniques",
+        "Developing self-awareness",
+        "Communication skills",
+        "Conflict resolution",
+        "Decision-making strategies",
+        "Role modeling",
+        "Emotional intelligence",
+        "Creating a personal development plan"
+    ],
+    "hints": {
+        "Goal setting": "Helping students identify and set achievable short-term and long-term goals for personal, academic, and career growth.",
+        "Active listening": "Teaching students to listen attentively and understand others' perspectives without interrupting or judging.",
+        "Feedback and reflection": "Providing constructive feedback on students' progress and encouraging them to reflect on their experiences and learn from mistakes.",
+        "Empathy and understanding": "Developing the ability to empathize with others, understand their emotions, and support them in their challenges.",
+        "Building rapport and trust": "Establishing a positive and trusting relationship between the mentor/coach and the student, fostering open communication and mutual respect.",
+        "Encouragement and motivation": "Inspiring students to believe in themselves, stay motivated, and persevere through challenges.",
+        "Time management skills": "Teaching students how to prioritize tasks, set deadlines, and balance their academic, extracurricular, and personal commitments.",
+        "Problem-solving techniques": "Guiding students through the process of identifying problems, analyzing possible solutions, and implementing the best course of action.",
+        "Developing self-awareness": "Encouraging students to recognize their strengths, weaknesses, interests, and values, and use this self-knowledge to guide their decisions and actions.",
+        "Communication skills": "Helping students improve their verbal, non-verbal, and written communication abilities for effective interpersonal interactions.",
+        "Conflict resolution": "Teaching students strategies for resolving conflicts in a constructive and respectful manner, promoting healthy relationships and teamwork.",
+        "Decision-making strategies": "Guiding students through the process of making informed decisions by considering the potential consequences, risks, and benefits of various options.",
+        "Role modeling": "Demonstrating positive behaviors, attitudes, and values for students to emulate, reinforcing the importance of personal integrity and responsibility.",
+        "Emotional intelligence": "Enhancing students' ability to recognize, understand, and manage their own emotions and those of others, fostering emotional resilience and adaptability.",
+        "Creating a personal development plan": "Assisting students in designing a customized plan for self-improvement, incorporating their goals, action steps, and strategies for overcoming obstacles."
+    }
+}

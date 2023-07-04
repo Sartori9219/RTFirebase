@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I accidentally spilled milk on my sister's favorite shirt. She's gonna be so mad!",
+        "Hey, accidents happen! Just apologize and help her clean it up. She'll appreciate that you care about her feelings."
+      ],
+      "options": [
+        "Emotional Intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm so nervous about my big soccer game today. What if I mess up?",
+        "Take a deep breath and remember, everyone makes mistakes. Just do your best and have fun!"
+      ],
+      "options": [
+        "Emotional Intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't believe I failed the test. I studied so hard!",
+        "It sounds like you're really disappointed. What do you think you could do differently next time?"
+      ],
+      "options": [
+        "Active Listening (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't know what to wear to the party tonight.",
+        "You mentioned that you wanted to wear something comfortable but still stylish, right? Maybe try that new shirt you bought last week."
+      ],
+      "options": [
+        "Active Listening (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My dog chewed up my favorite shoes!",
+        "Oh no, that must be frustrating. Are they completely ruined, or can they be fixed?"
+      ],
+      "options": [
+        "Active Listening (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Umm, I was like, thinking, uh, we could, you know, go to that place?",
+        "Do you mean going to the park for a picnic? That sounds like a great idea!"
+      ],
+      "options": [
+        "Effective Communication (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need that thing on top of the other thing by the window.",
+        "Do you mean the book on the shelf by the window? I'll grab it for you."
+      ],
+      "options": [
+        "Effective Communication (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm not sure how to explain this. It's like a...um...squiggly line?",
+        "Are you trying to describe a zigzag pattern? Let me know if I'm understanding you correctly."
+      ],
+      "options": [
+        "Effective Communication (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't do all this work by myself. What should I do?",
+        "Why not ask your teammates for help? They have different skills that could make the task easier."
+      ],
+      "options": [
+        "Delegation and Empowerment (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm so swamped with tasks, but I don't want to burden others.",
+        "Delegating some of your work can actually help your team grow and learn new skills. Trust them to handle it."
+      ],
+      "options": [
+        "Delegation and Empowerment (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't know if I should let my team take the lead on this project.",
+        "Empowering them to take ownership can boost their confidence and improve their performance."
+      ],
+      "options": [
+        "Delegation and Empowerment (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Sam and I had a huge argument, and now we're not talking.",
+        "Try sitting down with Sam to calmly discuss your feelings and find a compromise."
+      ],
+      "options": [
+        "Conflict Resolution (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't believe they ate the last cookie without asking me!",
+        "Before you get angry, consider talking to them about how you feel and maybe finding a solution, like sharing cookies next time."
+      ],
+      "options": [
+        "Conflict Resolution (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friends are fighting, and I don't know what to do.",
+        "Encourage them to communicate their feelings and try to find a solution that works for everyone."
+      ],
+      "options": [
+        "Conflict Resolution (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't decide which club to join, photography or robotics?",
+        "Think about which one you're more passionate about and how it aligns with your goals."
+      ],
+      "options": [
+        "Decision Making and Problem Solving (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't know how to fix this broken toy.",
+        "Let's break the problem down into smaller steps and try to find a solution for each part."
+      ],
+      "options": [
+        "Decision Making and Problem Solving (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't decide which club to join, photography or robotics?",
+        "Think about which one you're more passionate about and how it aligns with your goals."
+      ],
+      "options": [
+        "Decision Making and Problem Solving (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't know how to fix this broken toy.",
+        "Let's break the problem down into smaller steps and try to find a solution for each part."
+      ],
+      "options": [
+        "Decision Making and Problem Solving (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Should I go to the movies or stay home and study?",
+        "Consider the consequences of each choice and decide which one is more important to you right now."
+      ],
+      "options": [
+        "Decision Making and Problem Solving (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have so much homework and no time to do it all!",
+        "Make a list of tasks and prioritize them based on their deadlines and importance."
+      ],
+      "options": [
+        "Time Management and Prioritization (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to hang out with friends, but I also have chores to do.",
+        "Why not set a specific time for chores, then schedule your hangout afterwards?"
+      ],
+      "options": [
+        "Time Management and Prioritization (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I keep getting distracted while studying.",
+        "Try using a timer and working in focused intervals with short breaks in between."
+      ],
+      "options": [
+        "Time Management and Prioritization (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to be a better basketball player, but I don't know how.",
+        "Set specific goals, like improving your shooting percentage or dribbling skills, and work towards them."
+      ],
+      "options": [
+        "Goal Setting and Vision Casting (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to start a lemonade stand, but I'm not sure where to begin.",
+        "Envision what you want your lemonade stand to look like, then create a plan to achieve it."
+      ],
+      "options": [
+        "Goal Setting and Vision Casting (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm not sure what I want to be when I grow up.",
+        "Think about your passions and interests, then set goals that align with your vision for your future."
+      ],
+      "options": [
+        "Goal Setting and Vision Casting (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish I could draw better, but I don't know how to improve.",
+        "Why not ask someone who's good at drawing to give you some tips and guidance?"
+      ],
+      "options": [
+        "Coaching and Mentoring (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm struggling with math, and I don't know what to do.",
+        "Maybe you could find a tutor or mentor who can help you work through the challenging concepts."
+      ],
+      "options": [
+        "Coaching and Mentoring (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My little brother is having trouble making friends at school.",
+        "Offer to give him some advice and support to help him build his social skills."
+      ],
+      "options": [
+        "Coaching and Mentoring (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My team doesn't seem very excited about our project.",
+        "Share your enthusiasm and passion for the project, and they might feel more motivated too."
+      ],
+      "options": [
+        "Motivating and Inspiring Others (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't get my friends to participate in the school play.",
+        "Talk about the fun aspects of being in the play and how rewarding it can be, to inspire them to join."
+      ],
+      "options": [
+        "Motivating and Inspiring Others (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to get my classmates to join our clean-up event, but they're not interested.",
+        "Share the positive impact the event will have on the community to inspire and motivate them."
+      ],
+      "options": [
+        "Motivating and Inspiring Others (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our team has to switch from using paper to digital, but I'm not good with technology.",
+        "Don't worry, you can learn! Embrace the change and be open to trying new things."
+      ],
+      "options": [
+        "Change Management and Adaptability (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our teacher changed the due date for our project, and now I'm stressed.",
+        "Take a deep breath and adjust your plans. Adaptability is key to handling unexpected changes."
+      ],
+      "options": [
+        "Change Management and Adaptability (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm scared to move to a new city for college.",
+        "It's normal to be nervous, but try to see it as an opportunity for growth and new experiences."
+      ],
+      "options": [
+        "Change Management and Adaptability (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't know how to get my team to work together on our project.",
+        "Organize team-building activities that encourage communication and trust among team members."
+      ],
+      "options": [
+        "Team Building and Collaboration (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "We have a group assignment, but everyone is working independently.",
+        "Try to divide the tasks based on each person's strengths and encourage collaboration."
+      ],
+      "options": [
+        "Team Building and Collaboration (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm not sure how to approach my teammates with my ideas.",
+        "Be open and share your thoughts. A good team values every member's input and works together."
+      ],
+      "options": [
+        "Team Building and Collaboration (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't know how to tell my friend that they're not doing a good job on our project.",
+        "Give constructive feedback, focusing on specific areas they can improve while being supportive."
+      ],
+      "options": [
+        "Performance Management and Feedback (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm worried about getting a bad grade on my group project.",
+        "Discuss your concerns with your team and give feedback on how you can all improve together."
+      ],
+      "options": [
+        "Performance Management and Feedback (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My teammate keeps making the same mistake, even though I've told them not to.",
+        "Try providing clear feedback, and offer to help them understand how to fix the issue."
+      ],
+      "options": [
+        "Performance Management and Feedback (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found the answers to the test online. Should I share them with my classmates?",
+        "No, it's important to be honest and do the right thing, even when no one is watching."
+      ],
+      "options": [
+        "Ethical Leadership and Integrity (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friends are pressuring me to lie about something to help them.",
+        "Stay true to your values and be honest, even if it's hard or unpopular."
+      ],
+      "options": [
+        "Ethical Leadership and Integrity (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm having trouble understanding my teammate's accent.",
+        "Be patient and open-minded, and ask for clarification if needed. It's important to respect everyone's differences."
+      ],
+      "options": [
+        "Cross-Cultural and Diversity Management (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our class is doing a project on different cultures, but I don't know much about other cultures.",
+        "Take the time to learn and appreciate the diversity in your class. It's a great opportunity to broaden your perspective."
+      ],
+      "options": [
+        "Cross-Cultural and Diversity Management (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't know how to handle the different opinions and backgrounds in our team.",
+        "Encourage open dialogue and understanding, and create an inclusive environment where everyone feels valued."
+      ],
+      "options": [
+        "Cross-Cultural and Diversity Management (Correct answer)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Mass and energy balances",
+        "Thermodynamics",
+        "Chemical kinetics",
+        "Fluid mechanics",
+        "Heat and mass transfer",
+        "Process control",
+        "Separation processes",
+        "Reactor design",
+        "Process safety",
+        "Material and energy balances",
+        "Transport phenomena",
+        "Chemical process simulation",
+        "Process economics",
+        "Materials science",
+        "Catalysis"
+    ],
+    "hints": {
+        "Mass and energy balances": "Quantifying the input, output, and accumulation of mass and energy in a process to ensure conservation laws are met.",
+        "Thermodynamics": "Understanding the relationships between heat, work, and energy in chemical processes and their impact on system properties.",
+        "Chemical kinetics": "Studying the rates of chemical reactions, reaction mechanisms, and factors affecting reaction speed.",
+        "Fluid mechanics": "Analyzing the behavior of fluids at rest and in motion, including pressure, flow, and viscosity.",
+        "Heat and mass transfer": "Investigating the movement of energy and matter between phases or within a system, affecting temperature, concentration, and phase changes.",
+        "Process control": "Developing and implementing strategies to maintain desired process conditions and respond to disturbances.",
+        "Separation processes": "Techniques used to separate components in a mixture, such as distillation, filtration, and chromatography.",
+        "Reactor design": "Designing and optimizing chemical reactors for efficient, safe, and economical operation.",
+        "Process safety": "Assessing and managing risks associated with chemical processes to minimize hazards and protect people, property, and the environment.",
+        "Material and energy balances": "Analyzing the consumption and production of resources in a process to improve efficiency and sustainability.",
+        "Transport phenomena": "Studying the movement of mass, energy, and momentum in chemical systems, and their impact on system properties.",
+        "Chemical process simulation": "Using computer software to model and analyze chemical processes, enabling optimization and scale-up.",
+        "Process economics": "Evaluating the financial aspects of chemical processes, including costs, revenues, and profitability.",
+        "Materials science": "Understanding the structure, properties, and behavior of materials and their applications in chemical engineering.",
+        "Catalysis": "Investigating catalysts and their role in promoting or accelerating chemical reactions, enabling more efficient and sustainable processes."
+    }
+}

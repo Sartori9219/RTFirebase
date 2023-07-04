@@ -1,0 +1,283 @@
+{
+  "questions": [
+    {
+      "question": [
+        "\"Hey, what if we all vote on what toppings to put on our pizza?\"",
+        "\"Sounds great! I'll get my pet llama to cast a vote for pineapple!\""
+      ],
+      "options": [
+        "Democracy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Should we play soccer or hide-and-seek at the park?\"",
+        "\"Let's ask everyone and see which game gets the most votes. Even my cat wants to vote for soccer!\""
+      ],
+      "options": [
+        "Democracy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Our classroom needs a new decoration. Any ideas?\"",
+        "\"Why not have everyone submit their craziest ideas and then vote on them? My pet rock thinks a giant rainbow unicorn poster would be perfect!\""
+      ],
+      "options": [
+        "Democracy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Imagine a rulebook that tells us how our country should be run!\"",
+        "\"Yeah, like if it had a list of superpowers for our leaders and citizens!\""
+      ],
+      "options": [
+        "Constitution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"What if we split the government's power into different superhero teams?\"",
+        "\"Oh, each team could have their own special abilities to keep things fair!\""
+      ],
+      "options": [
+        "Branches of Government (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"My favorite superhero team is in charge of making decisions and enforcing laws!\"",
+        "\"Oh, like Captain President and the Enforcer Squad?\""
+      ],
+      "options": [
+        "Executive Branch (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"There's this amazing team that creates and changes the laws!\"",
+        "\"You mean the League of Legislators? They're like the law-making wizards!\""
+      ],
+      "options": [
+        "Legislative Branch (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Did you hear about the superheroes who interpret and protect the laws?\"",
+        "\"The Justices League, right? They make sure everything is fair and balanced!\""
+      ],
+      "options": [
+        "Judicial Branch (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Imagine if our superhero teams kept an eye on each other to prevent any team from getting too powerful.\"",
+        "\"Oh, like a friendly competition to keep everyone honest and responsible!\""
+      ],
+      "options": [
+        "Checks and Balances (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"We should have a party where everyone chooses their favorite superhero to be their leader!\"",
+        "\"Totally! Voting for our heroes is like picking the coolest DJ for our dance party!\""
+      ],
+      "options": [
+        "Elections (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"What if superheroes had clubs with different ideas about how to save the world?\"",
+        "\"Yeah, and they'd compete to see which club gets to lead the next mission!\""
+      ],
+      "options": [
+        "Political Parties (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Imagine a team of neighborhood superheroes who take care of our streets and parks!\"",
+        "\"They'd be like the Super City Council, making sure our hometown is the best it can be!\""
+      ],
+      "options": [
+        "Local Government (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"What if there was a superhero HQ that took care of the whole country?\"",
+        "\"Totally! The National Avengers would make sure everyone in the nation is safe and sound!\""
+      ],
+      "options": [
+        "Federal/Central Government (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"We should give superheroes some of our allowance to help them protect us!\"",
+        "\"Yeah, they could use that money to buy cool gadgets and fix our schools!\""
+      ],
+      "options": [
+        "Taxes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Our superheroes should also help with things like libraries, parks, and schools!\"",
+        "\"Definitely! They'd be the Public Protectors, making our community even better!\""
+      ],
+      "options": [
+        "Public Services (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Imagine if our superheroes had a special list of powers that everyone gets, no matter what!\"",
+        "\"That's like the Universal Powers Alliance, making sure everyone is treated fairly!\""
+      ],
+      "options": [
+        "Human Rights (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"We could all be sidekicks to our superheroes by helping out and doing good deeds!\"",
+        "\"Yeah, it's our duty to make the world a better place, one heroic act at a time!\""
+      ],
+      "options": [
+        "Civic Responsibility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Picture a treasure map that guides us in running our country!\"",
+        "\"Yeah, it's like a hidden scroll filled with wisdom for our leaders and citizens!\""
+      ],
+      "options": [
+        "Constitution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"What if our government had different sections, like a pizza with various toppings?\"",
+        "\"Totally! Each slice brings unique flavors and works together to create the perfect pizza!\""
+      ],
+      "options": [
+        "Branches of Government (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"My favorite team is the one responsible for making big decisions and carrying out the laws!\"",
+        "\"Ah, like the Decision Makers and their trusty sidekick, Law Enforcer!\""
+      ],
+      "options": [
+        "Executive Branch (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"There's a group of heroes who write and update the laws for everyone!\"",
+        "\"You mean the Law Crafters? They're like the masterminds of fairness!\""
+      ],
+      "options": [
+        "Legislative Branch (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I heard about a team that interprets laws and makes sure they're just!\"",
+        "\"You're talking about the Fairness Force, right? They keep everything balanced!\""
+      ],
+      "options": [
+        "Judicial Branch (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Imagine our government sections playing a game of tag to keep each other in check.\"",
+        "\"That's a fun way to make sure nobody gets too powerful and stays accountable!\""
+      ],
+      "options": [
+        "Checks and Balances (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"We should have a talent show where we vote for our favorite leader to represent us!\"",
+        "\"Absolutely! Picking our leaders is like choosing the best singer in the band!\""
+      ],
+      "options": [
+        "Elections (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"What if heroes had fan clubs with different ideas on how to make the world better?\"",
+        "\"Yeah, and they'd challenge each other to prove which club has the best plan!\""
+      ],
+      "options": [
+        "Political Parties (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Picture a group of local heroes who keep our streets clean and parks safe!\"",
+        "\"They'd be like the Hometown Heroes, making sure our community is always thriving!\""
+      ],
+      "options": [
+        "Local Government (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"What if there was a control center where heroes managed the entire country?\"",
+        "\"Totally! They'd be the Nation's Protectors, ensuring everyone's well-being from coast to coast!\""
+      ],
+      "options": [
+        "Federal/Central Government (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"We could contribute some pocket money to help our heroes keep us safe!\"",
+        "\"Yeah, they could use it to buy new gear and improve our neighborhoods!\""
+      ],
+      "options": [
+        "Taxes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Our heroes should also assist with things like museums, fire stations, and hospitals!\"",
+        "\"For sure! They'd be the Community Champions, making our city the best it can be!\""
+      ],
+      "options": [
+        "Public Services (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Imagine if our heroes guaranteed special powers for everyone, no exceptions!\"",
+        "\"That's like the Equal Power Squad, ensuring justice and fairness for all!\""
+      ],
+      "options": [
+        "Human Rights (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"We could team up with our heroes by volunteering and caring for our environment!\"",
+        "\"Definitely! It's our mission to make the world a better place, one good deed at a time!\""
+      ],
+      "options": [
+        "Civic Responsibility (correct answer)"
+      ]
+    }
+  ]
+}

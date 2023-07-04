@@ -1,0 +1,401 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Do you think that stack of pancakes will fall over if I place one more on top?",
+        "Well, as long as the center of mass remains over the base, the stack will be stable!"
+      ],
+      "options": [
+        "'Statics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "How can that tightrope walker balance so well on that thin wire?",
+        "She's a master of statics! She keeps her body's center of gravity directly above the wire to maintain equilibrium."
+      ],
+      "options": [
+        "'Statics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why don't buildings just topple over with the wind?",
+        "Well, they're designed using principles of statics to withstand loads like wind without losing equilibrium."
+      ],
+      "options": [
+        "'Statics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why did the bouncy ball bounce away so quickly after it hit the wall?",
+        "That's dynamics in action! The ball's velocity changed rapidly due to the impact, causing it to bounce away."
+      ],
+      "options": [
+        "'Dynamics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I balance on my skateboard while it's moving?",
+        "Because when it's moving, dynamics come into play. The forces and accelerations change your balance!"
+      ],
+      "options": [
+        "'Dynamics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "How come when I throw this Frisbee, it curves in the air?",
+        "That's the magic of dynamics! The spinning motion and air resistance influence its curved path."
+      ],
+      "options": [
+        "'Dynamics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why did my rubber band snap when I pulled it too far?",
+        "Mechanics of materials! The tension exceeded the rubber band's elastic limit, causing it to break."
+      ],
+      "options": [
+        "'Mechanics of Materials (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does a bridge not break under the weight of so many cars?",
+        "It's all about mechanics of materials! Bridges are designed to handle specific loads without deforming permanently."
+      ],
+      "options": [
+        "'Mechanics of Materials (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "How can that tiny paperclip hold so many papers together without breaking?",
+        "That's the power of mechanics of materials! The paperclip's material can endure the bending and twisting without breaking."
+      ],
+      "options": [
+        "'Mechanics of Materials (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my ice cream melt so quickly in the sun?",
+        "Blame thermodynamics! Heat from the sun increases the ice cream's temperature, causing it to change from solid to liquid."
+      ],
+      "options": [
+        "'Thermodynamics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my metal water bottle feel cold when I fill it with cold water?",
+        "That's thermodynamics at work! The heat transfers from the metal to the cooler water, making the bottle feel cold."
+      ],
+      "options": [
+        "'Thermodynamics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my car engine get so hot when I've been driving for a while?",
+        "It's all about thermodynamics! The engine generates heat as it burns fuel, and that heat needs to go somewhere."
+      ],
+      "options": [
+        "'Thermodynamics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my straw seem to bend when I put it in my drink?",
+        "That's fluid mechanics! The light refracts differently through the air and the drink, making the straw look bent."
+      ],
+      "options": [
+        "'Fluid Mechanics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my boat float instead of sinking?",
+        "Fluid mechanics to the rescue! The weight of the water displaced by the boat is equal to the weight of the boat, so it floats."
+      ],
+      "options": [
+        "'Fluid Mechanics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does rain fall in droplets and not in a continuous stream?",
+        "Fluid mechanics! The surface tension of water causes it to form droplets in the air."
+      ],
+      "options": [
+        "'Fluid Mechanics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my metal spoon get hot when I leave it in my soup?",
+        "That's heat transfer! The heat from the soup is being conducted through the spoon to your hand."
+      ],
+      "options": [
+        "'Heat Transfer (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does the beach sand get so hot during the day but cools down quickly at night?",
+        "It's all heat transfer! Sand has a low specific heat capacity, so it heats up and cools down rapidly."
+      ],
+      "options": [
+        "'Heat Transfer (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why do we feel warm when we stand in sunlight but immediately feel cool in the shade?",
+        "Heat transfer at play! Sunlight carries heat energy that warms you, but in the shade, you're not directly receiving that energy."
+      ],
+      "options": [
+        "'Heat Transfer (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my bike chain always get off track whenever I switch gears too quickly?",
+        "It's all about Machine Design! Your bike's gear system needs to be designed in a way that it handles rapid gear changes."
+      ],
+      "options": [
+        "'Machine Design (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why do the doors of public places often have push bars rather than doorknobs?",
+        "That's Machine Design! Push bars allow more people to exit quickly and easily, especially in emergencies."
+      ],
+      "options": [
+        "'Machine Design (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why do scissors have longer handles and shorter blades?",
+        "It's Machine Design! The longer handle and shorter blade give you the leverage you need to cut things more easily."
+      ],
+      "options": [
+        "'Machine Design (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my gaming console stop charging when the battery is full?",
+        "That's Control Systems at work! The console has a system that cuts off the power supply when the battery is full to prevent overcharging."
+      ],
+      "options": [
+        "'Control Systems (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "How does my refrigerator know when to turn on and off?",
+        "It's all about Control Systems! The fridge uses a thermostat to control the temperature inside."
+      ],
+      "options": [
+        "'Control Systems (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my car's cruise control maintain a steady speed even on uphill roads?",
+        "That's due to the Control Systems! It adjusts the car's throttle to maintain a set speed regardless of the terrain."
+      ],
+      "options": [
+        "'Control Systems (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my washing machine shake so much during the spin cycle?",
+        "That's Mechanical Vibrations! It's caused by the high-speed spinning of the drum."
+      ],
+      "options": [
+        "'Mechanical Vibrations (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "I feel a weird buzzing in my phone when I get a notification. What's that about?",
+        "That's due to Mechanical Vibrations! The phone uses a small motor to create vibrations for alerts."
+      ],
+      "options": [
+        "'Mechanical Vibrations (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why do bridges sway a little in strong wind?",
+        "That's Mechanical Vibrations! Engineers design bridges to allow some movement to absorb the energy from wind and prevent damage."
+      ],
+      "options": [
+        "'Mechanical Vibrations (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why is my frying pan non-stick? It makes cooking so much easier!",
+        "That's Materials Science! The non-stick coating is a material designed to reduce friction and prevent food from sticking."
+      ],
+      "options": [
+        "'Materials Science (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "My new sunglasses are polarized. What does that even mean?",
+        "Thanks to Materials Science! Polarization is a property of certain materials that block certain types of light waves, reducing glare."
+      ],
+      "options": [
+        "'Materials Science (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my car dent but not shatter when it gets hit?",
+        "Materials Science at work! Car bodies are made of materials designed to absorb impact and deform rather than shatter, which makes accidents safer."
+      ],
+      "options": [
+        "'Materials Science (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my IKEA furniture come with pictures instead of written instructions?",
+        "That's because of Engineering Drawing! It's a universal language that shows how to assemble something, no matter what language you speak."
+      ],
+      "options": [
+        "'Engineering Drawing (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why do architects use blueprints instead of just writing down what to build?",
+        "That's Engineering Drawing! It allows them to accurately represent 3D structures on 2D paper, so builders understand exactly what to do."
+      ],
+      "options": [
+        "'Engineering Drawing (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why do car manufacturers use those fancy 3D models of new cars?",
+        "Engineering Drawing! It lets them visualize the car from all angles and plan how every part fits together before they start building."
+      ],
+      "options": [
+        "'Engineering Drawing (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why do we need so many machines just to make a plastic bottle?",
+        "That's all part of Manufacturing Processes! The bottle goes through melting, molding, cooling, and more, all to make sure it's just right."
+      ],
+      "options": [
+        "'Manufacturing Processes (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just carve everything we need out of wood, like they did in the old days?",
+        "That's where Manufacturing Processes come in! Modern methods like casting, forging, and stamping let us create complex shapes much more efficiently."
+      ],
+      "options": [
+        "'Manufacturing Processes (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just sew my own clothes instead of buying them from a store?",
+        "Well, you could, but Manufacturing Processes make it much faster and consistent to produce clothing on a large scale."
+      ],
+      "options": [
+        "'Manufacturing Processes (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my robot vacuum cleaner always get stuck under the couch?",
+        "That's a Mechatronics issue! It uses sensors, mechanical systems, and electronics to navigate. Maybe it needs a software update or better sensors."
+      ],
+      "options": [
+        "'Mechatronics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why is my new car's navigation system so much better at avoiding traffic than my old one?"
+      ],
+      "options": [
+        "'Mechatronics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my game controller vibrate when I'm playing video games?"
+      ],
+      "options": [
+        "'Mechatronics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my robot butler always spill my coffee?"
+      ],
+      "options": [
+        "'Robotics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "How come my robotic dog can't catch a frisbee?"
+      ],
+      "options": [
+        "'Robotics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "I saw a robot doing backflips on TV. How is that possible?"
+      ],
+      "options": [
+        "'Robotics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my car sound like a roaring lion when I accelerate?"
+      ],
+      "options": [
+        "'Automotive Engineering (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "I got a flat tire and now my car is limping like a one-legged pirate!"
+      ],
+      "options": [
+        "'Automotive Engineering (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "My car's AC is blowing hot air, feels like I'm in a desert!"
+      ],
+      "options": [
+        "'Automotive Engineering (correct answer)'"
+      ]
+    }
+  ]
+}

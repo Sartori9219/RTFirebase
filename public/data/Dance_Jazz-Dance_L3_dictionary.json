@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why is that penguin swaying side to side like it's on a fashion runway?",
+        "Maybe it's not a penguin, it's a jazzy secret agent in a tuxedo practicing its stealthy moves!"
+      ],
+      "options": [
+        "Jazz Walks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Check out this dinosaur! It walks like it's got a swagger!",
+        "It must have learned some cool jazz dance moves in prehistoric times. Maybe it's the first Jazz-o-saurus Rex!"
+      ],
+      "options": [
+        "Jazz Walks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is my pet robot moving like it's sliding on ice but still looking so cool?",
+        "I think your robot found your jazz dance instructional videos. It's doing the jazz walk!"
+      ],
+      "options": [
+        "Jazz Walks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the octopus waving its tentacles like it just don't care?",
+        "It must have stumbled upon an underwater jazz club. Octopus jazz hands, anyone?"
+      ],
+      "options": [
+        "Jazz Hands (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the robot waving its mechanical fingers while making my breakfast?",
+        "Looks like it's trying to add some flair to cooking! It's serving you eggs with a side of jazz hands!"
+      ],
+      "options": [
+        "Jazz Hands (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the scarecrow in the field moving its arms so dramatically?",
+        "It's not just scaring crows, it's giving them a performance. Jazz hands really do make everything more exciting!"
+      ],
+      "options": [
+        "Jazz Hands (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is that checkerboard moving in such a funky pattern?",
+        "Oh, it's just practicing its jazz squares. Even board games need to keep their moves fresh!"
+      ],
+      "options": [
+        "Jazz Squares (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is my pet hamster moving around its cage in a square pattern?",
+        "Your hamster must have been watching old musicals with you, it's nailing those jazz squares!"
+      ],
+      "options": [
+        "Jazz Squares (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the robot vacuum cleaner moving in a square pattern instead of cleaning?",
+        "I think it's not a bug, it's a feature. It's doing jazz squares!"
+      ],
+      "options": [
+        "Jazz Squares (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the spinning top moving so gracefully?",
+        "Because it's not just a top, it's a jazz dancer! Look at those jazz pirouettes!"
+      ],
+      "options": [
+        "Jazz Pirouettes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is my pet cat spinning around like that?",
+        "I think it's trying to do jazz pirouettes. Must've been watching your dance lessons again!"
+      ],
+      "options": [
+        "Jazz Pirouettes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is that tornado spinning so smoothly and rhythmically?",
+        "Well, that's a jazzy tornado. It's doing jazz pirouettes!"
+      ],
+      "options": [
+        "Jazz Pirouettes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is my robot only moving one part at a time?",
+        "It's not malfunctioning, it's just practicing jazz dance isolations!"
+      ],
+      "options": [
+        "Isolations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the scarecrow moving its head separately from the rest of its body?",
+        "Oh, it's just doing jazz isolations. Very advanced for a scarecrow!"
+      ],
+      "options": [
+        "Isolations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the octopus moving its tentacles one at a time?",
+        "It's been taking online jazz dance classes. Those are isolations!"
+      ],
+      "options": [
+        "Isolations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is my scarecrow always hunched over and making exaggerated movements?",
+        "It's not broken, it's just practicing its Fosse style jazz dance moves!"
+      ],
+      "options": [
+        "Fosse Style (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the peacock dance with its feathers inwards and its head tilted?",
+        "It must've taken inspiration from Bob Fosse's style of jazz dance!"
+      ],
+      "options": [
+        "Fosse Style (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the robot move in such a unique, stylized way?",
+        "It's been programmed to perform Fosse style jazz dance!"
+      ],
+      "options": [
+        "Fosse Style (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is that penguin always hopping from one foot to another?",
+        "Oh, he's just practicing his ball change jazz step!"
+      ],
+      "options": [
+        "Ball Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the flamingo switching its weight from one foot to another?",
+        "It's not doing a flamingo dance, it's doing a ball change jazz step!"
+      ],
+      "options": [
+        "Ball Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is that squirrel hopping around in such a strange way?",
+        "That's no ordinary squirrel. That's a jazz dancing squirrel doing a ball change!"
+      ],
+      "options": [
+        "Ball Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is that kangaroo kicking the air before it jumps?",
+        "Oh, it's not just any jump. It's a kick ball change from jazz dance!"
+      ],
+      "options": [
+        "Kick Ball Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the soccer player kicking the air then bouncing on his feet?",
+        "He's not just warming up. He's practicing his kick ball change jazz step!"
+      ],
+      "options": [
+        "Kick Ball Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is that chef kicking before he jumps while he's cooking?",
+        "Well, cooking can be boring. Maybe he's spicing things up with a kick ball change!"
+      ],
+      "options": [
+        "Kick Ball Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is that librarian reaching back like she's about to do a backflip?",
+        "She's not doing a backflip, that's a jazz layout. She's a dancer at heart!"
+      ],
+      "options": [
+        "Jazz Layout (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the gardener arching back while holding the watering can?",
+        "Oh, that's his way of watering the plants while doing a jazz layout. Talk about multitasking!"
+      ],
+      "options": [
+        "Jazz Layout (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is that astronaut arching backward in zero gravity?",
+        "I guess even in space, you can't stop a dancer from doing a jazz layout!"
+      ],
+      "options": [
+        "Jazz Layout (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is that penguin waddling in such a strange rhythm?",
+        "Well, maybe it's practising syncopation. Jazz isn't just for humans, you know!"
+      ],
+      "options": [
+        "Syncopation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the baker kneading the dough in such an odd rhythm?",
+        "He's into jazz dancing. That's syncopation. Makes the bread taste better, he says."
+      ],
+      "options": [
+        "Syncopation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the traffic light blinking in such a weird pattern?",
+        "It's not weird, it's syncopation. Everything's got more swing in Jazz Town!"
+      ],
+      "options": [
+        "Syncopation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is that guy dancing with a lamp post?",
+        "I guess when you don't have a dance partner, improvisation is key!"
+      ],
+      "options": [
+        "Improvisation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the mailman doing cartwheels while delivering mail?",
+        "That's his version of improvisation. Makes the job more exciting!"
+      ],
+      "options": [
+        "Improvisation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is that chef flipping pancakes while doing the moonwalk?",
+        "He believes in the art of improvisation. Dinner and a show, all in one!"
+      ],
+      "options": [
+        "Improvisation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is that crossing guard stepping backwards, then sideways, then forwards?",
+        "Oh, he's just doing the Jazz Pas de Bourr\u00e9e. Makes the job more dancey!"
+      ],
+      "options": [
+        "Jazz Pas de Bourr\u00e9e (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the baker moving around the kitchen in such an intricate pattern?",
+        "He likes to incorporate the Jazz Pas de Bourr\u00e9e into his baking routine. Adds a little spice to the day!"
+      ],
+      "options": [
+        "Jazz Pas de Bourr\u00e9e (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is that librarian shuffling around the bookshelves like that?",
+        "She's just doing a Jazz Pas de Bourr\u00e9e. She says it makes book organizing more fun!"
+      ],
+      "options": [
+        "Jazz Pas de Bourr\u00e9e (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is our math teacher walking around like he's dragging his feet?",
+        "That's not just dragging, that's a Jazz Drag. Makes grading our tests more enjoyable, I guess!"
+      ],
+      "options": [
+        "Jazz Drag (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the mailman walking like he's dragging his feet?",
+        "Oh, he's just doing the Jazz Drag. He says it makes delivering mail more rhythmic!"
+      ],
+      "options": [
+        "Jazz Drag (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the zookeeper moving around like she's dragging her feet?",
+        "That's a Jazz Drag. She believes it calms the animals!"
+      ],
+      "options": [
+        "Jazz Drag (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the janitor keep bending his body in and out while mopping the floor?",
+        "Oh, that's the janitor's version of the Jazz Contraction. Makes mopping a performance art!"
+      ],
+      "options": [
+        "Contractions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is our gym teacher doubling over like he's got a stomachache during stretches?",
+        "That's not a stomachache, that's a Jazz Contraction. He's just adding some flair to our warm-up routine!"
+      ],
+      "options": [
+        "Contractions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the gardener bending and straightening up while watering the plants?",
+        "She's practicing Jazz Contractions. Says it helps her back!"
+      ],
+      "options": [
+        "Contractions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the mailman spinning around while delivering mail?",
+        "He says he's practicing his Jazz Turns. Makes his work more fun!"
+      ],
+      "options": [
+        "Jazz Turns (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the chef turning around so much while cooking today's special?",
+        "Oh, he calls it Jazz Turning. Adds a bit of rhythm to his cooking, he says!"
+      ],
+      "options": [
+        "Jazz Turns (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the librarian spinning around in circles while organizing books?",
+        "She's practicing her Jazz Turns. Says it makes shelving books more exciting!"
+      ],
+      "options": [
+        "Jazz Turns (correct answer)"
+      ]
+    }
+  ]
+}

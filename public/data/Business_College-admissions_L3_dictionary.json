@@ -1,0 +1,416 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I'm so overwhelmed! How do I even start applying to college? \ud83d\ude2b"
+      ],
+      "options": [
+        "College Application (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have to write an essay for my college application. What should I focus on? \ud83e\udd14",
+        "Be yourself! \ud83c\udf1f Share a meaningful story or experience that showcases your personality and highlights your strengths. Make it memorable!"
+      ],
+      "options": [
+        "College Application (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do colleges really care about extracurriculars? I mean, I'm no superstar athlete or anything. \ud83c\udfc8"
+      ],
+      "options": [
+        "College Application (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm head over heels for my dream college! Should I apply Early Decision? \ud83d\ude0d",
+        "If you're 100% sure it's the one, go for it! \ud83c\udfaf Just remember, Early Decision is binding, so if you're accepted, you're committed to attending."
+      ],
+      "options": [
+        "Early Decision (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard applying Early Decision can improve my chances of getting in. Is that true? \ud83e\udd14"
+      ],
+      "options": [
+        "Early Decision (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I applied Early Decision, but now I'm having second thoughts. Can I back out? \ud83d\ude2c"
+      ],
+      "options": [
+        "Early Decision (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to apply early, but I'm not ready to commit to one college yet. What should I do? \ud83e\udd37\u200d\u2640\ufe0f",
+        "Early Action is your friend! \ud83e\uddb8\u200d\u2642\ufe0f You can apply early, get a decision sooner, and still have the freedom to choose from multiple colleges."
+      ],
+      "options": [
+        "Early Action (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I apply Early Action, can I still apply to other colleges? \ud83c\udf10",
+        "Absolutely! \ud83c\udf1f Early Action is non-binding, so you're free to apply to as many colleges as you like and compare your options."
+      ],
+      "options": [
+        "Early Action (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I got accepted through Early Action! \ud83c\udf89 But what if I change my mind later?",
+        "No worries! \ud83d\ude0e Since Early Action isn't binding, you can still consider other schools and make your final decision by the regular decision deadline."
+      ],
+      "options": [
+        "Early Action (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm feeling the pressure to apply early, but I want more time to work on my application. What should I do? \u23f3",
+        "Relax! \ud83e\uddd8\u200d\u2642\ufe0f Applying Regular Decision gives you extra time to polish your application and explore all your college options."
+      ],
+      "options": [
+        "Regular Decision (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I apply Regular Decision, will I still have a chance at my dream school even if others applied early? \ud83d\ude4f"
+      ],
+      "options": [
+        "Regular Decision (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I applied Regular Decision, but I'm so anxious about waiting for the results! How can I cope? \ud83d\ude16",
+        "Hang in there! \ud83d\udcaa Use the waiting time to research scholarships, plan campus visits, or pick up a new hobby. Keep yourself busy and stay positive!"
+      ],
+      "options": [
+        "Regular Decision (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard some colleges have Rolling Admissions. What's that all about? \ud83d\udd04"
+      ],
+      "options": [
+        "Rolling Admissions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I missed the deadline for my top-choice school, but they have Rolling Admissions. Is it too late to apply? \u231b"
+      ],
+      "options": [
+        "Rolling Admissions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I apply through Rolling Admissions, when will I find out if I got in? \ud83d\uddd3\ufe0f",
+        "It's like a surprise party! \ud83c\udf89 You could hear back within a few weeks"
+      ],
+      "options": [
+        "Rolling Admissions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard some colleges have Rolling Admissions. What's that all about? \ud83d\udd04"
+      ],
+      "options": [
+        "Rolling Admissions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I missed the deadline for my top-choice school, but they have Rolling Admissions. Is it too late to apply? \u231b"
+      ],
+      "options": [
+        "Rolling Admissions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if applying to college was like ordering pizza? You just choose your toppings and it's done! \ud83c\udf55"
+      ],
+      "options": [
+        "Common Application (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had to write a separate essay for each college we applied to! \ud83d\ude31",
+        "Thankfully, the Common Application has got you covered! You can write one personal statement and use it for all your college applications. \ud83d\ude01"
+      ],
+      "options": [
+        "Common Application (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could apply to colleges using a secret handshake? \ud83e\udd1d",
+        "That would be pretty cool! But the Common Application makes it easy too - just complete your profile, add your schools, and submit! \ud83d\ude09"
+      ],
+      "options": [
+        "Common Application (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Applying to college is like trying to decode a secret message! \ud83e\udd14",
+        "True, but the Coalition Application makes it easier! It's like having a decoder ring to unlock the secrets of college applications. \ud83d\ude04"
+      ],
+      "options": [
+        "Coalition Application (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If only there was a way to apply to college while getting some extra support along the way... \ud83d\ude4f",
+        "Good news! The Coalition Application offers tools and resources to help you navigate the process and make your application shine. \u2728"
+      ],
+      "options": [
+        "Coalition Application (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if applying to college was like assembling a team of superheroes? \ud83e\uddb8\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Coalition Application (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If writing a college essay was like making a movie, what would be your genre? \ud83c\udfac",
+        "Good question! I'd go for a heartfelt drama that tells my unique story and captivates the admissions officers. \ud83d\ude0a"
+      ],
+      "options": [
+        "College Essay (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we could submit a dance routine as our college essay! \ud83d\udc83",
+        "Haha, that would be fun! But in our essays, we can still express ourselves creatively and show off our best moves... I mean, talents! \ud83c\udf1f"
+      ],
+      "options": [
+        "College Essay (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Writing a college essay is like trying to paint a masterpiece with words! \ud83d\udd8c\ufe0f",
+        "Exactly! It's our chance to create a vivid picture of who we are and leave a lasting impression on the admissions team. \ud83c\udfa8"
+      ],
+      "options": [
+        "College Essay (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If letters of recommendation were like movie trailers, who would be the star in yours? \ud83c\udf1f",
+        "I'd want my favorite teacher to have a leading role, showcasing my academic achievements and personal growth! \ud83c\udf93"
+      ],
+      "options": [
+        "Letters of Recommendation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could get superheroes to write our letters of recommendation? \ud83e\uddb8",
+        "Haha, that'd be cool! But having a trusted mentor, coach, or teacher vouch for you is just as powerful. \ud83d\ude09"
+      ],
+      "options": [
+        "Letters of Recommendation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if our letters of recommendation were written in emojis! \ud83d\ude02",
+        "That would be interesting! But a well-written letter from someone who knows us well can really help our application stand out. \ud83d\udcdd"
+      ],
+      "options": [
+        "Letters of Recommendation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if the SAT/ACT was like a game show, and we could win fabulous prizes? \ud83c\udf81",
+        "That'd be awesome! But hey, doing well on these tests can still help us unlock the doors to our dream colleges. \ud83d\udeaa"
+      ],
+      "options": [
+        "Standardized Tests (SAT/ACT) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If the SAT/ACT were a superhero, what would its superpower be? \ud83e\uddb8",
+        "Hmmm, maybe the ability to predict our college readiness with just a few hours of testing! \ud83d\ude04"
+      ],
+      "options": [
+        "Standardized Tests (SAT/ACT) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if the SAT/ACT was like a scavenger hunt, searching for hidden clues and solving puzzles! \ud83d\udd0d",
+        "Well, they do test our problem-solving and critical thinking skills, so it's kind of like an intellectual treasure hunt! \ud83e\udde0"
+      ],
+      "options": [
+        "Standardized Tests (SAT/ACT) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If extracurricular activities were like a buffet, what would you fill your plate with? \ud83c\udf7d\ufe0f",
+        "I'd go for a mix of volunteering, sports, and clubs to showcase my diverse interests and skills! \ud83d\ude0b"
+      ],
+      "options": [
+        "Extracurricular Activities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could create our own extracurricular activity? Any wild ideas? \ud83e\udd2a",
+        "How about an underwater basket weaving club? It's unique, fun, and shows off our creative side! \ud83c\udf0a"
+      ],
+      "options": [
+        "Extracurricular Activities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if our extracurricular activities were like a fashion show, strutting our stuff on the college application runway! \ud83d\udc83",
+        "You're right! Our activities help us stand out and prove that we're more than just our test scores and grades. \ud83d\udd7a"
+      ],
+      "options": [
+        "Extracurricular Activities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If our high school transcript was a music album, what would be the hit single? \ud83c\udfb5",
+        "I'd say \"Straight A's and AP's\"! It showcases my academic achievements and dedication to learning. \ud83c\udfa7"
+      ],
+      "options": [
+        "High School Transcript (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if our transcripts were like treasure maps, guiding us through our high school journey? \ud83c\udff4\u200d\u2620\ufe0f",
+        "That's a cool way to think about it! They trace our academic path and help us chart the course for our future! \ud83c\udf1f"
+      ],
+      "options": [
+        "High School Transcript (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if our high school transcripts were written in emojis! \ud83d\ude1c",
+        "Haha, that would be interesting! But luckily, our transcripts provide a clear and concise record of our academic performance. \ud83d\udcda"
+      ],
+      "options": [
+        "High School Transcript (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If our GPA was a weather forecast, what would yours be? \ud83c\udf26\ufe0f",
+        "I'd say mostly sunny with occasional clouds \u2013 I've had some great semesters and a few bumps along the way. \u2600\ufe0f"
+      ],
+      "options": [
+        "Grade Point Average (GPA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if our GPA was like a video game score? How high would you rank? \ud83d\udd79\ufe0f",
+        "I've leveled up over the years and earned some bonus points for challenging courses! \ud83c\udfae"
+      ],
+      "options": [
+        "Grade Point Average (GPA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if our GPA was a superhero \u2013 what would its arch-nemesis be? \ud83e\uddb9\u200d\u2642\ufe0f",
+        "Procrastination! It's always trying to sneak up and sabotage my academic success. \ud83d\ude05"
+      ],
+      "options": [
+        "Grade Point Average (GPA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If class rank was like a race, what kind of marathon runner would you be? \ud83c\udfc3\u200d\u2642\ufe0f",
+        "I'd be a steady-paced runner, always aiming for personal bests and not just focused on beating others. \ud83c\udfc5"
+      ],
+      "options": [
+        "Class Rank (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if class rank was like a reality TV show, with eliminations and surprise twists? \ud83d\udcfa",
+        "Haha, that would be intense! But in reality, it's just one of many factors colleges consider when evaluating our applications. \ud83d\ude04"
+      ],
+      "options": [
+        "Class Rank (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if our class rank was determined by a talent show instead of academics! \ud83c\udfa4",
+        "That would be fun, but our class rank still helps showcase our dedication and hard work in the classroom. \ud83d\udcdd"
+      ],
+      "options": [
+        "Class Rank (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If financial aid was like a superhero, what would its superpower be? \ud83d\udcaa",
+        "The ability to make college dreams come true by easing the financial burden for students! \ud83e\uddb8\u200d\u2640\ufe0f"
+      ],
+      "options": [
+        "Financial Aid (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if financial aid was a board game, with players competing for scholarships and grants? \ud83c\udfb2",
+        "That would be interesting! But in reality, it's all about finding the right resources and opportunities to fund our education. \ud83d\udcda"
+      ],
+      "options": [
+        "Financial Aid (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if financial aid was like a magical fairy, granting wishes to help pay for college! \u2728",
+        "While it might not be quite that whimsical, financial aid can definitely work wonders in making college more affordable! \ud83d\ude04"
+      ],
+      "options": [
+        "Financial Aid (correct answer)"
+      ]
+    }
+  ]
+}

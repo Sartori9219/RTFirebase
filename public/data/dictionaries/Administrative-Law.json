@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Administrative Agencies",
+        "Rulemaking",
+        "Adjudication",
+        "Judicial Review",
+        "Delegation of Authority",
+        "Administrative Procedures Act (APA)",
+        "Notice and Comment Procedure",
+        "Executive Orders",
+        "Regulatory Enforcement",
+        "Licensing",
+        "Freedom of Information Act (FOIA)",
+        "Privacy Act",
+        "Federal Advisory Committee Act (FACA)",
+        "Government Accountability Office (GAO)",
+        "Office of Management and Budget (OMB)"
+    ],
+    "hints": {
+        "Administrative Agencies": "Government bodies responsible for implementing and enforcing laws, regulations, and policies.",
+        "Rulemaking": "The process by which administrative agencies create and establish new regulations.",
+        "Adjudication": "The process by which administrative agencies resolve disputes or make decisions in specific cases.",
+        "Judicial Review": "The authority of courts to review the actions and decisions of administrative agencies for compliance with the law.",
+        "Delegation of Authority": "The transfer of power or responsibility from a higher level of government to a lower-level agency.",
+        "Administrative Procedures Act (APA)": "A federal law that governs the procedures and practices of administrative agencies.",
+        "Notice and Comment Procedure": "A process required by the APA, allowing the public to provide input on proposed regulations before they are finalized.",
+        "Executive Orders": "Directives issued by the President or a governor that have the force of law and can affect the operations of administrative agencies.",
+        "Regulatory Enforcement": "The actions taken by administrative agencies to ensure compliance with laws and regulations.",
+        "Licensing": "The process by which administrative agencies grant permission to individuals or businesses to engage in certain activities.",
+        "Freedom of Information Act (FOIA)": "A federal law that grants the public access to records held by administrative agencies.",
+        "Privacy Act": "A federal law that protects the privacy of individuals by regulating the collection, use, and disclosure of personal information by administrative agencies.",
+        "Federal Advisory Committee Act (FACA)": "A federal law that governs the establishment and operation of advisory committees within the executive branch.",
+        "Government Accountability Office (GAO)": "An independent agency that provides oversight and evaluation of the operations of administrative agencies.",
+        "Office of Management and Budget (OMB)": "A federal agency responsible for assisting the President in the preparation and management of the federal budget, as well as overseeing the performance of administrative agencies."
+    }
+}

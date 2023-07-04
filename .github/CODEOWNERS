@@ -1,0 +1,16 @@
+# File to restrict those who can approve prs
+
+# global
+* @jmkingsf @richkingsford
+
+## Assign code ownership to an individual or team for a specific path or file
+# /path/to/file @username
+
+# Assign code ownership to multiple individuals or teams for a specific path or file
+# /path/to/another/file @username1 @username2 @teamname
+
+## Assign code ownership to an individual or team for a file extension
+# *.txt @username3
+
+## Assign code ownership to an individual or team for a whole directory and its contents
+# /docs/ @teamname2

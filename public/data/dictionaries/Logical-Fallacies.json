@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Ad Hominem",
+        "Straw Man",
+        "Appeal to Authority",
+        "Slippery Slope",
+        "Circular Argument",
+        "Hasty Generalization",
+        "Red Herring",
+        "False Dichotomy",
+        "Post Hoc Ergo Propter Hoc",
+        "Appeal to Ignorance",
+        "Bandwagon Fallacy",
+        "Begging the Question",
+        "False Cause",
+        "Tu Quoque",
+        "No True Scotsman"
+    ],
+    "hints": {
+        "Ad Hominem": "This fallacy occurs when someone attacks the person making the argument, rather than the argument itself. It's like saying, You can't trust John's opinion on the environment; he's a businessman.",
+        "Straw Man": "This fallacy involves misrepresenting an opponent's argument to make it easier to attack. It's as if someone built a 'straw man' that's easy to knock down.",
+        "Appeal to Authority": "This fallacy occurs when someone claims their argument is correct because an authority or expert on the issue said it was. It's like saying, Einstein believed in God, therefore God must exist.",
+        "Slippery Slope": "This fallacy asserts that a relatively small first step leads inevitably to a chain of related events culminating in some significant impact/event. For example, If we allow students to redo tests, they'll want to redo homework, quizzes, and eventually no one will study.",
+        "Circular Argument": "This fallacy happens when someone uses what they are trying to prove as part of the proof of that thing. It's like saying, I know ghosts are real because I've had experiences with real ghosts.",
+        "Hasty Generalization": "This fallacy is making assumptions about a whole group based on an inadequate sample. For example, I met a rude person from New York, so all New Yorkers must be rude.",
+        "Red Herring": "This fallacy is a diversionary tactic that avoids the key issues, often by avoiding opposing arguments rather than addressing them. For instance, The level of mercury in seafood may be unsafe, but what will fishermen do to support their families?",
+        "False Dichotomy": "This fallacy happens when someone presents only two options or sides when there are many more options available. For instance, You're either with us, or you're against us.",
+        "Post Hoc Ergo Propter Hoc": "This fallacy is assuming that because B comes after A, A caused B. For example, I started doing better in school after I started wearing a red sweater. So, the red sweater improved my grades.",
+        "Appeal to Ignorance": "This fallacy asserts that a proposition is true because it has not yet been proven false or a proposition is false because it has not yet been proven true. For instance, No one can actually prove that the Loch Ness monster doesn't exist, so it must exist.",
+        "Bandwagon Fallacy": "This fallacy is the belief that an argument is valid because a majority of people accept it. For instance, Many people bought this album, so it must be good.",
+        "Begging the Question": "This fallacy happens when the conclusion of an argument is used as a premise of that same argument. For example, I think he is unattractive because he is ugly.",
+        "False Cause": "This fallacy is assuming that a real or perceived relationship between things means that one is the cause of the other. For instance, I saw a black cat run across the street and later I tripped and fell, so the black cat crossing my path caused my fall.",
+        "Tu Quoque": "This fallacy occurs when someone argues that an action is acceptable because their opponent has performed it as well. It's like saying, You're also guilty of lying, so it's okay for me to lie.",
+        "No True Scotsman": "This fallacy is an attempt to protect a universal generalization from counterexamples by changing the definition in an ad hoc fashion to exclude the counterexample. For example, No Scotsman puts sugar on his porridge. Oh, Angus does? Well, no true Scotsman puts sugar on his porridge."
+    }
+}

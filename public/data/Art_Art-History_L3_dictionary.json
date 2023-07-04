@@ -1,0 +1,390 @@
+{
+  "questions": [
+    {
+      "question": [
+        "If I was a Renaissance artist, I'd be 'Leonardo da Vinci-saur' and paint dramatic, prehistoric masterpieces!",
+        "And if I was an Impressionist, I'd be 'Claude Monet-moose', creating blurs of wildlife in natural settings!"
+      ],
+      "options": [
+        "Art Movements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My artistic style varies depending on my breakfast. This morning's cereal led to Pop art, last week's toast - Expressionism.",
+        "Please, never eat abstract art for breakfast!"
+      ],
+      "options": [
+        "Art Movements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried painting with my toes today. They say it's a new technique called 'Extremity Expressionism'.",
+        "Really? I've been doing that for ages with my ears, they call it 'Aural Abstraction'!"
+      ],
+      "options": [
+        "Styles and Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I painted using ketchup and mustard today. They're calling my style 'Condiment Cubism'.",
+        "Cool! I've been working on 'Spaghetti Surrealism'. Pasta is surprisingly expressive."
+      ],
+      "options": [
+        "Styles and Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ever tried painting underwater? It's all the rage now. They call it 'Submarine Impressionism'.",
+        "Sounds intriguing, but I'm more into 'Astronautic Abstract', painting in zero gravity!"
+      ],
+      "options": [
+        "Styles and Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? I painted a turtle carrying an hourglass today. They're calling it 'Turtle-Time-Imagery'.",
+        "Wow, that's an unusual symbol! I drew a cactus playing a violin. I'm calling it 'Prickly-Melody-Imagery'."
+      ],
+      "options": [
+        "Iconography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I used three bananas to symbolize the Holy Trinity in my latest painting. I call it 'Fruity Trinity'.",
+        "Oh! I tried something similar. I used three avocados in mine and called it 'Guacamole Gospel'."
+      ],
+      "options": [
+        "Iconography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I painted a shark wearing a crown to represent power and danger. They're calling it 'Regal-Risk-Imagery'.",
+        "That's really creative! I painted a butterfly lifting weights, symbolizing strength in delicacy. I call it 'Strong-Flutter-Imagery'."
+      ],
+      "options": [
+        "Iconography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I used a bunch of clashing colors to represent the chaos of my last family reunion.",
+        "That's a vivid way to describe it! In my painting, I used a lone bluebird against a grey background to signify my isolation during quarantine."
+      ],
+      "options": [
+        "Symbolism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In my sculpture, I put a giant teddy bear next to a tiny Godzilla toy to symbolize how harmless fears can look huge to us.",
+        "And I used a small turtle standing on a tall stack of books to symbolize slow and steady progress in learning."
+      ],
+      "options": [
+        "Symbolism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I painted a scene where it's raining marshmallows to symbolize unexpected sweetness in life.",
+        "That's fun! I drew a cactus blooming in the desert to show that beauty can thrive in harsh conditions."
+      ],
+      "options": [
+        "Symbolism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I painted my brother eating breakfast cereal in his PJs. Every little detail, even the spilled milk!",
+        "Wow, that's as real as it gets. In my drawing, I captured a guy waiting at the bus stop, right down to his mismatched socks."
+      ],
+      "options": [
+        "Realism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "For my project, I sculpted a couple sitting on a park bench. Even managed to include the squirrel stealing their sandwich!",
+        "That's amazing! I made a clay model of my grandma knitting, with all the yarn and needles."
+      ],
+      "options": [
+        "Realism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I took a photograph of a worker in a local bakery at 4 a.m. No filters, no staging. Just the raw, early morning shift.",
+        "That's pure! I snapped a picture of my neighborhood street during a rainstorm. All the puddles and umbrellas and everything."
+      ],
+      "options": [
+        "Realism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I drew my cat sitting at the end of a long hallway. I had to make her smaller and the hallway lines converge to create depth.",
+        "Cool, just like in Mario Kart when the track seems to shrink in the distance!"
+      ],
+      "options": [
+        "Perspective (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I painted a landscape with a mountain in the background. It was tricky making the mountain look farther away.",
+        "Yeah, I remember doing something similar with my cityscape painting. Those skyscrapers were a challenge."
+      ],
+      "options": [
+        "Perspective (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried arranging a fruit bowl, a wine bottle, and a loaf of bread for my still life painting but it just looks... cluttered.",
+        "Maybe consider the rule of thirds? Might make your bread loaf the star of the show, not just a sidekick to the fruit."
+      ],
+      "options": [
+        "Composition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, I have this photograph of a busy city intersection. But it's just chaos!",
+        "Sounds like a job for leading lines! Find some roads or buildings that guide the viewer's eye through the chaos."
+      ],
+      "options": [
+        "Composition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In my painting, I put a big red apple in the middle, but now everything else seems unimportant.",
+        "Well, remember balance! Add something of similar weight to the other side. Maybe a group of smaller, different colored apples?"
+      ],
+      "options": [
+        "Composition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been painting landscapes, but they're all starting to look the same.",
+        "Ever tried looking at Japanese ukiyo-e prints? Maybe you'll get some new ideas for compositions and color palettes."
+      ],
+      "options": [
+        "Cultural Influence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love Picasso's work, but it's hard to see where he got his ideas from.",
+        "Have you checked out African art? Picasso was hugely influenced by African masks when he created Cubism."
+      ],
+      "options": [
+        "Cultural Influence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't seem to escape the influence of Disney in my character design.",
+        "Ever considered studying traditional Indian or Persian miniature paintings? They've got some unique character designs that might inspire you."
+      ],
+      "options": [
+        "Cultural Influence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does this painting just look like a splatter of paint?",
+        "That's because it's an abstract expressionist work, mate. It's not about what you see but what you feel. Welcome to the wonders of modernism!"
+      ],
+      "options": [
+        "Modernism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Look at this sculpture, it's all blocky and geometric. It doesn't look like anything!",
+        "Ah, but it does! You're looking at a modernist sculpture, they loved breaking things down to their basic shapes."
+      ],
+      "options": [
+        "Modernism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This piece of music is so strange... it doesn't follow any of the traditional rules.",
+        "Oh, that's because it's a piece from the modernist era! They loved to shake things up and experiment with new forms and structures."
+      ],
+      "options": [
+        "Modernism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does this painting look like it was done by a five-year-old playing with watercolors?",
+        "Haha, it may look that way, but it's actually a classic Impressionist piece. They used short, thick strokes of paint to capture the essence of a scene rather than its details!"
+      ],
+      "options": [
+        "Impressionism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This painting looks like it's out of focus. What's up with that?",
+        "Well, you're not wrong! That's the beauty of Impressionism. They focused on the overall impression rather than precise detail."
+      ],
+      "options": [
+        "Impressionism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Is it just me, or do these paintings look like they've been painted really quickly?",
+        "Not just you! Impressionist artists often worked quickly to capture the fleeting effects of light and color."
+      ],
+      "options": [
+        "Impressionism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This painting looks like a bad dream I had once.",
+        "That's Expressionism for you! It's all about showing the emotional experience, not reality."
+      ],
+      "options": [
+        "Expressionism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does this painting look like it's screaming at me?",
+        "You're feeling the artist's emotions! That's the hallmark of Expressionism. It's all about the artist's subjective feelings."
+      ],
+      "options": [
+        "Expressionism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't decide if this painting is terrifying or exciting.",
+        "Why not both? That's Expressionism. They aim to stir up strong emotional reactions."
+      ],
+      "options": [
+        "Expressionism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This painting feels like I've stepped into an alternate reality, where the sky is beneath my feet and fish fly around like birds.",
+        "Welcome to the world of Surrealism, where dreams and reality blur into one."
+      ],
+      "options": [
+        "Surrealism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does this painting have a clock melting over a tree?",
+        "That's Surrealism! It loves to mess with your perception of reality and time."
+      ],
+      "options": [
+        "Surrealism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I didn't know lobsters could be telephones. This is bizarre!",
+        "That's Surrealism for you! They take the ordinary and twist it into something mind-bending."
+      ],
+      "options": [
+        "Surrealism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This painting looks like someone threw paint at the canvas while riding a rollercoaster.",
+        "Ah, you must be describing Abstract Art! The crazier and less recognizable, the better."
+      ],
+      "options": [
+        "Abstract Art (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This artwork looks like a maze of squiggly lines and blobs. I don't see anything!",
+        "That's the beauty of Abstract Art! It's not about what you see, but what you feel."
+      ],
+      "options": [
+        "Abstract Art (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This painting feels like a chaotic blend of colors and shapes that don't make any sense.",
+        "Welcome to the world of Abstract Art, where sense is optional and emotion is everything."
+      ],
+      "options": [
+        "Abstract Art (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, this painting has a soup can in it. Soup isn't art!",
+        "In Pop Art, anything can be art - even your lunch!"
+      ],
+      "options": [
+        "Pop Art (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's Pop Art for you - elevating everyday images to high art!"
+      ],
+      "options": [
+        "Pop Art (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I never thought I'd see a sculpture of a giant inflatable dog in a museum.",
+        "That's Pop Art, my friend! It makes the ordinary extraordinarily interesting."
+      ],
+      "options": [
+        "Pop Art (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are there so many images of women in this art exhibition? Is it a 'ladies night' special?",
+        "No, it's Feminist Art. It's all about highlighting women's experiences and challenging the status quo!"
+      ],
+      "options": [
+        "Feminist Art (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This sculpture seems to be challenging traditional gender roles. It's kind of bold and powerful.",
+        "That's exactly what Feminist Art aims to do - challenge, provoke, and rethink!"
+      ],
+      "options": [
+        "Feminist Art (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I see a lot of artwork centered around themes of equality, body, and identity here.",
+        "Sounds like we're in the realm of Feminist Art! It often addresses these important issues."
+      ],
+      "options": [
+        "Feminist Art (correct answer)"
+      ]
+    }
+  ]
+}

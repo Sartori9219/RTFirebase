@@ -1,0 +1,31 @@
+[
+  {
+    "Project objective": "The Time Traveling Bioinformatician: Predicting the Past and Future of Life!",
+    "Steps": [
+      "Download a sample DNA sequence of your chosen organism from the GenBank database.",
+      "Use Clustal Omega (or any other sequence alignment tool) to align your chosen sequence with similar sequences from other organisms.",
+      "Using Phylip (or any other phylogenetics tool), create a phylogenetic tree to visualize the evolutionary history of your sequence.",
+      "Identify the gene in your sequence that codes for your chosen protein using a gene prediction tool. Remember, genes are like words made of DNA letters, and you're looking for a specific word.",
+      "Predict the structure of your protein using a tool like Phyre2. This is like predicting the shape of a machine based on its blueprints.",
+      "Research how your protein interacts with other proteins within the organism. This will give you an idea of how important your protein is for the organism's survival.",
+      "Based on your phylogenetic tree, speculate how the protein might have looked like in the organism's ancient ancestors. Also, make an educated guess on how the protein might evolve in the future.",
+      "Create a PowerPoint presentation of your findings, complete with visuals of the phylogenetic tree, the predicted protein structure, and your speculative past and future proteins.",
+      "Practice your presentation to ensure a smooth delivery. Remember, not everyone is familiar with bioinformatics, so make sure to explain your terms!",
+      "Present your findings to your friends or family, framing it as a time-traveling symposium. Enjoy their reactions when they realize the power of bioinformatics!"
+    ]
+  },
+  {
+    "Project objective": "Alien Genes: Deciphering Extraterrestrial Life",
+    "Steps": [
+      "You receive a hypothetical DNA sequence of the alien life form. Your task starts with this piece of extraterrestrial mystery.",
+      "Use BLAST to compare your alien genes with the genes of organisms on Earth. Maybe these Martian life forms have something in common with us?",
+      "Compile your findings into a small database. Congratulations, you've just made the first Martian genomic database!",
+      "Analyze the gene expression patterns of the alien genes using a virtual RNA-seq dataset from the Martian organism, using the GEO database as a model.",
+      "Get a basic understanding of machine learning principles from free resources online, such as Khan Academy or Coursera.",
+      "Use a simple machine learning tool (like Orange) to predict which alien genes might be expressed under different hypothetical Martian conditions, based on your earlier transcriptomics analysis.",
+      "Validate your machine learning model's predictions. Check if the predicted gene expressions match with the provided transcriptomic data.",
+      "Compile your findings, predictions, and conclusions into a PowerPoint presentation. Add visuals, graphics, and alien-themed animations for a fun twist.",
+      "Present your findings to your classmates or family, pretending to be at an international conference on extraterrestrial life. Answer their questions and enjoy their amazed reactions at your cutting-edge Martian biology research."
+    ]
+  }
+]

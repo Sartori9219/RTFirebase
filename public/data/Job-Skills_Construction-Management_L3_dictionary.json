@@ -1,0 +1,383 @@
+{
+  "questions": [
+    {
+      "question": [
+        "So, if I wear my superhero cape, would that count as personal protective equipment on a construction site?",
+        "Haha, well, while that might make you feel invincible, it won't protect you from falling debris or other hazards. On a construction site, you'll need things like hard hats, safety goggles, and steel-toed boots!"
+      ],
+      "options": [
+        "Construction Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use my psychic powers to identify hazards on a construction site?",
+        "That would be cool, but in the real world, we use our training and awareness. Being able to recognize potential safety hazards, like unsecured tools or improperly stored materials, is a key part of construction safety."
+      ],
+      "options": [
+        "Construction Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I see a buddy not wearing his safety gear, can I just yell \"Fashion police!\"?",
+        "That might give him a laugh, but seriously, it's important to remind your co-workers about safety gear in a respectful way. Their safety might depend on it!"
+      ],
+      "options": [
+        "Construction Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I can read a treasure map, does that mean I'm good at reading blueprints?",
+        "Well, it's a start! Both require interpretation skills. But blueprints have specific symbols and scales representing architectural or engineering designs. No \"X marks the spot\" in these, I'm afraid!"
+      ],
+      "options": [
+        "Blueprint Reading (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are blueprints still blue? Can they be pink or rainbow-colored?",
+        "Traditionally, they were blue due to the printing process. Now, they can be any color, but usually, they're black and white for clarity. But hey, who knows? Maybe you'll revolutionize the industry with rainbow blueprints!"
+      ],
+      "options": [
+        "Blueprint Reading (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can read my sibling's messy handwriting, can I read blueprints?",
+        "Haha, well, deciphering messy handwriting might be harder! Blueprints use standardized symbols and lines. So once you learn them, you're set - no guessing involved!"
+      ],
+      "options": [
+        "Blueprint Reading (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I plan a surprise party for my friend, does that count as project planning?",
+        "In a way, yes! You'd need to consider resources, timelines, and potential issues, just like in construction project planning. Just remember, a construction project usually requires a bit more heavy lifting!"
+      ],
+      "options": [
+        "Project Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use my magic 8-ball to plan my construction project?",
+        "While that might make decisions easier, real project planning involves careful consideration of resources, timelines, and goals. But hey, maybe ask your 8-ball if you'll ace this course?"
+      ],
+      "options": [
+        "Project Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I plan my video game strategy, is that like project planning?",
+        "It shows you have strategic thinking skills! But construction project planning also involves budgeting, scheduling, and coordinating with a team. So, less zombies, more spreadsheets."
+      ],
+      "options": [
+        "Project Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I estimate the amount of pizza I can eat, does that count as cost estimation?",
+        "Well, you're on the right track with estimating quantities, but construction cost estimation involves calculating materials, labor, equipment, and contingency costs. So, a few more variables than just pepperoni and cheese!"
+      ],
+      "options": [
+        "Cost Estimation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, cost estimation... is that like guessing how many jellybeans are in the jar?",
+        "It's a bit more complicated than that! Cost estimation involves detailed calculations based on specific plans and current market prices. But hey, if you can guess the jellybeans, you're good at estimating quantities!"
+      ],
+      "options": [
+        "Cost Estimation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I use my magic wand to estimate construction costs?",
+        "I wish it were that easy! Unfortunately, it involves a lot of numbers and understanding of construction processes. But hey, you could use that wand to make the calculations go faster!"
+      ],
+      "options": [
+        "Cost Estimation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I can identify all the flavors of my favorite ice cream, does that mean I can identify construction materials?",
+        "Well, it shows you have good observational skills, but construction materials involve things like concrete, steel, and wood. Not quite as tasty, but just as important to know!"
+      ],
+      "options": [
+        "Construction Materials (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use spaghetti as construction material for my building?",
+        "Haha, as delicious as that sounds, spaghetti might not hold up too well. Construction materials need to be durable, strong, and suitable for the purpose. So, let's stick to concrete and steel, not pasta!"
+      ],
+      "options": [
+        "Construction Materials (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I use LEGO blocks to build a model house, does that count as using construction materials?",
+        "It's a great way to understand basic construction concepts! But real construction materials are a bit tougher and larger. Plus, stepping on a stray piece of concrete isn't as painful as a rogue LEGO block!"
+      ],
+      "options": [
+        "Construction Materials (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I can build a sandwich, does that mean I know construction methods?",
+        "Well, building a sandwich does involve layers and assembly, much like construction! But construction methods also involve things like framing, pouring concrete, and installing wiring. A bit more complex than your lunch!"
+      ],
+      "options": [
+        "Construction Methods (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use my video game building skills for real construction?",
+        "Video game building can help you understand basics, but real construction involves physical labor, safety measures, and precise techniques. Unfortunately, there's no \"undo\" button in real life!"
+      ],
+      "options": [
+        "Construction Methods (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I assemble a piece of flat-pack furniture, does that count as knowing construction methods?",
+        "It's a good start to understanding assembly and following instructions! But construction methods also require knowledge of different materials, tools, and techniques. Plus, there's usually more at stake than a wobbly table!"
+      ],
+      "options": [
+        "Construction Methods (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I taste-test my cookies to make sure they're good, is that like quality control?",
+        "In a way, yes! You're checking for quality and consistency. In construction, quality control might involve checking materials, inspecting workmanship, and testing systems. And while it's less delicious, it's just as important!"
+      ],
+      "options": [
+        "Quality Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use my superhero x-ray vision for quality control in construction?",
+        "That would be handy! But in the real world, quality control often involves physical inspections, tests, and detailed checklists. No superpowers required, just a keen eye and knowledge of standards!"
+      ],
+      "options": [
+        "Quality Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I ensure all my selfies are perfect before posting, is that like quality control?",
+        "Well, you're checking for flaws and making sure the end product meets your standards, so that's a start! But in construction, quality control is more about safety and durability than finding your best angle."
+      ],
+      "options": [
+        "Quality Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I decide to not eat a week-old pizza slice, is that risk management?",
+        "Absolutely, you're identifying a potential risk (food poisoning) and making a decision to avoid it! In construction, risk management might involve identifying potential safety hazards or project delays and finding ways to prevent or mitigate them."
+      ],
+      "options": [
+        "Risk Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use my crystal ball to manage risks in construction?",
+        "If only it were that easy! Risk management in construction involves a lot of planning, analysis, and decision-making based on knowledge and experience, not magic. But hey, you could always use your crystal ball to predict the next big construction trend!"
+      ],
+      "options": [
+        "Risk Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I choose not to challenge the school bully, is that risk management?",
+        "In a sense, yes! You're evaluating a potential risk and deciding on the best course of action. In construction, this could mean assessing the risk of using a certain material or technique and deciding whether it's worth it."
+      ],
+      "options": [
+        "Risk Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I follow the school dress code, does that mean I understand building codes and regulations?",
+        "It's a start! You're following rules designed for a specific environment. Building codes are similar - they set standards for construction to ensure safety and functionality. Just remember, a hard hat is more crucial than a hat backwards!"
+      ],
+      "options": [
+        "Building Codes and Regulations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just create my own building codes, like \"all buildings must have a slide\"?",
+        "That sounds fun, but building codes are designed to ensure safety and accessibility. So, while slides might be cool, they need to be safe and practical too!"
+      ],
+      "options": [
+        "Building Codes and Regulations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I memorize the rules of my favorite board game, is that like knowing building codes?",
+        "It shows you can understand and follow complex rules! But building codes are about safety and consistency in construction. So, less about getting to \"Go\" and collecting $200, and more about ensuring a building won't \"Go\" anywhere unexpected!"
+      ],
+      "options": [
+        "Building Codes and Regulations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I keep my room clean, does that mean I'm good at site management?",
+        "That's a great start! Site management involves maintaining order and safety, just like keeping your room tidy. But remember, a construction site has a few more hazards than stray socks and homework!"
+      ],
+      "options": [
+        "Site Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use my gaming strategy for managing a construction site?",
+        "It's good to have strategic skills! But site management also involves coordinating workers, equipment, materials, and ensuring safety. So, a little more complex than saving the princess or winning the race!"
+      ],
+      "options": [
+        "Site Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use my time-turner to manage construction schedules?",
+        "If only we had that kind of magic! Construction scheduling requires careful planning, coordination, and problem-solving. But hey, a time-turner would make hitting deadlines a breeze!"
+      ],
+      "options": [
+        "Scheduling and Timeline Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I manage to watch all my favorite TV shows and still get good grades, is that timeline management?",
+        "It shows you're good at balancing different tasks! In construction, timeline management involves scheduling tasks to ensure the project finishes on time. So, less binge"
+      ],
+      "options": [
+        "Contractor/Subcontractor Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I can make my little brother do my chores, does that mean I'm good at subcontractor management?",
+        "Haha, well, you're demonstrating delegation, which is part of managing contractors and subcontractors! Just remember, in construction, it involves more than chores, it's about coordinating skills, tasks, and timelines."
+      ],
+      "options": [
+        "Contractor/Subcontractor Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You're definitely showing awareness of the environment! In construction, sustainability might involve using eco-friendly materials or methods that reduce waste and energy use. Just like recycling, it's",
+        "So, if I can text my friends without even looking at the screen, am I a master of communication in construction?"
+      ],
+      "options": [
+        "Communication in Construction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You're a whiz at texting, no doubt! But communication in construction involves clear, concise messages, often about safety or technical details. Plus, a misunderstood emoji is less risky than a misunderstood blueprint!"
+      ],
+      "options": [
+        "Communication in Construction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use smoke signals to communicate on a construction site?",
+        "Smoke signals might be a bit outdated! Today, communication in construction often involves meetings, emails, and even specialized software. And while it might not be as dramatic, it's usually more efficient!"
+      ],
+      "options": [
+        "Communication in Construction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can explain a complex video game strategy to my friend, does that mean I'm good at communication in construction?",
+        "Explaining complex strategies shows you can communicate detailed information! In construction, it's similar but could involve explaining safety procedures or construction plans. So less about game strategy, more about safety and efficiency!"
+      ],
+      "options": [
+        "Communication in Construction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Environmental Impact and Sustainability",
+        "So, if I turn off the lights when I leave a room, am I practicing sustainability in construction?",
+        "You're certainly practicing energy conservation, which is part of sustainability! In construction, it could mean designing buildings to use natural light or energy-efficient systems. But remember, sustainability also includes using resources responsibly, not just electricity."
+      ],
+      "options": [
+        "Environmental Impact and Sustainability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just plant a tree every time I build something to be sustainable?",
+        "That's a great start for offsetting carbon emissions, but sustainability in construction is broader. It involves using materials and methods that reduce environmental impact, like recycling waste or using renewable materials. But keep planting those trees!"
+      ],
+      "options": [
+        "Environmental Impact and Sustainability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I pick up litter at the park, does that mean I'm reducing environmental impact?",
+        "You're definitely helping the environment! In construction, reducing environmental impact might involve managing waste, preventing pollution, and protecting local ecosystems. So, while it's not the same as picking up litter, it's all about taking care of our planet."
+      ],
+      "options": [
+        "Environmental Impact and Sustainability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Try again on Contractor/Subcontractor Management",
+        "So, if I get my friends to help me with my science project, am I managing subcontractors?",
+        "In a way, yes! You're coordinating a team to achieve a goal, just like in construction. But remember, managing contractors and subcontractors also involves contracts, payment, and ensuring the job is done right."
+      ],
+      "options": [
+        "Contractor/Subcontractor Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use my charm to manage contractors and subcontractors?",
+        "Charm can certainly help in negotiations, but it's also about understanding the work, setting clear expectations, and ensuring everyone is treated fairly. So, keep the charm, but don't forget the other parts!"
+      ],
+      "options": [
+        "Contractor/Subcontractor Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can convince my siblings to do their chores, does that mean I'm good at contractor management?",
+        "Convincing others to complete tasks is a part of management! But managing contractors involves more, like defining the scope of work, overseeing progress, and resolving issues. So, a bit more complex than chore charts!"
+      ],
+      "options": [
+        "Contractor/Subcontractor Management (correct answer)"
+      ]
+    }
+  ]
+}

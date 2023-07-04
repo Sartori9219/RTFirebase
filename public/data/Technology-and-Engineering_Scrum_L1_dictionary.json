@@ -1,0 +1,355 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, I just tasted my homemade pickle juice soda. It's way too salty!",
+        "Why not try adding more sugar and tasting it again until you find the perfect balance?"
+      ],
+      "options": [
+        "Empirical Process Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried to teach my pet llama to moonwalk, but he keeps tripping over his own legs.",
+        "Maybe you should observe his moves, make small adjustments, and keep trying until he gets it right!"
+      ],
+      "options": [
+        "Empirical Process Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My DIY rocket-powered skateboard was a disaster on the first test. It went too fast!",
+        "Hmm, how about you adjust the fuel mixture, test it again, and keep tweaking until it's just right?"
+      ],
+      "options": [
+        "Empirical Process Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My ants figured out how to build a cookie crumb bridge all by themselves!",
+        "Wow, they must have had an ant-sized project manager or something!"
+      ],
+      "options": [
+        "Self-Organizing Teams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the giraffe and the squirrel who teamed up to win the tallest tree decorating contest?",
+        "Yeah, they worked together perfectly! The giraffe reached the high branches, while the squirrel handled the tiny ornaments."
+      ],
+      "options": [
+        "Collaboration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I set a timer to write a song about my cat in just 20 minutes!",
+        "Wow, I bet it's the purr-fect tune, and you finished it right meow!"
+      ],
+      "options": [
+        "Timeboxing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm knitting a sweater for my pet octopus, but I keep adding and removing arms.",
+        "Well, eventually, you'll get the perfect fit after a few more tries!"
+      ],
+      "options": [
+        "Iterative Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been practicing my ninja banana-peeling skills, and I get faster every day!",
+        "With enough practice, you'll become the ultimate fruit ninja!"
+      ],
+      "options": [
+        "Continuous Improvement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I only have time to play one video game, should I try 'Pirate Penguins' or 'Zombie Unicorns'?",
+        "Well, if you love swashbuckling adventures, then 'Pirate Penguins' should be your top choice!"
+      ],
+      "options": [
+        "Prioritization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I sent my pen pal one sentence of my alien abduction story every day.",
+        "They must be on the edge of their seat, waiting for each thrilling installment!"
+      ],
+      "options": [
+        "Incremental Delivery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My mom helped design the ultimate treehouse. She picked the color and the slide!",
+        "Having your number one treehouse user involved is a great idea!"
+      ],
+      "options": [
+        "User Involvement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The recipe called for strawberries, but I used pickles instead. I call it 'Pickleberry Surprise!'",
+        "You've got quite the flexible taste in dessert ingredients!"
+      ],
+      "options": [
+        "Flexibility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been practicing my yodeling for 10 minutes every day, instead of 5 hours on weekends!",
+        "That's a great way to keep your vocal cords healthy and your neighbors sane!"
+      ],
+      "options": [
+        "Sustainable Pace (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I paint a tiny bit of my mural every day, just a few brushstrokes.",
+        "Sounds like you're pacing yourself to create a real masterpiece!"
+      ],
+      "options": [
+        "Sustainable Pace (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I set aside 30 minutes each day to learn a new magic trick instead of cramming it all in one night.",
+        "Abracadabra! You're pacing your learning like a true wizard!"
+      ],
+      "options": [
+        "Sustainable Pace (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I dedicated an entire afternoon to perfecting my rubber duck juggling routine.",
+        "That's some laser-focused dedication to the art of duck juggling!"
+      ],
+      "options": [
+        "Focus (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I spent my study time solely on mastering llama language, no distractions!",
+        "With that kind of focus, you'll be fluent in 'llama-speak' in no time!"
+      ],
+      "options": [
+        "Focus (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I locked myself in my room for an hour to concentrate on crafting the ultimate paper airplane.",
+        "Your focus will have that plane soaring to record-breaking heights!"
+      ],
+      "options": [
+        "Focus (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I shared my secret cookie recipe with the entire class, no hidden ingredients!",
+        "Wow, that's some seriously transparent baking!"
+      ],
+      "options": [
+        "Transparency (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My science project has a clear container, so you can see how the slime is made!",
+        "That's a transparent way to showcase your ooey-gooey creation!"
+      ],
+      "options": [
+        "Transparency (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I told my friends exactly how I felt when they pranked me with the fake spider.",
+        "Being open and honest with your emotions is the best way to maintain transparency!"
+      ],
+      "options": [
+        "Transparency (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried a new recipe for spaghetti tacos, but they were too messy, so I switched to burritos!",
+        "Good call! You inspected the situation and adapted accordingly."
+      ],
+      "options": [
+        "Inspect and Adapt (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My homemade superhero cape didn't fly, so I added a jetpack!",
+        "Way to inspect your cape's performance and adapt your superhero style!"
+      ],
+      "options": [
+        "Inspect and Adapt (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My sandcastle kept getting washed away, so I built a moat to protect it.",
+        "Smart move! You inspected the problem and adapted your strategy!"
+      ],
+      "options": [
+        "Inspect and Adapt (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I won't consider my robot vacuum finished until it can also tell me jokes while cleaning.",
+        "Ah, so your definition of done includes humor and cleanliness!"
+      ],
+      "options": [
+        "Definition of Done (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My painting of a penguin riding a unicycle isn't done until it has a top hat and monocle.",
+        "That's a clear and fancy definition of done, my good sir!"
+      ],
+      "options": [
+        "Definition of Done (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My rock collection isn't complete until I have one from every continent!",
+        "Your definition of done has a touch of global flair. Rock on!"
+      ],
+      "options": [
+        "Definition of Done (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I complimented my friend's new hairstyle, even though it looks like a porcupine.",
+        "That's a respectful way to support your friend's hair-raising choices!"
+      ],
+      "options": [
+        "Respect (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I listened patiently while my little brother explained his plan to build a marshmallow castle.",
+        "You showed respect by giving him your full attention. Now, let's get building!"
+      ],
+      "options": [
+        "Respect (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I asked my neighbor if I could borrow their inflatable T-Rex costume instead of just taking it.",
+        "Respecting their property and asking for permission is dino-mite!"
+      ],
+      "options": [
+        "Respect (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I was terrified, but I finally tried the world's spiciest hot sauce at lunch today!",
+        "You showed some fiery courage, my friend. Pass the milk, please!"
+      ],
+      "options": [
+        "Courage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I got up in front of the whole school and sang a song about my love for broccoli.",
+        "That takes some serious veggie-loving courage! Bravo!"
+      ],
+      "options": [
+        "Courage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I conquered my fear and rode the rollercoaster shaped like a giant snake!",
+        "You displayed slithery courage in the face of a reptilian thrill ride!"
+      ],
+      "options": [
+        "Courage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I promised to walk my pet snail every day, even in the rain!",
+        "Now that's some serious commitment to your slimy little buddy!"
+      ],
+      "options": [
+        "Commitment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I vowed to learn every state capital, even the really hard-to-pronounce ones.",
+        "Your commitment to geographic knowledge is impressive and tongue-twisting!"
+      ],
+      "options": [
+        "Commitment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I pledged to try a new kind of pizza topping every week for a year!",
+        "You're truly committed to pizza diversity. May your taste buds never be bored!"
+      ],
+      "options": [
+        "Commitment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wore a neon yellow hat to the concert so my friends could spot me easily!",
+        "Your sense of style and visibility are truly unmissable!"
+      ],
+      "options": [
+        "Visibility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I made a giant poster to show everyone my plan for turning our school into a spaceship.",
+        "A visible plan for a space-tastic transformation, how out of this world!"
+      ],
+      "options": [
+        "Visibility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I put a flashing light on my backpack so I'd never get lost during nighttime hide-and-seek.",
+        "You've got the brightest idea for visibility during your stealthy games!"
+      ],
+      "options": [
+        "Visibility (correct answer)"
+      ]
+    }
+  ]
+}

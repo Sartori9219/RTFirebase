@@ -1,0 +1,382 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Dude, why are you walking like a crab?",
+        "I lost a bet, now I have to walk sideways for a week. Gives a whole new meaning to keeping an eye on my back, doesn't it?"
+      ],
+      "options": [
+        "Body Awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow, did you see that? I just caught the pen mid-air without looking!",
+        "That's some ninja-level body awareness right there. Or maybe you're just spending too much time with your pen."
+      ],
+      "options": [
+        "Body Awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've started doing yoga, and now I can finally touch my toes without bending my knees. It's crazy!",
+        "That's the magic of body awareness. Next thing you know, you'll be doing the splits!"
+      ],
+      "options": [
+        "Body Awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I forgot the steps to the Macarena at the party. So I just started doing the chicken dance.",
+        "Man, that's some serious improvisation. I'm sure the crowd loved it!"
+      ],
+      "options": [
+        "Improvisation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My guitar string snapped in the middle of the performance, so I just started beatboxing instead.",
+        "Whoa! Switching from rock to hip hop? That's improvisation at its finest!"
+      ],
+      "options": [
+        "Improvisation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I ran out of eggs while making pancakes. Used mashed bananas instead.",
+        "You just became a gourmet chef in my eyes. Improvisation for the win!"
+      ],
+      "options": [
+        "Improvisation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you spreading out all your yoga poses across the entire living room?",
+        "I'm trying to use the full space, give each pose its own area you know!"
+      ],
+      "options": [
+        "Space (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you keep circling around the room while on the phone?",
+        "I don't know. I feel like I think better when I occupy more space."
+      ],
+      "options": [
+        "Space (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your dance performance was amazing. But why did you have to twirl and leap all over the stage?",
+        "Well, I was told to utilize the entire space. Go big or go home, right?"
+      ],
+      "options": [
+        "Space (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you moving so slowly while folding laundry?",
+        "I'm practicing my slow-motion choreography! Time, my friend, is also a part of dance."
+      ],
+      "options": [
+        "Time (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I saw you speed up and then slow down while dancing. What was that all about?",
+        "That's me playing with the concept of time in dance. It's not all about the steps, but also about the rhythm and pace."
+      ],
+      "options": [
+        "Time (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you suddenly jogging in place while waiting for the microwave?",
+        "It's a new concept I'm trying: 'microwave minute' workout! Time is what you make of it!"
+      ],
+      "options": [
+        "Time (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you waving your arms around like that?",
+        "I'm not just flailing, I'm expressing energy through movement!"
+      ],
+      "options": [
+        "Energy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did you suddenly start leaping around the room?",
+        "I'm not just leaping, I'm releasing my stored kinetic energy through dance!"
+      ],
+      "options": [
+        "Energy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did you start dancing when your favorite song came on the radio?",
+        "This song fills me with so much energy, I can't help but dance!"
+      ],
+      "options": [
+        "Energy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you pulling such a strange face while you dance?",
+        "I'm not just making a face, I'm expressing my inner turmoil through dance!"
+      ],
+      "options": [
+        "Expression (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you always exaggerate your movements when you dance?",
+        "Because I'm expressing my inner passion and intensity!"
+      ],
+      "options": [
+        "Expression (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did you throw your shoe across the room while you were dancing?",
+        "I was expressing my disdain for societal norms through interpretive dance!"
+      ],
+      "options": [
+        "Expression (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did you just spin me around without any warning?",
+        "Oh, I'm practicing contact improvisation. You're supposed to react instinctively!"
+      ],
+      "options": [
+        "Contact Improvisation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you leaning against me while we dance?",
+        "I'm exploring the possibilities of contact improvisation. It's all about sharing weight and movement!"
+      ],
+      "options": [
+        "Contact Improvisation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did you roll across the floor when I touched your shoulder?",
+        "It's contact improvisation! I was following the momentum of your touch!"
+      ],
+      "options": [
+        "Contact Improvisation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you doing push-ups in the middle of a dance routine?",
+        "It's not push-ups, it's floor work! Contemporary dance isn't just about standing up and twirling around!"
+      ],
+      "options": [
+        "Floor Work (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you okay? You just rolled on the floor!",
+        "Haha, I'm perfectly fine. Just practicing some floor work for my next dance performance!"
+      ],
+      "options": [
+        "Floor Work (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did you just slide across the stage on your belly like a penguin?",
+        "I'm not trying to be a penguin. That's floor work, my friend. It's a part of contemporary dance!"
+      ],
+      "options": [
+        "Floor Work (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you keep standing like a soldier every time I look at you?",
+        "It's not soldier stance, it's alignment! Important in contemporary dance to make sure my body lines up right!"
+      ],
+      "options": [
+        "Alignment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you walk as if you're on a tightrope?",
+        "Haha, that's not a tightrope walk, it's just me practicing my alignment. In contemporary dance, we need to keep our bodies aligned!"
+      ],
+      "options": [
+        "Alignment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you walking in a straight line? Are you practicing for a sobriety test?",
+        "No, not a sobriety test, just working on my alignment for dance. Helps me stay balanced and move efficiently."
+      ],
+      "options": [
+        "Alignment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you keep twirling around in circles like a spinning top?",
+        "I'm not a spinning top, I'm practicing my technique in contemporary dance!"
+      ],
+      "options": [
+        "Technique (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you keep waving your arms around like you're trying to fly?",
+        "It's not an attempt to fly, it's a dance technique! It's part of the expressive moves in contemporary dance."
+      ],
+      "options": [
+        "Technique (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you rolling on the floor like a log?",
+        "This isn't log-rolling, this is a technique in contemporary dance. It's called floor work."
+      ],
+      "options": [
+        "Technique (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you putting ketchup on your ice cream? That's crazy!",
+        "I'm not really doing that. I'm just showing you that even unexpected combinations can work, just like in dance composition!"
+      ],
+      "options": [
+        "Composition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you stacking those books in such a peculiar pattern?",
+        "I'm mimicking the concept of dance composition. You have to arrange different moves in a meaningful and appealing manner."
+      ],
+      "options": [
+        "Composition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you arranging your food like that? You're not a chef!",
+        "Well, this is like dance composition. In dance, we arrange movements in a manner that creates a beautiful and expressive routine."
+      ],
+      "options": [
+        "Composition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you just bow to your sandwich before eating it?",
+        "Well, I'm practicing my performance etiquette, you know!"
+      ],
+      "options": [
+        "Performance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you doing the cha-cha with your vacuum cleaner?",
+        "Every task can be a performance, my friend! The world is my stage!"
+      ],
+      "options": [
+        "Performance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you just do a pirouette before entering the room?",
+        "Absolutely! The world is my stage, and every entrance is a performance!"
+      ],
+      "options": [
+        "Performance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you helping your dog clean its toys?",
+        "Well, it's all about partnership! Everyone has a role in this house!"
+      ],
+      "options": [
+        "Partnership/Group Work (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you just coordinate with your cat to catch that mouse?",
+        "Oh, absolutely. We're a dream team, didn't you know?"
+      ],
+      "options": [
+        "Partnership/Group Work (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you and your hamster working out together?",
+        "Because fitness is a group activity in this household!"
+      ],
+      "options": [
+        "Partnership/Group Work (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you wearing a cape while cooking dinner?",
+        "Because, my friend, cooking also deserves a dash of style!"
+      ],
+      "options": [
+        "Style (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you just make a dramatic entrance to take out the trash?",
+        "Yes, it's all about bringing style to every mundane task."
+      ],
+      "options": [
+        "Style (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you always twirl your pencil before starting to write?",
+        "It's all about style, my friend. Everything needs a little flair!"
+      ],
+      "options": [
+        "Style (correct answer)"
+      ]
+    }
+  ]
+}

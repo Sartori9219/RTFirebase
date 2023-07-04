@@ -1,0 +1,362 @@
+{
+  "questions": [
+    {
+      "question": [
+        "For our icebreaker today, we're going to take turns sharing our favorite type of pizza and the most unusual topping we've ever tried on it.",
+        "Oh, this will be fun! I can't wait to hear everyone's wild pizza adventures. Anchovies and pineapple, anyone?"
+      ],
+      "options": [
+        "Icebreakers (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That sounds hilarious! Time to put on my detective hat and uncover everyone's secret fibs!"
+      ],
+      "options": [
+        "Icebreakers (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Awesome! It's like a scavenger hunt for new friends. Let's see who can shout \"Bingo!\" first!"
+      ],
+      "options": [
+        "Icebreakers (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This is going to be epic! It's like creating our own noodle skyscraper while channeling our inner architects."
+      ],
+      "options": [
+        "Collaborative Problem Solving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In today's team building activity, we need to figure out how to get our entire group across the \"lava river\" using only a few stepping stones.",
+        "Sounds exciting! We'll have to put our heads together and strategize like we're on a daring adventure to escape a volcanic eruption."
+      ],
+      "options": [
+        "Collaborative Problem Solving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What a fun challenge! It's like being detectives trying to solve a mysterious case of the mixed-up puzzles."
+      ],
+      "options": [
+        "Collaborative Problem Solving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our team building activity today is the \"Trust Fall,\" where we'll take turns falling backward and trusting our teammates to catch us.",
+        "Wow, it's like a leap of faith into a human safety net! I'm ready to put my trust in my friends."
+      ],
+      "options": [
+        "Trust Building Activities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This is going to be intense! It's like being a secret agent on a mission, trusting our partners to guide us through a laser maze."
+      ],
+      "options": [
+        "Trust Building Activities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "We're doing a \"Human Knot\" activity where we all grab hands with different people and then have to untangle ourselves without letting go.",
+        "That sounds hilarious! It's like playing a giant game of Twister, but with teamwork and trust to help us unwind."
+      ],
+      "options": [
+        "Trust Building Activities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's going to be so funny! It's like playing a game of telephone, but with doodles instead of whispers."
+      ],
+      "options": [
+        "Communication Exercises (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Sounds challenging! It's like being architects with a secret blueprint, relying on our communication skills to bring the vision to life."
+      ],
+      "options": [
+        "Communication Exercises (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This will be interesting! It's like being detectives piecing together clues from different witnesses to solve a mystery."
+      ],
+      "options": [
+        "Communication Exercises (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? I'm going to be an undercover spy disguised as a mime artist!",
+        "Haha, that's brilliant! How're you going to communicate your findings without breaking character?"
+      ],
+      "options": [
+        "Role Playing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've decided to role-play as a time-traveling detective who solves mysteries in the past!",
+        "That's so cool! Can't wait to hear about your adventures. Will you be wearing a futuristic trench coat?"
+      ],
+      "options": [
+        "Role Playing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm going to a costume party dressed as a pirate astronaut! Arrr, to infinity and beyond!",
+        "Hahaha, love it! Are you going to carry a telescope and a space sword?"
+      ],
+      "options": [
+        "Role Playing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just learned how to yodel while tap dancing. My family thinks it's hilarious!",
+        "Wow, that's impressive! So, you've combined yodeling and tap dancing into a unique performance. Your family must love it!"
+      ],
+      "options": [
+        "Active Listening Practice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've started collecting vintage lunchboxes. My favorite one has a picture of an alien eating a sandwich."
+      ],
+      "options": [
+        "Active Listening Practice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend and I tried to build a giant snowman, but it ended up looking more like a snow elephant!"
+      ],
+      "options": [
+        "Active Listening Practice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I accidentally spilled soda on my sister's favorite shirt, and now she's furious with me.",
+        "Oops! Well, you could apologize sincerely, offer to clean the shirt, and maybe even buy her a new one. That might help resolve the conflict."
+      ],
+      "options": [
+        "Conflict Resolution Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend and I can't agree on which movie to watch. I want a comedy, but they want a horror film.",
+        "Why not try compromising? Watch a horror-comedy flick or take turns choosing the movie each time you hang out."
+      ],
+      "options": [
+        "Conflict Resolution Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My roommate keeps playing the trombone while I'm trying to study, and it's driving me crazy!",
+        "Have you tried talking to them about it? Maybe you can work out a schedule where they play when you're not studying or agree on designated quiet hours."
+      ],
+      "options": [
+        "Conflict Resolution Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My neighbor just built a massive treehouse that looks like a UFO. It's so creative!",
+        "That's awesome! You should let them know how much you appreciate their creativity and the fun addition to the neighborhood."
+      ],
+      "options": [
+        "Appreciation and Recognition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend baked me a cake that looks like my favorite video game console for my birthday! How cool is that?",
+        "Wow, that's amazing! Make sure to thank your friend and let them know how much you appreciate their thoughtful gesture."
+      ],
+      "options": [
+        "Appreciation and Recognition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know our teacher stayed up late last night grading papers, so we could get our results today?",
+        "That's dedication! We should show our appreciation by sending her a thank-you note or telling her how much her hard work means to us."
+      ],
+      "options": [
+        "Appreciation and Recognition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our club can't decide whether to host a karaoke night or a trivia night for our next event.",
+        "Why not have everyone vote on their preferred choice? That way, you'll make a group decision that reflects everyone's opinion."
+      ],
+      "options": [
+        "Group Decision-Making (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "We're planning a road trip, but we can't agree on which route to take. Some want the scenic route, while others prefer the quickest way.",
+        "You could list the pros and cons of each route and then discuss them as a group. This way, everyone can contribute to the decision-making process."
+      ],
+      "options": [
+        "Group Decision-Making (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our team is trying to choose a mascot, but we're stuck between a dancing pineapple and a breakdancing squirrel.",
+        "Haha, both sound fun! Maybe create a poll and let everyone cast their vote. It's a fair way to involve everyone in the decision-making process."
+      ],
+      "options": [
+        "Group Decision-Making (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have so much to do today! I need to walk the dog, finish my project, and cook dinner for my friends."
+      ],
+      "options": [
+        "Time Management Activities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always running late because I can't decide what to wear in the morning.",
+        "How about laying out your clothes the night before? It's a simple time management activity that could save you precious minutes in the morning."
+      ],
+      "options": [
+        "Time Management Activities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to study for three exams this week, but I don't know how to manage my time effectively."
+      ],
+      "options": [
+        "Time Management Activities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to become a better leader, but I don't know where to start.",
+        "Try reading books on leadership or attending workshops. You could also ask for feedback from your team and work on improving your communication skills."
+      ],
+      "options": [
+        "Leadership Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been appointed captain of the synchronized swimming team, but I'm not sure how to inspire my teammates.",
+        "Lead by example! Show up to practice early, work hard, and stay positive. Also, be open to new ideas and encourage collaboration among your teammates."
+      ],
+      "options": [
+        "Leadership Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to be a great dungeon master in our role-playing game, but I need to work on my leadership skills."
+      ],
+      "options": [
+        "Leadership Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm in a creative rut. I need some fun exercises to get my imagination flowing again."
+      ],
+      "options": [
+        "Creative Thinking Exercises (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to practice thinking outside the box, but I don't know how."
+      ],
+      "options": [
+        "Creative Thinking Exercises (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to brainstorm new ideas for my art project, but I'm feeling uninspired."
+      ],
+      "options": [
+        "Creative Thinking Exercises (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My plans for an outdoor picnic were ruined by sudden rain. Now what do I do?"
+      ],
+      "options": [
+        "Adaptability Challenges (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wanted to make a pizza, but I just realized I'm out of tomato sauce. Ugh!",
+        "Don't worry, you can still adapt! Try making a white pizza with olive oil, garlic, and cheese or use pesto sauce as a tasty alternative."
+      ],
+      "options": [
+        "Adaptability Challenges (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I was planning to perform a solo dance routine at the talent show, but my partner wants to join me now."
+      ],
+      "options": [
+        "Adaptability Challenges (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to improve my emotional intelligence, but I'm not sure how to start."
+      ],
+      "options": [
+        "Emotional Intelligence Training (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have a hard time recognizing my own emotions. How can I become more self-aware?",
+        "Try journaling your feelings daily, or use an emotions wheel to help identify what you're feeling. It's like being an emotional detective!"
+      ],
+      "options": [
+        "Emotional Intelligence Training (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm terrible at managing my emotions, especially when I'm under stress."
+      ],
+      "options": [
+        "Emotional Intelligence Training (correct answer)"
+      ]
+    }
+  ]
+}

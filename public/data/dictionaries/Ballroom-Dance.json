@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Frame",
+        "Lead and Follow",
+        "Timing",
+        "Rhythm",
+        "Footwork",
+        "Posture",
+        "Dance Etiquette",
+        "Dance Position",
+        "Spotting",
+        "Styling",
+        "Musicality",
+        "Line of Dance",
+        "Balance",
+        "Pivoting",
+        "Connection"
+    ],
+    "hints": {
+        "Frame": "The hold or position in which partners hold each other while dancing. It forms the foundation of the dance.",
+        "Lead and Follow": "The method by which the leading dancer (typically the male) communicates the steps to the following dancer (typically the female) through physical signals.",
+        "Timing": "The ability to move in sync with the music, matching each step with the appropriate beat.",
+        "Rhythm": "The pattern or sequence of sounds in the music. In dance, rhythm dictates when and how steps should be taken.",
+        "Footwork": "The technique used in moving the feet. Good footwork helps in maintaining balance and enhancing the overall aesthetic of the dance.",
+        "Posture": "The way a dancer holds their body while dancing. Proper posture is essential for balance, movement efficiency, and aesthetics.",
+        "Dance Etiquette": "The set of conventions governing courteous behavior on the dance floor.",
+        "Dance Position": "The arrangement of dancers' bodies in relation to each other. Examples include closed, open, and promenade positions.",
+        "Spotting": "A technique used during turns to avoid dizziness and maintain balance.",
+        "Styling": "The personal touch a dancer adds to their movements to express their individuality.",
+        "Musicality": "The ability to understand the music's structure and express it through dance.",
+        "Line of Dance": "The direction in which dancers move around the dance floor, typically in a counterclockwise direction.",
+        "Balance": "The ability to maintain control of body position while moving or standing still.",
+        "Pivoting": "A turning movement where the dancer\u00e2\u20ac\u2122s body rotates around their own vertical axis.",
+        "Connection": "The physical and emotional link between the dancing partners that facilitates communication and harmony during the dance."
+    }
+}

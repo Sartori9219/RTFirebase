@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Standard deduction",
+        "Earned Income Tax Credit (EITC)",
+        "Retirement savings contributions",
+        "Education tax credits",
+        "Child Tax Credit",
+        "Child and Dependent Care Credit",
+        "Saver's Credit",
+        "Medical expenses deductions",
+        "Charitable donations",
+        "Home office deductions",
+        "Job search expenses",
+        "Moving expenses for a new job",
+        "Student loan interest deduction",
+        "Energy-efficient home improvements",
+        "Tax preparation deductions"
+    ],
+    "hints": {
+        "Standard deduction": "Use the standard deduction to reduce your taxable income.",
+        "Earned Income Tax Credit (EITC)": "A refundable tax credit for low-to-moderate-income workers.",
+        "Retirement savings contributions": "Contribute to a retirement account to save on taxes.",
+        "Education tax credits": "Claim the American Opportunity Tax Credit or Lifetime Learning Credit.",
+        "Child Tax Credit": "Receive a tax credit for each qualifying child under 17.",
+        "Child and Dependent Care Credit": "Get a tax credit for child care or dependent care expenses.",
+        "Saver's Credit": "Claim a credit for contributions to retirement accounts if you meet income requirements.",
+        "Medical expenses deductions": "Deduct unreimbursed medical expenses that exceed a certain percentage of your income.",
+        "Charitable donations": "Deduct charitable contributions to qualified organizations.",
+        "Home office deductions": "Deduct expenses related to a home office if you work from home.",
+        "Job search expenses": "Deduct certain job search expenses if you're looking for a new job in your current field.",
+        "Moving expenses for a new job": "Deduct moving expenses if you relocate for a new job and meet distance and time requirements.",
+        "Student loan interest deduction": "Deduct up to a certain amount of student loan interest you paid during the year.",
+        "Energy-efficient home improvements": "Claim tax credits for energy-efficient home improvements.",
+        "Tax preparation deductions": "Deduct tax preparation fees and expenses in certain situations."
+    }
+}

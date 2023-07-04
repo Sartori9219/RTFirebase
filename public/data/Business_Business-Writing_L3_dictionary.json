@@ -1,0 +1,400 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I need help with that thing for the project.",
+        "Which thing? The presentation, the report, or the budget?"
+      ],
+      "options": [
+        "Clarity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can you bring me the tool from the garage?",
+        "Which tool? The hammer, the screwdriver, or the wrench?"
+      ],
+      "options": [
+        "Clarity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to order that dish, you know, the one with the sauce and the veggies.",
+        "Do you mean the pasta primavera or the stir-fry?"
+      ],
+      "options": [
+        "Clarity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You mean we should get party supplies?"
+      ],
+      "options": [
+        "Conciseness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you asking me to play golf?"
+      ],
+      "options": [
+        "Conciseness (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Conciseness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, I went to the store, and then my dog started barking. After that, I had pizza for dinner.",
+        "Wait, what does your dog barking have to do with going to the store?"
+      ],
+      "options": [
+        "Coherence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My favorite color is blue, but I really enjoy going to the beach. Also, I need to buy new shoes.",
+        "Those ideas seem unrelated. What's the main point you're trying to make?"
+      ],
+      "options": [
+        "Coherence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do these events connect? Were they all reasons for being late?"
+      ],
+      "options": [
+        "Coherence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I seen the new movie last night, and I really liked it.",
+        "Don't you mean \"I saw the new movie\"?"
+      ],
+      "options": [
+        "Correctness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Their going to the store to buy some groceries.",
+        "I think you meant \"They're going to the store.\""
+      ],
+      "options": [
+        "Correctness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Me and my friends decided to go for a hike.",
+        "Shouldn't it be \"My friends and I decided to go for a hike\"?"
+      ],
+      "options": [
+        "Correctness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Yo, I was thinking we should totally invest in this new tech startup. It's gonna be lit!",
+        "Are you sure that's the best way to present your investment idea to our boss?"
+      ],
+      "options": [
+        "Tone and Voice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey there, buddy! Could you please move your car? It's kinda blocking my driveway.",
+        "You might want to use a more formal tone when leaving a note for your neighbor."
+      ],
+      "options": [
+        "Tone and Voice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, like, I'm really good at this accounting stuff, and I think I'd be a perfect fit here, ya know?",
+        "Perhaps a more professional tone would be better suited for a job interview."
+      ],
+      "options": [
+        "Tone and Voice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey boss, just wanted to let ya know I'm not feeling great, so I won't be able to make it in today.",
+        "It might be better to use a more formal tone when emailing your boss about taking a sick day."
+      ],
+      "options": [
+        "Formality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "To whom it may concern, I'm super excited about this job, and I think I'm like the perfect candidate for it!",
+        "You should consider using more formal language in your cover letter."
+      ],
+      "options": [
+        "Formality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, can u pls send me the report ASAP? Thx!",
+        "Even though it's just a text, maintaining a certain level of formality with colleagues is important."
+      ],
+      "options": [
+        "Formality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, I went to the store, then I had a meeting, and later I met my friend for coffee. Oh, and I also picked up my dry cleaning.",
+        "Organizing your story with a clear structure can make it easier to follow."
+      ],
+      "options": [
+        "Structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Structuring your essay with a clear outline can help you present your ideas more effectively."
+      ],
+      "options": [
+        "Structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Focusing on a structured format for your presentation will help keep your audience engaged."
+      ],
+      "options": [
+        "Structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You should try this new pizza place because I like it.",
+        "Can you give me more convincing reasons to try it?"
+      ],
+      "options": [
+        "Persuasion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "We should invest in this project because I think it's a good idea, and my intuition is usually right.",
+        "Providing more persuasive arguments and evidence would make your pitch stronger."
+      ],
+      "options": [
+        "Persuasion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You should vote for this candidate because they're better than the other one.",
+        "Elaborating on specific policies or accomplishments would make your argument more persuasive."
+      ],
+      "options": [
+        "Persuasion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wouldn't it be clearer to say, \"I ate the cake\"?"
+      ],
+      "options": [
+        "Active vs. Passive Voice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The report will be completed by Friday.",
+        "It might sound more engaging to say, \"I will complete the report by Friday.\""
+      ],
+      "options": [
+        "Active vs. Passive Voice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The plant was watered and the cat was fed by my neighbor while I was away.",
+        "How about saying, \"My neighbor watered the plant and fed the cat while I was away\"?"
+      ],
+      "options": [
+        "Active vs. Passive Voice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just submitted my essay without even checking it once.",
+        "You should always proofread your work to catch any errors or inconsistencies."
+      ],
+      "options": [
+        "Proofreading (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "(in an email) I'm looking forward to our meeting next week.",
+        "A quick proofread would have helped you catch that typo \u2013 it's \"meeting,\" not \"metting.\""
+      ],
+      "options": [
+        "Proofreading (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I finished writing my cover letter, but I'm just going to send it as-is. I don't have time to check it.",
+        "Taking a few minutes to proofread can make a big difference in the impression you leave on potential employers."
+      ],
+      "options": [
+        "Proofreading (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wrote this funny joke in my presentation for the board meeting.",
+        "Have you considered whether humor is appropriate for your audience and the meeting's context?"
+      ],
+      "options": [
+        "Audience Analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm writing an article about social media trends, but I'm using lots of technical jargon.",
+        "Make sure to consider your audience \u2013 will they understand the terms you're using?"
+      ],
+      "options": [
+        "Audience Analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I prepared this speech for the conference, but it's mostly about my personal experiences.",
+        "Remember to tailor your content to your audience \u2013 they might be more interested in broader insights or industry trends."
+      ],
+      "options": [
+        "Audience Analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wrote this long email to my team, but I'm not sure what I want them to do.",
+        "It's important to clearly define the purpose of your communication and ensure your message supports that objective."
+      ],
+      "options": [
+        "Purpose (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been working on this report for days, but I keep adding unrelated information.",
+        "Focus on the main purpose of the report and make sure all content is relevant to that goal."
+      ],
+      "options": [
+        "Purpose (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I prepared a presentation for our team meeting, but it covers too many topics.",
+        "Narrow down the purpose of your presentation and concentrate on the most important points."
+      ],
+      "options": [
+        "Purpose (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wrote my resume as a poem because I thought it would be creative.",
+        "While creativity is great, it's important to follow standard formats for professional documents like resumes."
+      ],
+      "options": [
+        "Format (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm submitting my essay for class, but I didn't bother with formatting. The content is what matters, right?",
+        "Proper formatting can make your work easier to read and shows attention to detail."
+      ],
+      "options": [
+        "Format (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I sent a business proposal as a series of text messages to the client. It's modern and efficient!",
+        "Adhering to appropriate formats, like a well-structured email or document, can help maintain professionalism in business communications."
+      ],
+      "options": [
+        "Format (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm giving a presentation with lots of data and numbers, but I didn't include any visuals.",
+        "Adding visual aids like charts or graphs can help your audience better understand and retain the information."
+      ],
+      "options": [
+        "Visual Aids (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My report is so text-heavy, it's hard to follow.",
+        "Consider using visual aids, like images or diagrams, to break up the text and clarify complex ideas."
+      ],
+      "options": [
+        "Visual Aids (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to explain how our product works, but it's challenging to describe in words.",
+        "Including visuals, like an illustration or a flowchart, can make it easier for your audience to grasp the concept."
+      ],
+      "options": [
+        "Visual Aids (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I finished my first draft of the report, so I'm done now, right?",
+        "It's important to edit your work, revising and refining it for clarity, coherence, and overall quality."
+      ],
+      "options": [
+        "Editing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wrote this blog post, but it feels too long and repetitive.",
+        "Spend some time editing to remove redundancy and tighten up your writing."
+      ],
+      "options": [
+        "Editing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My essay seems disorganized and hard to follow.",
+        "Editing can help you restructure your content and improve the flow of your ideas."
+      ],
+      "options": [
+        "Editing (correct answer)"
+      ]
+    }
+  ]
+}

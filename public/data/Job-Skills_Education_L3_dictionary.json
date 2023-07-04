@@ -1,0 +1,382 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, did you know our biology professor is going to make us act like amoebas in class today?",
+        "Seriously? That sounds hilarious! But I guess it'll help us understand how they move and function better."
+      ],
+      "options": [
+        "Active Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our history class today was so much fun! We had to create a rap battle between two famous leaders to learn about their different ideologies.",
+        "Wow, that's awesome! I bet everyone was more engaged and learned a lot from that activity."
+      ],
+      "options": [
+        "Active Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our physics class, we built mini catapults to learn about projectile motion. I accidentally launched a marshmallow right at the professor!",
+        "Haha, that must have been a memorable lesson! It's great when hands-on activities help us grasp complex concepts more easily."
+      ],
+      "options": [
+        "Active Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our philosophy professor asked us to ponder the question, \"If a tree falls in a forest and no one is around to hear it, does it make a sound?\" We had to investigate this concept from different perspectives.",
+        "That's so intriguing! I love it when teachers use inquiry-based learning to spark our curiosity and critical thinking."
+      ],
+      "options": [
+        "Inquiry-Based Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our chemistry class, we were given a mysterious substance and had to figure out its properties through a series of experiments. It turned out to be slime!",
+        "Haha, that sounds like a fun way to learn! Inquiry-based learning makes the process so much more engaging."
+      ],
+      "options": [
+        "Inquiry-Based Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our literature teacher challenged us to find hidden meanings in a poem by asking open-ended questions. It led to some interesting interpretations!",
+        "Wow, that's a great way to foster inquiry-based learning! It encourages students to dig deeper and think outside the box."
+      ],
+      "options": [
+        "Inquiry-Based Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know our math teacher gives out personalized worksheets based on each student's level? Mine was full of equations featuring my favorite superhero!",
+        "That's awesome! Differentiated instruction really makes learning more enjoyable and tailored to individual needs."
+      ],
+      "options": [
+        "Differentiated Instruction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our English class, we were allowed to choose our own books for a book report. I picked a sci-fi novel, while my friend chose a biography of a famous athlete.",
+        "It's great when teachers use differentiated instruction to cater to everyone's interests. It makes learning so much more engaging!"
+      ],
+      "options": [
+        "Differentiated Instruction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our art teacher assigned us a project where we could choose between creating a sculpture, painting, or collage to express a specific theme. I made a collage using pictures of my cats!",
+        "Haha, that sounds like a fun way to explore our creativity! Differentiated instruction allows students to learn in ways that suit them best."
+      ],
+      "options": [
+        "Differentiated Instruction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our environmental science class is working on a project where we have to design a sustainable city for a population of marshmallow people!",
+        "That's so creative and fun! Project-based learning really brings complex concepts to life in an engaging way."
+      ],
+      "options": [
+        "Project-Based Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our economics class, we were tasked with creating a fictional business and pitching it to the rest of the class. My team came up with a unicorn-themed bakery!",
+        "Haha, I'd definitely visit that bakery! Project-based learning allows us to apply what we've learned in a practical and enjoyable manner."
+      ],
+      "options": [
+        "Project-Based Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our music teacher had us form bands and compose original songs based on historical events. We wrote a catchy tune about the invention of the printing press!",
+        "Wow, that's a unique approach to learning history! Project-based learning really encourages collaboration and critical thinking."
+      ],
+      "options": [
+        "Project-Based Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our drama class formed groups to write and perform short plays about life on Mars. My group's play featured Martian dance battles!",
+        "That sounds hilarious and entertaining! Cooperative learning helps us develop teamwork and communication skills while having fun."
+      ],
+      "options": [
+        "Cooperative Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our geography class, we were assigned to teams and had to create board games based on different countries. My team made a game that involved navigating through the Amazon rainforest!",
+        "Wow, that's a creative way to learn about geography! Cooperative learning allows students to share their ideas and learn from each other."
+      ],
+      "options": [
+        "Cooperative Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our language class had to work in pairs to create a fictional TV show in the language we're learning. My partner and I came up with a sitcom about talking animals living in a zoo!",
+        "Haha, I'd love to watch that show! Cooperative learning encourages collaboration and makes learning new languages more engaging."
+      ],
+      "options": [
+        "Cooperative Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our physics teacher gave us a quiz where we had to draw cartoons explaining the laws of motion. It was so much fun, and I actually understood the concepts better afterward!",
+        "That's awesome! Assessment for learning can be both enjoyable and effective in helping us grasp new material."
+      ],
+      "options": [
+        "Assessment for Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our history class, we had to create and present a mock news report about a historical event. It really helped me remember the details and understand the context better.",
+        "Wow, that sounds like a great way to learn! Assessment for learning helps us apply our knowledge and reflect on our understanding."
+      ],
+      "options": [
+        "Assessment for Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our math teacher had us design escape rooms based on different mathematical concepts. Not only did we have to understand the concepts, but we also had to explain them to others!",
+        "That's such a creative approach to assessment! It shows how assessment for learning can be both challenging and engaging."
+      ],
+      "options": [
+        "Assessment for Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our art history teacher had us watch a video about famous paintings at home, then in class, we played a game of \"Guess the Artist\" using the information we learned.",
+        "That sounds like a fun way to learn! Flipped classrooms really make the most of class time for interactive activities."
+      ],
+      "options": [
+        "Flipped Classroom (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our computer science class, we learned coding basics through online tutorials at home. Then, in class, we teamed up to create a silly animation featuring dancing robots!",
+        "Haha, that's awesome! Flipped classrooms allow us to apply our new skills in engaging and collaborative ways."
+      ],
+      "options": [
+        "Flipped Classroom (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our biology teacher assigned us a podcast to listen to at home about weird animal adaptations. In class, we had a lively debate about which adaptation was the most bizarre!",
+        "Wow, that sounds like an interesting discussion! Flipped classrooms really encourage active participation and deeper understanding."
+      ],
+      "options": [
+        "Flipped Classroom (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our literature class, we read classic novels and then discussed them in online forums with students from another school. It was so cool getting different perspectives!",
+        "That's a fantastic way to blend traditional learning with technology! Blended learning really enhances our educational experience."
+      ],
+      "options": [
+        "Blended Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our astronomy teacher had us use virtual reality headsets to explore the solar system. I felt like I was actually floating in space!",
+        "Wow, that sounds amazing! Blended learning helps us connect with the material in new and exciting ways."
+      ],
+      "options": [
+        "Blended Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our cooking class, we watched video demonstrations of various techniques at home and then practiced them in class by making our own unique recipes. I ended up creating a pizza topped with gummy bears!",
+        "Haha, that's certainly creative! Blended learning allows us to combine traditional and digital methods for a well-rounded education."
+      ],
+      "options": [
+        "Blended Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our engineering class, we were given the challenge of designing a device to safely transport an egg down a flight of stairs. My team created an egg parachute!",
+        "That's such a fun way to learn! Problem-based learning really encourages us to think critically and creatively."
+      ],
+      "options": [
+        "Problem-Based Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our political science professor presented us with a fictional island nation facing various challenges. We had to come up with policy solutions to address their issues, like creating a new transportation system using only skateboards!",
+        "Haha, that's an interesting approach! Problem-based learning helps us apply our knowledge to real-world scenarios in a fun and engaging way."
+      ],
+      "options": [
+        "Problem-Based Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our environmental science class, we were tasked with finding ways to reduce waste at our school. We came up with a plan to turn cafeteria leftovers into compost for a school garden!",
+        "Wow, that's a great solution! Problem-based learning allows us to make a positive impact while developing valuable problem-solving skills."
+      ],
+      "options": [
+        "Problem-Based Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our creative writing teacher lets us choose our own topics for our stories. I'm writing a thrilling adventure about a time-traveling sloth!",
+        "That sounds so entertaining! Student-centered learning really allows us to explore our passions and interests."
+      ],
+      "options": [
+        "Student-Centered Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our social studies class, we got to pick a historical event and create a presentation using any format we wanted. I made a stop-motion animation about the invention of the wheel!",
+        "Wow, that's a unique way to present information! Student-centered learning encourages us to take ownership of our education and express ourselves creatively."
+      ],
+      "options": [
+        "Student-Centered Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our math teacher encourages us to find our own strategies for solving problems and share them with the class. I discovered a fun pattern-based method for solving quadratic equations!",
+        "That's awesome! Student-centered learning helps us develop independent thinking skills and learn from each other's perspectives."
+      ],
+      "options": [
+        "Student-Centered Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our psychology teacher had us create our own experiments to test various theories. I tested whether people are more likely to remember funny jokes or serious facts!",
+        "That's such a cool way to learn! Constructivist learning really encourages us to explore and discover new knowledge on our own."
+      ],
+      "options": [
+        "Constructivist Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our geography class, we got to explore different ecosystems using virtual reality. Then, we had to create our own imaginary landscapes based on what we learned!",
+        "Wow, that sounds like a fun and immersive experience! Constructivist learning helps us build our understanding through hands-on exploration."
+      ],
+      "options": [
+        "Constructivist Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our economics teacher had us simulate a stock market, allowing us to invest in fictional companies and track their progress. I became an expert at predicting trends for my pet rock company!",
+        "Haha, that's a clever way to learn about the stock market! Constructivist learning really empowers us to actively engage with the subject matter."
+      ],
+      "options": [
+        "Constructivist Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our philosophy teacher asked us to reflect on our own thought process while solving a puzzle. It was like trying to solve a mystery inside my own brain!",
+        "That's an interesting exercise! Metacognition helps us become more self-aware and improve our learning strategies."
+      ],
+      "options": [
+        "Metacognition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our study skills class, we had to analyze our most effective learning techniques. I discovered that I learn best when I act out scenarios from my history textbook!",
+        "Haha, that sounds both fun and educational! Developing metacognition really helps us understand how we learn best."
+      ],
+      "options": [
+        "Metacognition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our math teacher encouraged us to think about our thinking by asking us to explain our problem-solving process step by step. It turns out I'm great at visualizing solutions in my head!",
+        "Wow, that's an insightful way to approach math problems! Metacognition allows us to fine-tune our learning methods for better results."
+      ],
+      "options": [
+        "Metacognition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I discovered that I'm a kinesthetic learner, so I started practicing vocabulary by playing charades with my friends. Now I can remember words way better!",
+        "That's such a creative approach! Understanding our learning styles really helps us find effective and enjoyable ways to study."
+      ],
+      "options": [
+        "Learning Styles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It turns out I'm an auditory learner. I've started listening to podcasts about science topics, and I can't believe how much more I'm retaining!",
+        "That's fantastic! Recognizing our learning styles can make a huge difference in how we absorb and process information."
+      ],
+      "options": [
+        "Learning Styles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found out that I'm a visual learner, so I started using colorful mind maps to organize my notes. It's like my brain suddenly unlocked a secret superpower!",
+        "Wow, that must be so helpful! Learning styles really help us tailor our study techniques for maximum success."
+      ],
+      "options": [
+        "Learning Styles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey there! Can you describe how a flamingo balances on one leg?",
+        "Absolutely! Flamingos stand on one leg to conserve body heat, and they alternate legs to avoid muscle fatigue. The way they balance is by tucking their other leg beneath their body, which helps create stability."
+      ],
+      "options": [
+        "Bloom's Taxonomy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine a world where cats can speak like humans. What kind of conversation would you have with your cat?",
+        "Oh, that's interesting! I'd definitely ask my cat why it always knocks things off the table, and what it does when I'm not at home. We'd also discuss its favorite type of food and maybe even share some gossip about the neighborhood cats!"
+      ],
+      "options": [
+        "Bloom's Taxonomy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You've been given the power to combine two animals into a new species. Which two animals would you choose, and what unique abilities would this new creature have?",
+        "I'd combine a cheetah and an eagle! This new creature, called a \"cheetgle,\" would have the speed of a cheetah and the ability to fly like an eagle. It would be an excellent hunter, able to catch prey on land and in the air with incredible speed and agility."
+      ],
+      "options": [
+        "Bloom's Taxonomy (correct answer)"
+      ]
+    }
+  ]
+}

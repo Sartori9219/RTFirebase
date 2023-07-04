@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Captain Whiskers dashed through the meadow, his cape billowing in the wind. He caught the frisbee with a mighty leap, saving the picnic from certain disaster.",
+        "Did you just turn our dog's frisbee catch into an epic heroic adventure?"
+      ],
+      "options": [
+        "Literary Genres (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "She looked into the pot of boiling water, the pasta bubbling as it cooked. It was then she had a revelation - her life was like this spaghetti, tangled and messy.",
+        "So... you're saying dinner preparation is your version of a literary drama?"
+      ],
+      "options": [
+        "Literary Genres (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Once upon a time, in a far-off galaxy, there existed a civilization of sentient vacuum cleaners...",
+        "Are you starting a new science fiction novel or have you just been cleaning too much?"
+      ],
+      "options": [
+        "Literary Genres (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, first the dragon steals the princess, then the knight trains rigorously, overcomes several challenges, and finally defeats the dragon to rescue the princess.",
+        "Sounds like you're outlining a pretty classic plot structure there, buddy."
+      ],
+      "options": [
+        "Plot Structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when I lost my phone, spent the entire day looking for it, and then found it in the fridge next to the pickles?",
+        "That's a weird plot structure for a day. But it does have a beginning, middle, and end."
+      ],
+      "options": [
+        "Plot Structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It starts with me winning the lottery, then I get carried away and lose all the money, and finally, I learn the value of financial responsibility.",
+        "Classic plot structure: a rise, a fall, and a resolution. You've just turned your life into a morality tale."
+      ],
+      "options": [
+        "Plot Structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember how Tom was such a nervous wreck at the beginning of the year? He wouldn't even talk to people. Now, he's leading the student council!",
+        "Yeah, that's some real character development, from wallflower to leader."
+      ],
+      "options": [
+        "Character Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know, in the first season of that show, I couldn't stand Sarah. She was so selfish. But now, she's one of my favorite characters.",
+        "Yeah, they really put her through some character development, didn't they?"
+      ],
+      "options": [
+        "Character Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In my novel, my protagonist starts off as a cowardly lion but by the end, he's the bravest of them all.",
+        "That's an interesting character development arc, from a timid lion to the king of the jungle."
+      ],
+      "options": [
+        "Character Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I was reading a book, and it said, 'the fire swallowed the forest.' Now that's one hungry fire.",
+        "Or one great example of personification. Sounds like you're brushing up on your literary devices."
+      ],
+      "options": [
+        "Literary Devices (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the author keep comparing life to a box of chocolates?",
+        "Oh, that's a metaphor. It's a literary device to say that life is full of surprises."
+      ],
+      "options": [
+        "Literary Devices (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This author sure loves the sound of 's.' Everything is 'sweet, succulent strawberries.'",
+        "That's a literary device called alliteration. Makes the words sound slick, doesn't it?"
+      ],
+      "options": [
+        "Literary Devices (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the main character in this book keep finding keys everywhere?",
+        "Could be a motif, suggesting that they're unlocking new parts of their life."
+      ],
+      "options": [
+        "Themes and Motifs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you notice how birds always seem to appear when the protagonist is about to make a decision?",
+        "Yeah, I think the birds are a motif representing freedom or a change in direction."
+      ],
+      "options": [
+        "Themes and Motifs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think the author is obsessed with the sea. It keeps cropping up in every chapter!",
+        "Sounds like a strong motif. Maybe it's a symbol of the protagonist's desire for adventure or escape."
+      ],
+      "options": [
+        "Themes and Motifs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm reading this book, and I know what the dog is thinking. Do dogs even think in English?",
+        "Is the story from the dog's point of view? That's a fascinating narrative choice."
+      ],
+      "options": [
+        "Point of View (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This book makes me feel like a fly on the wall in the middle of a family dinner.",
+        "Seems like it's written from an omniscient point of view, so you get to know everyone's thoughts."
+      ],
+      "options": [
+        "Point of View (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm a bit confused. The story is told by the butler but he knows things he wasn't there for. How?",
+        "Maybe it's an unreliable narrator? Or a mixture of first and third person point of view?"
+      ],
+      "options": [
+        "Point of View (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just can't decide between pizza or sushi for lunch. It's a real culinary crisis!",
+        "Sounds like you're facing your own personal man vs. self conflict there."
+      ],
+      "options": [
+        "Conflict (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cat always sits on my laptop when I'm trying to work. It's like he's taunting me.",
+        "That's an intense man vs. nature conflict you've got going on there."
+      ],
+      "options": [
+        "Conflict (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to turn the heating on, but my roommate wants to keep it off to save on bills.",
+        "The classic man vs. man conflict in action."
+      ],
+      "options": [
+        "Conflict (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about that hip new restaurant opening up in a refurbished train carriage?",
+        "That sounds like an interesting setting. It'll certainly add a unique ambiance to dinner."
+      ],
+      "options": [
+        "Setting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My new book takes place entirely in a submarine at the bottom of the ocean.",
+        "Wow, talk about setting the stage for a claustrophobic suspense."
+      ],
+      "options": [
+        "Setting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I feel like I've walked into a sci-fi movie - this virtual reality arcade is out of this world.",
+        "Incredible how the setting can really set the tone, huh?"
+      ],
+      "options": [
+        "Setting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've started writing a novel. It's set in a quiet small town, but with an underlying sense of unease.",
+        "Ah, so you're establishing a peaceful tone with a suspenseful mood. Very 'Twin Peaks.'"
+      ],
+      "options": [
+        "Tone and Mood (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does this ice cream shop feel so creepy? It's just ice cream!",
+        "Must be the clown paintings on the wall. They're setting a jovial tone but a downright eerie mood."
+      ],
+      "options": [
+        "Tone and Mood (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you read the latest chapter of my book? The protagonist finds a lost puppy.",
+        "I did! The joyful tone was a nice contrast to the melancholic mood. Real emotional rollercoaster there."
+      ],
+      "options": [
+        "Tone and Mood (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just bought a new red hat. Makes me feel confident and powerful!",
+        "Aha! Your hat, a symbol of authority and boldness, I see."
+      ],
+      "options": [
+        "Symbolism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you notice how I keep eating apples in my vlogs?",
+        "Yeah, symbolizing knowledge and discovery, right? The Newton of influencers!"
+      ],
+      "options": [
+        "Symbolism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I always carry an umbrella, even when it's not raining.",
+        "That's an interesting symbol of protection or maybe pessimism."
+      ],
+      "options": [
+        "Symbolism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I had a dream about wading through a sea of marshmallows.",
+        "That's such a soft, sweet, and fluffy imagery."
+      ],
+      "options": [
+        "Imagery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can you feel the icy wind whipping your face and the crunch of snow under your boots?",
+        "Wow, your words create such vivid, chilly imagery!"
+      ],
+      "options": [
+        "Imagery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine being surrounded by a sky filled with twinkling stars and galaxies.",
+        "Your celestial imagery is out of this world!"
+      ],
+      "options": [
+        "Imagery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Today's forecast: rain with a chance of frogs.",
+        "You mean the frogs that will fall on us at the party as part of the magician's act?"
+      ],
+      "options": [
+        "Foreshadowing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I keep having this recurring dream where I slip on a banana peel...",
+        "Watch out for any rogue bananas on our walk then!"
+      ],
+      "options": [
+        "Foreshadowing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My fortune cookie said 'Beware the gift of the Trojan horse.' How strange.",
+        "Well, don't accept any large wooden horses anytime soon, then."
+      ],
+      "options": [
+        "Foreshadowing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Isn't it great? I wanted a pet cat, so I got a goldfish named Kitty!",
+        "Well, that's one way to keep the furniture safe from scratching."
+      ],
+      "options": [
+        "Irony (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I went to a seafood restaurant... and they ran out of fish.",
+        "So it was just a... restaurant, then?"
+      ],
+      "options": [
+        "Irony (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "She's the best cook in the world, but she can't boil an egg.",
+        "I guess the secret ingredient is irony."
+      ],
+      "options": [
+        "Irony (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My brother? He's like a sloth after a marathon, especially in the mornings!",
+        "Ah, so he's as lively as a tree stump then?"
+      ],
+      "options": [
+        "Metaphor and Simile (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know, my memory is like an elephant? I never forget!",
+        "And yet, you forgot my birthday cake last year."
+      ],
+      "options": [
+        "Metaphor and Simile (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Man, this pizza is like the sun: hot, round, and the center of my universe.",
+        "I can't believe your world revolves around a pepperoni pizza."
+      ],
+      "options": [
+        "Metaphor and Simile (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you just eat the last piece of pizza?",
+        "Well, somebody had to do it. It was like the Sword of Damocles hanging over our heads!"
+      ],
+      "options": [
+        "Allusion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you walking so slowly?",
+        "I'm not slow, I'm recreating the epic journey of Frodo to Mordor."
+      ],
+      "options": [
+        "Allusion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you keep saying 'winter is coming' every time the AC kicks in?",
+        "Just channeling my inner Stark, friend. The cold never bothered me anyway."
+      ],
+      "options": [
+        "Allusion (correct answer)"
+      ]
+    }
+  ]
+}

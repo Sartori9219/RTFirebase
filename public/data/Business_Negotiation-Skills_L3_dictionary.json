@@ -1,0 +1,800 @@
+{
+  "questions": [
+    {
+      "question": [
+        "So, you're telling me that you ate a whole pizza, ran 5 miles, and then fell into a pond... All before breakfast?",
+        "Exactly! I'm glad you're really hearing me out. It's been a wild morning!"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait a sec, you're telling me your cat, Mr. Whiskers, can juggle apples, and he broke the chandelier doing it?",
+        "Yes, that's right! It's good to see you're not just nodding along. Mr. Whiskers is quite the character."
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you found a treasure map in your grandma's attic, and it leads to a secret stash of cookies?",
+        "Exactly! You've really got the knack of this listening thing. Fancy a cookie hunt?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're telling me you accidentally glued your phone to your hand? That's gotta be tricky!",
+        "Tricky? I can't even pick my nose! But it's nice to see you understand my sticky situation."
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, your dog ate your homework, your cat shredded your notes, and your parrot keeps squawking algebra equations?",
+        "Exactly! It's a zoo at my place during finals. Thanks for getting it!"
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hold on, you tried to make a souffl\u00e9, and it exploded, covering your kitchen in goo?",
+        "Yes! I'm stuck in a culinary nightmare. I appreciate your sympathy, chef to chef."
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying your computer caught a 'virus' and now it only plays polka music?",
+        "Exactly! Your quick reply gives me hope that I won't be stuck listening to accordion tunes all day."
+      ],
+      "options": [
+        "Responsiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you ordered a pizza, and they delivered a pineapple instead?",
+        "Yes, and I'm allergic to pineapples! Your swift response makes me feel less alone in my pineapple predicament."
+      ],
+      "options": [
+        "Responsiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, your pet turtle raced off and you can't find him?",
+        "Yes, that's right! Your speedy response is comforting in my hour of slow-paced crisis."
+      ],
+      "options": [
+        "Responsiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you'll stick with our cheese of the month club, even after the 'stinky sock' variety?",
+        "That's right! Your commitment to unique cheese experiences is just too good to leave!"
+      ],
+      "options": [
+        "Customer Retention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're still ordering our 'mystery book' box, even after getting 'The History of Paint Drying' last month?",
+        "Absolutely! Who knows what exciting page-turner I might get next?"
+      ],
+      "options": [
+        "Customer Retention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're staying with our gym even after the 'dawn rooster' 5 am wake-up calls?",
+        "Yes, indeed! Your motivational rooster crows are a unique touch that I've grown to appreciate."
+      ],
+      "options": [
+        "Customer Retention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you loved our 'Surprise Sock Subscription', even when you got a pair with individual toes?",
+        "Yes! My feet have never felt so individually hugged. You're really nailing this!"
+      ],
+      "options": [
+        "Customer Satisfaction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're still a fan of our 'Random Fact of the Day' service, even after learning about the mating habits of snails?",
+        "Absolutely! Who knew snails were so fascinating? You've made my day!"
+      ],
+      "options": [
+        "Customer Satisfaction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you enjoyed our 'Mystery Cake Mix', even when it turned out to be beetroot flavored?",
+        "Yes, indeed! I never knew I needed beetroot cake until now. You folks are culinary pioneers!"
+      ],
+      "options": [
+        "Customer Satisfaction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying we accidentally sent you a clown wig instead of the running shoes you ordered?",
+        "Yes, but your offer to rush deliver the right item and let me keep the wig is a hilarious win-win!"
+      ],
+      "options": [
+        "Service Recovery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you say you got a bag of marbles instead of the smartphone case you ordered?",
+        "That's right! But your prompt apology and immediate dispatch of the right product make me feel valued, plus I've taken up marble racing!"
+      ],
+      "options": [
+        "Service Recovery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, we delivered a dozen donuts to your door instead of the diet cookbook you ordered?",
+        "Yes, but your swift action to correct the mistake while letting me keep the donuts really takes the cake...or should I say donut?"
+      ],
+      "options": [
+        "Service Recovery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying our 'screaming' alarm clock is too loud and also, strangely, a great opera singer?",
+        "Yes! The Pavarotti at dawn is a bit much, but it definitely gets me out of bed!"
+      ],
+      "options": [
+        "Customer Feedback (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying our 'random surprise' meal box is exciting but you'd prefer less broccoli?",
+        "That's right! I mean, broccoli is cool, but not when it's in the ice cream. Just a small feedback."
+      ],
+      "options": [
+        "Customer Feedback (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you think our 'mystery' movie box has too many rom-coms and not enough action?",
+        "Yes, indeed! If I see one more love triangle, I might start making my own action movie!"
+      ],
+      "options": [
+        "Customer Feedback (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you expected our 'pocket-sized' encyclopedia to actually fit in your pocket, not be a mini-library?",
+        "Yes! I mean, I love the knowledge, but my pockets are struggling to carry all 100 volumes!"
+      ],
+      "options": [
+        "Customer Expectations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you thought our 'one-size-fits-all' hat would adjust to any head size, not be a giant sombrero?",
+        "That's right! I mean, I'm getting some serious shade, but I was hoping for a more subtle look."
+      ],
+      "options": [
+        "Customer Expectations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you assumed our 'easy-to-assemble' furniture wouldn't require an engineering degree?",
+        "Yes, indeed! I appreciate the challenge, but I didn't expect to build a rocket ship instead of a bookshelf!"
+      ],
+      "options": [
+        "Customer Expectations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're sticking with our 'Unicorn Sneeze' brand tissues even after we accidentally shipped you dragon breath scented ones?",
+        "Yes! I mean, dragon breath isn't the best, but your commitment to mythical creature novelty is too unique to pass up!"
+      ],
+      "options": [
+        "Customer Loyalty (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're still committed to our 'Wonky Widget' company, even after the Great Spinning Top Mishap of 2023?",
+        "That's right! Every company has its ups and downs, but you guys always make it right in the end."
+      ],
+      "options": [
+        "Customer Loyalty (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're still a fan of our 'Crazy Crust' pizza place, even after we mistakenly made a pineapple and sardine special?",
+        "Yes, indeed! Your willingness to experiment is part of your charm, even if some experiments are more successful than others."
+      ],
+      "options": [
+        "Customer Loyalty (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you loved our 'Personal Pajama' service, where we custom-print your dog's face on the PJs?",
+        "Yes! I've always wanted to sleep in a pile of my dog's faces. It's oddly comforting!"
+      ],
+      "options": [
+        "Personalization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying you enjoyed our 'Individual Ice Cream', where we shaped the ice cream like your face?",
+        "That's right! Eating my own face was a surreal experience, but I appreciate the effort you guys put into it."
+      ],
+      "options": [
+        "Personalization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're a fan of our 'Selfie Soap', where we carve your selfie into a bar of soap?",
+        "Yes, indeed! Washing my hands with my own face is something I never knew I needed. You guys are next level!"
+      ],
+      "options": [
+        "Personalization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you liked our 'Everywhere Help' system, where you can reach us via email, phone, social media, and even carrier pigeon?",
+        "Yes! I mean, the carrier pigeon was a bit of a surprise, but it's nice to know I have options!"
+      ],
+      "options": [
+        "Multichannel Support (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's right! I mean, I haven't used the smoke signal option yet, but I love that it's there just in case."
+      ],
+      "options": [
+        "Multichannel Support (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you liked our 'Omnipresent Assistance', where we offer support via email, hotline, skywriting, and interpretive dance?",
+        "Yes, indeed! Your interpretive dance really clarified my question about the product. You guys are truly unique!"
+      ],
+      "options": [
+        "Multichannel Support (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you enjoyed our 'Adventure Shopping' experience, where we turned grocery shopping into a scavenger hunt?",
+        "Yes! I've never had so much fun buying milk and bread before. Your in-store DJ really added to the excitement!"
+      ],
+      "options": [
+        "Customer Experience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying you loved our 'Cinema Salon' concept, where we screen old movies while you get your hair done?",
+        "Absolutely! Getting a trim while watching 'Casablanca' was a surreal experience. Your popcorn conditioner is the bomb!"
+      ],
+      "options": [
+        "Customer Experience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're a fan of our 'Spooky Bank' idea, where we have Halloween themed banking year-round?",
+        "Yes, indeed! Who knew that making a deposit could be so thrilling? Your zombie tellers really keep me on my toes!"
+      ],
+      "options": [
+        "Customer Experience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you appreciated our 'Peaceful Pizza' policy, where we offered you a free pizza when we accidentally delivered you a calzone instead?",
+        "Yes! The calzone was a surprise, but the free pizza really smoothed things over. Your 'No Calzone Left Behind' policy is ingenious!"
+      ],
+      "options": [
+        "Conflict Resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Absolutely! The original order was for a birthday party, but the extra balloons made for an impromptu, fun-filled balloon party!"
+      ],
+      "options": [
+        "Conflict Resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're a fan of our 'Sweet Apology' method, where we send a box of chocolates whenever we make a mistake on an order?",
+        "Yes, indeed! The wrong book arrived, but the chocolates were so good, I almost forgot about it. Plus, you sent the right book immediately after!"
+      ],
+      "options": [
+        "Conflict Resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you enjoyed our 'Safari Shopping' experience, where we guided you from discovery to purchase like a tour guide in the wild?",
+        "Yes! I've never had so much fun buying a pair of shoes. Your 'Lion Tracker' sales associate was super helpful!"
+      ],
+      "options": [
+        "Customer Journey (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Absolutely! It felt like a fun and adventurous hike, but instead of reaching a peak, I got a fantastic new laptop!"
+      ],
+      "options": [
+        "Customer Journey (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Yes, indeed! Your 'Rocket Guide' was so patient and helpful, it really made buying my first car an out-of-this-world experience!"
+      ],
+      "options": [
+        "Customer Journey (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you enjoyed our 'Golden Glove' service, where we handle each product with utmost care and deliver it to you in mint condition?",
+        "Yes! My action figures arrived in perfect shape. It's like they were delivered by a museum curator!"
+      ],
+      "options": [
+        "Service Quality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying you appreciated our 'Turbo Turtle' delivery service, where we promise slow but steady and reliable delivery?",
+        "Absolutely! Your turtle mascot may be slow, but my packages always arrive right on time. No hares in this race!"
+      ],
+      "options": [
+        "Service Quality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're a fan of our 'Spotless Sparrow' cleaning service, where we leave your house as clean as a sparrow's nest?",
+        "Yes, indeed! Your cleaning crew may have been dressed as sparrows, but they left my house as clean as an operating room!"
+      ],
+      "options": [
+        "Service Quality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're telling me you enjoyed our 'Elephant Ears' negotiation technique where we listen more than we speak?",
+        "Yes! It was like you had giant ears absorbing everything I said. It made me feel heard and valued in the negotiation!"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying you appreciated our 'Parrot Parley', where we repeat back your points to show we understood?",
+        "Absolutely! I felt like I was talking to a very understanding parrot. It was oddly reassuring and productive!"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Yes, indeed! Your team hopped around my points like bunnies in a field. It was an engaging and effective way of showing that you were listening."
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you liked our 'Dolphin Dive' negotiation approach where we establish common ground like dolphins in a pod?",
+        "Yes! Your team really dived into my interests and we shared some great stories. It made the negotiation feel more like a friendly chat."
+      ],
+      "options": [
+        "Rapport Building (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying you appreciated our 'Penguin Party', where we find something we all enjoy discussing and use it to lighten the mood?",
+        "Absolutely! Who knew we all loved ice cream flavors so much? It definitely made the negotiation more enjoyable."
+      ],
+      "options": [
+        "Rapport Building (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Yes, indeed! Your team created such a buzz around the negotiation table. It felt more like a brainstorming session than a negotiation!"
+      ],
+      "options": [
+        "Rapport Building (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're telling me you enjoyed our 'Lion's Roar' negotiation technique, where we state our needs clearly and confidently?",
+        "Yes! You guys were like lions claiming their territory, it really made your positions clear!"
+      ],
+      "options": [
+        "Assertiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying you appreciated our 'Eagle Eye' approach, where we assert our perspectives with precision and focus?",
+        "Absolutely! Your team was as sharp as eagles spotting their prey from the sky. I knew exactly where you stood."
+      ],
+      "options": [
+        "Assertiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're a fan of our 'Elephant Stomp' negotiation style, where we stand firm on our key points like an elephant?",
+        "Yes, indeed! Your team made your points as clear as an elephant's stomp. It made the negotiation straightforward."
+      ],
+      "options": [
+        "Assertiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you appreciated our 'Koala Cuddle' negotiation technique, where we empathize with your feelings and respond accordingly?",
+        "Yes! Your team was as understanding and comforting as a koala's hug. It made the negotiation feel more human."
+      ],
+      "options": [
+        "Emotional Intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're telling me you liked our 'Dolphin Dance' where we read your mood and adapt our approach to match it?",
+        "Absolutely! Your team was as intuitive and adaptable as dolphins. It made me feel more at ease during the negotiation."
+      ],
+      "options": [
+        "Emotional Intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're a fan of our 'Wolf Whisper' negotiation method, where we sense the emotions in the room and respond appropriately?",
+        "Yes, indeed! Your team navigated the negotiation's emotional landscape like wolves in the wild. It was truly impressive."
+      ],
+      "options": [
+        "Emotional Intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you enjoyed our 'Chameleon Change-Up' negotiation technique, where we adapt to the situation and alter our approach?",
+        "Yes! You guys were as adaptable as a chameleon changing colors. It kept the negotiation interesting!"
+      ],
+      "options": [
+        "Adaptability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're telling me you liked our 'Octopus Options' style, where we switch tactics based on your responses?",
+        "Absolutely! Your team was as flexible as an octopus. It really kept me on my toes during the negotiation."
+      ],
+      "options": [
+        "Adaptability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Yes, indeed! Your team adapted to changes as well as a starfish regrows its limbs. The negotiation was very dynamic."
+      ],
+      "options": [
+        "Adaptability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you liked our 'Beaver Building' negotiation technique, where we try to construct solutions for every problem that pops up?",
+        "Absolutely! Your team was as good at crafting solutions as a beaver is at building dams. You made the negotiation process very constructive!"
+      ],
+      "options": [
+        "Problem-solving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're telling me you enjoyed our 'Mongoose Method' of navigating obstacles in the negotiation by quickly finding solutions?",
+        "Indeed! Your team tackled issues as swiftly and decisively as a mongoose deals with a cobra. It was truly impressive."
+      ],
+      "options": [
+        "Problem-solving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're a fan of our 'Honeybee Hive' negotiation strategy, where we collectively work to solve problems and reach agreement?",
+        "Yes! Your team's problem-solving was as effective as a honeybee's team effort. The negotiation felt very collaborative."
+      ],
+      "options": [
+        "Problem-solving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Absolutely! Your team was as persuasive as a peacock is captivating. It kept the negotiation engaging!"
+      ],
+      "options": [
+        "Persuasion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Yes, indeed! Your team was as persuasive as a dolphin doing flips to get a treat. The negotiation felt very dynamic."
+      ],
+      "options": [
+        "Persuasion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me understand, you're a fan of our 'Bee Buzzing' negotiation method, where we constantly highlight the benefits of our proposal?",
+        "Certainly! Your team was as persuasive as a bee is persistent. The negotiation was very compelling."
+      ],
+      "options": [
+        "Persuasion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you liked our 'Panda Peacekeeping' negotiation approach, where we focus on resolving conflicts as peacefully as a panda munching bamboo?",
+        "Absolutely! Your team resolved issues as calmly as a panda enjoys its meal. The negotiation was very harmonious!"
+      ],
+      "options": [
+        "Conflict resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying you admired our 'Swan Solution' tactic, where we gracefully glide over conflicts to find a resolution?",
+        "Yes, indeed! Your team handled conflicts as elegantly as a swan swims across a lake. The negotiation was very graceful."
+      ],
+      "options": [
+        "Conflict resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me understand, you're a fan of our 'Otter Oration' negotiation method, where we playfully navigate through conflicts to find an agreeable solution?",
+        "Certainly! Your team resolved issues as joyfully as an otter slides down a river bank. The negotiation was very enjoyable."
+      ],
+      "options": [
+        "Conflict resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Absolutely! Your team was as patient as a sloth hanging from a tree. It felt like a slow and steady win!"
+      ],
+      "options": [
+        "Patience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying you enjoyed our 'Tortoise Tactic', where we slowly but surely address all the issues at hand?",
+        "Yes, indeed! Your team was as patient as a tortoise in a race. The negotiation felt methodical and comprehensive."
+      ],
+      "options": [
+        "Patience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me understand, you're a fan of our 'Snail Speech' negotiation method, where we carefully consider each point before moving forward?",
+        "Certainly! Your team was as patient as a snail crossing a sidewalk. The negotiation was very thoughtful."
+      ],
+      "options": [
+        "Patience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You didn't seem surprised when we pulled out the 'Llama Ledger' showing all our detailed research about the wool market trends.",
+        "Nope, not at all. I knew you folks were thorough, but I didn't expect you to have knowledge right down to llama wool prices in the Andes!"
+      ],
+      "options": [
+        "Preparation and Research (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our 'Dolphin Dossier' detailing the migratory patterns was pretty impressive, right?",
+        "Impressive? More like encyclopedic! I feel like I could pass a marine biology test after that negotiation."
+      ],
+      "options": [
+        "Preparation and Research (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you find our 'Penguin Portfolio' full of Antarctic real estate data helpful?",
+        "Helpful? I'm thinking of starting a new career as a penguin real estate agent!"
+      ],
+      "options": [
+        "Preparation and Research (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying that the only way to communicate with the Venusians is by interpretive dance?",
+        "Yes, exactly. They value physical expression over verbal. So get those jazz hands ready!"
+      ],
+      "options": [
+        "Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't speak squirrel. How am I supposed to negotiate for the acorn supply?",
+        "Don't worry. We've developed a state-of-the-art squirrel-to-human translation device. It should work... mostly."
+      ],
+      "options": [
+        "Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The only way they'll listen to our proposal is if we present it in song?",
+        "Yep, they're a musical tribe. Better start practicing your falsetto."
+      ],
+      "options": [
+        "Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't decide whether to buy this video game or save the money.",
+        "Think about it. Which one will you appreciate more in the long run?"
+      ],
+      "options": [
+        "Decision-making (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Should I study for the test tomorrow or go to the movies?",
+        "Remember, the movie will still be there after the test, but the test won't wait for the movie!"
+      ],
+      "options": [
+        "Decision-making (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't know if I should eat this last piece of cake or leave it for someone else.",
+        "Well, are you still hungry? And how much do you think others want the cake?"
+      ],
+      "options": [
+        "Decision-making (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've got a flat tire, but I only have a rubber chicken and a snorkel in my trunk!",
+        "No worries! I've got a wrench and an inflatable unicorn. Let's combine our resources!"
+      ],
+      "options": [
+        "Collaborative mindset (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This jigsaw puzzle is so hard. I can't find the corner pieces!",
+        "Let's do it together. You search for edges, and I'll look for the blue sky pieces. Teamwork makes the dream work!"
+      ],
+      "options": [
+        "Collaborative mindset (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Oh no, my garden gnomes have revolted and won't let me into the shed!",
+        "Never fear, I have a peace treaty written up from the last gnome uprising. Let's negotiate together."
+      ],
+      "options": [
+        "Collaborative mindset (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If we were to trade magical creatures, what would you offer for my fire-breathing unicorn?",
+        "Hmm, how about my teleporting platypus? It can transport itself anywhere in the world within seconds, making it the ultimate travel companion!"
+      ],
+      "options": [
+        "Creativity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "We need to come up with a new way to settle disputes between the citizens of our imaginary kingdom. Any ideas?"
+      ],
+      "options": [
+        "Creativity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have a bushel of invisible apples that I'd like to sell. How would you market them to potential customers?"
+      ],
+      "options": [
+        "Creativity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that in Japan, it's considered rude to stick your chopsticks upright in a bowl of rice?"
+      ],
+      "options": [
+        "Cultural awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in some parts of the world, people eat fried insects as a snack. It sounds so strange to me!"
+      ],
+      "options": [
+        "Cultural awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In my culture, we have a tradition of dancing with pineapples on our heads during special celebrations. It's so much fun!",
+        "Wow, that sounds interesting! I'd love to learn more about your culture and maybe even join in the pineapple dancing someday."
+      ],
+      "options": [
+        "Cultural awareness (correct answer)"
+      ]
+    }
+  ]
+}

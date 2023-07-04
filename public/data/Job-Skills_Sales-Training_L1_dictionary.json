@@ -1,0 +1,390 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Did you know that I can balance a pineapple on my nose while riding a unicycle?",
+        "No way, that's awesome! I love trying out quirky talents too. I can juggle three oranges while hopping on one foot!"
+      ],
+      "options": [
+        "Building rapport (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard there's a new taco place in town that serves tacos with edible gold flakes on top!",
+        "Woah, that sounds fancy! I'm a huge taco fan myself. Have you tried the one where they use cotton candy as a shell?"
+      ],
+      "options": [
+        "Building rapport (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been learning how to play the ukulele, and I just mastered a song about a llama who loves surfing.",
+        "That's so cool! I play the guitar, and I've been working on a tune about a skateboarding kangaroo. We should jam together sometime!"
+      ],
+      "options": [
+        "Building rapport (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that I can recite the entire alphabet backwards while doing a handstand?",
+        "Wow, that's quite a talent! So you start with Z and then go to Y, right? How long did it take you to learn that?"
+      ],
+      "options": [
+        "Active listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just discovered a new hobby \u2013 underwater basket weaving!",
+        "That sounds intriguing! So, do you actually weave the baskets while submerged in water? How does that work?"
+      ],
+      "options": [
+        "Active listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been learning about a fascinating historical event where people used bread as a weapon during a food fight.",
+        "Haha, that's pretty hilarious! So, when and where did this bread battle take place? Were there any other food weapons involved?"
+      ],
+      "options": [
+        "Active listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that our latest smartphone model comes with a built-in marshmallow dispenser?",
+        "Really? That's so cool! How many marshmallows can it store and does it work with any type of marshmallow?"
+      ],
+      "options": [
+        "Product knowledge (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our new brand of sneakers has a unique feature - they're made from recycled soda bottles and have bubble wrap in the soles!",
+        "Wow, that's interesting! How does the bubble wrap affect comfort and durability? And do they come in various sizes and colors?"
+      ],
+      "options": [
+        "Product knowledge (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "We just launched a new line of eco-friendly pens that grow into plants when you're done using them.",
+        "That's amazing! What kind of plants can grow from these pens? And how long does it typically take for the plant to sprout after planting the pen?"
+      ],
+      "options": [
+        "Product knowledge (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm looking for a new backpack that can fit my collection of rubber duckies.",
+        "That sounds fun! How many rubber duckies do you usually carry, and are there any specific features you'd like in the backpack?"
+      ],
+      "options": [
+        "Identifying customer needs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need a new alarm clock that can wake me up without scaring my pet hamster.",
+        "Got it! So you're looking for something with a gentle sound or vibration? Do you have any preferences regarding the size or design of the alarm clock?"
+      ],
+      "options": [
+        "Identifying customer needs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to buy a new hat for my cat, but it has to be comfortable and stylish.",
+        "How adorable! What's your cat's head size, and do you have any specific styles or materials in mind that your cat might like?"
+      ],
+      "options": [
+        "Identifying customer needs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't think I need a waffle maker that can also cook spaghetti. It just seems too weird."
+      ],
+      "options": [
+        "Handling objections (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm not sure if I want to buy a jacket made of bubble wrap. What if it pops and loses its insulation?"
+      ],
+      "options": [
+        "Handling objections (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't need a pair of sunglasses that can play music. It seems like a pointless feature."
+      ],
+      "options": [
+        "Handling objections (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that our new line of headphones can survive being run over by a steamroller and still play your favorite tunes?"
+      ],
+      "options": [
+        "Effective communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our latest vacuum cleaner model has the ability to clean up glitter, even from the darkest corners of your room!",
+        "That's amazing! So, it has powerful suction and a versatile design to reach tight spaces? Perfect for post-crafting cleanup sessions!"
+      ],
+      "options": [
+        "Effective communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our new brand of energy drinks is made with a secret blend of ingredients that gives you the power to stay awake during the most boring lectures!",
+        "That sounds intriguing! So, it provides a boost of energy and helps improve focus? Just what I need to survive school days!"
+      ],
+      "options": [
+        "Effective communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our latest umbrella design is so popular, even famous movie stars have been spotted using it during unexpected rainstorms on the red carpet!",
+        "Really? Well, if it's good enough for celebrities, I definitely need one for those surprise downpours!"
+      ],
+      "options": [
+        "Persuasive selling techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A game with a Sock Monster? That sounds like so much fun! I better grab one before they're all gone."
+      ],
+      "options": [
+        "Persuasive selling techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's awesome! I get a cool water bottle and contribute to a greener planet? Sign me up!"
+      ],
+      "options": [
+        "Persuasive selling techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, that sounds both fun and productive! I'll have to give it a try and see if it helps me stay focused on my tasks."
+      ],
+      "options": [
+        "Time management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've started planning my day by assigning each task a specific time slot, like \"8am-9am - Master the art of making pancakes shaped like dinosaurs.\"",
+        "That's a great way to stay organized and make sure you have enough time for all your important activities, including prehistoric breakfast creations!"
+      ],
+      "options": [
+        "Time management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That sounds like a smart way to ensure you're making the most of your time, especially for those essential rubber duck-related activities!"
+      ],
+      "options": [
+        "Time management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, are you ready to purchase this amazing toaster that can also print your favorite memes on the bread?",
+        "You know what? It's too unique to pass up! Let's do it \u2013 I'm excited to surprise my friends with meme-toast!"
+      ],
+      "options": [
+        "Closing the sale (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can see you're really interested in this unicycle built for two. Why not give it a try and experience the joy of tandem unicycling with a friend?",
+        "You've convinced me! I can't wait to hit the streets with my bestie on our new double unicycle!"
+      ],
+      "options": [
+        "Closing the sale (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Absolutely! My sock puppet theater will never be the same again. Let's get those socks!"
+      ],
+      "options": [
+        "Closing the sale (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey there! Just checking in to see how you're enjoying your new robot vacuum that moonwalks while it cleans.",
+        "Oh, it's fantastic! My floors have never been cleaner, and the moonwalking feature always makes me smile. Thanks for following up!"
+      ],
+      "options": [
+        "Post-sale follow-up (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hi! I wanted to see how your pet iguana is liking the custom-made, rhinestone-studded leash you purchased last week.",
+        "It's amazing! My iguana looks fabulous and gets so many compliments during our walks. I appreciate you checking in!"
+      ],
+      "options": [
+        "Post-sale follow-up (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Howdy! Just wanted to ask how your new set of edible, fruit-flavored markers has been working for your art projects.",
+        "They're incredible! My artwork is more vibrant than ever, and I love being able to snack on my supplies. Thanks for reaching out!"
+      ],
+      "options": [
+        "Post-sale follow-up (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow, that's awesome! Thank you for recognizing my passion for all things glow-in-the-dark. I'll definitely be back to buy more."
+      ],
+      "options": [
+        "Customer relationship management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hi there! We've just launched a new line of waterproof socks, and since you're a fan of our water-themed products, we thought you might be interested.",
+        "Oh, that sounds perfect for my puddle-jumping adventures! Thanks for keeping me in mind and letting me know about the new product."
+      ],
+      "options": [
+        "Customer relationship management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "We recently updated our collection of hilarious doormats, and as one of our favorite funny doormat enthusiasts, we wanted to give you a sneak peek.",
+        "You know me too well! I can't resist a good doormat joke. I'll be sure to check out the new designs. Thanks for thinking of me!"
+      ],
+      "options": [
+        "Customer relationship management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Since you're purchasing this giant inflatable flamingo pool float, you might also be interested in our matching flamingo-patterned beach towels!",
+        "Oh, that sounds perfect! I'll definitely need a fabulous towel to go with my fabulous float. Thanks for the suggestion!"
+      ],
+      "options": [
+        "Upselling and cross-selling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I see you're buying this collection of sci-fi novels. We have a limited edition set of galaxy-themed bookmarks that would go great with your new books!",
+        "That's an out-of-this-world idea! I'd love to add those bookmarks to my purchase \u2013 they'll make my reading experience even more stellar."
+      ],
+      "options": [
+        "Upselling and cross-selling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Intriguing! I'm always up for trying new smoothie recipes, especially ones as adventurous as that. I'll take the recipe book too!"
+      ],
+      "options": [
+        "Upselling and cross-selling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've set a goal to become the world's fastest unicyclist while playing the harmonica!"
+      ],
+      "options": [
+        "Goal setting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to break the world record for the most rubber bands stretched over a watermelon in one minute!"
+      ],
+      "options": [
+        "Goal setting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My goal is to create the world's largest collection of socks with pictures of cats wearing sunglasses.",
+        "That sounds like a fun and fashionable goal! Remember to set milestones and deadlines to help you stay on track as you build your epic sock collection."
+      ],
+      "options": [
+        "Goal setting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our latest product presentation, we'll be showcasing the incredible features of our new line of self-tying shoelaces through interpretive dance!"
+      ],
+      "options": [
+        "Sales presentation skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "For our upcoming sales pitch, we've created a catchy jingle to highlight the benefits of our eco-friendly, solar-powered lawn mowers!",
+        "That sounds like a fun and engaging way to capture your audience's attention. I bet they'll be humming the jingle long after the presentation is over."
+      ],
+      "options": [
+        "Sales presentation skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our next sales presentation will feature a live demonstration of our waterproof, astronaut-approved space pens by writing underwater!"
+      ],
+      "options": [
+        "Sales presentation skills (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Ethical selling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our new line of energy drinks has a secret ingredient that gives you superpowers, but I won't make false claims just to boost sales.",
+        "Good call! Being truthful and transparent in your sales techniques shows integrity and helps build trust with your customers."
+      ],
+      "options": [
+        "Ethical selling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have inside information about a competitor's product, but I won't use it to undermine them during my sales pitch."
+      ],
+      "options": [
+        "Ethical selling (correct answer)"
+      ]
+    }
+  ]
+}

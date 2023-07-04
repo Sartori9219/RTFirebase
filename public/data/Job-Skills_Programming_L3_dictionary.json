@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Dude, I heard you went to that crazy party last night. How many pizzas did you devour?",
+        "Not sure, let's call it 'x'. But 'x' was definitely enough to attract some weird looks!"
+      ],
+      "options": [
+        "Variables (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about that new alien language? They don't have numbers, just symbols. I can't figure out how much 'Zog' is.",
+        "Well, in our world, 'Zog' could just be a variable. Who knows, it might mean 42 pizzas or 7 cats."
+      ],
+      "options": [
+        "Variables (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, I've been watching this cooking show, and they keep saying add a pinch of salt, but they never specify how much a pinch is.",
+        "In programming, we'd call that a variable. It's like saying add 'saltAmount' of salt. 'saltAmount' could be any amount we want!"
+      ],
+      "options": [
+        "Variables (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, I bought a whole box of cookies. How many do you want?",
+        "I'll take a variable amount. I'm not sure yet."
+      ],
+      "options": [
+        "Variables (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Man, I feel like our class schedule changes every other day.",
+        "Yeah, it's like our schedule is a variable in some kind of weird school programming experiment!"
+      ],
+      "options": [
+        "Variables (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How much salsa should I add to this recipe?",
+        "Just think of it like a variable in your code, it depends on how spicy you want the outcome!"
+      ],
+      "options": [
+        "Variables (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Dude, I got a message from an alien!",
+        "Really? What kind? A string of text, or an integer of their lifespan?"
+      ],
+      "options": [
+        "Data Types (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't decide what type of pizza to order.",
+        "Let's program it! Assign a boolean for pepperoni, an integer for the number of slices, and a string for the crust type!"
+      ],
+      "options": [
+        "Data Types (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've just baked an array of pies! We have apple, cherry, and blueberry!",
+        "But wait, what data type are they? Are they delicious?"
+      ],
+      "options": [
+        "Data Types (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My pet robot only fetches me a soda if I've finished my homework. It's like it has conditions for everything!",
+        "Sounds like your robot has some serious 'if-else' statements going on!"
+      ],
+      "options": [
+        "Control Structures (If-Else Statements, Loops) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm stuck in a time loop! Every day I wake up, eat, go to school, do homework, and sleep!",
+        "Sounds like your life has been coded with a 'while' loop."
+      ],
+      "options": [
+        "Control Structures (If-Else Statements, Loops) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish I could just keep eating ice cream forever...",
+        "Careful, you might get stuck in an infinite 'for' loop of brain freeze!"
+      ],
+      "options": [
+        "Control Structures (If-Else Statements, Loops) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm getting tired of always having to flip pancakes. I wish I had a magic word that would just do it for me!",
+        "Sounds like you need a 'pancakeFlip()' function in your life!"
+      ],
+      "options": [
+        "Functions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Every time I see a spider, I scream and run away. It's like an automatic response!",
+        "That's like your own personal 'spiderScreamAndRun()' function, huh?"
+      ],
+      "options": [
+        "Functions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've started brushing my teeth and flossing together every night.",
+        "Good job on creating a 'nightlyDentalHygiene()' function!"
+      ],
+      "options": [
+        "Functions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My wardrobe is just bursting with colorful socks. I've got red, blue, yellow, green...",
+        "That sounds like a vibrant sock array you got there!"
+      ],
+      "options": [
+        "Arrays (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm planning my meals for the week. I've got pasta on Monday, sushi on Tuesday, pizza on Wednesday...",
+        "Sounds like you're indexing your meals in an array!"
+      ],
+      "options": [
+        "Arrays (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't decide on a movie tonight. I've got 'Star Wars', 'Inception', 'The Godfather', 'The Dark Knight', and 'Pulp Fiction' on my list.",
+        "Wow, that's quite the array of movies you've got!"
+      ],
+      "options": [
+        "Arrays (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the chef who just opened a bakery and a pasta shop at the same time?",
+        "Wow, that's quite the object-oriented approach to cooking! Different restaurants but they share similar characteristics like needing a kitchen, staff, menu, etc."
+      ],
+      "options": [
+        "Object-Oriented Programming (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My dream house would have a big kitchen, a cozy living room, a huge library, and a spacious bedroom with an amazing view!",
+        "You're not just building a house, you're basically creating an object with a bunch of properties and methods like 'cook()', 'relax()', 'read()', and 'sleep()'!"
+      ],
+      "options": [
+        "Object-Oriented Programming (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My dog Buddy can do so many tricks! He can fetch, roll over, sit, stand and even dance!",
+        "Sounds like Buddy is a well-programmed object with lots of methods!"
+      ],
+      "options": [
+        "Object-Oriented Programming (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My grandma follows this weird process to make her secret spaghetti sauce. It's like she's decrypting a secret code or something.",
+        "Oh, so she has a specific algorithm for spaghetti sauce, eh? Just like in programming, each step matters!"
+      ],
+      "options": [
+        "Algorithms (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't decide on the best way to get all my chores done. Should I do laundry first or vacuum first?",
+        "Sounds like you need to come up with an algorithm, my friend. Determine the most efficient sequence for your tasks!"
+      ],
+      "options": [
+        "Algorithms (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you always eat your pizza starting from the crust?",
+        "It's my pizza-eating algorithm. Crust first, then the rest. Efficient and leaves the best part for last!"
+      ],
+      "options": [
+        "Algorithms (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I feel like I'm stuck in a loop - I ask you what recursion is, and you tell me it's when a function calls itself.",
+        "That's exactly it! It's like looking into a mirror that's reflecting a mirror that's reflecting a mirror..."
+      ],
+      "options": [
+        "Recursion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, I heard you like Matryoshka dolls...",
+        "Oh, they're the best! A doll within a doll within a doll...it's like recursion in real life!"
+      ],
+      "options": [
+        "Recursion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I swear, arguing with my little brother is like dealing with recursion. He just repeats everything I say.",
+        "So, he's basically a function that keeps calling itself until you reach a base case of silence!"
+      ],
+      "options": [
+        "Recursion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been trying to catch a bug in my room all day, it's almost like it has a mind of its own.",
+        "That's the programmer's life for you! Always trying to catch bugs but in our case, they're hiding in the code."
+      ],
+      "options": [
+        "Debugging (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you ever been lost in a maze, turning every corner just to find another wall?",
+        "That's just like debugging, isn't it? Trying to find where your code went wrong!"
+      ],
+      "options": [
+        "Debugging (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been trying to find Waldo in this book for hours now...",
+        "That's like debugging - spotting that tiny error in a sea of code!"
+      ],
+      "options": [
+        "Debugging (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ever tried to untangle a ball of yarn?",
+        "It feels just like debugging - unraveling the mess to find the start!"
+      ],
+      "options": [
+        "Debugging (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you ever tried reading a book upside down?",
+        "That must feel just like trying to understand code with bad syntax!"
+      ],
+      "options": [
+        "Syntax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ever tried to bake a cake without following the recipe order?",
+        "That's like coding with incorrect syntax \u2013 you're bound to create a mess!"
+      ],
+      "options": [
+        "Syntax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You remember that time you tried to assemble that IKEA furniture without the manual?",
+        "A bit like coding with incorrect syntax, right? You're left with a bunch of misplaced screws and a shaky chair!"
+      ],
+      "options": [
+        "Syntax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when we thought that inflatable pool would fit in your living room?",
+        "Definitely a case of not testing our assumptions, just like when you forget to test a code snippet!"
+      ],
+      "options": [
+        "Testing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ever try out a new cooking recipe without tasting it along the way?",
+        "Oh, that's like writing a program without any testing. Surprise burnt cookies, anyone?"
+      ],
+      "options": [
+        "Testing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember that time you tried to perform a skateboard trick without practicing first?",
+        "Just like skipping code testing, you end up face-first on the ground!"
+      ],
+      "options": [
+        "Testing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you remember when we tried to build a treehouse without any tools?",
+        "Absolutely! Just like trying to code without using libraries and frameworks. We ended up with a tree-tent instead."
+      ],
+      "options": [
+        "Libraries and Frameworks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine cooking an elaborate meal but having to grow all the ingredients yourself.",
+        "That's coding without libraries and frameworks! We need those ready-made solutions!"
+      ],
+      "options": [
+        "Libraries and Frameworks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ever try to assemble IKEA furniture without the instructions?",
+        "It\u2019s like coding without libraries and frameworks. I ended up with a chair-table hybrid."
+      ],
+      "options": [
+        "Libraries and Frameworks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when we hoarded cookies and then forgot where we hid them?",
+        "That's just like forgetting to store your data in a database. A tragedy of lost cookies."
+      ],
+      "options": [
+        "Databases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's like playing hide and seek, but you forget all the good hiding spots.",
+        "Oh, you mean like when you forget to use a database in programming?"
+      ],
+      "options": [
+        "Databases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when we played that game, and I kept resetting it every time I was about to lose?",
+        "Oh, you mean pulling a 'Version Control'? If only you could do that on your programming assignments."
+      ],
+      "options": [
+        "Version Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's like baking a cake, messing up, and then wishing you could go back to the step before you added too much salt.",
+        "In programming, we call that 'Version Control'. Wish life had a 'commit' and 'revert' button, too!"
+      ],
+      "options": [
+        "Version Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you ever wish you could roll back time, like, Oops, I didn't mean to say that?",
+        "That's like Version Control in programming! It allows you to revert your code to a previous state."
+      ],
+      "options": [
+        "Version Control (correct answer)"
+      ]
+    }
+  ]
+}

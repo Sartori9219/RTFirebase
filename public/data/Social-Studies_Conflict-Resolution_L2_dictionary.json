@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I heard you talking about how you once raced a llama while wearing a clown costume. That's wild!",
+        "Haha, yeah! It was a fundraiser for a local charity, and it was a blast!"
+      ],
+      "options": [
+        "Active listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You mentioned that you started a collection of vintage rubber duckies. What a unique hobby!",
+        "Thanks! I love finding rare and unusual ducks to add to my collection."
+      ],
+      "options": [
+        "Active listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I overheard you saying that you baked a cake shaped like a giant taco for your friend's birthday. That's so creative!",
+        "Thanks! It was a fun challenge, and my friend absolutely loved it."
+      ],
+      "options": [
+        "Active listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When you noticed I was feeling down after losing that board game, you cheered me up with a funny dance. It really made me feel better!",
+        "I could tell you were bummed, so I wanted to lighten the mood. We all have our off days!"
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You were so understanding when I accidentally spilled coffee on your keyboard. Instead of getting angry, you shared your own coffee mishap story.",
+        "We've all been there! It's important to remember that accidents happen and it's better to empathize than to judge."
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I appreciate that you took the time to listen to my concerns about presenting in front of the team. It meant a lot that you shared your own experience with stage fright.",
+        "It's always comforting to know we're not alone in our struggles. Empathy helps us connect and support each other."
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When you tried that sandwich with peanut butter, pickles, and hot sauce, I was amazed by your open-mindedness!",
+        "Haha, I like to keep an open mind when it comes to food. You never know when you'll discover a new favorite!"
+      ],
+      "options": [
+        "Open-mindedness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I was impressed by your willingness to learn the office's secret handshake, even though it involved doing the chicken dance.",
+        "Well, being open-minded helps me embrace new experiences and fit in with the team!"
+      ],
+      "options": [
+        "Open-mindedness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When we had that brainstorming session and someone suggested using a giant inflatable unicorn as our booth mascot, you were totally on board!",
+        "I believe being open-minded helps us explore creative ideas and find unconventional solutions."
+      ],
+      "options": [
+        "Open-mindedness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I loved how you explained the new software update using the metaphor of a pizza delivery. It made everything so much clearer!",
+        "Haha, thank you! I find that using relatable examples can make complex concepts easier to understand."
+      ],
+      "options": [
+        "Effective communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your presentation on our project progress was both informative and entertaining. The way you incorporated memes kept everyone engaged!",
+        "Thanks! I believe effective communication is about finding creative ways to get the message across while keeping the audience interested."
+      ],
+      "options": [
+        "Effective communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I appreciate how you communicated your concerns about the project deadline in a clear and respectful manner. It helped us all understand the challenges and find a solution together.",
+        "Being open and honest in our communication is key to addressing issues and working collaboratively."
+      ],
+      "options": [
+        "Effective communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When you stood up at the meeting and calmly requested more time for your team, it was assertiveness at its finest.",
+        "Thank you! I believe in standing up for my team's needs while maintaining a respectful tone."
+      ],
+      "options": [
+        "Assertiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I liked how you suggested replacing the office chairs with bean bags, even though it was a bold idea. Your assertiveness really shines through!",
+        "Haha, I thought it would be a fun and comfortable change. It's important to express our ideas confidently!"
+      ],
+      "options": [
+        "Assertiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When our lunch order was mixed up, you politely yet assertively explained the situation to the restaurant staff and got it resolved quickly.",
+        "Assertiveness is about finding the right balance between being respectful and standing up for ourselves."
+      ],
+      "options": [
+        "Assertiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You always know when to crack a joke or give a pep talk to lift the team's spirits. Your emotional intelligence is impressive!",
+        "Thank you! I believe understanding and managing emotions helps us create a positive work environment."
+      ],
+      "options": [
+        "Emotional intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love how you could tell I was feeling overwhelmed and offered to help me out with my tasks. Your emotional intelligence is really remarkable.",
+        "We're all in this together, and being able to recognize and respond to each other's emotions makes us a stronger team."
+      ],
+      "options": [
+        "Emotional intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When the team was stressed about meeting the deadline, you organized a surprise ice cream party to help everyone relax and regroup. That was a great display of emotional intelligence!",
+        "Thanks! Sometimes, we need a little break to recharge and refocus, and recognizing those moments is key to emotional intelligence."
+      ],
+      "options": [
+        "Emotional intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You figured out that the real reason our team was behind schedule was that we kept running out of coffee! That's some great detective work!",
+        "Haha, thank you! Identifying underlying issues helps us address the root causes and get back on track."
+      ],
+      "options": [
+        "Identifying underlying issues (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When you discovered that our office plants were wilting because the air conditioning was too cold, you solved the mystery that had been baffling us for weeks!",
+        "Sometimes, it takes a bit of investigation to uncover the underlying issues and find the right solution."
+      ],
+      "options": [
+        "Identifying underlying issues (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You realized that the reason we were all so tired in the afternoons was due to the lack of natural light in the office. Your suggestion to add more lamps was a game-changer!",
+        "I'm glad it helped! Identifying underlying issues is essential for improving our work environment and overall well-being."
+      ],
+      "options": [
+        "Identifying underlying issues (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When the printer jammed right before our big presentation, you turned it into a shadow puppet theatre! You have a unique problem-solving mindset.",
+        "Haha, thanks! Sometimes, thinking outside the box helps us find creative solutions to unexpected problems."
+      ],
+      "options": [
+        "Problem-solving mindset (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When we couldn't decide on a team-building activity, you came up with the idea of a DIY escape room! Your problem-solving mindset really shines.",
+        "Thank you! Combining everyone's interests was a fun way to find a solution that everyone could enjoy."
+      ],
+      "options": [
+        "Problem-solving mindset (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You quickly found a way to fix the office internet outage by turning our smartphones into hotspots. Your problem-solving mindset saved the day!",
+        "I'm glad I could help! When challenges arise, it's important to stay calm and think of creative solutions."
+      ],
+      "options": [
+        "Problem-solving mindset (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When we couldn't decide between pizza or sushi for lunch, you suggested a half-and-half combo deal. That was a great example of compromise and negotiation!",
+        "Thanks! Finding a solution that satisfies everyone is what compromise and negotiation are all about."
+      ],
+      "options": [
+        "Compromise and negotiation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love how you managed to convince our boss to let us have half days on Fridays in exchange for starting work earlier. That was some top-notch compromise and negotiation!",
+        "It's all about finding a balance that benefits everyone. I'm glad we could make it work!"
+      ],
+      "options": [
+        "Compromise and negotiation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You brokered a truce between the coffee lovers and the tea enthusiasts by organizing a weekly beverage swap. That was a creative approach to compromise and negotiation!",
+        "Thank you! It's important to find ways to bring people together and celebrate our differences."
+      ],
+      "options": [
+        "Compromise and negotiation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed you gently told our coworker that you couldn't help with their project until you finished your own tasks. That's a great way of setting boundaries!",
+        "Thank you! It's important to prioritize our own workload and communicate our limits."
+      ],
+      "options": [
+        "Setting boundaries (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I admire how you declined the invitation to join yet another committee, explaining that you needed time to focus on your current responsibilities. That's setting boundaries done right!",
+        "It's essential to know our limits and not overcommit. Setting boundaries helps maintain a healthy work-life balance."
+      ],
+      "options": [
+        "Setting boundaries (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You handled that long meeting well, requesting short breaks to recharge. It's a great example of setting boundaries.",
+        "Thanks! Knowing when to take a breather helps us stay focused and productive in the long run."
+      ],
+      "options": [
+        "Setting boundaries (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When the debate over the office thermostat got heated, you stepped in with a funny story and diffused the situation. Nice use of de-escalation techniques!",
+        "Thank you! Humor can be a powerful tool for calming tensions and bringing people together."
+      ],
+      "options": [
+        "De-escalation techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I appreciated how you de-escalated the conflict between team members by encouraging them to take a break and discuss their issues calmly later. It really helped!",
+        "It's important to give people time and space to cool off before attempting to resolve conflicts."
+      ],
+      "options": [
+        "De-escalation techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You managed to calm down the angry customer by acknowledging their concerns and offering a solution. Your de-escalation techniques were very effective!",
+        "Listening and empathizing can go a long way in diffusing tense situations and finding a resolution."
+      ],
+      "options": [
+        "De-escalation techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I was impressed by how you facilitated the conversation between the design and marketing teams. You helped them find common ground and reach a consensus!",
+        "Thank you! Mediation is all about helping people communicate effectively and find solutions that work for everyone."
+      ],
+      "options": [
+        "Mediation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When our coworkers were arguing over the office playlist, you stepped in and suggested a weekly rotation. Your mediation skills saved the day!",
+        "Haha, I'm glad I could help! Finding a fair compromise is key to keeping everyone happy."
+      ],
+      "options": [
+        "Mediation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your ability to mediate during that tense meeting helped us all find a way to move forward together. You're a natural mediator!",
+        "Thanks! I believe that understanding each person's perspective and fostering open communication can resolve conflicts."
+      ],
+      "options": [
+        "Mediation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When you accidentally deleted my presentation, I appreciated your sincere apology and willingness to help me recreate it. It showed that apologizing and forgiveness are important to you.",
+        "I felt terrible about it, and I wanted to make things right. It's important to own our mistakes and learn from them."
+      ],
+      "options": [
+        "Apologizing and forgiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You handled the situation gracefully when our colleague spilled coffee on your laptop. Your ability to accept their apology and move on was inspiring.",
+        "We all make mistakes, and forgiveness helps us grow and maintain positive relationships."
+      ],
+      "options": [
+        "Apologizing and forgiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I admired how you apologized for being late to the meeting, explaining that you got caught up in another task. Your humility and accountability were refreshing!",
+        "Thank you! Apologizing when we're in the wrong is essential for fostering trust and respect among colleagues."
+      ],
+      "options": [
+        "Apologizing and forgiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You always follow through on your promises, like bringing in those homemade cookies for the team. It really helps build trust!",
+        "Thank you! I believe that keeping our word and being reliable is crucial for fostering a trustworthy work environment."
+      ],
+      "options": [
+        "Building trust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When you shared your experiences and challenges during the team-building exercise, it created a sense of trust and openness among us.",
+        "I'm glad it had a positive impact. Being honest and vulnerable helps us connect and build trust with our colleagues."
+      ],
+      "options": [
+        "Building trust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your willingness to take responsibility for your part in the project's delay and work extra hours to catch up showed your commitment to building trust with the team.",
+        "I believe in being accountable for my actions and demonstrating that I'm dedicated to the team's success."
+      ],
+      "options": [
+        "Building trust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "After our project didn't go as planned, I appreciated how you encouraged the team to reflect on what we could learn from the experience.",
+        "Thank you! It's important to see challenges as opportunities for growth and learning."
+      ],
+      "options": [
+        "Reflecting and learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I loved your idea of creating a 'lessons learned' document after each project, so we can continuously improve our processes. That's a great example of reflecting and learning!",
+        "I'm glad you liked it! Reflecting on our experiences helps us adapt and become more effective in the future."
+      ],
+      "options": [
+        "Reflecting and learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When you shared your insights from the recent conference, it inspired the whole team to reflect on how we could apply those learnings to our own work.",
+        "I'm happy to contribute! Reflecting and learning together helps us all grow and innovate."
+      ],
+      "options": [
+        "Reflecting and learning (correct answer)"
+      ]
+    }
+  ]
+}

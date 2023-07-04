@@ -1,0 +1,380 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Did you know that setting a goal to eat 100 cheeseburgers in one sitting is a great way to become a champion?",
+        "Haha, that's not quite the idea! Setting achievable and realistic goals, like improving your fitness or learning a new skill, can help you grow and reach your true potential."
+      ],
+      "options": [
+        "Goal setting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that if you want to be successful, you should set a goal to collect all the rubber ducks in the world!",
+        "That's a funny thought, but it's important to set meaningful goals that align with your values and interests. For example, you could aim to volunteer at a local organization or excel in a favorite subject."
+      ],
+      "options": [
+        "Goal setting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin told me that the secret to achieving your dreams is to set a goal to take a nap every day at precisely 2:27 PM.",
+        "That's an amusing idea, but setting specific, measurable, and time-bound goals is more effective. For instance, you might set a goal to improve your grades by studying an extra hour each day or joining a study group."
+      ],
+      "options": [
+        "Goal setting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think active listening means you have to wear a superhero cape and strike a power pose while someone talks to you!",
+        "Haha, that's a fun image, but active listening is actually about giving your full attention to the speaker, asking relevant questions, and responding thoughtfully. No capes required!"
+      ],
+      "options": [
+        "Active listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that active listening involves repeating everything the person says backward, like a secret code?",
+        "That's a humorous idea, but in reality, active listening means understanding and retaining the speaker's message without interrupting or judging. You can summarize or paraphrase what they said to ensure clear communication."
+      ],
+      "options": [
+        "Active listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that to be an active listener, you need to nod your head continuously while the other person is talking \u2013 like one of those bobblehead dolls!",
+        "That's a funny thought, but active listening is more than just nodding. It's about engaging with the speaker, showing empathy, and providing verbal and non-verbal feedback to demonstrate your understanding of their message."
+      ],
+      "options": [
+        "Active listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think giving feedback means telling someone they should wear mismatched socks to improve their performance!",
+        "Haha, that's a quirky suggestion, but effective feedback is actually about providing constructive comments on someone's work or behavior, helping them learn and grow. It's important to be honest, specific, and supportive."
+      ],
+      "options": [
+        "Feedback and reflection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that reflection is all about staring at your own reflection in a mirror and asking, Mirror, mirror, on the wall, who's the fairest of them all?",
+        "That's a humorous idea, but reflection is really about taking time to review your experiences, consider what you've learned, and identify areas for improvement. It's a valuable tool for personal growth and development."
+      ],
+      "options": [
+        "Feedback and reflection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that the best way to give feedback is by writing it in invisible ink! It adds an element of mystery and excitement.",
+        "That's a funny thought, but clear communication is key when giving feedback. It's essential to express your thoughts in a way that the receiver can understand, appreciate, and act upon to make positive changes."
+      ],
+      "options": [
+        "Feedback and reflection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think empathy means feeling bad for a slice of pizza because it's been left out in the cold!",
+        "Haha, that's a creative idea, but empathy is actually about understanding and sharing the feelings of others. It helps us connect with people on a deeper level and offer support during difficult times."
+      ],
+      "options": [
+        "Empathy and understanding (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that to truly understand someone, you need to wear their shoes \u2013 literally \u2013 for a whole day?",
+        "That's a humorous thought, but understanding others involves listening to their experiences, acknowledging their emotions, and considering their perspectives. You don't need to swap footwear to do that!"
+      ],
+      "options": [
+        "Empathy and understanding (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that empathy is when you cry every time you see a sad puppy in a movie. You just can't help it!",
+        "That's a funny example, but empathy goes beyond reacting to emotional cues. It's about putting yourself in another person's shoes, understanding their feelings, and supporting them through their struggles."
+      ],
+      "options": [
+        "Empathy and understanding (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think building rapport means constructing a giant fortress made of compliments and high-fives!",
+        "Haha, that's a fun idea, but building rapport is really about establishing a connection with someone through open communication, shared interests, and a genuine understanding of each other's feelings and needs."
+      ],
+      "options": [
+        "Building rapport and trust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that to build trust, you have to perform a secret handshake with 17 different moves while reciting the alphabet backward?",
+        "That's a humorous thought, but building trust is more about being reliable, honest, and supportive in your interactions with others. Consistency and integrity are the keys to earning someone's trust."
+      ],
+      "options": [
+        "Building rapport and trust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that the secret to building rapport is to dress up like a superhero and rescue people from boring conversations!",
+        "That's an amusing concept, but building rapport is actually about finding common ground, showing genuine interest in others, and actively listening to their thoughts and concerns."
+      ],
+      "options": [
+        "Building rapport and trust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think the best way to motivate someone is to throw confetti at them every time they take a step forward!",
+        "Haha, that's a festive idea, but encouragement and motivation are more about providing support, recognizing achievements, and helping others believe in their abilities. A kind word or a listening ear can go a long way!"
+      ],
+      "options": [
+        "Encouragement and motivation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that the secret to encouragement is to sing a personalized cheerleading chant for someone every morning?",
+        "That's a humorous suggestion, but encouraging others involves offering positive reinforcement, constructive feedback, and celebrating their successes. It's about helping them stay focused and inspired to reach their goals."
+      ],
+      "options": [
+        "Encouragement and motivation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that motivating someone means dressing up like their favorite superhero and yelling motivational quotes at them all day!",
+        "That's an amusing idea, but true motivation comes from understanding what drives a person and helping them tap into their inner strength and determination. It's about empowering them to overcome obstacles and achieve their dreams."
+      ],
+      "options": [
+        "Encouragement and motivation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think the best time management strategy is to wear two watches, so you always know exactly how much time you have left!",
+        "Haha, that's a quirky idea, but effective time management is more about prioritizing tasks, setting realistic deadlines, and breaking large projects into smaller, manageable steps. It's about making the most of your time and staying organized."
+      ],
+      "options": [
+        "Time management skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that the secret to time management is to build a time machine and travel back in time to finish all your tasks?",
+        "That's a humorous thought, but since time machines don't exist, it's important to develop practical time management skills, like creating daily schedules, setting goals, and avoiding procrastination."
+      ],
+      "options": [
+        "Time management skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that to manage your time effectively, you need to train a team of squirrels to do your chores while you focus on more important tasks!",
+        "That's an amusing concept, but time management is really about assessing your priorities, allocating your time wisely, and finding a balance between work, leisure, and personal commitments. Squirrel assistants are optional!"
+      ],
+      "options": [
+        "Time management skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think the best problem-solving technique is to spin around in circles until you get dizzy and suddenly, the answer appears!",
+        "Haha, that's a funny idea, but effective problem-solving involves identifying the issue, gathering information, considering various solutions, and evaluating their potential outcomes. It's important to approach problems logically and creatively."
+      ],
+      "options": [
+        "Problem-solving techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that the secret to solving any problem is to wear a thinking cap made of aluminum foil? It boosts your brainpower!",
+        "That's a humorous thought, but real problem-solving skills come from practice, critical thinking, and learning from past experiences. Developing a step-by-step approach can help you tackle challenges with confidence."
+      ],
+      "options": [
+        "Problem-solving techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that if you're facing a problem, the best solution is to consult a magic 8-ball for all the answers!",
+        "That's an amusing suggestion, but problem-solving requires thoughtful analysis, collaboration, and sometimes even trial and error. Relying on a magic 8-ball might not be the most reliable strategy!"
+      ],
+      "options": [
+        "Problem-solving techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the scarecrow win the communication award? \ud83c\udfc6",
+        "Because he was outstanding in his field! \ud83d\ude02"
+      ],
+      "options": [
+        "Communication skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the two antennas that got married? \ud83d\udce1",
+        "The ceremony was okay, but the reception was excellent! \ud83d\ude09"
+      ],
+      "options": [
+        "Communication skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do you make a conversation more apeeling? \ud83c\udf4c",
+        "By being an active listener and showing genuine interest in what the other person is saying!"
+      ],
+      "options": [
+        "Communication skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you cross a conflict with a resolution? \ud83e\udd14"
+      ],
+      "options": [
+        "Conflict resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do you turn a heated argument into a cool conversation? \u2744\ufe0f",
+        "By finding common ground and looking for a win-win solution! \ud83e\udd1d"
+      ],
+      "options": [
+        "Conflict resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the two pencils stop fighting? \u270f\ufe0f",
+        "Because they realized it was pointless! \ud83d\ude06"
+      ],
+      "options": [
+        "Conflict resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do you make a decision when you're stuck between a rock and a hard place? \ud83e\udea8",
+        "By weighing the pros and cons, and considering the potential consequences of each option! \u2696\ufe0f"
+      ],
+      "options": [
+        "Decision-making strategies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the tomato turn red during decision-making? \ud83c\udf45",
+        "Because it couldn't ketchup with all the options! \ud83d\ude02"
+      ],
+      "options": [
+        "Decision-making strategies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the best way to decide which path to take at a fork in the road? \ud83c\udf74",
+        "Gather information, consult with others, and trust your instincts! \ud83e\udded"
+      ],
+      "options": [
+        "Decision-making strategies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you cross a role model with a superhero? \ud83e\uddb8\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Role modeling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the role model who was also a baker? \ud83c\udf5e",
+        "They set the perfect example by always rising to the occasion! \ud83d\ude09"
+      ],
+      "options": [
+        "Role modeling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How does a role model light up a room? \ud83d\udca1",
+        "By showing positivity, kindness, and leading by example!"
+      ],
+      "options": [
+        "Role modeling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call an emotionally intelligent robot? \ud83e\udd16",
+        "I'm not sure, what do you call it?"
+      ],
+      "options": [
+        "Emotional intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How can you tell if a tree has emotional intelligence? \ud83c\udf33",
+        "It always knows when to leaf a situation! \ud83d\ude09"
+      ],
+      "options": [
+        "Emotional intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If emotions were a type of weather, what would emotional intelligence be? \u2601\ufe0f",
+        "It would be the ability to predict and navigate through any emotional storm! \u26c8\ufe0f"
+      ],
+      "options": [
+        "Emotional intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What did the personal development plan say to the goal? \ud83c\udfaf",
+        "You're on my 'to-do' list! \ud83d\ude01"
+      ],
+      "options": [
+        "Creating a personal development plan (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do you create a personal development plan that really sticks? \ud83d\udccc",
+        "By setting specific, achievable goals and regularly reviewing your progress! \ud83d\udcc8"
+      ],
+      "options": [
+        "Creating a personal development plan (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If personal development plans were recipes, what would be the main ingredient? \ud83e\udd58",
+        "Self-reflection and a healthy dose of motivation! \ud83c\udf1f"
+      ],
+      "options": [
+        "Creating a personal development plan (correct answer)"
+      ]
+    }
+  ]
+}

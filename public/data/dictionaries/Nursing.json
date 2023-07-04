@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Patient Care",
+        "Anatomy and Physiology",
+        "Medical Terminology",
+        "Infection Control",
+        "Medication Administration",
+        "First Aid and CPR",
+        "Patient Assessment",
+        "Vital Signs",
+        "Wound Care",
+        "Communication Skills",
+        "Documentation",
+        "Cultural Competence",
+        "Time Management",
+        "Ethics and Legal Issues",
+        "Health Promotion and Disease Prevention"
+    ],
+    "hints": {
+        "Patient Care": "Providing compassionate, safe, and effective care for patients in various healthcare settings.",
+        "Anatomy and Physiology": "Understanding the structure and function of the human body to provide appropriate care.",
+        "Medical Terminology": "Learning the language used in healthcare to accurately describe medical conditions and treatments.",
+        "Infection Control": "Ensuring proper hygiene and infection prevention practices to protect patients and healthcare workers.",
+        "Medication Administration": "Safely administering medications and monitoring their effects on patients.",
+        "First Aid and CPR": "Providing emergency care to patients experiencing injuries or medical emergencies.",
+        "Patient Assessment": "Gathering information about a patient's health status through observation and questioning.",
+        "Vital Signs": "Measuring and monitoring indicators of a patient's health, such as heart rate, blood pressure, and temperature.",
+        "Wound Care": "Cleaning, dressing, and monitoring wounds to promote proper healing and prevent infection.",
+        "Communication Skills": "Effectively conveying information and collaborating with patients, families, and healthcare team members.",
+        "Documentation": "Accurately recording patient information and care provided in medical records.",
+        "Cultural Competence": "Respecting and understanding diverse cultural backgrounds to provide personalized care.",
+        "Time Management": "Prioritizing tasks and managing time effectively to provide efficient care.",
+        "Ethics and Legal Issues": "Adhering to ethical principles and legal regulations in nursing practice.",
+        "Health Promotion and Disease Prevention": "Educating patients and families about healthy lifestyle choices and ways to prevent illness."
+    }
+}

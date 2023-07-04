@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Icebreakers",
+        "Collaborative Problem Solving",
+        "Trust Building Activities",
+        "Communication Exercises",
+        "Goal Setting",
+        "Role Playing",
+        "Active Listening Practice",
+        "Conflict Resolution Skills",
+        "Appreciation and Recognition",
+        "Group Decision-Making",
+        "Time Management Activities",
+        "Leadership Development",
+        "Creative Thinking Exercises",
+        "Adaptability Challenges",
+        "Emotional Intelligence Training"
+    ],
+    "hints": {
+        "Icebreakers": "Fun activities designed to help students get to know each other and feel more comfortable in a group setting.",
+        "Collaborative Problem Solving": "Tasks that require students to work together to solve problems or complete challenges, promoting teamwork and cooperation.",
+        "Trust Building Activities": "Exercises that encourage students to rely on one another and build trust within the group.",
+        "Communication Exercises": "Activities focused on improving verbal and non-verbal communication skills among team members.",
+        "Goal Setting": "Guiding students through the process of setting individual and group goals and developing action plans to achieve them.",
+        "Role Playing": "Engaging students in scenarios where they act out different roles, helping them develop empathy and understanding for others' perspectives.",
+        "Active Listening Practice": "Exercises that teach students to listen attentively and respond thoughtfully to their peers during conversations.",
+        "Conflict Resolution Skills": "Activities that help students learn how to effectively resolve disagreements and maintain positive relationships within the team.",
+        "Appreciation and Recognition": "Encouraging students to express gratitude and acknowledge the contributions of their teammates.",
+        "Group Decision-Making": "Teaching students how to make decisions collaboratively, considering the input and needs of all team members.",
+        "Time Management Activities": "Exercises that help students prioritize tasks and manage their time effectively during group projects.",
+        "Leadership Development": "Providing opportunities for students to develop and practice leadership skills within the team.",
+        "Creative Thinking Exercises": "Activities that encourage students to think outside the box and generate innovative solutions to challenges.",
+        "Adaptability Challenges": "Tasks that require students to adjust their plans and strategies in response to unexpected obstacles or changes.",
+        "Emotional Intelligence Training": "Teaching students to recognize, understand, and manage their emotions and the emotions of others in a team setting."
+    }
+}

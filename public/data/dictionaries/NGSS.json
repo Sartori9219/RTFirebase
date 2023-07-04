@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Structure and Properties of Matter",
+        "Chemical Reactions",
+        "Forces and Interactions",
+        "Energy",
+        "Waves and Electromagnetic Radiation",
+        "Interdependent Relationships in Ecosystems",
+        "Cycles of Matter and Energy Transfer in Ecosystems",
+        "Heredity",
+        "Biological Evolution",
+        "Earth's Systems",
+        "Earth and Human Activity",
+        "Engineering Design",
+        "Links Among Engineering, Technology, Science, and Society",
+        "Energy in Chemical Processes and Everyday Life",
+        "Role of Water in Earth\u00e2\u20ac\u2122s Surface Processes"
+    ],
+    "hints": {
+        "Structure and Properties of Matter": "This concept focuses on understanding the properties of substances and how the atomic and molecular structure of a substance determines its properties.",
+        "Chemical Reactions": "Students learn about the processes that lead to the rearrangement of atoms in substances, including the principles of conservation of matter and energy.",
+        "Forces and Interactions": "This concept explores how forces at a distance are explained by fields that can transfer energy and can be described mathematically.",
+        "Energy": "Students learn about the conservation of energy and energy transfer, as well as the relationship between energy and forces.",
+        "Waves and Electromagnetic Radiation": "This includes understanding the characteristics of waves and how waves can be used to transfer information.",
+        "Interdependent Relationships in Ecosystems": "This concept focuses on how organisms interact with their physical environment and with other organisms in their ecological community.",
+        "Cycles of Matter and Energy Transfer in Ecosystems": "Students learn about the cycling of matter and flow of energy within and among organisms and ecosystems.",
+        "Heredity": "This concept covers the process of inheritance and how genetic traits vary among individuals and populations.",
+        "Biological Evolution": "This explores the mechanisms of evolution and the resulting diversity of life on Earth.",
+        "Earth's Systems": "Students learn about the dynamic nature of Earth's systems and how they interact over various scales of time and space.",
+        "Earth and Human Activity": "This concept explores how human activities affect Earth\u00e2\u20ac\u2122s systems and how these effects can be mitigated.",
+        "Engineering Design": "This concept covers the process of defining a problem and developing, testing, and optimizing solutions.",
+        "Links Among Engineering, Technology, Science, and Society": "This involves understanding how science, engineering, and technology influence and are influenced by society.",
+        "Energy in Chemical Processes and Everyday Life": "This covers the principles behind energy transfer and conservation in chemical reactions and processes.",
+        "Role of Water in Earth\u00e2\u20ac\u2122s Surface Processes": "This concept explores the crucial role water plays in shaping Earth's surface processes and supporting life."
+    }
+}

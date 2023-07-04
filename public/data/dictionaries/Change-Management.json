@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Resistance to change",
+        "Communication",
+        "Stakeholder engagement",
+        "Vision and strategy",
+        "Leadership and sponsorship",
+        "Empowerment",
+        "Training and development",
+        "Cultural transformation",
+        "Continuous improvement",
+        "Employee involvement",
+        "Project management",
+        "Performance measurement",
+        "Reward and recognition",
+        "Risk assessment",
+        "Change readiness"
+    ],
+    "hints": {
+        "Resistance to change": "Understanding and addressing the barriers that may prevent individuals from accepting and adapting to change.",
+        "Communication": "Ensuring clear, timely, and consistent messaging to all stakeholders about the change process and its impacts.",
+        "Stakeholder engagement": "Identifying and involving key individuals and groups who are affected by or can influence the change initiative.",
+        "Vision and strategy": "Creating a compelling vision for the future and developing a roadmap for achieving desired outcomes.",
+        "Leadership and sponsorship": "Securing commitment and support from top management and influential individuals within the organization.",
+        "Empowerment": "Encouraging employees to take ownership of the change process and enabling them to make decisions and take action.",
+        "Training and development": "Providing learning opportunities and resources to help individuals acquire the necessary skills and knowledge to adapt to change.",
+        "Cultural transformation": "Addressing underlying beliefs, values, and norms that may hinder successful change implementation.",
+        "Continuous improvement": "Regularly reviewing and refining the change process to ensure ongoing effectiveness and alignment with organizational goals.",
+        "Employee involvement": "Actively engaging employees in the change process and soliciting their input and feedback.",
+        "Project management": "Utilizing structured methodologies and tools to plan, execute, and monitor the progress of change initiatives.",
+        "Performance measurement": "Establishing metrics to evaluate the success of the change initiative and identifying areas for improvement.",
+        "Reward and recognition": "Acknowledging and celebrating individuals and teams that contribute to the success of the change initiative.",
+        "Risk assessment": "Identifying potential obstacles and challenges to the change process and developing strategies to mitigate them.",
+        "Change readiness": "Assessing the organization's capacity to embrace and implement change effectively and efficiently."
+    }
+}

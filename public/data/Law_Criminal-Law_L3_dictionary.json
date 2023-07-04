@@ -1,0 +1,407 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, Reckless Raccoon, I just baked cookies shaped like dollar signs to symbolize my desire to earn money. What do you think?",
+        "That's quite the guilty mind you've got there, Intentional Iguana! But at least you're not actually stealing any money."
+      ],
+      "options": [
+        "Mens Rea (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Intentional Iguana, I accidentally knocked over a vase while trying to catch a fly. Do you think I'm guilty of a crime?",
+        "Well, Reckless Raccoon, you didn't have the mens rea \u2013 the intention to break the vase. So you're off the hook this time!"
+      ],
+      "options": [
+        "Mens Rea (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Reckless Raccoon, I just wrote a song about plotting the perfect heist. Is that evidence of a guilty mind?",
+        "Maybe so, Intentional Iguana. But as long as it stays fictional and you don't act on it, your mens rea won't land you in trouble."
+      ],
+      "options": [
+        "Mens Rea (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, Intentional Iguana, I just did a cartwheel in the shape of a stop sign. Does that make me guilty of a traffic violation?",
+        "That's quite the actus reus you've got there, Action Antelope! But since you didn't actually violate any traffic laws, you're in the clear."
+      ],
+      "options": [
+        "Actus Reus (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Action Antelope, I heard you accidentally spilled paint on a canvas and ended up creating a masterpiece. Are you guilty of art forgery?",
+        "Well, Intentional Iguana, I didn't have the actus reus \u2013 the deliberate action to create a forgery. So, it's just a happy accident!"
+      ],
+      "options": [
+        "Actus Reus (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Intentional Iguana, I just completed a dance routine called \"The Criminal Shuffle.\" Did I commit a crime with my fancy footwork?",
+        "As long as your actus reus was limited to dancing and not any illegal activities, Action Antelope, you're free to keep grooving without worry!"
+      ],
+      "options": [
+        "Actus Reus (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, Careful Capybara, I accidentally set a new speed record while sleepwalking. Am I guilty of a strict liability offense?",
+        "That's quite the feat, Speedy Sloth! But since you didn't intend to break any laws, you won't be held strictly liable for your sleepwalking sprint."
+      ],
+      "options": [
+        "Strict Liability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Speedy Sloth, I heard you accidentally parked in a no-parking zone while trying to find shade for your nap. Are you in trouble?",
+        "Well, Careful Capybara, even though I didn't mean to park there, it's a strict liability offense. So, I'm responsible for the parking violation."
+      ],
+      "options": [
+        "Strict Liability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Careful Capybara, I just baked a cake that accidentally violates health codes. Can I still serve it at the party?",
+        "Oh no, Speedy Sloth! Even if you didn't intend to violate the codes, it's a strict liability situation. Better bake a new cake to avoid any trouble!"
+      ],
+      "options": [
+        "Strict Liability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, Foiled Fox, I just tried to build a tower of cookies, but it collapsed before I could finish. Am I guilty of an attempted snack crime?",
+        "That's quite the ambitious plan, Trying Tarsier! But since you didn't actually commit a crime, your attempt at cookie architecture is safe."
+      ],
+      "options": [
+        "Attempt (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Trying Tarsier, I heard you accidentally scared a bird while trying to take its picture. Are you guilty of attempted birdnapping?",
+        "Well, Foiled Fox, even though my actions might have looked suspicious, I didn't have the intent to kidnap the bird. So, I'm not guilty of an attempt."
+      ],
+      "options": [
+        "Attempt (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Foiled Fox, I just attempted to paint a portrait of you, but it turned out looking like a giraffe. Did I commit an artistic crime?",
+        "As long as your intentions were pure, Trying Tarsier, your attempted portrait is just a creative mishap and not a criminal act!"
+      ],
+      "options": [
+        "Attempt (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, have you heard about the secret society of teachers who meet every full moon to decide which students get detention?",
+        "Oh yeah, I heard they use a magical spinning wheel with our names on it to make things fair!"
+      ],
+      "options": [
+        "Conspiracy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm pretty sure the school mascot is actually a spy for the principal, reporting on all our activities.",
+        "No way! I knew there was something suspicious about that overly friendly bear costume!"
+      ],
+      "options": [
+        "Conspiracy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Rumor has it, there's a hidden underground tunnel connecting the cafeteria to a fast-food joint. That's why the lunch menu is always so greasy!",
+        "Wow, I always wondered why our school food tasted like it came straight from a burger joint!"
+      ],
+      "options": [
+        "Conspiracy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard Billy offered Tim $10 to pull the fire alarm during third period so he could avoid that math test.",
+        "Classic Billy! But I think he's going to be in trouble if he gets caught for solicitation."
+      ],
+      "options": [
+        "Solicitation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that Sarah asked Joe to sneak into Ms. Johnson's office and steal the answers to the pop quiz?",
+        "Really? That's not just cheating, it's solicitation too! They better hope Ms. Johnson doesn't find out."
+      ],
+      "options": [
+        "Solicitation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? Mike promised to buy pizza for the whole class if someone would write his history essay for him.",
+        "Wow, talk about desperate! But that's definitely solicitation, and he could get in big trouble for that."
+      ],
+      "options": [
+        "Solicitation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, I was watching this detective show last night, and the victim was killed by a falling piano!",
+        "What a bizarre homicide! I guess you could say it was... note-worthy?"
+      ],
+      "options": [
+        "Homicide (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the murder mystery party where someone accidentally used real poison instead of fake poison in one of the props?",
+        "Yikes! That's an unintentional homicide if I've ever heard of one. Talk about a party gone wrong!"
+      ],
+      "options": [
+        "Homicide (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In my favorite comic book, the superhero accidentally squashes a villain with their super strength while trying to save the city.",
+        "Wow, even superheroes can be involved in homicides! I bet that made for an interesting storyline."
+      ],
+      "options": [
+        "Homicide (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In that new comedy movie, there's a scene where a guy accidentally sprays pepper spray into his own eyes while trying to defend himself.",
+        "Ouch! Talk about a self-inflicted assault. I bet that scene had the audience in stitches!"
+      ],
+      "options": [
+        "Assault (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know that funny viral video where the cat swats at the dog and then the dog yelps and runs away?",
+        "Oh yeah, that's one sassy feline! Even though it's just animals playing around, I guess you could call it a \"paw-sault\"."
+      ],
+      "options": [
+        "Assault (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In my favorite cartoon, the main character gets hit in the face with a pie during a chaotic food fight.",
+        "That's hilarious! It's like a dessert-themed assault. I hope they had some whipped cream for defense!"
+      ],
+      "options": [
+        "Assault (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you see that comedy sketch where the guy gets hit by a barrage of rubber chickens?",
+        "Yeah, that was hilarious! It's like a bizarre, poultry-themed battery. Who knew rubber chickens could be so dangerous?"
+      ],
+      "options": [
+        "Battery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In that funny movie scene, the main character accidentally walks into a boxing class and gets pummeled by a group of energetic beginners.",
+        "Poor guy! That's definitely an unintentional, yet comedic battery. I hope he learned to duck next time!"
+      ],
+      "options": [
+        "Battery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember that cartoon episode where the characters get into a pillow fight, and one of them ends up being launched out the window?",
+        "Oh, absolutely! That's one feathery battery they won't forget. I bet they'll think twice before starting another pillow fight!"
+      ],
+      "options": [
+        "Battery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you see that funny video of the raccoon stealing food from a picnic table?",
+        "Yeah, it's like a little furry bandit committing a wildlife robbery! I hope the owners didn't mind sharing their lunch."
+      ],
+      "options": [
+        "Robbery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In that comedy show, there's a clumsy thief who tries to rob a bakery but ends up slipping on icing and getting caught.",
+        "Oh, I remember that scene! It's like a sweet-toothed robbery gone wrong. Maybe next time they'll just buy a cake instead."
+      ],
+      "options": [
+        "Robbery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard about the guy who tried to steal a llama from a petting zoo in broad daylight?",
+        "That's one of the most bizarre robbery attempts I've ever heard of! I wonder what he was planning to do with the llama."
+      ],
+      "options": [
+        "Robbery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you see that funny video of a squirrel breaking into a bird feeder and stealing all the seeds?",
+        "Yeah, it's like a tiny, fluffy burglar on a mission! Those birds must be pretty annoyed."
+      ],
+      "options": [
+        "Burglary (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In that comedy movie, there's a scene where a group of robbers breaks into a house only to find out it's a surprise birthday party for one of them.",
+        "That must have been the most unexpected burglary twist ever! I bet they never saw that coming."
+      ],
+      "options": [
+        "Burglary (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard about the thief who tried to break into a museum to steal a priceless painting but accidentally took a replica from the gift shop?",
+        "What a hilarious burglary fail! They probably felt pretty silly once they realized their mistake."
+      ],
+      "options": [
+        "Burglary (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you see that funny video where a seagull snatches a sandwich right out of someone's hand at the beach?",
+        "Yeah, it's like a masterclass in aerial larceny! That seagull must've been pretty hungry."
+      ],
+      "options": [
+        "Larceny (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's so funny how a simple case of unintentional larceny can lead to such chaos. I'm sure they'll double-check their umbrellas next time!"
+      ],
+      "options": [
+        "Larceny (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard about the kleptomaniac cat who keeps stealing socks from the neighbors' laundry lines?",
+        "Yeah, it's like a feline larceny spree! Those poor neighbors must be wondering where all their socks went."
+      ],
+      "options": [
+        "Larceny (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about that amateur magician who accidentally set his own hat on fire during a performance?",
+        "Oh, I remember that! It's like an unintentional, yet hilarious act of arson. I hope he has a fireproof rabbit in there!"
+      ],
+      "options": [
+        "Arson (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In that cartoon episode, the character tries to cook dinner but ends up burning down the entire kitchen.",
+        "Talk about a culinary disaster! That's one fiery example of accidental arson. Maybe they should stick to takeout next time."
+      ],
+      "options": [
+        "Arson (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Yep, that's a romantic arson-gone-wrong situation! I bet he'll think twice before playing with fire on his next date."
+      ],
+      "options": [
+        "Arson (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you see that funny video of a dog carrying its puppy around by the scruff of its neck?",
+        "Yeah, it's like an adorable and well-intentioned act of canine kidnapping! That pup must be thinking, \"Where are we going, mom?\""
+      ],
+      "options": [
+        "Kidnapping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In that comedy movie, there's a scene where a character accidentally locks themselves in their own car trunk while trying to retrieve something.",
+        "Oh, I remember that! It's like a hilarious case of self-kidnapping. Good thing they had their phone to call for help!"
+      ],
+      "options": [
+        "Kidnapping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard about the mime who was \"kidnapped\" by an invisible force during a street performance?",
+        "Yeah, that's such a creative and humorous take on kidnapping! It definitely kept the audience entertained."
+      ],
+      "options": [
+        "Kidnapping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you see that funny video of a baby trying to defend itself from a toy robot by using a pillow as a shield?",
+        "Yeah, it's such a cute and innocent example of self-defense! That baby is going to grow up to be a brave protector, for sure."
+      ],
+      "options": [
+        "Self-defense (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In that comedy movie, there's a scene where the main character accidentally pepper sprays themselves while practicing self-defense techniques at home.",
+        "Oh, I remember that! It's a hilarious lesson in the importance of proper self-defense training. Better luck next time!"
+      ],
+      "options": [
+        "Self-defense (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard about the guy who tried to use a banana as a weapon during a staged self-defense demonstration?",
+        "Yeah, that's a classic example of comedic self-defense! I guess it's true what they say \u2013 laughter is the best form of protection."
+      ],
+      "options": [
+        "Self-defense (correct answer)"
+      ]
+    }
+  ]
+}

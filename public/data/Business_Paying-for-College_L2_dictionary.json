@@ -1,0 +1,399 @@
+{
+  "questions": [
+    {
+      "question": [
+        "My college fund is emptier than a donut without a hole!",
+        "Well, it's time to FAFSA that donut and fill it with financial aid!"
+      ],
+      "options": [
+        "FAFSA (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I feel like I'm on a treasure hunt for college money, but I don't have a map!",
+        "The FAFSA is the map that leads you to the hidden financial aid treasure, matey!"
+      ],
+      "options": [
+        "FAFSA (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need a superhero to save me from the rising costs of college!",
+        "Never fear, FAFSAman is here to help you unlock the power of financial aid!"
+      ],
+      "options": [
+        "FAFSA (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ugh, college is so expensive! I wish there was a way to get money for just being awesome at stuff.",
+        "Dude, that's what scholarships are for! Time to cash in on your awesomeness!"
+      ],
+      "options": [
+        "Scholarships (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm super talented at underwater basket weaving, but nobody cares.",
+        "Actually, there might be a scholarship for that! Trust me, there are scholarships for all kinds of talents!"
+      ],
+      "options": [
+        "Scholarships (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "College costs are like climbing Mount Everest without any gear!",
+        "Well, gear up with scholarships and conquer that mountain with less debt!"
+      ],
+      "options": [
+        "Scholarships (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wonder if there's a scholarship for professional nappers. I'm really good at that.",
+        "You never know! There are tons of unique scholarships out there. Time to start researching and catch some Z's."
+      ],
+      "options": [
+        "Scholarships (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are there no scholarships for people who can eat an entire pizza in one sitting?",
+        "Funny enough, there might be! There are so many scholarships out there \u2013 start searching and you might be surprised."
+      ],
+      "options": [
+        "Scholarships (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm not a top athlete or a genius. What are my chances of getting a scholarship?",
+        "Don't worry, there are scholarships for all sorts of things, not just sports and academics. Keep looking and don't give up!"
+      ],
+      "options": [
+        "Scholarships (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard you can get grants for college just by being a fan of pineapple on pizza.",
+        "Well, not exactly, but there are many different grants available based on various factors. Time to do some research!"
+      ],
+      "options": [
+        "Grants (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do I have to be a superhero to get a grant for college?",
+        "No need for a cape! Grants are often based on financial need or merit, so you just need to apply and see what's available."
+      ],
+      "options": [
+        "Grants (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish I could get a grant for being a master of dad jokes.",
+        "While that's not a specific grant, there are plenty of other grants out there! Keep searching, and maybe throw in a dad joke or two during the process."
+      ],
+      "options": [
+        "Grants (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that work-study programs are just students becoming professional cafeteria food testers.",
+        "Haha, not quite. Work-study programs offer part-time jobs to students to help them pay for college expenses."
+      ],
+      "options": [
+        "Work-study programs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do work-study programs involve traveling to another planet?",
+        "While that sounds cool, work-study programs are on-campus or off-campus jobs that help students earn money for college costs."
+      ],
+      "options": [
+        "Work-study programs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Work-study programs? Are they like a secret society of college student ninjas?",
+        "Not exactly. They're federally-funded programs that help students earn money for college through part-time jobs related to their field of study."
+      ],
+      "options": [
+        "Work-study programs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Student loans? Are they like a magical treasure chest that pays for your entire college journey?"
+      ],
+      "options": [
+        "Student loans (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that taking out a student loan means you're signing up to wrestle a bear every semester."
+      ],
+      "options": [
+        "Student loans (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Student loans? Is that when you lend your textbooks to fellow students and charge them interest?"
+      ],
+      "options": [
+        "Student loans (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, community college is like regular college, but everyone's required to live in treehouses?"
+      ],
+      "options": [
+        "Community college (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that at community college, your tuition is paid in chocolate chip cookies."
+      ],
+      "options": [
+        "Community college (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Is it true that community colleges only offer underwater basket weaving classes?",
+        "Not at all! Community colleges provide a wide range of academic and vocational courses, including general education and career-specific programs."
+      ],
+      "options": [
+        "Community college (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard if I get a job at the zoo, they'll pay for my college classes on lion taming!"
+      ],
+      "options": [
+        "Employer tuition assistance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend said his company pays for his college, but he has to juggle while attending classes!"
+      ],
+      "options": [
+        "Employer tuition assistance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think my boss will pay for my college if I promise to bring donuts every day.",
+        "While donuts sound delicious, employer tuition assistance is usually based on the relevance of your courses to your job, not sweet treats!"
+      ],
+      "options": [
+        "Employer tuition assistance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My parents have been saving for my college in a jar labeled 'Plan 528'.",
+        "Close, but not quite! They're probably using a 529 plan, which is a tax-advantaged college savings account."
+      ],
+      "options": [
+        "529 plans (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm starting a band called 'The 529s' to fund my college education."
+      ],
+      "options": [
+        "529 plans (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't find the 529th flavor of ice cream, but I need it to pay for college!"
+      ],
+      "options": [
+        "529 plans (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard college savings bonds are just fancy certificates for passing college classes.",
+        "Not exactly! College savings bonds are actually government-issued bonds that can help you save for college with tax advantages."
+      ],
+      "options": [
+        "College savings bonds (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think buying a savings bond will help me become the next James Bond?",
+        "Well, a college savings bond won't turn you into a secret agent, but it will help you save for college with some tax benefits!"
+      ],
+      "options": [
+        "College savings bonds (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've got a brilliant idea! Let's start a college where you pay tuition with rubber bands!"
+      ],
+      "options": [
+        "College savings bonds (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard you can only pay for college with family contributions if your family is related to the college's mascot.",
+        "Haha, no! Family contributions are just financial support from your relatives to help cover college expenses."
+      ],
+      "options": [
+        "Family contributions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, I'm going to college! My family said they'll contribute by sending me a lifetime supply of spaghetti!",
+        "That's a tasty way to help, but family contributions usually mean financial support from your family to help with college costs."
+      ],
+      "options": [
+        "Family contributions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My family is going to help me pay for college by knitting me sweaters to sell!",
+        "Creative idea! But family contributions typically refer to financial assistance from your relatives to cover college expenses."
+      ],
+      "options": [
+        "Family contributions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard the best way to pay for college is to juggle flaming torches for tips!",
+        "Wow, that's extreme! A part-time job might be a safer way to earn money for college expenses."
+      ],
+      "options": [
+        "Part-time job (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "To pay for college, I'm going to breed a team of racing snails and win the championship!",
+        "As cool as that sounds, a part-time job might be a more reliable way to earn money for college."
+      ],
+      "options": [
+        "Part-time job (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'll fund my college education by becoming a professional thumb wrestler!",
+        "Interesting choice, but a part-time job is a more common way to earn money to help pay for college."
+      ],
+      "options": [
+        "Part-time job (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking of opening a time-traveling tutoring service to help past me ace college classes!",
+        "That's creative, but taking AP or IB courses in high school can also give you a head start on college credits."
+      ],
+      "options": [
+        "AP/IB courses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "To save money on college, I'll just clone myself and have my clone attend classes for me!",
+        "Interesting, but taking AP or IB courses in high school can actually help you earn college credits and save money."
+      ],
+      "options": [
+        "AP/IB courses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm going to train a highly intelligent parrot to take my college courses for me!",
+        "A clever parrot is cool, but taking AP or IB courses in high school is a more practical way to earn college credits."
+      ],
+      "options": [
+        "AP/IB courses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "To save on college tuition, I'm gonna build my own university in my backyard!",
+        "Impressive ambition, but attending an in-state public school is a more practical way to save money on tuition."
+      ],
+      "options": [
+        "Attend in-state public schools (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'll hitch a ride on a spaceship to an alien university to save on college costs!",
+        "Cool idea, but you might find it easier to just attend an in-state public school for more affordable tuition."
+      ],
+      "options": [
+        "Attend in-state public schools (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'll invent a teleportation device to avoid out-of-state tuition fees!",
+        "Innovative thinking! But, you could just attend an in-state public school to save on tuition without the hassle of teleportation."
+      ],
+      "options": [
+        "Attend in-state public schools (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've decided to join the circus to pay for college, since they'll teach me trapeze skills!",
+        "That's an interesting plan, but have you considered joining an ROTC program to help cover tuition costs?"
+      ],
+      "options": [
+        "ROTC programs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm going to become a famous movie star to pay for college!",
+        "While you're waiting for your big break, why not check out ROTC programs to help with tuition costs?"
+      ],
+      "options": [
+        "ROTC programs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'll train dolphins to perform tricks and pay for my college with the profits!",
+        "Creative, but joining an ROTC program might be a more reliable way to cover your college costs."
+      ],
+      "options": [
+        "ROTC programs (correct answer)"
+      ]
+    }
+  ]
+}

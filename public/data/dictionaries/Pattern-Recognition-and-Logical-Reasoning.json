@@ -1,0 +1,26 @@
+{
+    "options": [
+        "Sequence Patterns",
+        "Spatial Patterns",
+        "Categorical Patterns",
+        "Symmetry",
+        "Recursion",
+        "Periodicity",
+        "Analogical Reasoning",
+        "Inductive Reasoning",
+        "Deductive Reasoning",
+        "Algorithmic Thinking"
+    ],
+    "hints": {
+        "Sequence Patterns": "Recognizing a pattern of numbers or objects that follow a specific order or arrangement, such as arithmetic or geometric sequences.",
+        "Spatial Patterns": "Identifying patterns in shapes, designs, or arrangements in space, like tessellations or fractals.",
+        "Categorical Patterns": "Understanding how objects or data can be grouped or classified based on shared characteristics or attributes.",
+        "Symmetry": "Recognizing when a shape or design can be divided into parts that are mirror images of each other, such as reflectional, rotational, or translational symmetry.",
+        "Recursion": "Identifying when a pattern can be defined using a smaller version of itself, such as the Fibonacci sequence or fractal patterns.",
+        "Periodicity": "Detecting patterns that repeat at regular intervals, such as cycles or oscillations in natural phenomena or data trends.",
+        "Analogical Reasoning": "Comparing similar structures or relationships between different sets of objects or situations to identify patterns or make predictions.",
+        "Inductive Reasoning": "Observing specific instances or examples and drawing general conclusions or identifying patterns from them.",
+        "Deductive Reasoning": "Applying general rules or principles to specific situations to identify patterns or make predictions.",
+        "Algorithmic Thinking": "Recognizing patterns in a series of steps or processes and understanding how to manipulate them to solve problems or optimize outcomes."
+    }
+}

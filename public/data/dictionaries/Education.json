@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Active Learning",
+        "Inquiry-Based Learning",
+        "Differentiated Instruction",
+        "Project-Based Learning",
+        "Cooperative Learning",
+        "Assessment for Learning",
+        "Flipped Classroom",
+        "Blended Learning",
+        "Problem-Based Learning",
+        "Student-Centered Learning",
+        "Constructivist Learning",
+        "Game-Based Learning",
+        "Metacognition",
+        "Learning Styles",
+        "Bloom's Taxonomy"
+    ],
+    "hints": {
+        "Active Learning": "Engaging students in the learning process through activities and discussions, rather than passive listening to lectures.",
+        "Inquiry-Based Learning": "Encouraging students to ask questions, investigate, and explore topics, fostering curiosity and critical thinking skills.",
+        "Differentiated Instruction": "Adapting teaching methods and materials to meet the diverse needs and learning styles of individual students.",
+        "Project-Based Learning": "Students work on real-world projects that require problem-solving, collaboration, and creativity, integrating multiple subject areas.",
+        "Cooperative Learning": "Students work together in small groups to achieve shared goals, promoting teamwork and interpersonal skills.",
+        "Assessment for Learning": "Using assessments to identify student strengths and weaknesses, guiding instruction for improvement and growth.",
+        "Flipped Classroom": "Students learn content at home through videos or readings, then practice and apply their knowledge in the classroom.",
+        "Blended Learning": "Combining traditional face-to-face instruction with online learning and technology integration.",
+        "Problem-Based Learning": "Students learn by solving complex, real-world problems, developing critical thinking and problem-solving skills.",
+        "Student-Centered Learning": "Empowering students to take ownership of their learning, with teachers acting as facilitators and guides.",
+        "Constructivist Learning": "Students construct their own understanding of concepts through exploration and discovery, rather than being \"taught\" by the teacher.",
+        "Game-Based Learning": "Using games to enhance learning and motivation, making the learning process more enjoyable and engaging.",
+        "Metacognition": "Encouraging students to think about their own thinking, helping them become more self-aware and strategic learners.",
+        "Learning Styles": "Recognizing and addressing different ways students learn, such as visual, auditory, or kinesthetic, to optimize their learning experience.",
+        "Bloom's Taxonomy": "A framework for categorizing educational objectives based on cognitive complexity, from basic knowledge recall to higher-order thinking skills."
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Animal Anatomy",
+        "Animal Physiology",
+        "Animal Nutrition",
+        "Animal Behavior",
+        "Parasitology",
+        "Zoonotic Diseases",
+        "Immunology",
+        "Pharmacology",
+        "Surgical Procedures",
+        "Diagnostic Imaging",
+        "Preventive Medicine",
+        "Epidemiology",
+        "Animal Welfare and Ethics",
+        "Veterinary Terminology",
+        "Exotic Animal Medicine"
+    ],
+    "hints": {
+        "Animal Anatomy": "The study of the structure and parts of animals, including bones, muscles, and organs.",
+        "Animal Physiology": "The study of how animals function, including their metabolism, reproduction, and nervous system.",
+        "Animal Nutrition": "The study of the nutritional requirements of animals and how to maintain their health through proper feeding and dietary management.",
+        "Animal Behavior": "The study of how animals interact with each other and their environment, including social, reproductive, and feeding behaviors.",
+        "Parasitology": "The study of parasites, including their life cycles, transmission, and control methods.",
+        "Zoonotic Diseases": "Diseases that can be transmitted between animals and humans, such as rabies, Lyme disease, and salmonellosis.",
+        "Immunology": "The study of the immune system, including how it protects against infections and the role of vaccines in preventing diseases.",
+        "Pharmacology": "The study of drugs used in veterinary medicine, including their actions, side effects, and proper dosages.",
+        "Surgical Procedures": "Techniques used by veterinarians to treat injuries and illnesses in animals, such as spaying/neutering, tumor removal, and orthopedic surgeries.",
+        "Diagnostic Imaging": "The use of imaging techniques, such as X-rays, ultrasounds, and MRIs, to diagnose medical conditions in animals.",
+        "Preventive Medicine": "The practice of preventing disease and maintaining animal health through vaccinations, parasite control, and regular health check-ups.",
+        "Epidemiology": "The study of the patterns, causes, and effects of diseases in animal populations, including disease outbreaks and preventive measures.",
+        "Animal Welfare and Ethics": "The ethical considerations and welfare issues related to the treatment of animals in veterinary medicine, including pain management, euthanasia, and informed consent.",
+        "Veterinary Terminology": "The specialized language used in veterinary medicine, including terms related to anatomy, diseases, and procedures.",
+        "Exotic Animal Medicine": "The study and treatment of non-traditional pets, such as reptiles, birds, and small mammals."
+    }
+}

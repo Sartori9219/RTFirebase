@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Body Awareness",
+        "Improvisation",
+        "Space",
+        "Time",
+        "Energy",
+        "Choreography",
+        "Expression",
+        "Contact Improvisation",
+        "Floor Work",
+        "Alignment",
+        "Technique",
+        "Composition",
+        "Performance",
+        "Partnership/Group Work",
+        "Style"
+    ],
+    "hints": {
+        "Body Awareness": "This involves understanding your own body, its parts, how they move, and their relative position. It's the foundational concept for all dance styles.",
+        "Improvisation": "Spontaneously creating and performing movement sequences. This emphasizes creativity and thinking on your feet.",
+        "Space": "Understanding and utilizing the performance space effectively. This includes exploring different levels (high, middle, low), directions, and pathways.",
+        "Time": "Dance isn't just about movement, it's also about when you move. Dancers manipulate tempo (speed) and rhythm (pattern) to create dynamic performances.",
+        "Energy": "This concept is about understanding and controlling the force applied in dance. It can range from smooth and gentle to sharp and intense.",
+        "Choreography": "The process of designing a dance. This involves arranging movements into sequences and sections to create a cohesive performance.",
+        "Expression": "One of the defining features of contemporary dance is its expressiveness. Dancers use their bodies to communicate emotions, ideas, and narratives.",
+        "Contact Improvisation": "A dance form where movement is initiated through physical contact with another dancer. It emphasizes listening, responding, and trust between dancers.",
+        "Floor Work": "Involves dance movements performed on the floor. These movements often involve transitioning smoothly from standing to the floor and vice versa.",
+        "Alignment": "Refers to the arrangement of body parts in relation to each other. Proper alignment is crucial for efficient movement and injury prevention.",
+        "Technique": "The specific skills and abilities required to execute various dance movements effectively and safely.",
+        "Composition": "The overall structure and organization of a dance. It includes aspects such as choreography, musicality, and narrative.",
+        "Performance": "The act of presenting a dance to an audience. It involves conveying the intent of the choreography and connecting with the audience emotionally.",
+        "Partnership/Group Work": "The ability to work and dance effectively with others. It requires timing, coordination, and communication.",
+        "Style": "Each dance form, and even each dancer, has its own unique style. It is the qualities that make a particular dancer's movement recognizable and unique."
+    }
+}

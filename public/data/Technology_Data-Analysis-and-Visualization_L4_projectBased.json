@@ -1,0 +1,45 @@
+[
+  {
+    "Project objective": "The Mystery of the Cafeteria's Popularity",
+    "Steps": [
+      "To start, you need to plan your data collection. Decide on the parameters you'll record over two weeks: the number of students at the cafeteria each day, the menu, the day of the week, and the weather.",
+      "Every day for two weeks, go to the cafeteria during lunchtime and record your observations. Don't forget to write down your data in your trusty notebook!",
+      "Once you've collected all the data, transfer it into a spreadsheet on your computer.",
+      "Identify the data types you've collected (categorical, numerical, ordinal, or interval/ratio) and why you categorized them as such.",
+      "Now that your data is clean, create a summary. For numerical data, calculate the mean, median, and mode. For categorical data, calculate the frequency.",
+      "With your summarized data, perform an exploratory data analysis. Are there any correlations or interesting patterns? Write down your observations.",
+      "Using your spreadsheet software's graphing tools, create visualizations of your data. Bar charts, pie charts, or scatter plots could be useful here. Remember, each graph should tell a story!",
+      "What do your graphs tell you? Can you explain the cafeteria's varying popularity now? Write down your conclusions."
+    ]
+  },
+  {
+    "Project objective": "The Great Sneaker Trend Predict-A-Thon",
+    "Steps": [
+      "Create a survey asking students about their favorite sneaker attributes (color, design, brand, etc.) and how much they think these attributes will be popular next month.",
+      "Distribute your survey to your classmates via email or social media, and gather as many responses as possible.",
+      "Once your survey closes, transfer your collected responses into a spreadsheet.",
+      "Inspect your sneaker data for any inconsistencies or missing values, and clean it up accordingly.",
+      "Calculate the mean, median, mode, and range of the predicted popularity ratings for each sneaker attribute.",
+      "Use the standard deviation to understand the spread of the popularity predictions. You could also calculate confidence intervals for your means.",
+      "Form a hypothesis about which sneaker attribute will be the most popular. Test your hypothesis using the appropriate statistical test (T-test, Chi-square, etc.).",
+      "Investigate the relationship between different sneaker attributes. Do those who like bold colors also prefer certain brands? Use correlation and covariance to find out.",
+      "Can you predict next month's sneaker trend based on your data? Use regression analysis to create a model for predicting the most popular sneaker attribute.",
+      "Create a detailed report outlining your analysis process, your findings, and your trend prediction for the next month. Include all your statistics and graphs."
+    ]
+  },
+  {
+    "Project objective": "Back to the Future: The Stock Market Time Traveler",
+    "Steps": [
+      "Explore the historical data available in the computer. Identify the relevant variables, such as stock prices, dates, and company names.",
+      "Clean your data by handling missing values, duplicates, or errors in the dataset.",
+      "Perform a time series analysis on the stock prices. Look for patterns, trends, and seasonality.",
+      "Use dimensionality reduction techniques, like Principal Component Analysis (PCA), to simplify your dataset while preserving its structure and relationships.",
+      "Dabble with some basic machine learning algorithms (like Linear Regression, Decision Trees, etc.) to predict future stock prices based on historical data.",
+      "Create charts and graphs to visualize the stock prices over time, as well as your predictions. Make sure your visualizations are clear and easily understandable.",
+      "Design a dashboard that displays your key findings, visualizations, and predictions. This should provide an overview of the stock's performance and expected future trends.",
+      "Write a report explaining your analysis process, the trends you identified, and your future predictions. Include explanations of the charts and graphs from your dashboard.",
+      "Prepare and practice a presentation based on your dashboard and report. Make sure to highlight the most interesting insights.",
+      "Present your dashboard and report to your classmates. Be ready to answer any questions and explain how you made your predictions."
+    ]
+  }
+]

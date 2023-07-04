@@ -1,0 +1,760 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, I made a water gun that shoots ice cream instead!",
+        "Whoa! Can I try it? That's so cool!"
+      ],
+      "options": [
+        "Innovative (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know what would be fun? Turning our bicycles into rocket-powered skateboards!",
+        "That's such an out-of-this-world idea! Let's do it!"
+      ],
+      "options": [
+        "Innovative (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I came up with a new way to tie shoes that's twice as fast and never comes undone!",
+        "That's amazing! I'll never trip on my shoelaces again!"
+      ],
+      "options": [
+        "Innovative (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found this lost puppy. I'm going to find its owner!",
+        "Great idea! That's the right thing to do."
+      ],
+      "options": [
+        "Responsible (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I accidentally broke Mom's vase, so I told her the truth.",
+        "Owning up to your mistakes is brave and responsible."
+      ],
+      "options": [
+        "Responsible (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I always finish my homework before playing video games.",
+        "That's smart! You're putting your priorities first."
+      ],
+      "options": [
+        "Responsible (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I told my friend exactly how I felt when they hurt my feelings.",
+        "That's great! Being honest helps solve problems."
+      ],
+      "options": [
+        "Transparent (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our teacher always explains the reasons behind the rules in class.",
+        "That's helpful! It's easier to follow rules when we understand them."
+      ],
+      "options": [
+        "Transparent (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I showed my little sister how I did that magic trick.",
+        "Wow! You didn't keep it a secret. That's so transparent of you."
+      ],
+      "options": [
+        "Transparent (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a wallet full of cash and returned it to the owner.",
+        "Good job! That's the ethical thing to do."
+      ],
+      "options": [
+        "Ethical (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I didn't cheat on the test, even though I could have.",
+        "That's great! Cheating is never the right choice."
+      ],
+      "options": [
+        "Ethical (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend wanted me to lie for them, but I didn't.",
+        "You made the right decision. It's important to be honest."
+      ],
+      "options": [
+        "Ethical (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I started a compost bin to reduce our waste at home.",
+        "Nice! That's a great way to help the environment."
+      ],
+      "options": [
+        "Sustainable (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I made a bird feeder from an old plastic bottle.",
+        "That's so creative and eco-friendly!"
+      ],
+      "options": [
+        "Sustainable (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I always bring a reusable water bottle to school.",
+        "That's a smart way to reduce plastic waste. Good job!"
+      ],
+      "options": [
+        "Sustainable (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I didn't study for the test because I wanted to play video games.",
+        "That might be fun now, but you could regret it later."
+      ],
+      "options": [
+        "Shortsighted (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I spent all my allowance on candy instead of saving for a new bike.",
+        "You might enjoy the candy now, but you'll have to wait longer for that bike."
+      ],
+      "options": [
+        "Shortsighted (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I didn't finish my project because my favorite TV show was on.",
+        "Uh oh! You should've finished your project first."
+      ],
+      "options": [
+        "Shortsighted (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I invited the new kid in class to join our lunch table.",
+        "That's so nice of you! Everyone deserves to feel welcome."
+      ],
+      "options": [
+        "Inclusive (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let's make sure our game is easy for everyone to play, even if they have never tried it before.",
+        "Great idea! We want everyone to have fun together."
+      ],
+      "options": [
+        "Inclusive (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I made a poster for our school project that uses large fonts and simple language, so everyone can understand it.",
+        "That's very thoughtful! It's important to be inclusive."
+      ],
+      "options": [
+        "Inclusive (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I didn't want to pick the new kid for our team because they're different.",
+        "That's not fair! We should give everyone a chance."
+      ],
+      "options": [
+        "Discriminatory (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I made fun of someone because they like different things than I do.",
+        "That's not kind. We should treat everyone with respect, no matter their interests."
+      ],
+      "options": [
+        "Discriminatory (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I didn't invite someone to my birthday party because of how they look.",
+        "That's not right! We should include everyone and not judge them based on their appearance."
+      ],
+      "options": [
+        "Discriminatory (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I helped my little sister learn to ride her bike without training wheels.",
+        "That's awesome! You gave her the confidence to try something new."
+      ],
+      "options": [
+        "Empowering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I told my friend that they could do anything they set their mind to.",
+        "That's so encouraging! You're a great support."
+      ],
+      "options": [
+        "Empowering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I started a club at school to help kids discover their hidden talents.",
+        "That's amazing! You're empowering others to believe in themselves."
+      ],
+      "options": [
+        "Empowering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I made fun of someone because they couldn't do something as well as I could.",
+        "That's not nice! We should be supportive and not put others down."
+      ],
+      "options": [
+        "Oppressive (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I didn't let my friend join our game because they weren't good enough.",
+        "That's not fair! Everyone should have a chance to play and improve."
+      ],
+      "options": [
+        "Oppressive (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I told someone they couldn't sit with us because they didn't dress like us.",
+        "That's not kind. We should accept everyone for who they are."
+      ],
+      "options": [
+        "Oppressive (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let's work together on our science project! We'll get more done if we combine our ideas.",
+        "Great idea! Teamwork makes the dream work!"
+      ],
+      "options": [
+        "Collaborative (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm stuck on this math problem. Can you help me out?",
+        "Sure! Let's figure it out together."
+      ],
+      "options": [
+        "Collaborative (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our class is putting on a play. We should all pitch in to create the props and costumes.",
+        "That sounds like a fun way to work together!"
+      ],
+      "options": [
+        "Collaborative (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to be the only one in charge of our group project and make all the decisions.",
+        "That's not very fair. We should all have a say in what we do."
+      ],
+      "options": [
+        "Monopolistic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm not going to share my art supplies with anyone else.",
+        "Sharing is caring! We should all help each other out."
+      ],
+      "options": [
+        "Monopolistic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to be the only one who gets to play with the new toy at recess.",
+        "That's not nice. We should take turns so everyone gets a chance to play."
+      ],
+      "options": [
+        "Monopolistic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm going to start studying for our big test a week early!",
+        "That's smart! You'll be well-prepared and less stressed."
+      ],
+      "options": [
+        "Proactive (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed our playground was getting dirty, so I organized a cleanup day.",
+        "That's awesome! You're making a difference by taking action."
+      ],
+      "options": [
+        "Proactive (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I know we'll need snacks for the field trip, so I asked my mom to pack some extra.",
+        "Great thinking ahead! Now we won't go hungry."
+      ],
+      "options": [
+        "Proactive (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I didn't study for the test until the night before, so I had to cram all the information in.",
+        "Next time, try starting earlier so you don't have to rush."
+      ],
+      "options": [
+        "Reactive (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I only clean my room when my mom tells me I have to.",
+        "Maybe you could try keeping it tidy all the time, so it doesn't get too messy."
+      ],
+      "options": [
+        "Reactive (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I didn't start my project until the day it was due, and I had to rush to finish it.",
+        "Planning ahead and working on it little by little can help prevent that last-minute panic."
+      ],
+      "options": [
+        "Reactive (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I spent hours at the library gathering information for our history project.",
+        "That's awesome! Your hard work will definitely pay off."
+      ],
+      "options": [
+        "Well-researched (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I double-checked all my sources for my science report to make sure my facts were accurate.",
+        "Great job! It's important to have reliable information."
+      ],
+      "options": [
+        "Well-researched (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I interviewed a local expert for my project on recycling.",
+        "That's so cool! You're really going above and beyond."
+      ],
+      "options": [
+        "Well-researched (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin told me that eating carrots will make you see better in the dark.",
+        "That's an interesting story, but we should look up some scientific evidence too."
+      ],
+      "options": [
+        "Anecdotal (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that if you swallow gum, it stays in your stomach for seven years.",
+        "That's a common myth, but it's not true. We should check our facts."
+      ],
+      "options": [
+        "Anecdotal (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend said that they saw a unicorn at the park.",
+        "That sounds fun, but we should be careful about believing everything we hear."
+      ],
+      "options": [
+        "Anecdotal (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I made a study plan for the week leading up to our big test.",
+        "That's a great way to stay organized and focused!"
+      ],
+      "options": [
+        "Strategic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let's make a list of all the supplies we need for our group project and divide up the tasks.",
+        "Awesome idea! That will make everything run more smoothly."
+      ],
+      "options": [
+        "Strategic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I practiced my soccer skills every day and set goals to improve before the next game.",
+        "Your hard work and planning will really pay off!"
+      ],
+      "options": [
+        "Strategic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just threw together my science project the night before it was due.",
+        "Yikes! Next time, try planning ahead to avoid stress and improve your work."
+      ],
+      "options": [
+        "Haphazard (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I didn't have a plan for my essay, so I just wrote whatever came to my mind.",
+        "It's better to outline your ideas first, so your writing is more organized."
+      ],
+      "options": [
+        "Haphazard (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I didn't follow the instructions when building my model airplane, so it doesn't fly right.",
+        "Being more careful and following the steps can help you avoid mistakes."
+      ],
+      "options": [
+        "Haphazard (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I made sure to divide our group project tasks equally among everyone.",
+        "That's really fair! Great job making sure everyone contributes."
+      ],
+      "options": [
+        "Equitable (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our teacher gives everyone the same amount of time to finish their in-class assignments.",
+        "That's a good way to make sure everyone has an equal chance to succeed."
+      ],
+      "options": [
+        "Equitable (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I made sure all the kids at the party got the same number of balloons.",
+        "That's really thoughtful! Everyone deserves to have fun."
+      ],
+      "options": [
+        "Equitable (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The teacher always picks the same student to answer questions in class.",
+        "It's important to give everyone a chance to participate and feel included."
+      ],
+      "options": [
+        "Favoritist (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I only shared my snacks with my best friend and not the other kids.",
+        "Sharing with everyone is a kinder way to treat your classmates."
+      ],
+      "options": [
+        "Favoritist (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I only invited my favorite teammates to my birthday party.",
+        "It's nicer to include everyone and not leave anyone out."
+      ],
+      "options": [
+        "Favoritist (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I spent extra time practicing my piano scales to make sure I get them perfect.",
+        "That's dedication! Your hard work will definitely pay off."
+      ],
+      "options": [
+        "Rigorous (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our teacher gives us challenging assignments to help us grow and learn.",
+        "It may be tough, but it'll make us better in the long run!"
+      ],
+      "options": [
+        "Rigorous (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I trained for the race by running every day and pushing myself to go faster.",
+        "Your rigorous training will help you achieve your goals!"
+      ],
+      "options": [
+        "Rigorous (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I only read the first page of the book, so I don't really know what it's about.",
+        "It's important to dig deeper to get a better understanding."
+      ],
+      "options": [
+        "Superficial (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I didn't really practice my lines for the play; I just skimmed through them.",
+        "Practicing more thoroughly will help you remember them better."
+      ],
+      "options": [
+        "Superficial (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I only cleaned the surface of my room, but it's still messy underneath.",
+        "A thorough cleaning will make your room truly tidy."
+      ],
+      "options": [
+        "Superficial (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our plans got canceled, so I came up with a new idea for something fun to do.",
+        "That's awesome! Being able to change plans quickly is a great skill."
+      ],
+      "options": [
+        "Adaptable (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I didn't have all the ingredients for the recipe, so I improvised with what I had.",
+        "That's creative! It's good to be able to adapt in different situations."
+      ],
+      "options": [
+        "Adaptable (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It started raining during our picnic, so we moved it indoors and still had a great time.",
+        "Way to stay positive and make the best of the situation!"
+      ],
+      "options": [
+        "Adaptable (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I won't change my plans, even if something unexpected happens.",
+        "It's better to be flexible and adapt to new situations."
+      ],
+      "options": [
+        "Rigid (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I refuse to try anything new or different because I like things the way they are.",
+        "Being open to change can help you grow and learn new things."
+      ],
+      "options": [
+        "Rigid (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I always follow the same routine, no matter what.",
+        "It's good to have structure, but sometimes it's nice to mix things up!"
+      ],
+      "options": [
+        "Rigid (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I didn't give up on my difficult puzzle, even when it seemed impossible.",
+        "That's great! Keep pushing yourself to overcome challenges."
+      ],
+      "options": [
+        "Persevering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I practiced my skateboard tricks every day until I finally landed them.",
+        "Your determination is inspiring! Keep up the hard work."
+      ],
+      "options": [
+        "Persevering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I kept trying different methods to solve the math problem until I figured it out.",
+        "Your perseverance paid off! Way to stick with it."
+      ],
+      "options": [
+        "Persevering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I spent hours sorting my crayons by color, but I didn't get any of my homework done.",
+        "It's important to prioritize and manage your time wisely."
+      ],
+      "options": [
+        "Inefficient (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I walked all the way around the block to get to my friend's house when there's a shortcut.",
+        "Finding the most direct route can save you time and energy."
+      ],
+      "options": [
+        "Inefficient (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I keep losing my things because I don't have a good organization system.",
+        "Setting up a system will help you stay organized and be more efficient."
+      ],
+      "options": [
+        "Inefficient (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I made sure to double-check all my answers on the test before handing it in.",
+        "That's a smart move! Being careful and thorough can help you succeed."
+      ],
+      "options": [
+        "Diligent (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I practiced my handwriting every day until it became neat and legible.",
+        "Your hard work and dedication really paid off!"
+      ],
+      "options": [
+        "Diligent (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I kept a close eye on my plants, watering and caring for them daily.",
+        "Your diligence will help them grow strong and healthy."
+      ],
+      "options": [
+        "Diligent (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I only practice my instrument once in a while, so I'm not getting much better.",
+        "Practicing regularly and consistently will help you improve faster."
+      ],
+      "options": [
+        "Sporadic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I only clean my room when I can't find anything anymore.",
+        "Keeping it tidy consistently will make it easier to find things and stay organized."
+      ],
+      "options": [
+        "Sporadic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I started three different hobbies, but I don't stick to any of them.",
+        "Focusing on one and dedicating time to it regularly will help you progress."
+      ],
+      "options": [
+        "Sporadic (correct answer)"
+      ]
+    }
+  ]
+}

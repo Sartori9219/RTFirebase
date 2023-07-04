@@ -1,0 +1,796 @@
+{
+  "questions": [
+    {
+      "question": [
+        "What if you made a super cool video game about skateboarding unicorns, who would you want to play it?",
+        "Probably kids who love skateboarding and unicorns, duh!"
+      ],
+      "options": [
+        "Target audience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you invented a delicious candy that tastes like pizza, who do you think would love to eat it?",
+        "I bet kids who love both pizza and candy would go crazy for it!"
+      ],
+      "options": [
+        "Target audience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself creating a comic book about a superhero dog who saves kittens, who would be the perfect readers for your comic?",
+        "Oh, I know! Kids who love dogs, superheroes, and cute kittens would love my comic!"
+      ],
+      "options": [
+        "Target audience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you made a magical ice cream that changes flavors based on the person's favorite color. How would you group your customers?",
+        "I'd group them by their favorite colors, so they get their perfect ice cream flavor!"
+      ],
+      "options": [
+        "Market segmentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you started a cool club for kids who love dinosaurs and wanted to divide them into smaller groups? How would you do it?",
+        "I'd group them based on their favorite dinosaur types, like carnivores, herbivores, or flyers!"
+      ],
+      "options": [
+        "Market segmentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself selling awesome skateboards to kids. How would you group your customers to make sure they get the perfect skateboard?",
+        "I'd group them based on their skateboarding skills, like beginners, intermediates, and experts!"
+      ],
+      "options": [
+        "Market segmentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're a superhero who saves people based on the type of trouble they're in. How would you group the people you save?",
+        "I'd group them by the type of trouble, like people in danger from villains, accidents, or lost pets!"
+      ],
+      "options": [
+        "Market segmentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you invented a backpack that could turn invisible? What would make it special compared to other backpacks?",
+        "The invisibility feature, of course! No other backpacks can do that!"
+      ],
+      "options": [
+        "Unique selling proposition (USP) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you created a pair of shoes that can make you jump super high. What would set them apart from regular shoes?",
+        "The super-jumping power! That's something regular shoes don't have!"
+      ],
+      "options": [
+        "Unique selling proposition (USP) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself making a robot that can do your homework for you. What makes it unique compared to other robots?",
+        "It can do my homework! No other robots can save me from boring homework!"
+      ],
+      "options": [
+        "Unique selling proposition (USP) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you made a bike that could fly? What's special about it compared to other bikes?",
+        "The ability to fly, obviously! Regular bikes can only ride on the ground."
+      ],
+      "options": [
+        "Unique selling proposition (USP) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine your favorite toy starts out as a new, exciting item, becomes popular, then slowly loses its appeal. What's happening to it?",
+        "It's going through a life cycle, just like how toys become popular and then get replaced by new ones!"
+      ],
+      "options": [
+        "Product life cycle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if a magical potion becomes a big hit, but over time, people find new potions and stop using it? What's going on with that potion?",
+        "The potion is going through its life cycle, from being new and popular to eventually fading away."
+      ],
+      "options": [
+        "Product life cycle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture a video game that starts as a small idea, gets popular, reaches its peak, and then slowly loses players. What's happening to it?",
+        "The game is going through its life cycle, from being a new game to eventually losing its popularity."
+      ],
+      "options": [
+        "Product life cycle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you made a super cool video game about skateboarding unicorns, who would you want to play it?",
+        "Probably kids who love skateboarding and unicorns, duh!"
+      ],
+      "options": [
+        "Target audience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you invented a delicious candy that tastes like pizza, who do you think would love to eat it?",
+        "I bet kids who love both pizza and candy would go crazy for it!"
+      ],
+      "options": [
+        "Target audience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself creating a comic book about a superhero dog who saves kittens, who would be the perfect readers for your comic?",
+        "Oh, I know! Kids who love dogs, superheroes, and cute kittens would love my comic!"
+      ],
+      "options": [
+        "Target audience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you made a magical ice cream that changes flavors based on the person's favorite color. How would you group your customers?",
+        "I'd group them by their favorite colors, so they get their perfect ice cream flavor!"
+      ],
+      "options": [
+        "Market segmentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you started a cool club for kids who love dinosaurs and wanted to divide them into smaller groups? How would you do it?",
+        "I'd group them based on their favorite dinosaur types, like carnivores, herbivores, or flyers!"
+      ],
+      "options": [
+        "Market segmentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself selling awesome skateboards to kids. How would you group your customers to make sure they get the perfect skateboard?",
+        "I'd group them based on their skateboarding skills, like beginners, intermediates, and experts!"
+      ],
+      "options": [
+        "Market segmentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're a superhero who saves people based on the type of trouble they're in. How would you group the people you save?",
+        "I'd group them by the type of trouble, like people in danger from villains, accidents, or lost pets!"
+      ],
+      "options": [
+        "Market segmentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you invented a backpack that could turn invisible? What would make it special compared to other backpacks?",
+        "The invisibility feature, of course! No other backpacks can do that!"
+      ],
+      "options": [
+        "Unique selling proposition (USP) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you created a pair of shoes that can make you jump super high. What would set them apart from regular shoes?",
+        "The super-jumping power! That's something regular shoes don't have!"
+      ],
+      "options": [
+        "Unique selling proposition (USP) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself making a robot that can do your homework for you. What makes it unique compared to other robots?",
+        "It can do my homework! No other robots can save me from boring homework!"
+      ],
+      "options": [
+        "Unique selling proposition (USP) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you made a bike that could fly? What's special about it compared to other bikes?",
+        "The ability to fly, obviously! Regular bikes can only ride on the ground."
+      ],
+      "options": [
+        "Unique selling proposition (USP) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine your favorite toy starts out as a new, exciting item, becomes popular, then slowly loses its appeal. What's happening to it?",
+        "It's going through a life cycle, just like how toys become popular and then get replaced by new ones!"
+      ],
+      "options": [
+        "Product life cycle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if a magical potion becomes a big hit, but over time, people find new potions and stop using it? What's going on with that potion?",
+        "The potion is going through its life cycle, from being new and popular to eventually fading away."
+      ],
+      "options": [
+        "Product life cycle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture a video game that starts as a small idea, gets popular, reaches its peak, and then slowly loses players. What's happening to it?",
+        "The game is going through its life cycle, from being a new game to eventually losing its popularity."
+      ],
+      "options": [
+        "Product life cycle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine a candy that's super popular at first, but then people find other candies they like more, and it loses its appeal. What's happening to the candy?",
+        "The candy is going through its life cycle, from being the coolest candy to being replaced by newer ones."
+      ],
+      "options": [
+        "Product life cycle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you made a team of superhero animals. What would you do to make them stand out and be recognized by everyone?",
+        "I'd give them a cool team name, matching costumes, and a catchy slogan so everyone knows who they are!"
+      ],
+      "options": [
+        "Brand identity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you started a club for kids who love space and wanted to make your club memorable? What would you create?",
+        "I'd design an awesome logo, choose special club colors, and come up with a fun club motto that's all about space!"
+      ],
+      "options": [
+        "Brand identity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself opening a magical ice cream shop. How would you make your shop unique and recognizable?",
+        "I'd choose a catchy name, create a cool sign, and decorate the shop with magical ice cream-themed colors and designs!"
+      ],
+      "options": [
+        "Brand identity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you created a toy company that makes super-cool action figures. What would you do to make your company stand out?",
+        "I'd create a memorable logo, choose eye-catching colors, and develop a unique style for all the action figures and packaging!"
+      ],
+      "options": [
+        "Brand identity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you wanted to create the most amazing board game ever, how would you find out what kids really want to play?",
+        "I'd ask kids what they like and dislike about other games and use their answers to make the best game possible!"
+      ],
+      "options": [
+        "Market research (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you want to make the perfect candy. How would you find out what flavors kids love the most?",
+        "I'd do a taste test with different flavors and ask kids to rate their favorites, so I can create the yummiest candy ever!"
+      ],
+      "options": [
+        "Market research (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you were planning a super-fun party for your friends? How would you find out what they'd enjoy the most?",
+        "I'd ask them about their favorite party games, snacks, and themes to make sure the party is a blast for everyone!"
+      ],
+      "options": [
+        "Market research (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself designing a new superhero toy. How would you find out what features kids would like the most?",
+        "I'd ask kids what they like about other superhero toys and use their ideas to create the ultimate superhero toy!"
+      ],
+      "options": [
+        "Market research (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you made a cool robot toy, what four things would you need to figure out to make it a big hit?",
+        "I'd need to decide what the robot does, how much it costs, where to sell it, and how to tell everyone about it!"
+      ],
+      "options": [
+        "Marketing mix (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you created a magical potion that grants wishes. What four factors would you need to consider to sell it successfully?",
+        "I'd think about the potion's effects, the price, where to sell it, and how to advertise it to people who want wishes granted!"
+      ],
+      "options": [
+        "Marketing mix (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you invented a super-fast skateboard? What four things would you need to plan to make sure kids go crazy for it?",
+        "I'd focus on the skateboard's features, the price, where kids can buy it, and how to spread the word about my awesome skateboard!"
+      ],
+      "options": [
+        "Marketing mix (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself opening a bakery with the tastiest treats ever. What four things would you need to plan to make your bakery a success?",
+        "I'd concentrate on the types of treats I offer, how much they cost, where my bakery is located, and how to promote it so everyone knows about it!"
+      ],
+      "options": [
+        "Marketing mix (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you made a cool new video game and wanted to tell everyone about it online. What could you do?",
+        "I'd create a website, post about it on social media, and maybe even make some online ads to get the word out!"
+      ],
+      "options": [
+        "Digital marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you opened an online store for your custom-made superhero costumes? How would you get people to find your store?",
+        "I'd use social media, email newsletters, and online ads to let people know about my awesome costumes!"
+      ],
+      "options": [
+        "Digital marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself starting a blog about the coolest toys and gadgets. How would you get people to read your blog?",
+        "I'd share my posts on social media, use email to update subscribers, and try to get my blog to show up in search engine results!"
+      ],
+      "options": [
+        "Digital marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you created a new brand of magical candy and wanted to sell it online. How would you let people know about it?",
+        "I'd create a website, make fun social media posts, and run online ads to spread the word about my magical candy!"
+      ],
+      "options": [
+        "Digital marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you made a cool new toy and wanted to show it off on social media, what could you do?",
+        "I'd post fun pictures and videos of the toy in action, share exciting news, and maybe even have a giveaway for my followers!"
+      ],
+      "options": [
+        "Social media marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you opened a skateboard shop and wanted to use social media to attract customers? What would you do?",
+        "I'd share awesome skateboard videos, post pictures of new products, and interact with my followers to get them excited about my shop!"
+      ],
+      "options": [
+        "Social media marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself starting a YouTube channel about your adventures as a time-traveling detective. How would you use social media to get more viewers?",
+        "I'd share sneak peeks of upcoming episodes, interact with my fans, and post behind-the-scenes content to keep them engaged!"
+      ],
+      "options": [
+        "Social media marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you created a new comic book series and wanted to use social media to build a fanbase. What would you do?",
+        "I'd share previews of upcoming issues, post cool artwork, and have Q&A sessions with my fans to get them excited about my comic!"
+      ],
+      "options": [
+        "Social media marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you were an expert in making amazing treehouses and wanted to use your skills to attract more customers? What could you do?",
+        "I'd create a blog with awesome treehouse-building tips and share my coolest projects to show people how great my treehouses are!"
+      ],
+      "options": [
+        "Content marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you were a talented young magician who wanted to gain more fans. How could you use your magic skills to do that?",
+        "I'd make fun and entertaining magic tutorial videos to teach people cool tricks and get them interested in my magic shows!"
+      ],
+      "options": [
+        "Content marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself as a famous inventor who wants to inspire kids to be more creative. What could you do?",
+        "I'd create a website with fun DIY projects and stories about my inventions to get kids excited about being creative and inventive!"
+      ],
+      "options": [
+        "Content marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you were a skilled artist who wanted to share your love of painting with others? How would you use your talent to do that?",
+        "I'd create a YouTube channel with painting tutorials and tips to help people learn new techniques and enjoy the art of painting!"
+      ],
+      "options": [
+        "Content marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you have a website about the coolest video games, and you want it to show up when people search for video games online. What would you do?",
+        "I'd use SEO strategies like using the right keywords, creating great content, and getting other websites to link to mine!"
+      ],
+      "options": [
+        "Search engine optimization (SEO) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you wrote a blog about amazing superhero movies and wanted more people to find it when they search online? What would you do?",
+        "I'd focus on SEO by using popular superhero-related keywords, writing engaging content, and making sure my site loads fast!"
+      ],
+      "options": [
+        "Search engine optimization (SEO) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself running an online store that sells magical toys. How would you make sure people find your store when they search for magical toys online?",
+        "I'd use SEO techniques like including magical toy keywords, creating interesting content, and making my website easy to navigate!"
+      ],
+      "options": [
+        "Search engine optimization (SEO) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you created a new line of super cool action figures and wanted your website to be found when people search for action figures. What would you do?",
+        "I'd work on SEO by using the right action figure keywords, creating awesome content, and making sure my website is mobile-friendly!"
+      ],
+      "options": [
+        "Search engine optimization (SEO) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you wanted to promote your new superhero comic book online and only pay when someone clicks on your ad? What could you do?",
+        "I'd use PPC advertising, like Google Ads or social media ads, where I only pay when someone clicks on my ad!"
+      ],
+      "options": [
+        "Pay-per-click (PPC) advertising (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you created an online store selling magical candy and wanted to advertise it online but only pay when someone visits your store. What would you do?",
+        "I'd use PPC advertising, so I only pay when someone clicks on my ad and visits my magical candy store!"
+      ],
+      "options": [
+        "Pay-per-click (PPC) advertising (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself launching a new line of awesome skateboard designs and wanted to promote them online while only paying for actual visitors. What would you do?",
+        "I'd use PPC advertising to create online ads and only pay when someone clicks on my ad and checks out my skateboards!"
+      ],
+      "options": [
+        "Pay-per-click (PPC) advertising (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you wanted to advertise your new video game online but only pay when someone actually visits your website? What would you do?",
+        "I'd use PPC advertising, like search engine or social media ads, to promote my game and only pay when someone clicks on my ad!"
+      ],
+      "options": [
+        "Pay-per-click (PPC) advertising (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you started a club for kids who love space and wanted to keep them updated on club events and news. How could you do that?",
+        "I'd use email marketing to send them newsletters with the latest club news, events, and fun space facts!"
+      ],
+      "options": [
+        "Email marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you created a cool new toy and wanted to let your customers know about special offers and promotions? What would you do?",
+        "I'd use email marketing to send them updates about discounts, new products, and other exciting news related to my toy!"
+      ],
+      "options": [
+        "Email marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself opening a bakery and wanting to keep your customers informed about new treats and special offers. How would you do that?",
+        "I'd use email marketing to send out newsletters with updates on new menu items, promotions, and bakery news!"
+      ],
+      "options": [
+        "Email marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you created an online course about learning magic tricks and wanted to keep your students engaged and informed. What would you do?",
+        "I'd use email marketing to send them regular updates, tips, and resources to help them learn and enjoy the magic course!"
+      ],
+      "options": [
+        "Email marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you had a business selling amazing treehouses and wanted to keep track of your customers and their needs, what could you use?",
+        "I'd use a CRM system to manage customer information, track their preferences, and make sure I provide the best service possible!"
+      ],
+      "options": [
+        "Customer relationship management (CRM) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you ran a magical ice cream shop and wanted to make sure you remember your customers' favorite flavors and preferences? What would you do?",
+        "I'd use a CRM system to store customer information, keep track of their favorite flavors, and help provide a personalized experience!"
+      ],
+      "options": [
+        "Customer relationship management (CRM) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself owning a popular toy store and wanting to keep track of your customers' purchases and preferences. What would you do?",
+        "I'd use a CRM system to manage customer data, track their buying habits, and ensure I provide excellent customer service!"
+      ],
+      "options": [
+        "Customer relationship management (CRM) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you ran a successful online store for custom-made superhero costumes and wanted to manage your customer relationships effectively. What would you do?",
+        "I'd use a CRM system to store customer information, track their orders, and make sure I provide a great shopping experience!"
+      ],
+      "options": [
+        "Customer relationship management (CRM) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you invented a new superhero gadget and wanted to make sure it gets a good reputation and positive coverage in the media? What would you do?",
+        "I'd work on public relations by sharing news about the gadget, giving interviews, and maybe even hosting a launch event!"
+      ],
+      "options": [
+        "Public relations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you created a new type of magical potion and wanted to build a positive image for it in the public eye. How would you do that?",
+        "I'd focus on public relations, like telling stories about the potion's benefits, getting testimonials, and connecting with influencers who love it!"
+      ],
+      "options": [
+        "Public relations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself as a famous inventor who wants to maintain a positive reputation and share your achievements with the world. What would you do?",
+        "I'd work on public relations by giving interviews, sharing news about my inventions, and collaborating with others in the field!"
+      ],
+      "options": [
+        "Public relations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you were a talented young magician who wanted to build a good reputation and get more fans? How could you achieve that?",
+        "I'd focus on public relations, like performing at charity events, giving interviews, and sharing my magic on social media!"
+      ],
+      "options": [
+        "Public relations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you opened a store selling custom-made wizard robes, how would you decide which groups of people to target?",
+        "I'd divide the market into segments based on age, interests, and locations where wizard fans live, and then target those who'd be most interested in my robes!"
+      ],
+      "options": [
+        "Market segmentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you created a new type of candy that changes flavor every time you chew it? How would you decide who to sell it to?",
+        "I'd segment the market based on factors like age, taste preferences, and locations with lots of candy lovers, then focus on the segments most likely to enjoy my candy!"
+      ],
+      "options": [
+        "Market segmentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you invented a flying skateboard. How would you decide which people to market it to?",
+        "I'd break the market into segments based on age, interests in skateboarding and flying, and locations with lots of skateboarders, then target the groups most likely to buy my flying skateboard!"
+      ],
+      "options": [
+        "Market segmentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you made a line of superhero action figures that could talk, what would make them stand out from other action figures?",
+        "Their ability to talk and interact with kids would be my USP, making them unique and more appealing than regular action figures!"
+      ],
+      "options": [
+        "Unique selling proposition (USP) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you created a new type of ice cream that never melts? What would make it different from other ice creams?",
+        "The fact that it never melts would be my USP, setting my ice cream apart from others and making it a must-try treat!"
+      ],
+      "options": [
+        "Unique selling proposition (USP) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you invented a new kind of bicycle that could transform into a scooter. What would make it special compared to other bicycles?",
+        "The transforming feature would be my USP, making my bicycle-scooter combo unique and more versatile than regular bicycles!"
+      ],
+      "options": [
+        "Unique selling proposition (USP) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you created a new type of video game console? How would its popularity change over time?",
+        "introduction when it's new, growth as it gains popularity, maturity when it's most popular, and decline as newer consoles come out!"
+      ],
+      "options": [
+        "Product life cycle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you started selling a new type of colorful, bouncy ball. How would its sales change from the time it's introduced to when it's no longer popular?",
+        "introduction with low sales, growth as it becomes popular, maturity with stable sales, and decline as people lose interest!"
+      ],
+      "options": [
+        "Product life cycle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you opened a store selling futuristic hoverboards? How would their sales change from the time they're first introduced to when they're no longer the latest trend?",
+        "introduction with low sales, growth as they gain popularity, maturity when sales stabilize, and decline as newer trends emerge!"
+      ],
+      "options": [
+        "Product life cycle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you opened a magical candy store, what would you do to create a unique and memorable brand for your store?",
+        "I'd choose a catchy name, create a colorful and magical logo, and develop a consistent style and messaging that reflects the magic of my candy!"
+      ],
+      "options": [
+        "Brand identity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you started a company that makes eco-friendly superhero toys. How would you build a unique brand around your products?",
+        "I'd come up with a name that highlights the eco-friendly aspect, design a logo that shows our commitment to the environment, and use consistent messaging to promote our values and mission!"
+      ],
+      "options": [
+        "Brand identity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you created a new type of skateboard that could ride on water? How would you create a memorable brand for your invention?",
+        "I'd pick a cool name that reflects the unique feature, design an eye-catching logo related to water and skateboarding, and use consistent colors and messaging to make my brand stand out!"
+      ],
+      "options": [
+        "Brand identity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you invented a new type of magical potion, how would you decide on the right product, price, place, and promotion for it?",
+        "I'd create a unique potion with cool effects, set a price based on its value and competitors, choose places where magic fans shop, and use creative promotions to spread the word!"
+      ],
+      "options": [
+        "Marketing mix (4 Ps of marketing) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you designed a new line of robot pets. How would you consider the 4 Ps of marketing to make sure they're successful?",
+        "I'd create fun and interactive robot pets, set a competitive price, sell them in stores and online where pet lovers shop, and promote them through ads and events!"
+      ],
+      "options": [
+        "Marketing mix (4 Ps of marketing) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you started a business selling custom superhero costumes? How would you use the 4 Ps of marketing to make your business a success?",
+        "I'd create high-quality, personalized costumes, set a fair price based on the customization, sell them through my online store, and promote my business through social media and events!"
+      ],
+      "options": [
+        "Marketing mix (4 Ps of marketing) (correct answer)"
+      ]
+    }
+  ]
+}

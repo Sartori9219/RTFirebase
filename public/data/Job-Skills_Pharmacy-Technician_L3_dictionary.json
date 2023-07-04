@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I got a prescription for \"Take one tablet of Unicornol by mouth every 8 hours.\" What does that mean?",
+        "Haha! It means you need to take one Unicornol tablet orally, three times a day, with an 8-hour gap between each dose."
+      ],
+      "options": [
+        "Prescription Reading (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My doctor prescribed \"Apply two drops of Llamalixir in each ear before bedtime.\" How do I use it?",
+        "That's an interesting prescription! You should put two drops of Llamalixir into each ear at night before you go to sleep."
+      ],
+      "options": [
+        "Prescription Reading (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The prescription says \"Inhale one puff of SlothMist every 4 hours as needed for extreme laziness.\" What do I do?",
+        "Sounds like a fun medication! Whenever you feel extremely lazy, inhale one puff of SlothMist, but don't exceed six puffs in a day."
+      ],
+      "options": [
+        "Prescription Reading (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard there's a drug class called \"Penguindol\" that helps with waddling. What type of drug is it?",
+        "Haha, you must be thinking of an imaginary drug! But if it were real, it might belong to the \"Mobility Enhancers\" class!"
+      ],
+      "options": [
+        "Drug Classifications (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend mentioned something about \"Giraffetine\" for neck pain relief. What's the drug class for that?",
+        "That's a funny one! If \"Giraffetine\" existed, it would probably fall under the \"Analgesics\" or pain relievers category."
+      ],
+      "options": [
+        "Drug Classifications (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I came across \"Kangarumin\" which supposedly helps with jumping ability. Any idea what class it belongs to?",
+        "Sounds like a wild medication! In a fictional world, \"Kangarumin\" might be part of the \"Performance Boosters\" drug class."
+      ],
+      "options": [
+        "Drug Classifications (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to give my pet dragon 5 mg of FireTamer per pound. He weighs 200 pounds! How much should I give him?",
+        "Wow, that's one big dragon! You'll need to give him 200 pounds x 5 mg/pound = 1,000 mg of FireTamer."
+      ],
+      "options": [
+        "Dosage Calculations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My doctor prescribed 10 mg of SlothAway per kg for my extreme laziness. I weigh 60 kg. How much do I need?",
+        "Time to wake up! You'll need 60 kg x 10 mg/kg = 600 mg of SlothAway to fight off that extreme laziness."
+      ],
+      "options": [
+        "Dosage Calculations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have a bottle of NarwhalCalm, and it says to take 2 mL per 10 lbs of body weight. I weigh 150 lbs. What's my dose?",
+        "Let's dive into the math! You'll need (150 lbs / 10 lbs) x 2 mL = 30 mL of NarwhalCalm to relax like a sea unicorn."
+      ],
+      "options": [
+        "Dosage Calculations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm taking ChameleonBlend for camouflage, but I'm also on TigerRoar for confidence. Will they interact?",
+        "Haha, those sound like fun medications! In an imaginary world, they might interact and turn you into a confident, invisible ninja!"
+      ],
+      "options": [
+        "Drug Interactions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been prescribed FlamingoDance for my balance issues, but I'm also taking ElephantMemory. What will happen?",
+        "Interesting combo! If these were real drugs, they could interact and make you remember every dance move with perfect balance!"
+      ],
+      "options": [
+        "Drug Interactions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My doctor gave me PorcupineCuddles for stress relief, but I'm also on RhinoCharge for energy. Will they clash?",
+        "That's quite the mix! In a fictional world, they might interact, turning you into an energetic, stress-free, huggable superhero!"
+      ],
+      "options": [
+        "Drug Interactions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just got some YetiChill pills for my fear of hot weather. How should I store them?",
+        "Haha, those sound cool! If they were real, you'd probably want to store them in a cold, dry place, like a fridge or an igloo!"
+      ],
+      "options": [
+        "Medication Storage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have a bottle of MoonGlow drops to help me sleep at night. Where should I keep them?",
+        "That's a dreamy medication! If MoonGlow were real, you'd likely need to store it in a dark, cool place, away from direct sunlight."
+      ],
+      "options": [
+        "Medication Storage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My doctor prescribed LavaLeap tablets for my fear of heights. What's the best way to store them?",
+        "Sounds like a fiery prescription! In an imaginary world, LavaLeap might require storage in a heat-resistant container near your volcano jumping gear!"
+      ],
+      "options": [
+        "Medication Storage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need a custom medication for my pet unicorn's rainbow deficiency. Can you make that?",
+        "In a magical world, a pharmacist could compound a RainbowRestore potion by mixing colorful, sparkly ingredients just for your unicorn!"
+      ],
+      "options": [
+        "Pharmaceutical Compounding (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My dragon has the sniffles and needs a FireBreath elixir, but he's allergic to sulfur. What can we do?",
+        "No worries! A fantasy pharmacist could compound a sulfur-free FireBreath elixir by using alternative ingredients to keep your dragon healthy!"
+      ],
+      "options": [
+        "Pharmaceutical Compounding (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I require a MermaidMelody lozenge to improve my underwater singing, but I'm allergic to seaweed. Any suggestions?",
+        "In an aquatic pharmacy, a pharmacist could compound a seaweed-free MermaidMelody lozenge using coral extracts to help you hit those high notes!"
+      ],
+      "options": [
+        "Pharmaceutical Compounding (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that there's a law against prescribing PixieDust to humans. Is that true?",
+        "Haha, if PixieDust were real, there might be regulations to ensure it's only used by qualified magical creatures under proper supervision!"
+      ],
+      "options": [
+        "Pharmacy Law and Ethics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend said it's unethical to give CentaurStrength pills to non-centaurs. What do you think?",
+        "In a mythical world, pharmacy ethics might dictate that CentaurStrength should only be prescribed to centaurs to maintain fairness in the enchanted realm!"
+      ],
+      "options": [
+        "Pharmacy Law and Ethics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to buy some GriffinWings potion without a prescription. Can I do that?",
+        "If GriffinWings potion were real, it would likely be a controlled substance. Dispensing it without a prescription would probably be against pharmacy laws!"
+      ],
+      "options": [
+        "Pharmacy Law and Ethics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to dispense some FairyFrost cream for my chapped wings. How should I do it?",
+        "Haha, that's a magical problem! If FairyFrost were real, you'd want to use a clean spatula or your fingertip to apply the cream gently on your wings."
+      ],
+      "options": [
+        "Drug Dispensing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have a prescription for WerewolfRelaxer pills. How many should I take and how should I dispense them?",
+        "In a supernatural world, you'd follow the prescription instructions, count out the right number of pills, and store them in a childproof container away from full moons!"
+      ],
+      "options": [
+        "Drug Dispensing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My doctor prescribed TrollTonic for my grumpiness. How do I dispense this liquid medication?",
+        "If TrollTonic were real, you'd use a calibrated medicine cup or oral syringe to measure the correct dose and then drink it to turn that frown upside down!"
+      ],
+      "options": [
+        "Drug Dispensing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I got a prescription for GnomeGiggles, but I'm not sure how to take it. Can you help?",
+        "Haha, that sounds like a fun medication! If GnomeGiggles were real, your doctor would specify the administration route, like swallowing a pill or applying a patch."
+      ],
+      "options": [
+        "Medication Administration Routes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My pharmacist gave me ElfEars drops for better hearing. How should I use them?",
+        "If ElfEars drops existed, you'd likely need to administer them via the otic route, which means putting the prescribed number of drops directly into your ears."
+      ],
+      "options": [
+        "Medication Administration Routes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have a bottle of VampireVitality to boost my energy. What's the best way to take it?",
+        "In a spooky world, VampireVitality might be taken orally as a tablet, sublingually as a dissolvable film, or even topically as a cream, depending on the prescription."
+      ],
+      "options": [
+        "Medication Administration Routes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do I keep track of my inventory of PhoenixFeather potions in my magical pharmacy?",
+        "Haha, great question! You'd want to implement an organized system, like a spreadsheet or software, to track stock levels, expiration dates, and reordering needs."
+      ],
+      "options": [
+        "Inventory Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My mystical apothecary is running low on OgreBalm. How should I manage the inventory so I don't run out?",
+        "In a fantastical world, you'd want to monitor your inventory regularly and reorder OgreBalm before it runs low, ensuring you always have enough for your customers."
+      ],
+      "options": [
+        "Inventory Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't find the FairyDust in my enchanted pharmacy. How can I better manage my inventory?",
+        "To avoid losing magical items, create a designated storage system with labels and organize your inventory according to categories, like ingredients or potion types."
+      ],
+      "options": [
+        "Inventory Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to prepare a UnicornHealer serum for my sick unicorn. How do I ensure it's sterile?",
+        "In a magical world, you'd follow aseptic techniques, like sterilizing equipment, wearing gloves, and working in a clean environment to keep the serum free from contamination."
+      ],
+      "options": [
+        "Aseptic Technique (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm making a batch of PixiePotion in my enchanted lab. How can I prevent it from getting contaminated?",
+        "Haha, great question! You'd want to practice aseptic techniques like using sterile containers, wearing a mask, and sanitizing your workspace to ensure the potion remains pure."
+      ],
+      "options": [
+        "Aseptic Technique (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm preparing a DragonElixir for my fire-breathing friend. How do I keep it free from germs?",
+        "To protect your dragon buddy, follow aseptic techniques such as washing your hands, using sterile equipment, and keeping the preparation area clean and clutter-free."
+      ],
+      "options": [
+        "Aseptic Technique (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just found out that my neighbor takes GoblinGone for goblin-phobia. Can I tell everyone?",
+        "Haha, even in a mythical world, patient confidentiality is important! You should respect your neighbor's privacy and not share their personal information."
+      ],
+      "options": [
+        "Patient Confidentiality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend told me she's taking MermaidMood to feel more like a mermaid. Can I post it on social media?",
+        "Even though that sounds fun, you should respect your friend's privacy and not share her personal information without her consent."
+      ],
+      "options": [
+        "Patient Confidentiality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I overheard someone at the magical pharmacy talking about their prescription for WerewolfWhisperer. Is it okay to gossip about it?",
+        "In any realm, it's important to respect patient confidentiality. It's best not to spread information about someone else's medication or health conditions."
+      ],
+      "options": [
+        "Patient Confidentiality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My prescription says \"q8h\" for my FairyFlight tablets. What does that mean?",
+        "Haha, even in a magical world, \"q8h\" stands for \"every 8 hours.\" So, you should take your FairyFlight tablets three times a day!"
+      ],
+      "options": [
+        "Pharmacy Terminology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard someone mention \"PRN\" when talking about their DragonDrowsy medication. What does it mean?",
+        "In the realm of pharmacy, \"PRN\" means \"as needed.\" So, they would take DragonDrowsy only when they feel the need for it, not on a fixed schedule."
+      ],
+      "options": [
+        "Pharmacy Terminology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My pharmacist said my PixiePowder is a \"suspension.\" What does that mean?",
+        "In pharmacy terms, a \"suspension\" is a mixture where solid particles are dispersed throughout a liquid. So, your PixiePowder needs to be shaken well before use!"
+      ],
+      "options": [
+        "Pharmacy Terminology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just got my bottle of CentaurCalm, but I'm not sure if the label is correct. What should it include?",
+        "Haha, even in a mythical world, the label should have essential info like your name, medication name, dosage, and instructions for use."
+      ],
+      "options": [
+        "Labeling Requirements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My prescription for PhoenixPep has some weird symbols on the label. What do they mean?",
+        "In any realm, those symbols are likely pharmacy abbreviations or warnings. Make sure you understand them before taking your PhoenixPep!"
+      ],
+      "options": [
+        "Labeling Requirements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I received my GoblinGuard spray, but I can't find the expiration date on the label. Is that important?",
+        "Absolutely! Even in a magical world, the expiration date is crucial to ensure the medication's potency and safety. Check the label again or ask your pharmacist."
+      ],
+      "options": [
+        "Labeling Requirements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My insurance covers FairyDust, but they charged me for the full price. What should I do?",
+        "Haha, even in a magical world, you should contact your pharmacy or insurance company to sort out any billing discrepancies and get the correct coverage."
+      ],
+      "options": [
+        "Pharmacy Billing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I got a bill for my DragonBreath inhaler, but it's way more than I expected. Why is that?",
+        "In any realm, various factors like deductibles, copays, or out-of-pocket expenses might affect the final cost. Check with your pharmacy or insurance provider for clarification."
+      ],
+      "options": [
+        "Pharmacy Billing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm picking up my MermaidElixir, but I don't know if my insurance covers it. How can I find out?",
+        "Even under the sea, you can ask the pharmacy to check your insurance coverage or contact your insurance company directly to verify if MermaidElixir is covered."
+      ],
+      "options": [
+        "Pharmacy Billing (correct answer)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Offer",
+        "Acceptance",
+        "Consideration",
+        "Legal Capacity",
+        "Mutual Assent",
+        "Legality",
+        "Written vs. Oral Contracts",
+        "Express vs. Implied Contracts",
+        "Unilateral vs. Bilateral Contracts",
+        "Void, Voidable, and Unenforceable Contracts",
+        "Breach of Contract",
+        "Remedies for Breach of Contract",
+        "Specific Performance",
+        "Termination of Contracts",
+        "Contract Interpretation"
+    ],
+    "hints": {
+        "Offer": "A proposal made by one party to another, indicating a willingness to enter into a contract under specific terms.",
+        "Acceptance": "The agreement by the offeree (the person receiving the offer) to the terms proposed by the offeror (the person making the offer), creating a binding contract.",
+        "Consideration": "Something of value exchanged between parties in a contract, such as money, goods, or services, which makes the contract legally binding.",
+        "Legal Capacity": "The ability of a person to enter into a legally binding contract. Minors, mentally incapacitated individuals, and intoxicated persons generally lack legal capacity.",
+        "Mutual Assent": "The mutual understanding and agreement between parties regarding the essential terms of a contract.",
+        "Legality": "For a contract to be enforceable, its subject matter must be legal and not against public policy.",
+        "Written vs. Oral Contracts": "Written contracts are agreements documented in writing, while oral contracts are spoken agreements. Both can be legally binding, but certain types of contracts must be in writing to be enforceable.",
+        "Express vs. Implied Contracts": "Express contracts are formed by explicit communication between parties, while implied contracts are inferred from the parties' actions or circumstances.",
+        "Unilateral vs. Bilateral Contracts": "In unilateral contracts, only one party makes a promise (e.g., a reward for a lost item), while in bilateral contracts, both parties make promises to each other (e.g., a sale of goods).",
+        "Void, Voidable, and Unenforceable Contracts": "Void contracts are legally invalid from the start, voidable contracts can be canceled by one party if certain conditions exist, and unenforceable contracts cannot be enforced by law due to certain legal defenses.",
+        "Breach of Contract": "The failure of a party to fulfill their contractual obligations, which can result in legal consequences.",
+        "Remedies for Breach of Contract": "Legal actions that may be taken by the injured party in response to a breach of contract, such as monetary damages or specific performance.",
+        "Specific Performance": "A court-ordered remedy requiring the breaching party to perform their contractual obligations, typically used when monetary damages are insufficient or inadequate.",
+        "Termination of Contracts": "The process by which a contract is ended, either through mutual agreement, completion of contractual obligations, or other circumstances, such as a material breach.",
+        "Contract Interpretation": "The determination of the meaning and intent behind the terms and provisions of a contract, often necessary when disputes arise between parties."
+    }
+}

@@ -1,0 +1,2680 @@
+{
+  "questions": [
+    {
+      "question": "Despite her initial _____, Susan eventually agreed to join the team.",
+      "options": [
+        "trepidation (Correct answer)",
+        "enthusiasm",
+        "curiosity",
+        "expertise"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The audience was _____ by the captivating performance.",
+      "options": [
+        "enthralled (Correct answer)",
+        "bored",
+        "repelled",
+        "confused"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The _____ of the mysterious old book intrigued the historian.",
+      "options": [
+        "origin (Correct answer)",
+        "weight",
+        "color",
+        "texture"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The students were _____ to discover that the test had been postponed.",
+      "options": [
+        "elated (Correct answer)",
+        "ambivalent",
+        "devastated",
+        "irritated"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The chef's _____ in the kitchen was evident by the delicious meal he prepared.",
+      "options": [
+        "prowess (Correct answer)",
+        "ineptitude",
+        "apathy",
+        "anxiety"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The puppy's playful _____ endeared it to everyone who met it.",
+      "options": [
+        "demeanor (Correct answer)",
+        "aggression",
+        "lethargy",
+        "indifference"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The professor's explanation was so _____ that even the most inexperienced students could understand the concept.",
+      "options": [
+        "lucid (Correct answer)",
+        "convoluted",
+        "abstruse",
+        "cryptic"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The athlete's _____ performance led the team to victory.",
+      "options": [
+        "stellar (Correct answer)",
+        "mediocre",
+        "disappointing",
+        "lackluster"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The _____ weather made it difficult for the hikers to continue their journey.",
+      "options": [
+        "inclement (Correct answer)",
+        "pleasant",
+        "warm",
+        "sunny"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The artist's work was _____ for its bold use of color and innovative techniques.",
+      "options": [
+        "acclaimed (Correct answer)",
+        "scorned",
+        "overlooked",
+        "dismissed"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The surprise party was a complete _____, as the guest of honor had no idea it was happening.",
+      "options": [
+        "fiasco",
+        "success (Correct answer)",
+        "disaster",
+        "disappointment"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The mysterious stranger had a _____ expression, making it hard to guess his intentions.",
+      "options": [
+        "transparent",
+        "inscrutable (Correct answer)",
+        "obvious",
+        "revealing"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The magician's tricks were so _____ that the audience was left in awe.",
+      "options": [
+        "mundane",
+        "perplexing (Correct answer)",
+        "simple",
+        "unremarkable"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The scientist's _____ discovery revolutionized the field of medicine.",
+      "options": [
+        "insignificant",
+        "profound (Correct answer)",
+        "trivial",
+        "unimportant"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The young athlete showed great _____, finishing the race despite an injury.",
+      "options": [
+        "fortitude (Correct answer)",
+        "weakness",
+        "fragility",
+        "hesitation"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The _____ puppy was easy to train and quickly learned new commands.",
+      "options": [
+        "obstinate",
+        "recalcitrant",
+        "amenable (Correct answer)",
+        "stubborn"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The book's _____ ending left readers wanting more.",
+      "options": [
+        "hackneyed",
+        "banal",
+        "riveting (Correct answer)",
+        "dull"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The politician's _____ speech won over many undecided voters.",
+      "options": [
+        "compelling (Correct answer)",
+        "trite",
+        "uninspired",
+        "monotonous"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The party was _____, with guests enjoying themselves well into the night.",
+      "options": [
+        "lackluster",
+        "lively (Correct answer)",
+        "humdrum",
+        "tedious"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The twins had a _____ bond, always understanding each other's feelings.",
+      "options": [
+        "tenuous",
+        "distant",
+        "superficial",
+        "close (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The author's writing style was _____, making it difficult for some readers to follow the narrative.",
+      "options": [
+        "pellucid",
+        "jejune",
+        "sesquipedalian (Correct answer)",
+        "cogent"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The entrepreneur's _____ spirit led her to start several successful businesses.",
+      "options": [
+        "indolent",
+        "intrepid (Correct answer)",
+        "languid",
+        "slothful"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The manager's _____ decision-making often led to confusion and inefficiency in the workplace.",
+      "options": [
+        "capricious (Correct answer)",
+        "meticulous",
+        "prudent",
+        "methodical"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The _____ fabric of the dress shimmered beautifully under the soft lighting.",
+      "options": [
+        "iridescent (Correct answer)",
+        "monochromatic",
+        "drab",
+        "dull"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The politician's reputation was tarnished due to his _____ behavior.",
+      "options": [
+        "meritorious",
+        "unscrupulous (Correct answer)",
+        "laudable",
+        "estimable"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The student's _____ knowledge of the subject allowed her to excel in the class.",
+      "options": [
+        "cursory",
+        "rudimentary",
+        "superficial",
+        "encyclopedic (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The audience was _____ by the speaker's eloquence and wit.",
+      "options": [
+        "captivated (Correct answer)",
+        "disinterested",
+        "bored",
+        "disenchanted"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The lawyer presented a(_____ argument that ultimately swayed the jury.",
+      "options": [
+        "incoherent",
+        "cogent (Correct answer)",
+        "disjointed",
+        "muddled"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The _____ aroma of the bakery enticed passersby to enter and sample the delicious treats.",
+      "options": [
+        "bland",
+        "insipid",
+        "ambrosial (Correct answer)",
+        "vapid"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The company's _____ growth was a result of strategic investments and innovative products.",
+      "options": [
+        "precipitous (Correct answer)",
+        "stagnant",
+        "languishing",
+        "inert"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The _____ politician managed to avoid answering the difficult question during the debate.",
+      "options": [
+        "candid",
+        "guileless",
+        "artful (Correct answer)",
+        "ingenuous"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The painting was a _____ piece that combined elements of abstract and impressionist styles.",
+      "options": [
+        "derivative",
+        "hackneyed",
+        "eclectic (Correct answer)",
+        "trite"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The chef's use of _____ ingredients resulted in a unique and flavorful dish.",
+      "options": [
+        "prosaic",
+        "mundane",
+        "exotic (Correct answer)",
+        "pedestrian"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The scientist's research was _____, offering new insights into the field.",
+      "options": [
+        "groundbreaking (Correct answer)",
+        "conventional",
+        "antiquated",
+        "outdated"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The company's _____ marketing campaign helped them stand out in a crowded market.",
+      "options": [
+        "uninspired",
+        "innovative (Correct answer)",
+        "derivative",
+        "unoriginal"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The athlete was _____ after her victory, making sure to thank her teammates and coaches.",
+      "options": [
+        "modest (Correct answer)",
+        "vainglorious",
+        "arrogant",
+        "egotistical"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The diplomat's _____ approach to negotiations helped to diffuse a tense situation.",
+      "options": [
+        "incendiary",
+        "tactful (Correct answer)",
+        "inflammatory",
+        "provocative"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The ancient artifact had been well-preserved, its intricate details still _____ after centuries.",
+      "options": [
+        "indiscernible",
+        "vivid (Correct answer)",
+        "faded",
+        "unremarkable"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The novelist's ability to create _____ characters made her stories particularly engaging.",
+      "options": [
+        "two-dimensional",
+        "flat",
+        "insipid",
+        "multifaceted (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The teacher's _____ instructions helped the students understand the complex material.",
+      "options": [
+        "obfuscating",
+        "lucid (Correct answer)",
+        "perplexing",
+        "muddled"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The professor's explanation of the philosophical concept was _____, leaving the students more confused than before.",
+      "options": [
+        "elucidative",
+        "obfuscatory (Correct answer)",
+        "enlightening",
+        "edifying"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The entrepreneur's _____ decision to invest in the risky venture paid off when the company became highly profitable.",
+      "options": [
+        "cautious",
+        "pusillanimous",
+        "audacious (Correct answer)",
+        "timorous"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The biologist's work focused on the study of _____ organisms that thrive in extreme environments.",
+      "options": [
+        "common",
+        "ubiquitous",
+        "extremophilic (Correct answer)",
+        "prevalent"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The author's _____ writing style was characterized by long, complex sentences and an extensive vocabulary.",
+      "options": [
+        "laconic",
+        "aphoristic",
+        "prolix (Correct answer)",
+        "terse"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The scientist's discovery of the new particle was a _____ moment in the field of physics.",
+      "options": [
+        "trivial",
+        "quotidian",
+        "watershed (Correct answer)",
+        "banal"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The philosopher's ideas were considered _____, as they went against the widely accepted beliefs of his time.",
+      "options": [
+        "conformist",
+        "orthodox",
+        "heterodox (Correct answer)",
+        "traditional"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The surgeon's _____ hands allowed her to perform even the most delicate procedures with great skill.",
+      "options": [
+        "unsteady",
+        "deft (Correct answer)",
+        "tremulous",
+        "shaky"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The politician's _____ oratory skills allowed him to persuade even the most skeptical audience members.",
+      "options": [
+        "pedestrian",
+        "lackluster",
+        "soporific",
+        "consummate (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The architect's innovative design was a _____ blend of form and function.",
+      "options": [
+        "felicitous (Correct answer)",
+        "discordant",
+        "jarring",
+        "incongruous"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The engineer's _____ understanding of complex systems enabled him to create efficient and reliable solutions.",
+      "options": [
+        "superficial",
+        "cursory",
+        "perfunctory",
+        "profound (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The author's _____ use of language painted a vivid and evocative picture in the reader's mind.",
+      "options": [
+        "inept",
+        "maladroit",
+        "masterful (Correct answer)",
+        "ham-fisted"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The judge's ruling was later _____, as new evidence emerged that contradicted the original decision.",
+      "options": [
+        "vindicated",
+        "corroborated",
+        "overturned (Correct answer)",
+        "buttressed"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The political analyst's _____ assessment of the situation revealed a deep understanding of the underlying issues.",
+      "options": [
+        "superficial",
+        "perceptive (Correct answer)",
+        "cursory",
+        "shallow"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The athlete's _____ work ethic and dedication to training helped her achieve success at the highest level.",
+      "options": [
+        "indolent",
+        "lackadaisical",
+        "assiduous (Correct answer)",
+        "slothful"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The diplomat had a _____ for navigating complex negotiations and reaching mutually beneficial agreements.",
+      "options": [
+        "knack (Correct answer)",
+        "disdain",
+        "contempt",
+        "repugnance"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The artist's work featured a _____ color palette, with vibrant hues that captured the viewer's attention.",
+      "options": [
+        "drab",
+        "muted",
+        "arresting (Correct answer)",
+        "dull"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The scientist's _____ in her field made her a sought-after speaker at conferences and events.",
+      "options": [
+        "eminence (Correct answer)",
+        "obscurity",
+        "anonymity",
+        "insignificance"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The archaeological site yielded a treasure trove of _____ artifacts, providing valuable insights into the ancient civilization.",
+      "options": [
+        "contemporary",
+        "antediluvian (Correct answer)",
+        "modern",
+        "current"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The intricate web of alliances and rivalries between the different factions made the political situation _____.",
+      "options": [
+        "transparent",
+        "byzantine (Correct answer)",
+        "unambiguous",
+        "simple"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The team's _____ cooperation was essential to the success of the complex project.",
+      "options": [
+        "fractious",
+        "seamless (Correct answer)",
+        "discordant",
+        "contentious"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The detective was known for his _____ skills, quickly uncovering even the most carefully concealed clues.",
+      "options": [
+        "inept",
+        "obtuse",
+        "perspicacious (Correct answer)",
+        "unobservant"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The company's decision to invest in renewable energy sources proved to be _____, as they were able to reduce costs and gain public support.",
+      "options": [
+        "sagacious (Correct answer)",
+        "impetuous",
+        "imprudent",
+        "reckless"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The playwright's use of _____ dialogue added depth to the characters and made their interactions more engaging.",
+      "options": [
+        "trite",
+        "banal",
+        "trenchant (Correct answer)",
+        "insipid"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The entrepreneur's _____ spirit led him to take risks and seize opportunities that others might have overlooked.",
+      "options": [
+        "pusillanimous",
+        "venturesome (Correct answer)",
+        "craven",
+        "timorous"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The diplomat was skilled at _____ complex issues, finding common ground between disputing parties.",
+      "options": [
+        "exacerbating",
+        "disentangling (Correct answer)",
+        "convoluting",
+        "complicating"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The athlete's _____ comeback after a major injury inspired fans and fellow competitors alike.",
+      "options": [
+        "resurgent (Correct answer)",
+        "faltering",
+        "stagnating",
+        "languishing"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The scientist's meticulous approach to data collection ensured the _____ of the research findings.",
+      "options": [
+        "veracity (Correct answer)",
+        "fallacy",
+        "spuriousness",
+        "inaccuracy"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The artist's work featured _____ motifs, drawing on themes and symbols from various cultures.",
+      "options": [
+        "insular",
+        "parochial",
+        "cosmopolitan (Correct answer)",
+        "provincial"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The company's _____ management style allowed employees to take ownership of their work and contribute their unique skills.",
+      "options": [
+        "dictatorial",
+        "autocratic",
+        "empowering (Correct answer)",
+        "overbearing"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The intricate negotiations required a _____ understanding of the various stakeholders' interests and priorities.",
+      "options": [
+        "superficial",
+        "cursory",
+        "nuanced (Correct answer)",
+        "perfunctory"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which type of graph is best for showing trends over time?",
+      "options": [
+        "Pie chart",
+        "Bar chart",
+        "Line graph (Correct answer)",
+        "Scatter plot"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What does a histogram display?",
+      "options": [
+        "Correlations between variables",
+        "Categorical data",
+        "Frequency distribution of numerical data (Correct answer)",
+        "Proportions of a whole"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which graph is most suitable for showing the relationship between two numerical variables?",
+      "options": [
+        "Pie chart",
+        "Bar chart",
+        "Line graph",
+        "Scatter plot (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In a pie chart, what does each slice represent?",
+      "options": [
+        "Percentage of the total (Correct answer)",
+        "Absolute values",
+        "Time intervals",
+        "Frequency"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the primary purpose of a bar chart?",
+      "options": [
+        "To show a trend over time",
+        "To compare categorical data (Correct answer)",
+        "To display numerical data",
+        "To represent correlations"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What does the term \"outlier\" refer to in data representation?",
+      "options": [
+        "An average value",
+        "A data point that is significantly different from the others (Correct answer)",
+        "A central tendency",
+        "A common value"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which measure of central tendency is most affected by outliers?",
+      "options": [
+        "Mean (Correct answer)",
+        "Median",
+        "Mode",
+        "Range"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In a box plot, what does the box represent?",
+      "options": [
+        "The range of all data points",
+        "The interquartile range (IQR) (Correct answer)",
+        "The median",
+        "The mode"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the purpose of a line of best fit in a scatter plot?",
+      "options": [
+        "To show the range of values",
+        "To show the median",
+        "To represent the relationship between two variables (Correct answer)",
+        "To display frequency distribution"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What does a positively skewed distribution indicate?",
+      "options": [
+        "Most data points are concentrated on the left side (Correct answer)",
+        "Most data points are concentrated on the right side",
+        "Data points are uniformly distributed",
+        "The distribution has multiple peaks"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In a cumulative frequency graph, what does the final point represent?",
+      "options": [
+        "The total frequency (Correct answer)",
+        "The median",
+        "The mode",
+        "The interquartile range"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the primary purpose of a stem-and-leaf plot?",
+      "options": [
+        "To show frequency distribution while preserving original data values (Correct answer)",
+        "To show the relationship between two variables",
+        "To display proportions of a whole",
+        "To compare categorical data"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What does a negatively skewed distribution indicate?",
+      "options": [
+        "Most data points are concentrated on the left side",
+        "Most data points are concentrated on the right side (Correct answer)",
+        "Data points are uniformly distributed",
+        "The distribution has multiple peaks"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following is a common strategy for addressing conflicting viewpoints in an argumentative essay?",
+      "options": [
+        "Ignoring the opposition's views",
+        "Acknowledging and refuting counterarguments (Correct answer)",
+        "Presenting only one side of the argument",
+        "Agreeing with all opposing viewpoints"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In a debate, what should be the primary focus when responding to an opposing viewpoint?",
+      "options": [
+        "Attacking the character of the opponent",
+        "Addressing the substance of the argument (Correct answer)",
+        "Disregarding the opposing viewpoint",
+        "Avoiding any controversial topics"
+      ],
+      "hints": []
+    },
+    {
+      "question": "When evaluating conflicting viewpoints, which of the following is most important to consider?",
+      "options": [
+        "The popularity of the viewpoint",
+        "The credentials of the person presenting the viewpoint",
+        "The evidence supporting the viewpoint (Correct answer)",
+        "The emotional appeal of the viewpoint"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following is an example of a straw man fallacy?",
+      "options": [
+        "Misrepresenting an opponent's argument to make it easier to refute (Correct answer)",
+        "Arguing against an idea by attacking the person who supports it",
+        "Using irrelevant information to distract from the main argument",
+        "Assuming that two events are causally linked because one follows the other"
+      ],
+      "hints": []
+    },
+    {
+      "question": "When encountering conflicting viewpoints, what is a logical fallacy to avoid?",
+      "options": [
+        "False dilemma (Correct answer)",
+        "Presenting evidence",
+        "Providing examples",
+        "Stating facts"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the primary purpose of an ad hominem attack?",
+      "options": [
+        "To provide evidence supporting one's own argument",
+        "To undermine an opponent's argument by attacking their character (Correct answer)",
+        "To concede to the opposition",
+        "To present a logical counterargument"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In a discussion, which approach is most likely to lead to a productive exchange of ideas?",
+      "options": [
+        "Listening carefully to opposing viewpoints and asking questions (Correct answer)",
+        "Interrupting the opponent frequently",
+        "Repeating one's own argument without considering counterarguments",
+        "Focusing on personal attacks"
+      ],
+      "hints": []
+    },
+    {
+      "question": "When assessing the credibility of a source with a conflicting viewpoint, which factor is most important?",
+      "options": [
+        "The source's expertise and reliability (Correct answer)",
+        "The source's opinion on unrelated topics",
+        "The popularity of the source",
+        "The source's political affiliations"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In a debate, which of the following is the most effective way to respond to an opposing argument?",
+      "options": [
+        "Presenting a well-reasoned counterargument supported by evidence (Correct answer)",
+        "Resorting to personal attacks",
+        "Ignoring the opposing argument",
+        "Agreeing with the opposing argument without question"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following is an example of a false dichotomy?",
+      "options": [
+        "Presenting only two options as if they are the only possibilities, when other options exist (Correct answer)",
+        "Misrepresenting an opponent's argument",
+        "Using irrelevant information to distract from the main argument",
+        "Assuming that two events are causally linked because one follows the other"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In a discussion involving conflicting viewpoints, what is an effective way to build common ground?",
+      "options": [
+        "Identifying areas of agreement (Correct answer)",
+        "Ignoring the opponent's perspective",
+        "Focusing solely on disagreements",
+        "Resorting to personal attacks"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following is a characteristic of a strong argument when dealing with conflicting viewpoints?",
+      "options": [
+        "Avoiding any mention of opposing arguments",
+        "Basing conclusions on personal beliefs",
+        "Providing clear, relevant, and well-supported evidence (Correct answer)",
+        "Relying heavily on emotional appeals"
+      ],
+      "hints": []
+    },
+    {
+      "question": "When evaluating conflicting viewpoints, which of the following is least important?",
+      "options": [
+        "The clarity and coherence of the argument",
+        "The strength"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two scientists are debating the cause of a recent increase in forest fires. Scientist A argues that the increase is due to climate change, while Scientist B believes it is a result of poor forest management practices. Based on the information provided, which of the following conclusions can be drawn?",
+      "options": [
+        "Scientist A is correct",
+        "Scientist B is correct",
+        "There is not enough information to determine which scientist is correct (Correct answer)",
+        "Both scientists are wrong"
+      ],
+      "hints": []
+    },
+    {
+      "question": "According to the passage, which of the following statements would both economists most likely agree on?",
+      "options": [
+        "The government should implement more regulations on businesses",
+        "A free-market economy is the most efficient system",
+        "Wealth inequality is a major problem in society (Correct answer)",
+        "Tax cuts for the wealthy benefit the overall economy"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Based on the passage, what is the primary difference between the two political parties' views on education reform?",
+      "options": [
+        "Party A supports increased funding for public schools, while Party B supports the expansion of charter schools (Correct answer)",
+        "Party A opposes standardized testing, while Party B supports it",
+        "Party A supports teacher tenure, while Party B opposes it",
+        "Both parties agree on all major aspects of education reform"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two historians have different interpretations of a historical event. Historian X believes that the event was caused primarily by economic factors, while Historian Y argues that it was the result of political rivalries. Which of the following pieces of evidence would most likely support Historian X's argument?",
+      "options": [
+        "A document outlining a trade embargo that preceded the event (Correct answer)",
+        "A speech by a political leader that incited violence",
+        "Records of military alliances formed before the event",
+        "A treaty signed after the event that resolved territorial disputes"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Based on the information in the passage, which of the following statements would both psychologists most likely agree on?",
+      "options": [
+        "Nature plays a more significant role in personality development than nurture",
+        "Nurture plays a more significant role in personality development than nature",
+        "Both nature and nurture play significant roles in personality development (Correct answer)",
+        "Neither nature nor nurture has a significant impact on personality development"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In the passage, the two authors disagree on the best approach to addressing climate change. Which of the following statements would Author A most likely support?",
+      "options": [
+        "Governments should invest in renewable energy sources (Correct answer)",
+        "Fossil fuels should continue to be the primary source of energy",
+        "The private sector will naturally transition to cleaner energy sources without government intervention",
+        "Climate change is not a serious issue that needs to be addressed"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Based on the passage, what is the primary difference between the two medical researchers' views on the best treatment for a specific illness?",
+      "options": [
+        "Researcher A supports the use of medication, while Researcher B supports alternative therapies (Correct answer)",
+        "Researcher A believes that the illness is incurable, while Researcher B believes that a cure is possible",
+        "Both researchers agree on the best treatment for the illness",
+        "There is not enough information in the passage to determine the researchers' views"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two ecologists have different views on the best way to protect endangered species. Ecologist A argues for the creation of wildlife reserves, while Ecologist B believes in the implementation of stronger regulations on hunting and habitat destruction. Which of the following pieces of evidence would most likely support Ecologist B's argument?",
+      "options": [
+        "Data showing a decrease in endangered species populations in areas with wildlife reserves",
+        "Data showing an increase in endangered species populations in areas with stronger regulations (Correct answer)",
+        "Data showing no correlation between wildlife reserves and endangered species populations",
+        "Data showing that habitat destruction is not a significant factor in species endangerment"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two architects have different opinions on the most efficient building design for energy conservation. Architect A argues for a design with large windows to maximize natural light, while Architect B suggests a design with small windows to minimize heat loss. Which of the following pieces of evidence would most likely support Architect A's argument?",
+      "options": [
+        "A study showing that buildings with large windows have lower energy consumption (Correct answer)",
+        "A study showing that buildings with small windows have lower energy consumption",
+        "A study showing that window size does not significantly impact energy consumption",
+        "A study showing that both large and small windows have similar energy consumption"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two nutritionists have opposing views on the best diet for weight loss. Nutritionist A advocates for a low-carbohydrate diet, while Nutritionist B supports a low-fat diet. Based on the information provided, which of the following conclusions can be drawn?",
+      "options": [
+        "Nutritionist A is correct",
+        "Nutritionist B is correct",
+        "There is not enough information to determine which nutritionist is correct (Correct answer)",
+        "Both nutritionists are wrong"
+      ],
+      "hints": []
+    },
+    {
+      "question": "According to the passage, which of the following statements would both environmentalists most likely agree on?",
+      "options": [
+        "Deforestation is a major contributor to climate change",
+        "Nuclear energy is a safe and clean energy source",
+        "Reducing carbon emissions is crucial for mitigating climate change (Correct answer)",
+        "The government should not regulate greenhouse gas emissions"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two sociologists have different theories about the causes of crime. Sociologist A believes that crime is primarily caused by socioeconomic factors, while Sociologist B argues that it is the result of individual choices. Which of the following pieces of evidence would most likely support Sociologist A's theory?",
+      "options": [
+        "Data showing a correlation between poverty and crime rates (Correct answer)",
+        "Data showing a correlation between personal values and crime rates",
+        "Data showing no correlation between socioeconomic factors and crime rates",
+        "Data showing that crime rates are similar across different socioeconomic groups"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In the passage, the two authors disagree on the best approach to addressing income inequality. Which of the following statements would Author B most likely support?",
+      "options": [
+        "Implementing progressive taxation policies (Correct answer)",
+        "Reducing government spending on social programs",
+        "Eliminating minimum wage laws",
+        "Implementing policies that favor the wealthy"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Based on the passage, what is the primary difference between the two political scientists' views on the role of government in society?",
+      "options": [
+        "Political Scientist A believes in a limited government role, while Political Scientist B believes in a more active government role (Correct answer)",
+        "Political Scientist A believes in a more active government role, while Political Scientist B believes in a limited government role",
+        "Both political scientists agree on the role of government in society",
+        "There is not enough information in the passage to determine the political scientists' views"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two anthropologists have different views on the primary cause of cultural change. Anthropologist A argues that cultural change is driven by internal factors, while Anthropologist B believes that it is the result of external influences. Which of the following pieces of evidence would most likely support Anthropologist B's argument?",
+      "options": [
+        "A study showing that cultural change occurs more rapidly in societies with frequent contact with other cultures (Correct answer)",
+        "A study showing that cultural change occurs at a similar rate in isolated societies and those with frequent contact with other cultures",
+        "A study showing that cultural change is not significantly impacted by external factors",
+        "A study showing that internal factors are the primary driver of cultural change"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In the passage, two experts on artificial intelligence have opposing views on the potential consequences of AI development. Expert A warns of potential job loss, while Expert B is optimistic about new job creation. Which of the following statements would Expert A most likely support?",
+      "options": [
+        "AI will lead to widespread unemployment due to automation (Correct answer)",
+        "AI will create more jobs than it eliminates",
+        "AI will have no significant impact on job markets",
+        "AI will primarily affect low-skilled jobs, but not high-skilled ones"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two biologists disagree on the primary cause of declining bee populations. Biologist A believes that pesticide use is the main culprit, while Biologist B argues that habitat loss is the primary cause. Based on the information provided, which of the following conclusions can be drawn?",
+      "options": [
+        "Biologist A is correct",
+        "Biologist B is correct",
+        "There is not enough information to determine which biologist is correct (Correct answer)",
+        "Both biologists are wrong"
+      ],
+      "hints": []
+    },
+    {
+      "question": "According to the passage, which of the following statements would both criminologists most likely agree on?",
+      "options": [
+        "Harsher sentences deter crime",
+        "Rehabilitation programs are effective in reducing recidivism (Correct answer)",
+        "The death penalty is an effective deterrent to crime",
+        "Crime rates are primarily influenced by genetics"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two economists have different views on the impact of globalization on local economies. Economist A believes that globalization benefits local economies by creating new opportunities, while Economist B argues that it leads to job loss and economic inequality. Which of the following pieces of evidence would most likely support Economist A's view?",
+      "options": [
+        "Data showing increased economic growth in regions with high levels of globalization (Correct answer)",
+        "Data showing increased income inequality in regions with high levels of globalization",
+        "Data showing no correlation between globalization and local economic growth",
+        "Data showing that globalization has minimal impact on job creation"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In the passage, the two authors disagree on the best approach to reducing carbon emissions. Which of the following statements would Author A most likely support?",
+      "options": [
+        "Implementing a carbon tax (Correct answer)",
+        "Investing in fossil fuel extraction and production",
+        "Relying on market forces to naturally reduce carbon emissions",
+        "Prioritizing economic growth over environmental concerns"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Based on the passage, what is the primary difference between the two psychologists' views on the effectiveness of cognitive behavioral therapy (CBT)?",
+      "options": [
+        "Psychologist A supports the use of CBT, while Psychologist B is skeptical of its effectiveness (Correct answer)",
+        "Psychologist A is skeptical of CBT's effectiveness, while Psychologist B supports its use",
+        "Both psychologists agree on the effectiveness of CBT",
+        "There is not enough information in the passage to determine the psychologists' views"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two philosophers have different views on the nature of morality. Philosopher A argues that morality is objective and universal, while Philosopher B believes that it is subjective and culturally specific. Which of the following pieces of evidence would most likely support Philosopher B's argument?",
+      "options": [
+        "A study showing that moral beliefs vary widely across different cultures (Correct answer)",
+        "A study showing that some moral principles are universally accepted",
+        "A study showing that moral beliefs are primarily determined by genetics",
+        "A study showing that moral beliefs are not influenced by cultural factors"
+      ],
+      "hints": []
+    },
+    {
+      "question": "According to the passage, which of the following statements would both linguists most likely agree on?",
+      "options": [
+        "Language is innate and genetically determined",
+        "Language is a social construct and learned through interaction (Correct answer)",
+        "The development of language is primarily influenced by environmental factors",
+        "There is a single, universal grammar that underlies all languages"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two environmentalists have differing opinions on the best approach to reduce plastic waste. Environmentalist A supports banning single-use plastics, while Environmentalist B advocates for improving recycling infrastructure. Based on the information provided, which of the following conclusions can be drawn?",
+      "options": [
+        "Environmentalist A is correct",
+        "Environmentalist B is correct",
+        "There is not enough information to determine which environmentalist is correct (Correct answer)",
+        "Both environmentalists are wrong"
+      ],
+      "hints": []
+    },
+    {
+      "question": "According to the passage, which of the following statements would both urban planners most likely agree on?",
+      "options": [
+        "Public transportation should be prioritized over personal vehicles",
+        "The construction of highways is essential for reducing traffic congestion",
+        "Mixed-use development can improve the quality of life in urban areas (Correct answer)",
+        "Urban sprawl is a positive aspect of city growth"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two astronomers have different theories about the origin of a recently discovered celestial object. Astronomer A believes that the object is a rogue planet, while Astronomer B thinks it is a brown dwarf star. Which of the following pieces of evidence would most likely support Astronomer A's theory?",
+      "options": [
+        "The celestial object has a mass similar to that of a large gas giant planet (Correct answer)",
+        "The celestial object is emitting significant amounts of infrared radiation",
+        "The celestial object is located within a star-forming region",
+        "The celestial object is surrounded by a protoplanetary disk"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In the passage, the two authors disagree on the best way to promote economic growth in developing countries. Which of the following statements would Author A most likely support?",
+      "options": [
+        "Increasing foreign aid to developing countries (Correct answer)",
+        "Reducing government involvement in the economy",
+        "Focusing on free-market policies and deregulation",
+        "Prioritizing military spending over social programs"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Based on the passage, what is the primary difference between the two political analysts' views on the impact of social media on political discourse?",
+      "options": [
+        "Political Analyst A believes that social media has a positive impact on political discourse, while Political Analyst B believes it has a negative impact (Correct answer)",
+        "Political Analyst A believes that social media has a negative impact on political discourse, while Political Analyst B believes it has a positive impact",
+        "Both political analysts agree on the impact of social media on political discourse",
+        "There is not enough information in the passage to determine the political analysts' views"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two geologists have different views on the primary cause of a recent increase in volcanic activity. Geologist A attributes the increase to tectonic plate movement, while Geologist B believes it is due to mantle plumes. Which of the following pieces of evidence would most likely support Geologist A's view?",
+      "options": [
+        "A study showing a correlation between tectonic plate movement and increased volcanic activity (Correct answer)",
+        "A study showing a correlation between mantle plumes and increased volcanic activity",
+        "A study showing that volcanic activity is not significantly influenced by tectonic plate movement"
+      ],
+      "hints": []
+    },
+    {
+      "question": "A study showing that both tectonic plate movement and mantle plumes have minimal impact on volcanic activity",
+      "options": [
+        "According to the passage, which of the following statements would both archaeologists most likely agree on?",
+        "The use of advanced technology is essential for making new discoveries",
+        "Oral traditions and folklore are unreliable sources of historical information",
+        "Collaborative research between archaeologists and local communities is important for preserving cultural heritage (Correct answer)",
+        "Excavating archaeological sites should be prioritized over site conservation"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two marine biologists have differing opinions on the primary cause of coral reef degradation. Marine Biologist A believes that ocean acidification is the main factor, while Marine Biologist B argues that rising sea temperatures are the primary cause. Based on the information provided, which of the following conclusions can be drawn?",
+      "options": [
+        "Marine Biologist A is correct",
+        "Marine Biologist B is correct",
+        "There is not enough information to determine which marine biologist is correct (Correct answer)",
+        "Both marine biologists are wrong"
+      ],
+      "hints": []
+    },
+    {
+      "question": "According to the passage, which of the following statements would both education experts most likely agree on?",
+      "options": [
+        "Standardized testing is the most effective way to measure student success",
+        "The use of technology in the classroom improves learning outcomes (Correct answer)",
+        "Teacher salaries should be based on student performance",
+        "Class size has no significant impact on student achievement"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two meteorologists have different theories about the cause of an unusual weather pattern. Meteorologist A believes that the pattern is the result of El Ni\u00f1o, while Meteorologist B thinks it is due to changes in the jet stream. Which of the following pieces of evidence would most likely support Meteorologist A's theory?",
+      "options": [
+        "Data showing an increase in sea surface temperatures in the Pacific Ocean (Correct answer)",
+        "Data showing a shift in the position of the jet stream",
+        "Data showing no correlation between El Ni\u00f1o events and unusual weather patterns",
+        "Data showing that changes in the jet stream are the primary driver of unusual weather patterns"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In the passage, the two authors disagree on the most effective approach to addressing the obesity epidemic. Which of the following statements would Author A most likely support?",
+      "options": [
+        "Implementing government policies to encourage healthy lifestyles (Correct answer)",
+        "Promoting personal responsibility for health and wellness",
+        "Focusing on individual genetic factors as the primary cause of obesity",
+        "Encouraging the consumption of high-calorie, low-nutrient foods"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Based on the passage, what is the primary difference between the two historians' views on the most important factor in the fall of the Roman Empire?",
+      "options": [
+        "Historian A believes that external invasions were the primary cause, while Historian B believes that internal political instability was the primary cause (Correct answer)",
+        "Historian A believes that internal political instability was the primary cause, while Historian B believes that external invasions were the primary cause",
+        "Both historians agree on the most important factor in the fall of the Roman Empire",
+        "There is not enough information in the passage to determine the historians' views"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two ecologists have different views on the primary cause of species extinction. Ecologist A argues that habitat loss is the main factor, while Ecologist B believes that human overexploitation of resources is the primary cause. Which of the following pieces of evidence would most likely support Ecologist A's view?",
+      "options": [
+        "A study showing a correlation between habitat loss and species extinction rates (Correct answer)",
+        "A study showing a correlation between human resource use and species extinction rates",
+        "A study showing that species extinction rates are not significantly influenced by habitat loss",
+        "A study showing that both habitat loss and human resource use have minimal impact on species extinction rates"
+      ],
+      "hints": []
+    },
+    {
+      "question": "According to the passage, which of the following statements would both medical researchers most likely agree on?",
+      "options": [
+        "Vaccines are an essential tool in combating infectious diseases (Correct answer)",
+        "Alternative medicine is more effective than conventional medicine",
+        "The placebo effect is a myth",
+        "Clinical trials are unnecessary for testing the safety and effectiveness of new treatments",
+        "Two energy experts have differing opinions on the best approach to transition to renewable energy sources. Energy Expert A supports a gradual transition, while Energy"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two nutritionists have different opinions on the best diet for overall health. Nutritionist A supports a plant-based diet, while Nutritionist B advocates for a balanced diet that includes meat and dairy products. Based on the information provided, which of the following conclusions can be drawn?",
+      "options": [
+        "Nutritionist A is correct",
+        "Nutritionist B is correct",
+        "There is not enough information to determine which nutritionist is correct (Correct answer)",
+        "Both nutritionists are wrong"
+      ],
+      "hints": []
+    },
+    {
+      "question": "According to the passage, which of the following statements would both transportation experts most likely agree on?",
+      "options": [
+        "Electric vehicles are a crucial part of reducing greenhouse gas emissions (Correct answer)",
+        "Public transportation systems are unnecessary in modern cities",
+        "The construction of new roads is the best solution to traffic congestion",
+        "Self-driving cars pose a significant threat to public safety"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two climatologists have different theories about the primary cause of a recent increase in extreme weather events. Climatologist A believes that the increase is due to climate change, while Climatologist B thinks it is due to natural climate variability. Which of the following pieces of evidence would most likely support Climatologist A's theory?",
+      "options": [
+        "Data showing a correlation between rising global temperatures and increased frequency of extreme weather events (Correct answer)",
+        "Data showing no significant change in the frequency of extreme weather events over time",
+        "Data showing that extreme weather events are not significantly influenced by climate change",
+        "Data showing that both climate change and natural climate variability have minimal impact on extreme weather events"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In the passage, the two authors disagree on the most effective approach to reducing crime rates. Which of the following statements would Author A most likely support?",
+      "options": [
+        "Increasing funding for community-based crime prevention programs (Correct answer)",
+        "Expanding the use of surveillance technology in public spaces",
+        "Imposing mandatory minimum sentences for all criminal offenses",
+        "Focusing on punitive measures as the primary means of crime control",
+        "Based on the passage, what is the primary difference between the two economists' views on the impact of income inequality on economic growth?"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Economist A believes that income inequality hinders economic growth, while Economist B believes it promotes economic growth (Correct answer)",
+      "options": [
+        "Economist A believes that income inequality promotes economic growth, while Economist B believes it hinders economic growth",
+        "Both economists agree on the impact of income inequality on economic growth",
+        "There is not enough information in the passage to determine the economists' views"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two sociologists have different views on the primary cause of social stratification. Sociologist A argues that social stratification is the result of unequal access to resources, while Sociologist B believes that it is primarily due to cultural factors. Which of the following pieces of evidence would most likely support Sociologist A's view?",
+      "options": [
+        "A study showing a correlation between resource distribution and social stratification (Correct answer)",
+        "A study showing a correlation between cultural factors and social stratification",
+        "A study showing that social stratification is not significantly influenced by resource distribution"
+      ],
+      "hints": []
+    },
+    {
+      "question": "A study showing that both resource distribution and cultural factors have minimal impact on social stratification",
+      "options": [
+        "According to the passage, which of the following statements would both anthropologists most likely agree on?",
+        "Cultural relativism is an important concept in understanding different societies (Correct answer)",
+        "Ethnocentrism is a valid approach to studying other cultures",
+        "The study of human evolution is irrelevant to understanding contemporary societies",
+        "Cultural diffusion is a negative aspect of human interaction",
+        "Two political scientists have differing opinions on the role of third parties in a two-party political system. Political Scientist A supports the idea that third parties can have a significant impact, while Political Scientist B argues that third"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two psychologists have different theories about the primary cause of stress in modern society. Psychologist A believes that the increase in stress is due to technology overuse, while Psychologist B thinks it is due to the pressure to achieve success. Based on the information provided, which of the following conclusions can be drawn?",
+      "options": [
+        "Psychologist A is correct",
+        "Psychologist B is correct",
+        "There is not enough information to determine which psychologist is correct (Correct answer)",
+        "Both psychologists are wrong",
+        "According to the passage, which of the following statements would both urban designers most likely agree on?",
+        "Green spaces are an essential element of healthy urban environments (Correct answer)",
+        "Dense urban environments are detrimental to residents' mental health",
+        "Urban planning should prioritize automobile traffic over pedestrian and bicycle traffic",
+        "Gentrification is a positive aspect of urban development"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two biologists have different theories about the primary cause of a recent decline in a particular bird species population. Biologist A believes that the decline is due to habitat fragmentation, while Biologist B thinks it is due to predation by an invasive species. Which of the following pieces of evidence would most likely support Biologist A's theory?",
+      "options": [
+        "Data showing a correlation between habitat fragmentation and the decline in the bird species population (Correct answer)",
+        "Data showing a correlation between predation by an invasive species and the decline in the bird species population",
+        "Data showing that the bird species population is not significantly influenced by habitat fragmentation",
+        "Data showing that both habitat fragmentation and predation by an invasive species have minimal impact on the bird species population"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two environmental scientists have different views on the primary cause of air pollution in major cities. Environmental Scientist A argues that industrial emissions are the main factor, while Environmental Scientist B believes that vehicle emissions are the primary cause. Which of the following pieces of evidence would most likely support Environmental Scientist A's view?",
+      "options": [
+        "A study showing a correlation between industrial emissions and air pollution levels (Correct answer)",
+        "A study showing a correlation between vehicle emissions and air pollution levels",
+        "A study showing that air pollution levels are not significantly influenced by industrial emissions",
+        "A study showing that both industrial emissions and vehicle emissions have minimal impact on air pollution levels"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two astronomers have different theories about the primary cause of a recent increase in meteor sightings. Astronomer A believes that the increase is due to a nearby comet, while Astronomer B thinks it is due to increased space debris. Based on the information provided, which of the following conclusions can be drawn?",
+      "options": [
+        "Astronomer A is correct",
+        "Astronomer B is correct",
+        "There is not enough information to determine which astronomer is correct (Correct answer)",
+        "Both astronomers are wrong"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two geologists have different theories about the primary cause of a recent increase in volcanic activity. Geologist A believes that the increase is due to tectonic plate movement, while Geologist B thinks it is due to a hotspot in the Earth's mantle. Which of the following pieces of evidence would most likely support Geologist A's theory?",
+      "options": [
+        "Data showing a correlation between tectonic plate movement and increased volcanic activity (Correct answer)",
+        "Data showing a correlation between a mantle hotspot and increased volcanic activity",
+        "Data showing that volcanic activity is not significantly influenced by tectonic plate movement",
+        "Data showing that both tectonic plate movement and mantle hotspots have minimal impact on volcanic activity"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In the passage, the two authors disagree on the most effective approach to addressing income inequality. Which of the following statements would Author A most likely support?",
+      "options": [
+        "Implementing progressive tax policies (Correct answer)",
+        "Reducing government intervention in the economy",
+        "Focusing on individual responsibility for financial success",
+        "Encouraging the growth of multinational corporations"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Based on the passage, what is the primary difference between the two engineers' views on the potential of renewable energy sources?",
+      "options": [
+        "Engineer A believes that renewable energy sources can fully replace fossil fuels, while Engineer B believes that they cannot (Correct answer)",
+        "Engineer A believes that renewable energy sources cannot fully replace fossil fuels, while Engineer B believes that they can",
+        "Both engineers agree on the potential of renewable energy sources",
+        "There is not enough information in the passage to determine the engineers' views"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two anthropologists have different views on the primary cause of cultural change. Anthropologist A argues that cultural change is mainly driven by external factors, while Anthropologist B believes that it is primarily due to internal factors. Which of the following pieces of evidence would most likely support Anthropologist A's view?",
+      "options": [
+        "A study showing a correlation between external factors and cultural change (Correct answer)",
+        "A study showing a correlation between internal factors and cultural change",
+        "A study showing that cultural change is not significantly influenced by external factors",
+        "A study showing that both external and internal factors have minimal impact on cultural change"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two economists have different theories about the primary cause of a recent increase in inflation. Economist A believes that the increase is due to excessive government spending, while Economist B thinks it is due to supply chain disruptions. Based on the information provided, which of the following conclusions can be drawn?",
+      "options": [
+        "Economist A is correct",
+        "Economist B is correct",
+        "There is not enough information to determine which economist is correct (Correct answer)",
+        "Both economists are wrong"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two biologists have different theories about the primary cause of a recent decline in bee populations. Biologist A believes that the decline is due to pesticide exposure, while Biologist B thinks it is due to habitat loss. Which of the following pieces of evidence would most likely support Biologist A's theory?",
+      "options": [
+        "Data showing a correlation between pesticide exposure and the decline in bee populations (Correct answer)",
+        "Data showing a correlation between habitat loss and the decline in bee populations",
+        "Data showing that the bee populations are not significantly influenced by pesticide exposure",
+        "Data showing that both pesticide exposure and habitat loss have minimal impact on bee populations"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Based on the passage, what is the primary difference between the two architects' views on the importance of sustainable design?",
+      "options": [
+        "Architect A believes that sustainable design is essential, while Architect B believes it is not (Correct answer)",
+        "Architect A believes that sustainable design is not essential, while Architect B believes it is",
+        "Both architects agree on the importance of sustainable design",
+        "There is not enough information in the passage to determine the architects' views"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Two psychologists have different views on the primary cause of increased rates of depression among adolescents. Psychologist A argues that social media use is the main factor, while Psychologist B believes that genetic factors play a larger role. Which of the following pieces of evidence would most likely support Psychologist A's view?",
+      "options": [
+        "A study showing a correlation between social media use and increased rates of depression among adolescents (Correct answer)",
+        "A study showing a correlation between genetic factors and increased rates of depression among adolescents",
+        "A study showing that adolescent depression rates are not significantly influenced by social media use",
+        "A study showing that both social media use and genetic factors have minimal impact on adolescent depression rates"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Researchers conducted a study on the effect of humor on workplace productivity. They found that employees who were exposed to humorous content during work breaks were more likely to report increased job satisfaction and productivity compared to a control group who did not view humorous content. Based on the study, which of the following conclusions can be drawn?",
+      "options": [
+        "Humor has a direct, positive effect on workplace productivity",
+        "Job satisfaction is not influenced by humor",
+        "There is not enough information to determine the relationship between humor and job satisfaction",
+        "Viewing humorous content during work breaks can improve job satisfaction and productivity (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "A group of researchers conducted a study on the impact of different types of music on plant growth. They exposed various plants to classical music, heavy metal, and silence, and measured the growth of each plant over a period of three months. The results indicated that plants exposed to classical music experienced a significant increase in growth compared to the other two groups. Based on the study, which of the following conclusions can be drawn?",
+      "options": [
+        "Only classical music has a positive impact on plant growth",
+        "Heavy metal music is detrimental to plant growth",
+        "Plants exposed to classical music experienced enhanced growth compared to plants in the other groups (Correct answer)",
+        "Silence has no impact on plant growth"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Researchers conducted a study to investigate the relationship between laughter and the immune system. They divided participants into two groups: one group watched a comedy show, while the other group watched a documentary. Blood samples were taken before and after the viewings to measure the participants' levels of immune cells. The study found that participants who watched the comedy show had a noticeable increase in immune cells compared to those who watched the documentary. Based on the study, which of the following conclusions can be drawn?",
+      "options": [
+        "Laughter has a detrimental effect on the immune system",
+        "Watching a documentary has no impact on the immune system",
+        "Laughter can have a positive impact on the immune system (Correct answer)",
+        "Immune cell levels are not influenced by the type of content people watch"
+      ],
+      "hints": []
+    },
+    {
+      "question": "A study was conducted to examine the effects of wearing mismatched socks on creativity levels. Participants were divided into two groups: one group wore matching socks, while the other wore mismatched socks. Each participant was then asked to complete a series of creativity tests. The results revealed that those wearing mismatched socks scored significantly higher on creativity tests than those wearing matching socks. Based on the study, which of the following conclusions can be drawn?",
+      "options": [
+        "Wearing mismatched socks has a negative impact on creativity",
+        "Wearing matching socks hinders creativity",
+        "Wearing mismatched socks is associated with higher creativity levels (Correct answer)",
+        "The type of socks people wear has no impact on their creativity levels"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the correct punctuation for the following sentence: My favorite foods are pizza(,) tacos(,) and ice cream(.)",
+      "options": [
+        ", , . (Correct answer)",
+        "; ; .",
+        "- - .",
+        ", ; ."
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the correct punctuation for the following sentence: The comedian was not only witty(,) but also very skilled at improvisation(.)",
+      "options": [
+        ", . (Correct answer)",
+        "; .",
+        ": .",
+        ". ."
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the correct punctuation for the following sentence: The students who arrived early(,) went to the library to study.",
+      "options": [
+        ",",
+        ";",
+        ":",
+        "No punctuation needed (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the correct punctuation for the following sentence: I can't believe it's already Friday(;) the week has flown by.",
+      "options": [
+        ",",
+        "; (Correct answer)",
+        ":",
+        "-"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the correct punctuation for the following sentence: The kittens were small(,) fluffy(,) and very playful(.)",
+      "options": [
+        ", , . (Correct answer)",
+        "; ; .",
+        "- - .",
+        ", ; ."
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the correct punctuation for the following sentence: The package arrived damaged(;) it must have been handled roughly during shipping.",
+      "options": [
+        ",",
+        "; (Correct answer)",
+        ":",
+        "-"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the correct punctuation for the following sentence: The scientist presented her findings to the audience(;) however(,) some people remained skeptical.",
+      "options": [
+        ", , .",
+        "; , . (Correct answer)",
+        "- - .",
+        ": : ."
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: If I _______ enough time, I would have finished the entire book.",
+      "options": [
+        "have",
+        "has",
+        "had (Correct answer)",
+        "having"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: Neither the students nor the teacher _______ able to solve the complex math problem.",
+      "options": [
+        "is",
+        "are (Correct answer)",
+        "were",
+        "am"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The dog chased its tail, running around in _______ circles.",
+      "options": [
+        "increasingly",
+        "increasingly more",
+        "increasingly smaller",
+        "increasingly larger (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The new roller coaster was both thrilling _______ terrifying.",
+      "options": [
+        "but",
+        "so",
+        "and (Correct answer)",
+        "yet"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The athlete had not only broken the world record, _______ she had also set a personal best.",
+      "options": [
+        "and (Correct answer)",
+        "so",
+        "but",
+        "yet"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: I _______ to the party, but I was too tired.",
+      "options": [
+        "went",
+        "go",
+        "would go",
+        "would have gone (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The store _______ out of my favorite ice cream flavor.",
+      "options": [
+        "is run",
+        "runs",
+        "has run (Correct answer)",
+        "had run"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The students _______ on the field trip yesterday were excited to learn about the museum exhibits.",
+      "options": [
+        "that went (Correct answer)",
+        "that go",
+        "who goes",
+        "who gone"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: She _______ her umbrella because it was raining heavily.",
+      "options": [
+        "opens",
+        "opened (Correct answer)",
+        "will open",
+        "had opened"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: Either the cat _______ the dog stole the treat from the counter.",
+      "options": [
+        "or (Correct answer)",
+        "and",
+        "nor",
+        "but"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The soccer team practiced every day, _______ they still lost the championship game.",
+      "options": [
+        "but (Correct answer)",
+        "and",
+        "so",
+        "nor"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The students were excited to attend the _______, where they would learn about different career options.",
+      "options": [
+        "job fair (Correct answer)",
+        "job fairs",
+        "jobs fair",
+        "jobs fairs"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence:",
+      "options": [
+        "Not only _______ the movie have great special effects, but it also had an engaging plot.",
+        "did (Correct answer)",
+        "does",
+        "do",
+        "have"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The chef's new dish was _______, combining flavors from around the world.",
+      "options": [
+        "innovating",
+        "innovate",
+        "innovative (Correct answer)",
+        "innovation"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The soccer team played _______, despite the difficult weather conditions.",
+      "options": [
+        "impressively (Correct answer)",
+        "impressive",
+        "impress",
+        "impressiveness"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: I _______ my favorite sunglasses at the beach yesterday.",
+      "options": [
+        "lost (Correct answer)",
+        "lose",
+        "will lose",
+        "am losing"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The comedian's jokes were so funny that the audience _______ with laughter.",
+      "options": [
+        "is roaring",
+        "roared (Correct answer)",
+        "has roared",
+        "had roared"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: If you want to stay healthy, you _______ eat a balanced diet and exercise regularly.",
+      "options": [
+        "would",
+        "could",
+        "should (Correct answer)",
+        "must"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The book was so engaging that she _______ it in a single day.",
+      "options": [
+        "read (Correct answer)",
+        "reads",
+        "has read",
+        "was reading"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The concert was _______, featuring talented musicians from around the world.",
+      "options": [
+        "spectacled",
+        "spectacular (Correct answer)",
+        "spectating",
+        "spectator"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The baker added a pinch of salt to the dough to _______ the flavor of the bread.",
+      "options": [
+        "enhance (Correct answer)",
+        "enhancing",
+        "enhancer",
+        "enhancement"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: I wish I _______ that dessert; it was way too sweet.",
+      "options": [
+        "didn't order (Correct answer)",
+        "don't order",
+        "wouldn't order",
+        "won't order"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The new employee works _______ well with others, making her a valuable addition to the team.",
+      "options": [
+        "extreme",
+        "extremely (Correct answer)",
+        "extremity",
+        "extremes"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The magician _______ the audience with his amazing tricks and illusions.",
+      "options": [
+        "astonish",
+        "astonishing",
+        "astonished (Correct answer)",
+        "astonishment"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The squirrel darted up the tree, its fluffy tail _______ behind it.",
+      "options": [
+        "trails",
+        "trailing (Correct answer)",
+        "trailed",
+        "trail"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The debate team practiced their arguments _______ so that they would be prepared for the competition.",
+      "options": [
+        "rigorously (Correct answer)",
+        "rigorous",
+        "rigors",
+        "rigor"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: My mom always said, \"_______ practice makes perfect.\"",
+      "options": [
+        "Patient",
+        "Patience",
+        "Patients",
+        "Patiently (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The science fair projects were _______ impressive, showcasing the students' creativity and hard work.",
+      "options": [
+        "unanimous",
+        "uniform",
+        "uniquely",
+        "uniformly (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The young athlete was _______ to break the school record for the 100-meter sprint.",
+      "options": [
+        "determined (Correct answer)",
+        "determining",
+        "determiner",
+        "determination"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The _______ of the cake was just as important as its taste.",
+      "options": [
+        "present",
+        "presentation (Correct answer)",
+        "presenting",
+        "presented"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The orchestra performed a beautiful rendition of the _______, captivating the audience.",
+      "options": [
+        "symphony (Correct answer)",
+        "symphonic",
+        "symphonies",
+        "symphonical"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The puppy looked up at me with _______ eyes, hoping for a treat.",
+      "options": [
+        "pleading (Correct answer)",
+        "pleads",
+        "plead",
+        "pleas"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The magician's assistant _______ onto the stage, ready to help with the next trick.",
+      "options": [
+        "strides",
+        "striding",
+        "strode (Correct answer)",
+        "stridden"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The sun was setting, casting a _______ glow over the beach.",
+      "options": [
+        "golden (Correct answer)",
+        "golds",
+        "gold",
+        "goldish"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The couple decided to _______ a trip to Europe for their honeymoon.",
+      "options": [
+        "plan (Correct answer)",
+        "planning",
+        "planner",
+        "plans"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The _______ of the ocean waves was both relaxing and mesmerizing.",
+      "options": [
+        "ebb and flow (Correct answer)",
+        "ebbs and flows",
+        "ebbing and flowing",
+        "ebbed and flowed"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The new superhero movie was filled with _______, making it an exciting experience for viewers.",
+      "options": [
+        "action (Correct answer)",
+        "actions",
+        "active",
+        "acting"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The two friends were so similar in their tastes that they often had _______ opinions on various topics.",
+      "options": [
+        "identical (Correct answer)",
+        "identity",
+        "identifies",
+        "identifying"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The hiker _______ a snack before continuing on the long and arduous trail.",
+      "options": [
+        "packed (Correct answer)",
+        "packing",
+        "packs",
+        "pack"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The soccer player's _______ goal in the last few seconds of the game secured the team's victory.",
+      "options": [
+        "dramatic (Correct answer)",
+        "drama",
+        "dramatically",
+        "dramatized"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: Although she was tired, _______ for her morning run.",
+      "options": [
+        "she decided to go (Correct answer)",
+        "deciding to go",
+        "the decision to go",
+        "having decided to go"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The rain poured down, _______ the streets with water.",
+      "options": [
+        "flooding (Correct answer)",
+        "and it flooded",
+        "which flooded",
+        "that it flooded"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The dog barked loudly, _______ its owner to come outside.",
+      "options": [
+        "urging (Correct answer)",
+        "it urged",
+        "which urged",
+        "that urged"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The cat meowed pitifully, _______ for attention.",
+      "options": [
+        "seeking (Correct answer)",
+        "it sought",
+        "which sought",
+        "that sought"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The students studied diligently, _______ to pass their upcoming exams.",
+      "options": [
+        "hoping (Correct answer)",
+        "they hoped",
+        "which hoped",
+        "that hoped"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: We could see the lightning in the distance, _______ the approaching storm.",
+      "options": [
+        "signaling (Correct answer)",
+        "it signaled",
+        "which signaled",
+        "that signaled"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: She took a deep breath, _______ herself for the difficult conversation ahead.",
+      "options": [
+        "bracing (Correct answer)",
+        "she braced",
+        "which braced",
+        "that braced"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The sky turned pink and orange, _______ the sun began to set.",
+      "options": [
+        "as (Correct answer)",
+        "because",
+        "when",
+        "since"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The little girl clutched her teddy bear tightly, _______ it would protect her from the thunderstorm.",
+      "options": [
+        "believing (Correct answer)",
+        "she believed",
+        "which believed",
+        "that believed"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The artist skillfully mixed the colors, _______ the perfect shade for his masterpiece.",
+      "options": [
+        "creating (Correct answer)",
+        "he created",
+        "which created",
+        "that created"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The detective examined the evidence carefully, _______ any important clues.",
+      "options": [
+        "searching for (Correct answer)",
+        "he searched for",
+        "which searched for",
+        "that searched for"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The child stared at the colorful fish in the aquarium, _______ by their graceful movements.",
+      "options": [
+        "fascinated (Correct answer)",
+        "she was fascinated",
+        "which fascinated",
+        "that fascinated"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The chef chopped the vegetables with precision, _______ to make a delicious meal.",
+      "options": [
+        "intending (Correct answer)",
+        "he intended",
+        "which intended",
+        "that intended"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The athlete pushed through the pain, _______ to finish the race.",
+      "options": [
+        "determined (Correct answer)",
+        "she was determined",
+        "which determined",
+        "that determined"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: He picked up the novel, _______ the first page and began to read.",
+      "options": [
+        "turning (Correct answer)",
+        "he turned",
+        "which turned",
+        "that turned"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: The scientist observed the experiment closely, _______ any changes in the data.",
+      "options": [
+        "noting (Correct answer)",
+        "he noted",
+        "which noted",
+        "that noted"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To emphasize the importance of the issue, the speaker _______ powerful anecdotes from her own life.",
+      "options": [
+        "shared (Correct answer)",
+        "shared with",
+        "shared in",
+        "shared out"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To illustrate the point, the professor _______ a simple, yet memorable analogy.",
+      "options": [
+        "used (Correct answer)",
+        "brought",
+        "made",
+        "did"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: In order to persuade the audience, the politician _______ both logical arguments and emotional appeals.",
+      "options": [
+        "employed (Correct answer)",
+        "worked",
+        "operated",
+        "utilized"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To demonstrate the complexity of the issue, the author _______ multiple perspectives in the article.",
+      "options": [
+        "presented (Correct answer)",
+        "showed",
+        "exhibited",
+        "expressed"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: In an attempt to inspire the team, the coach _______ a motivational speech before the game.",
+      "options": [
+        "delivered (Correct answer)",
+        "gave",
+        "offered",
+        "provided"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To support her argument, the writer _______ numerous statistics and research findings.",
+      "options": [
+        "cited (Correct answer)",
+        "quoted",
+        "referred",
+        "mentioned"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To emphasize the consequences of inaction, the environmentalist _______ vivid descriptions of a bleak future.",
+      "options": [
+        "utilized (Correct answer)",
+        "took",
+        "made",
+        "applied"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To establish credibility, the expert _______ her extensive background and experience in the field.",
+      "options": [
+        "highlighted (Correct answer)",
+        "underlined",
+        "marked",
+        "pointed"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To engage the audience, the speaker _______ questions that encouraged thoughtful discussion.",
+      "options": [
+        "posed (Correct answer)",
+        "set",
+        "placed",
+        "put"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To refute the opposing argument, the debater _______ a flaw in the other side's logic.",
+      "options": [
+        "exposed (Correct answer)",
+        "revealed",
+        "unveiled",
+        "disclosed"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To build suspense, the author _______ small hints throughout the story, leading up to the big reveal.",
+      "options": [
+        "sprinkled (Correct answer)",
+        "spread",
+        "distributed",
+        "scattered"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To connect with the audience, the performer _______ humor and personal stories in her act.",
+      "options": [
+        "incorporated (Correct answer)",
+        "combined",
+        "mixed",
+        "joined"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To emphasize the urgency of the situation, the activist _______ a passionate call to action.",
+      "options": [
+        "issued (Correct answer)",
+        "sent",
+        "gave",
+        "delivered"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To provide context, the historian _______ a detailed overview of the events leading up to the main topic.",
+      "options": [
+        "provided (Correct answer)",
+        "offered",
+        "supplied",
+        "furnished"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To clarify a complex concept, the teacher _______ a step-by-step explanation.",
+      "options": [
+        "gave (Correct answer)",
+        "put",
+        "set",
+        "presented"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To create a sense of unity, the leader _______ a common goal for the group to work towards.",
+      "options": [
+        "outlined (Correct answer)",
+        "sketched",
+        "drafted",
+        "designed"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To capture the audience's attention, the presenter _______ a surprising fact at the beginning of the talk.",
+      "options": [
+        "shared (Correct answer)",
+        "told",
+        "informed",
+        "spoke"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To ease tension during the meeting, the manager _______ a lighthearted joke.",
+      "options": [
+        "cracked (Correct answer)",
+        "broke",
+        "split",
+        "divided"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To simplify a challenging concept, the physicist _______ a real-world example that was easy to understand.",
+      "options": [
+        "offered (Correct answer)",
+        "suggested",
+        "proposed",
+        "recommended"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To make the report more engaging, the journalist _______ colorful language and vivid descriptions.",
+      "options": [
+        "employed (Correct answer)",
+        "used",
+        "applied",
+        "adopted"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To persuade the committee to support the proposal, the advocate _______ a compelling case for its benefits.",
+      "options": [
+        "made (Correct answer)",
+        "formed",
+        "shaped",
+        "built"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To highlight the significance of the event, the writer _______ its impact on the community.",
+      "options": [
+        "emphasized (Correct answer)",
+        "stressed",
+        "underscored",
+        "accentuated"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To demonstrate the versatility of the product, the salesperson _______ a variety of practical uses.",
+      "options": [
+        "showcased (Correct answer)",
+        "displayed",
+        "exhibited",
+        "presented"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Choose the best alternative to complete the sentence: To foster collaboration, the team leader _______ open communication and frequent brainstorming sessions.",
+      "options": [
+        "encouraged (Correct answer)",
+        "promoted",
+        "supported",
+        "boosted"
+      ],
+      "hints": []
+    },
+    {
+      "question": "If a number is divisible by both 3 and 5, it must also be divisible by:",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "15 (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the smallest positive integer that has exactly four distinct positive factors?",
+      "options": [
+        "4 (Correct answer)",
+        "6",
+        "8",
+        "9"
+      ],
+      "hints": []
+    },
+    {
+      "question": "If a fair six-sided die is rolled, what is the probability that the number rolled is odd?",
+      "options": [
+        "1/6",
+        "1/3",
+        "1/2 (Correct answer)",
+        "2/3"
+      ],
+      "hints": []
+    },
+    {
+      "question": "If x is a prime number greater than 2, what must be true about x?",
+      "options": [
+        "x is even",
+        "x is odd (Correct answer)",
+        "x is a multiple of 3",
+        "x is a multiple of 5"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of these numbers is a multiple of both 4 and 6?",
+      "options": [
+        "8",
+        "12 (Correct answer)",
+        "16",
+        "18"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The sum of two consecutive even integers is 42. What is the smaller integer?",
+      "options": [
+        "18",
+        "20 (Correct answer)",
+        "22",
+        "24"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the smallest positive integer that leaves a remainder of 2 when divided by 3, 4, and 5?",
+      "options": [
+        "26 (Correct answer)",
+        "32",
+        "38",
+        "44"
+      ],
+      "hints": []
+    },
+    {
+      "question": "If an integer is divisible by 9, which of these must also be true?",
+      "options": [
+        "The integer is divisible by 3 (Correct answer)",
+        "The integer is divisible by 6",
+        "The integer is divisible by 18",
+        "The integer is divisible by 27"
+      ],
+      "hints": []
+    },
+    {
+      "question": "If a baker uses 12 eggs to make a batch of cookies, how many eggs would she use to make 5 batches?",
+      "options": [
+        "48",
+        "60 (Correct answer)",
+        "72",
+        "84"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the greatest common divisor of 54 and 90?",
+      "options": [
+        "9",
+        "18 (Correct answer)",
+        "27",
+        "36"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following numbers is not a factor of 36?",
+      "options": [
+        "4",
+        "6",
+        "8 (Correct answer)",
+        "9"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the least common multiple of 4, 6, and 8?",
+      "options": [
+        "12",
+        "24 (Correct answer)",
+        "36",
+        "48"
+      ],
+      "hints": []
+    },
+    {
+      "question": "If a number is divisible by 10, which of the following must also be true?",
+      "options": [
+        "The number is divisible by 2 (Correct answer)",
+        "The number is divisible by 5",
+        "The number is divisible by 20",
+        "The number is divisible by 25"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The product of two consecutive odd integers is 255. What is the smaller integer?",
+      "options": [
+        "15 (Correct answer)",
+        "17",
+        "19",
+        "21"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following is a perfect square?",
+      "options": [
+        "28",
+        "36 (Correct answer)",
+        "44",
+        "52"
+      ],
+      "hints": []
+    },
+    {
+      "question": "A number is divisible by both 4 and 7. What other number must it be divisible by?",
+      "options": [
+        "11",
+        "14",
+        "28 (Correct answer)",
+        "42"
+      ],
+      "hints": []
+    },
+    {
+      "question": "A clown has 14 red balloons and 21 blue balloons. What is the smallest number of balloons he can give away so that the remaining balloons have an equal number of red and blue?",
+      "options": [
+        "3",
+        "7 (Correct answer)",
+        "10",
+        "14"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of these numbers is a prime number?",
+      "options": [
+        "9",
+        "15",
+        "23 (Correct answer)",
+        "27"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of these numbers is not a perfect cube?",
+      "options": [
+        "8",
+        "27",
+        "64",
+        "100 (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "If an integer is divisible by 6 and 8, which of these must also be true?",
+      "options": [
+        "The integer is divisible by 3 (Correct answer)",
+        "The integer is divisible by 4",
+        "The integer is divisible by 12",
+        "The integer is divisible by 24"
+      ],
+      "hints": []
+    },
+    {
+      "question": "If the sum of two consecutive odd integers is 40, what is the smaller integer?",
+      "options": [
+        "17",
+        "19 (Correct answer)",
+        "21",
+        "23"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the least common multiple of 3, 5, and 7?",
+      "options": [
+        "15",
+        "35",
+        "42",
+        "105 (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following numbers is a multiple of both 5 and 9?",
+      "options": [
+        "30",
+        "45 (Correct answer)",
+        "60",
+        "90"
+      ],
+      "hints": []
+    },
+    {
+      "question": "If a number is divisible by 2 and 3, what other number must it be divisible by?",
+      "options": [
+        "4",
+        "6 (Correct answer)",
+        "9",
+        "12"
+      ],
+      "hints": []
+    }
+  ]
+}

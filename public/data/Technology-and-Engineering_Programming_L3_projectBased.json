@@ -1,0 +1,42 @@
+[
+  {
+    "Project objective": "Imagine a treasure hunt game. This will be the basis of our project. You are the main character (we'll name him/her Codie), and your mission is to find the hidden treasure in an ancient jungle.",
+    "Steps": [
+      "Next, let's talk about data types. The variables you created earlier each have a specific type. Codie's health could be a number (integer), the inventory a list (array), and the location could be a string (e.g., \"north of the river\").",
+      "It's time to put some control into Codie's hands. Create a simple text-based menu that uses if-else statements. This menu will allow the user to control Codie's actions like \"move north\", \"pick up item\", or \"check inventory\".",
+      "Now, create a loop structure. Maybe Codie has to navigate a tricky maze to find the treasure. Use a loop to keep Codie moving until he finds the exit.",
+      "It's function time! Write a function that checks if Codie's health is below zero. If it is, the function should print a message and end the game.",
+      "Now let's work with arrays. Make an array for the inventory Codie can pick up along the way - like a map, a compass, a golden key etc.",
+      "Finally, run your code and play the game! Debug any errors, and add extra features if you have time. Congrats, you've created a text-based adventure game using key programming concepts!",
+      "Remember, programming is like a treasure hunt of its own. Sometimes, it can be difficult, but the reward at the end is worth it! So keep going, and have fun with it!"
+    ]
+  },
+  {
+    "Project objective": "Imagine a galaxy where Earth's pizza is so famous, it has fans all over the universe. You are the developer of \"The Alien Pizza Delivery\", a program used by alien pizza delivery personnel to deliver Earth pizzas across the galaxy. Let's get started!",
+    "Steps": [
+      "Begin your code by defining a class named Pizza. This class should have attributes like size, toppings, crust type, etc., which will be given values when a new pizza object is created.",
+      "Create another class named Delivery. This should have methods for receiving a new delivery order (a new pizza object), calculating the fastest route (an algorithm you'll define later), and delivering the pizza.",
+      "Now, let's dive into algorithms. Write an algorithm as part of the Delivery class that calculates the fastest route for the delivery. This can be as simple or as complex as you want. It could consider things like spaceship speed, distance to the destination planet, and even interstellar traffic!",
+      "It's time to introduce recursion. Let's say sometimes, the delivery address is a complex set of directions like \"take the second left after the third moon of Jupiter\". Write a recursive function that can handle these complex instructions by breaking them down into simpler tasks.",
+      "With your classes, methods, and recursion set up, it's time to add some orders. Create a few pizza objects with different attributes and use your delivery methods to process them.",
+      "Now, run your program. You'll likely encounter some bugs, but don't worry - debugging is part of the learning process. As you encounter errors, use your programming environment's debugging tools to help find and fix the issues.",
+      "Let's talk about syntax. Each programming language has its own rules about how code should be written. As you debug, pay attention to syntax errors, which are often caused by missing or misplaced punctuation, incorrect use of language features, etc.",
+      "After debugging, run your program again. If it works, congratulations! You've just written a fully functional alien pizza delivery program. If you still have errors, keep debugging. Remember, every error is a learning opportunity.",
+      "You've now used object-oriented programming, implemented an algorithm, used recursion, debugged a program, and followed syntax rules! That's a lot of programming concepts. Keep practicing, and who knows - maybe you'll be delivering pizzas to other galaxies one day!"
+    ]
+  },
+  {
+    "Project objective": "The Super Bookworm's Literary Universe",
+    "Steps": [
+      "Install Python and an Integrated Development Environment (IDE) like PyCharm or Visual Studio Code. Make sure to install Git for version control and SQLite for managing a local database.",
+      "Introducing the plot: You're a Super Bookworm with a mission to create a literary universe. You aim to build a local database to manage and categorize your ever-growing collection of books, comics, magazines, and newspapers.",
+      "Familiarize yourself with SQLite, which you'll use to create your database. Begin by designing the schema of your database, i.e., the tables you'll need and how they're connected.",
+      "Use the sqlite3 library in Python to create your database according to the schema you designed. Create tables for books, authors, genres, etc.",
+      "Create functions in Python that allow you to interact with your database. You should be able to add new books, search for a book, list all books from a certain author or genre, etc.",
+      "It's time to use a framework. Choose Flask or Django to build a basic web interface for your database. The web interface should use the functions you wrote to display the contents of your database and allow you to interact with it.",
+      "Testing time! Write test cases to make sure your database functions and web interface work as expected. If you find a bug, fix it and then run your tests again to make sure everything works smoothly.",
+      "As you continue developing your project, you might want to add new features, like user accounts or reviews. Every time you make significant changes, make sure to commit your code to your GitHub repository.",
+      "Finally, document your project. Write a README.md file that describes your project, explains how to install and use it, and lists the libraries and frameworks you used."
+    ]
+  }
+]

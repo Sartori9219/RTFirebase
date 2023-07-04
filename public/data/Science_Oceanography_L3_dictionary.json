@@ -1,0 +1,390 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why are you always following me around?",
+        "I'm just going with the flow. Just like ocean currents!"
+      ],
+      "options": [
+        "Ocean Currents (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard you're moving again. That's the third time this year!",
+        "Yeah, I'm like an ocean current. Constantly on the move."
+      ],
+      "options": [
+        "Ocean Currents (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you always come and go at the most random times?",
+        "I'm just like the ocean's tides, my friend. Always ebbing and flowing."
+      ],
+      "options": [
+        "Tides (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Well, just like the tides, I can't help but go back and forth!"
+      ],
+      "options": [
+        "Tides (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you keep shaking your head back and forth?",
+        "Just practicing to be a wave, man. Here one moment, there the next."
+      ],
+      "options": [
+        "Waves (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You're as unpredictable as a wave.",
+        "Well, at least I'm not as flat as a calm sea!"
+      ],
+      "options": [
+        "Waves (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you always so up and down?",
+        "I'm just a wave in the ocean of life, dude. Riding the highs and the lows."
+      ],
+      "options": [
+        "Waves (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you walking around on stilts?",
+        "Just practicing for the future sea level rise, man. I want to keep my feet dry."
+      ],
+      "options": [
+        "Sea Level Rise (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You're as unpredictable as the sea level these days.",
+        "Well, at least I'm not as low as the Dead Sea!"
+      ],
+      "options": [
+        "Sea Level Rise (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you always looking at your feet?",
+        "Just making sure they're not underwater yet. Can't be too careful with sea level rise, dude."
+      ],
+      "options": [
+        "Sea Level Rise (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you wearing a scuba suit in the middle of the city?",
+        "I'm exploring the urban abyssal zone. It's just as deep and mysterious as the oceanic one!"
+      ],
+      "options": [
+        "Oceanic Zones (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did you bring a flashlight to the beach?",
+        "I heard there's not much light in the bathyal zone. Just being prepared, mate!"
+      ],
+      "options": [
+        "Oceanic Zones (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you blowing bubbles in your milk?",
+        "I'm simulating the oceanic surface zone. It's all about immersion learning, pal."
+      ],
+      "options": [
+        "Oceanic Zones (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did you put a toy shark in your fish tank?",
+        "I'm just trying to make a more diverse marine ecosystem, you know, for authenticity."
+      ],
+      "options": [
+        "Marine Ecosystems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you talking to your seaweed salad?",
+        "I'm trying to understand the marine food chain better. Apparently, I'm a primary consumer now!"
+      ],
+      "options": [
+        "Marine Ecosystems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did you plant seagrass in the bathtub?",
+        "It's my own mini marine ecosystem! I call it 'tub-ology'."
+      ],
+      "options": [
+        "Marine Ecosystems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is there a picture of a clownfish on your wall?",
+        "It's not just a clownfish, it's a reminder of the symbiotic relationships in coral reefs!"
+      ],
+      "options": [
+        "Coral Reefs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did you fill your swimming pool with sand and rocks?",
+        "I'm building a coral reef. The neighborhood kids are going to be the fish!"
+      ],
+      "options": [
+        "Coral Reefs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you so dressed up today?",
+        "I'm a coral polyp for Halloween. You should see my sister, she's a sea anemone!"
+      ],
+      "options": [
+        "Coral Reefs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did you put vinegar in your fish tank?",
+        "I'm trying to explain to my goldfish the dangers of ocean acidification!"
+      ],
+      "options": [
+        "Ocean Acidification (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you throwing baking soda into the sea?",
+        "Well, I read about ocean acidification, and I thought, why not make it more basic!"
+      ],
+      "options": [
+        "Ocean Acidification (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you squeezing a lemon onto your globe?",
+        "I'm demonstrating ocean acidification. I know it's not accurate, but it gets the point across!"
+      ],
+      "options": [
+        "Ocean Acidification (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is my hot chocolate moving in a loop in my cup?",
+        "Well, it's just doing its best impression of thermohaline circulation!"
+      ],
+      "options": [
+        "Thermohaline Circulation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you throwing ice cubes and salt into your hot tub?",
+        "I'm trying to create a mini thermohaline circulation system. It's for science, you know!"
+      ],
+      "options": [
+        "Thermohaline Circulation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you stirring your iced tea so vigorously?",
+        "I'm attempting to mimic the effects of thermohaline circulation. It's not quite the same, but it's the thought that counts, right?"
+      ],
+      "options": [
+        "Thermohaline Circulation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you dumping all that sand into your aquarium?",
+        "I'm recreating the Mariana Trench. The guppies are thrilled."
+      ],
+      "options": [
+        "Ocean Floor Topography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you keep dropping your phone on the carpet?",
+        "I'm studying how the phone creates tiny craters, just like how the ocean floor has valleys and mountains."
+      ],
+      "options": [
+        "Ocean Floor Topography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did you bring that topographic map to the beach?",
+        "I'm building the most geographically accurate sandcastle ever. It's all about the ocean floor topography, my friend!"
+      ],
+      "options": [
+        "Ocean Floor Topography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you sliding your lunch tray back and forth across the table?",
+        "Practicing. I'm the best plate tectonic simulator in the lunchroom."
+      ],
+      "options": [
+        "Plate Tectonics and Oceanic Crust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you smashing your crackers together and making a mess?",
+        "It's not a mess! It's a delicious demonstration of plate tectonics!"
+      ],
+      "options": [
+        "Plate Tectonics and Oceanic Crust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did you bring that slab of granite into the pool?",
+        "Just trying to better understand how the oceanic crust interacts with water. Plus, it's a cool diving board!"
+      ],
+      "options": [
+        "Plate Tectonics and Oceanic Crust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you picking up all the litter at the beach?",
+        "I'm not just picking up litter, I'm picking a fight with marine pollution!"
+      ],
+      "options": [
+        "Marine Pollution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you pouring soda into the fish tank?",
+        "I'm trying to make the fish understand the dangers of ocean acidification... or maybe I'm just trying to see if they like cola."
+      ],
+      "options": [
+        "Marine Pollution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you fishing out my plastic bottle from the ocean with such urgency?",
+        "Every bottle counts when we're up against marine pollution. Plus, I think there's a genie in here."
+      ],
+      "options": [
+        "Marine Pollution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you moving your sandcastle further from the shoreline?",
+        "It's not about the tide. I'm practicing strategies against coastal erosion, one sand grain at a time!"
+      ],
+      "options": [
+        "Coastal Erosion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you taking pictures of the beach?",
+        "Just documenting the cliff before it's gone... coastal erosion never asks before taking a bite!"
+      ],
+      "options": [
+        "Coastal Erosion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you staring at the waves hitting the cliff?",
+        "I'm watching the ocean's slow-motion bulldozer at work. Coastal erosion doesn't sleep, you know!"
+      ],
+      "options": [
+        "Coastal Erosion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you running away from the ocean?",
+        "I just dropped my glass of water in there. I don't want to risk causing a tsunami!"
+      ],
+      "options": [
+        "Tsunamis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you shouting at the sea?",
+        "I'm trying to start a tsunami. They say sound waves can do anything!"
+      ],
+      "options": [
+        "Tsunamis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you acting like you're surfing on dry land?",
+        "Practicing for the next tsunami. It's all about being prepared!"
+      ],
+      "options": [
+        "Tsunamis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you throwing red and blue paint into the ocean?",
+        "Trying to help scientists visualize El Ni\u00f1o and La Ni\u00f1a!"
+      ],
+      "options": [
+        "El Ni\u00f1o and La Ni\u00f1a Phenomena (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you playing Spanish lullabies to the ocean?",
+        "Hoping to soothe El Ni\u00f1o and La Ni\u00f1a. They've been so temperamental lately!"
+      ],
+      "options": [
+        "El Ni\u00f1o and La Ni\u00f1a Phenomena (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you sprinkling chili powder and ice cubes in the sea?",
+        "Trying to make the ocean understand the difference between El Ni\u00f1o and La Ni\u00f1a. Spice for warmth, ice for cool!"
+      ],
+      "options": [
+        "El Ni\u00f1o and La Ni\u00f1a Phenomena (correct answer)"
+      ]
+    }
+  ]
+}

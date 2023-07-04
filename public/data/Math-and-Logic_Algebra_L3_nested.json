@@ -1,0 +1,2911 @@
+[
+  {
+    "problem": "What is the coefficient of x\u00b3 in the polynomial 3x^4 - 2x\u00b3 + 7x\u00b2 - x + 9?",
+    "questions": [
+      {
+        "question": "Which term has x\u00b3 in the polynomial?",
+        "options": [
+          "3x^4",
+          "-2x\u00b3 (Correct answer)",
+          "7x\u00b2",
+          "-x"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Given the expression 4x\u00b2y - 6xy\u00b2 + 8y, what is the sum of the coefficients?",
+    "questions": [
+      {
+        "question": "What are the coefficients of the terms in the expression?",
+        "options": [
+          "4, 6, 8",
+          "4, -6, 8 (Correct answer)",
+          "-4, 6, 8",
+          "4, 6, -8"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "What's the coefficient of the term with the highest degree in the expression (5x\u00b2 - 3x + 2)(2x\u00b3 + x\u00b2 - 4)?",
+    "questions": [
+      {
+        "question": "Which term has the highest degree in the first factor?",
+        "options": [
+          "5x\u00b2 (Correct answer)",
+          "-3x",
+          "2",
+          "None of the above"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Which term has the highest degree in the second factor?",
+        "options": [
+          "2x\u00b3 (Correct answer)",
+          "x\u00b2",
+          "-4",
+          "None of the above"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "If the polynomial P(x) = ax\u00b3 + bx\u00b2 + cx + d has a leading coefficient of 3, what is the value of a?",
+    "questions": [
+      {
+        "question": "Which term has the highest degree in the polynomial P(x)?",
+        "options": [
+          "ax\u00b3 (Correct answer)",
+          "bx\u00b2",
+          "cx",
+          "d"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "What do you call the coefficient of a variable raised to the zeroth power?",
+    "questions": [
+      {
+        "question": "What is the value of a variable raised to the zeroth power?",
+        "options": [
+          "0",
+          "1 (Correct answer)",
+          "Undefined",
+          "The same as the variable"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Write the expression for the perimeter of a rectangle with length L and width W.",
+    "questions": []
+  },
+  {
+    "problem": "Simplify the expression: (2x + 3)(x - 4) + (x\u00b2 - 5x + 6).",
+    "questions": [
+      {
+        "question": "What is the result of multiplying (2x + 3)(x - 4)?",
+        "options": [
+          "2x\u00b2 - 5x - 12 (Correct answer)",
+          "2x\u00b2 - 8x + 3x - 12",
+          "2x\u00b2 - 5x + 12",
+          "2x\u00b2 + 5x - 12"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Write the expression for the total cost C of buying n items, each costing x dollars and with a sales tax of y%.",
+    "questions": [
+      {
+        "question": "What is the expression for the cost of n items without tax?",
+        "options": [
+          "C = nx (Correct answer)",
+          "C = n + x",
+          "C = n - x",
+          "C = nx\u00b2"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Write the expression for the volume of a cylinder with radius r and height h.",
+    "questions": [
+      {
+        "question": "What is the formula for the area of the base of a cylinder?",
+        "options": [
+          "A = \u03c0r\u00b2 (Correct answer)",
+          "A = 2\u03c0r",
+          "A = \u03c0r",
+          "A = 2\u03c0r\u00b2"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "If f(x) = x\u00b2 + 3x - 2, what is f(2x)?",
+    "questions": [
+      {
+        "question": "What is the result of substituting 2x for x in the expression?",
+        "options": [
+          "(2x)\u00b2 (Correct answer)",
+          "2x\u00b2",
+          "x\u00b2",
+          "4x\u00b2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "What is the result of substituting 2x for x in the expression 3x?",
+        "options": [
+          "3x",
+          "6x (Correct answer)",
+          "3(2x)",
+          "6x\u00b2"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve the inequality: 3(x - 2) > 9.",
+    "questions": [
+      {
+        "question": "What is the result of distributing 3 in the inequality?",
+        "options": [
+          "3x - 6 > 9 (Correct answer)",
+          "3x + 6 > 9",
+          "x - 2 > 3",
+          "x - 6 > 3"
+        ],
+        "hints": []
+      },
+      {
+        "question": "What is the inequality after adding 6 to both sides?",
+        "options": [
+          "3x > 15 (Correct answer)",
+          "3x > 3",
+          "x > 9",
+          "x > 15"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve the compound inequality: -1 < 2x - 3 \u2264 5.",
+    "questions": [
+      {
+        "question": "What is the compound inequality after adding 3 to all parts?",
+        "options": [
+          "2 < 2x \u2264 8 (Correct answer)",
+          "-1 < 2x \u2264 5",
+          "2 < 2x < 5",
+          "2 < x \u2264 8"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Write the inequality for the statement: \"Twice the number of apples plus three is less than or equal to ten.\"",
+    "questions": [
+      {
+        "question": "In the inequality, what is  representing \"twice the number of apples\"?",
+        "options": [
+          "2a (Correct answer)",
+          "a + a",
+          "2a\u00b2",
+          "2a - 3"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Find the solution set for the inequality: |x - 4| < 7.",
+    "questions": [
+      {
+        "question": "What are the two inequalities that represent the given inequality?",
+        "options": [
+          "-7 < x - 4 < 7 (Correct answer)",
+          "-7 < x - 4 \u2264 7",
+          "x - 4 < 7",
+          "x - 4 > -7"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve the inequality: 2x\u00b2 - 8x + 6 < 0.",
+    "questions": [
+      {
+        "question": "What are the factors of the quadratic expression?",
+        "options": [
+          "2(x - 1)(x - 3) (Correct answer)",
+          "(2x - 3)(x - 2)",
+          "2(x - 2)(x - 3)",
+          "(2x - 1)(x - 3)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "What are the critical points of the inequality?",
+        "options": [
+          "x = 1, x = 3 (Correct answer)",
+          "x = 2, x = 3",
+          "x = 1, x = 2",
+          "x = 1/2, x = 3/2"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Combine like terms in the expression: 5x + 3y - 2x + 7y - 8x.",
+    "questions": [
+      {
+        "question": "Identify like terms in the expression.",
+        "options": [
+          "5x and -2x",
+          "3y and 7y",
+          "-2x and -8x",
+          "All of the above (Correct answer)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine the like terms 5x and -2x.",
+        "options": [
+          "5x - 2x = 3x (Correct answer)",
+          "5x - 2x = 7x",
+          "5x + 2x = 7x",
+          "5x + 2x = 3x"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine the like terms 3x and -8x.",
+        "options": [
+          "3x - 8x = -5x (Correct answer)",
+          "3x - 8x = 5x",
+          "3x + 8x = 11x",
+          "3x + 8x = -5x"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine  like terms 3y and 7y.",
+        "options": [
+          "3y + 7y = 10y (Correct answer)",
+          "3y + 7y = 4y",
+          "3y - 7y = -4y",
+          "3y - 7y = 10y"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Simplify the expression: 3a\u00b2b - 5ab\u00b2 + 2a\u00b2b + 4ab\u00b2.",
+    "questions": [
+      {
+        "question": "Identify like terms in the expression.",
+        "options": [
+          "3a\u00b2b and 5ab\u00b2",
+          "3a\u00b2b and 2a\u00b2b (Correct answer)",
+          "5ab\u00b2 and 4ab\u00b2",
+          "2a\u00b2b and 4ab\u00b2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine  like terms 3a\u00b2b and 2a\u00b2b.",
+        "options": [
+          "3a\u00b2b + 2a\u00b2b = 5a\u00b2b (Correct answer)",
+          "3a\u00b2b - 2a\u00b2b = a\u00b2b",
+          "3a\u00b2b + 2a\u00b2b = 6a\u00b2b",
+          "3a\u00b2b - 2a\u00b2b = -a\u00b2b"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine  like terms -5ab\u00b2 and 4ab\u00b2.",
+        "options": [
+          "-5ab\u00b2 + 4ab\u00b2 = -ab\u00b2 (Correct answer)",
+          "-5ab\u00b2 - 4ab\u00b2 = -9ab\u00b2",
+          "-5ab\u00b2 + 4ab\u00b2 = ab\u00b2",
+          "-5ab\u00b2 - 4ab\u00b2 = 9ab\u00b2"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Add the polynomials: (3x\u00b3 - 4x\u00b2 + x - 6) + (2x\u00b3 + 3x\u00b2 - 7x + 8).",
+    "questions": [
+      {
+        "question": "Identify the like terms for x\u00b3.",
+        "options": [
+          "3x\u00b3 and 2x\u00b3 (Correct answer)",
+          "3x\u00b3 and 3x\u00b2",
+          "3x\u00b3 and -7x",
+          "3x\u00b3 and 8"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Add the like terms for x\u00b3.",
+        "options": [
+          "3x\u00b3 + 2x\u00b3 = 5x\u00b3 (Correct answer)",
+          "3x\u00b3 + 2x\u00b3 = 6x\u00b3",
+          "3x\u00b3 + 2x\u00b3 = x\u00b3",
+          "3x\u00b3 + 2x\u00b3 = 1x\u00b3"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the like terms for x\u00b2.",
+        "options": [
+          "-4x\u00b2 and 2x\u00b3",
+          "-4x\u00b2 and 3x\u00b2 (Correct answer)",
+          "-4x\u00b2 and -7x",
+          "-4x\u00b2 and 8"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Add the like terms for x\u00b2.",
+        "options": [
+          "-4x\u00b2 + 3x\u00b2 = -x\u00b2 (Correct answer)",
+          "-4x\u00b2 + 3x\u00b2 = x\u00b2",
+          "-4x\u00b2 + 3x\u00b2 = -7x\u00b2",
+          "-4x\u00b2 + 3x\u00b2 = 7x\u00b2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the like terms for x.",
+        "options": [
+          "x and -7x (Correct answer)",
+          "x and 3x\u00b2",
+          "x and 2x\u00b3",
+          "x and 8"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Add the like terms for x.",
+        "options": [
+          "x + (-7x) = -6x (Correct answer)",
+          "x + (-7x) = 6x",
+          "x + (-7x) = -8x",
+          "x + (-7x) = 8x"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the like terms for the constant terms.",
+        "options": [
+          "-6 and 8 (Correct answer)",
+          "-6 and -7x",
+          "-6 and 3x\u00b2",
+          "-6 and 2x\u00b3"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Add the like terms for the constant terms.",
+        "options": [
+          "-6 + 8 = 2 (Correct answer)",
+          "-6 + 8 = 14",
+          "-6 + 8 = -2",
+          "-6 + 8 = -14"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Subtract the polynomials: (5x\u00b2 - 3x + 4) - (2x\u00b2 + 7x - 5).",
+    "questions": [
+      {
+        "question": "Identify the like terms for x\u00b2.",
+        "options": [
+          "5x\u00b2 and 2x\u00b2 (Correct answer)",
+          "5x\u00b2 and 7x",
+          "5x\u00b2 and -5",
+          "5x\u00b2 and -3x"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Subtract the like terms for x\u00b2.",
+        "options": [
+          "5x\u00b2 - 2x\u00b2 = 3x\u00b2 (Correct answer)",
+          "5x\u00b2 - 2x\u00b2 = 7x\u00b2",
+          "5x\u00b2 - 2x\u00b2 = -3x\u00b2",
+          "5x\u00b2 - 2x\u00b2 = -7x\u00b2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the like terms for x.",
+        "options": [
+          "-3x and 7x (Correct answer)",
+          "-3x and -5",
+          "-3x and 5x\u00b2",
+          "-3x and 2x\u00b2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Subtract the like terms for x.",
+        "options": [
+          "-3x - 7x = -10x (Correct answer)",
+          "-3x - 7x = 10x",
+          "-3x - 7x = 4x",
+          "-3x - 7x = -4x"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the like terms for the constant terms.",
+        "options": [
+          "4 and -5 (Correct answer)",
+          "4 and 7x",
+          "4 and 5x\u00b2",
+          "4 and 2x\u00b2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Subtract the like terms for the constant terms.",
+        "options": [
+          "4 - (-5) = 9 (Correct answer)",
+          "4 - (-5) = -1",
+          "4 - (-5) = 1",
+          "4 - (-5) = -9"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "What is the result of combining like terms in the expression 2x\u00b2y - 3xy\u00b2 + 5x\u00b2y + x\u00b2y?",
+    "questions": [
+      {
+        "question": "Identify the like terms involving x\u00b2y.",
+        "options": [
+          "2x\u00b2y, 5x\u00b2y, and x\u00b2y (Correct answer)",
+          "2x\u00b2y and 5x\u00b2y",
+          "2x\u00b2y and x\u00b2y",
+          "5x\u00b2y and x\u00b2y"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Add the like terms involving x\u00b2y.",
+        "options": [
+          "2x\u00b2y + 5x\u00b2y + x\u00b2y = 8x\u00b2y (Correct answer)",
+          "2x\u00b2y + 5x\u00b2y = 7x\u00b2y",
+          "2x\u00b2y + x\u00b2y = 3x\u00b2y",
+          "5x\u00b2y + x\u00b2y = 6x\u00b2y"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the remaining terms not involving x\u00b2y.",
+        "options": [
+          "-3xy\u00b2 (Correct answer)",
+          "3xy\u00b2",
+          "2x\u00b2y",
+          "5x\u00b2y"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Simplify the expression: (3x - 2)(x + 4) - (2x\u00b2 + 3x - 5).",
+    "questions": [
+      {
+        "question": "Perform the distributive property on (3x - 2)(x + 4).",
+        "options": [
+          "3x\u00b2 + 10x - 8 (Correct answer)",
+          "3x\u00b2 + 2x + 8",
+          "3x\u00b2 - 10x - 8",
+          "3x\u00b2 - 2x - 8"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Rewrite the expression with the result from Step 1.",
+        "options": [
+          "3x\u00b2 + 10x - 8 - (2x\u00b2 + 3x - 5) (Correct answer)",
+          "3x\u00b2 + 2x + 8 - (2x\u00b2 + 3x - 5)",
+          "3x\u00b2 - 10x - 8 - (2x\u00b2 + 3x - 5)",
+          "3x\u00b2 - 2x - 8 - (2x\u00b2 + 3x - 5)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Distribute the negative sign to the terms in parentheses.",
+        "options": [
+          "3x\u00b2 + 10x - 8 - 2x\u00b2 - 3x + 5 (Correct answer)",
+          "3x\u00b2 + 2x + 8 - 2x\u00b2 - 3x + 5",
+          "3x\u00b2 - 10x - 8 - 2x\u00b2 - 3x + 5",
+          "3x\u00b2 - 2x - 8 - 2x\u00b2 - 3x + 5"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Simplify the expression: 6a\u00b3b\u00b2 - 3a\u00b2b + 9a\u00b3b\u00b2 + 2a\u00b2b.",
+    "questions": [
+      {
+        "question": "Identify the like terms in the expression",
+        "options": [
+          "6a\u00b3b\u00b2 and 9a\u00b3b\u00b2 (Correct answer)",
+          "6a\u00b3b\u00b2 and 2a\u00b2b",
+          "3a\u00b2b and 9a\u00b3b\u00b2",
+          "3a\u00b2b and 2a\u00b2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the other pair of like terms.",
+        "options": [
+          "-3a\u00b2b and 2a\u00b2b (Correct answer)",
+          "6a\u00b3b\u00b2 and 2a\u00b2b",
+          "3a\u00b2b and 9a\u00b3b\u00b2",
+          "6a\u00b3b\u00b2 and 9a\u00b3b"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine the first pair of like terms.",
+        "options": [
+          "15a\u00b3b\u00b2 (Correct answer)",
+          "3a\u00b3b\u00b2",
+          "12a\u00b3b\u00b2",
+          "6a\u00b3b\u00b2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine the second pair of like terms.",
+        "options": [
+          "-1a\u00b2b (Correct answer)",
+          "5a\u00b2b",
+          "1a\u00b2b",
+          "-5a\u00b2b"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Simplify the expression: 2(x + 3) + 5(2x - 1) - 3x.",
+    "questions": [
+      {
+        "question": "Distribute the first term.",
+        "options": [
+          "2x + 6 (Correct answer)",
+          "2x - 6",
+          "x + 6",
+          "x - 6"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Distribute the second term.",
+        "options": [
+          "10x - 5 (Correct answer)",
+          "10x + 5",
+          "5x - 5",
+          "5x + 5"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Write the expanded expression.",
+        "options": [
+          "2x + 6 + 10x - 5 - 3x (Correct answer)",
+          "2x - 6 + 10x + 5 - 3x",
+          "x + 6 + 5x - 5 - 3x",
+          "x - 6 + 5x + 5 - 3x"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine the like terms.",
+        "options": [
+          "9x + 1 (Correct answer)",
+          "9x - 1",
+          "7x + 1",
+          "7x - 1"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Simplify the expression: 4(2x - 3y) - 3(3x + 4y).",
+    "questions": [
+      {
+        "question": "Distribute the first term.",
+        "options": [
+          "8x - 12y (Correct answer)",
+          "8x + 12y",
+          "6x - 12y",
+          "6x + 12y"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Distribute the second term.",
+        "options": [
+          "-9x - 12y (Correct answer)",
+          "-9x + 12y",
+          "-7x - 12y",
+          "-7x + 12y"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Write the expanded expression.",
+        "options": [
+          "8x - 12y - 9x - 12y (Correct answer)",
+          "8x + 12y - 9x + 12y",
+          "6x - 12y - 7x - 12y",
+          "6x + 12y - 7x + 12y"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine the like terms.",
+        "options": [
+          "-x - 24y (Correct answer)",
+          "-x + 24y",
+          "-x - 36y",
+          "-x + 36y"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve for x: 3x - 4 = 2x + 7",
+    "questions": [
+      {
+        "question": "Subtract 2x from both sides. Left side of the equation looks like:",
+        "options": [
+          "x - 4 (Correct answer)",
+          "x + 4",
+          "x + 3",
+          "x - 3"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Write the updated equation.",
+        "options": [
+          "x - 4 = 7 (Correct answer)",
+          "x + 4 = 7",
+          "x + 3 = 7",
+          "x - 3 = 7"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Add 4 to both sides.",
+        "options": [
+          "x = 11 (Correct answer)",
+          "x = 9",
+          "x = 3",
+          "x = 5"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve for y: 4y + 3 = 19 - 2y.",
+    "questions": [
+      {
+        "question": "Add 2y to both sides.Left side of the equation looks like:",
+        "options": [
+          "6y + 3 (Correct answer)",
+          "2y + 3",
+          "6y - 3",
+          "2y - 3"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Write the updated equation.",
+        "options": [
+          "6y + 3 = 19 (Correct answer)",
+          "2y + 3 = 19",
+          "6y - 3 = 19",
+          "2y - 3 = 19"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Subtract 3 from both sides.",
+        "options": [
+          "6y = 16 (Correct answer)",
+          "6y = 22",
+          "2y = 16",
+          "2y = 22"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Divide by 6 on both sides.",
+        "options": [
+          "y = 8/3 (Correct answer)",
+          "y = 2",
+          "y = 11/3",
+          "y = 3"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve for z: 2z\u00b2 + 5z - 3 = 0.",
+    "questions": [
+      {
+        "question": "Apply the quadratic formula with a = 2, b = 5, and c = -3.",
+        "options": [
+          "z = (-5 \u00b1 \u221a49)/4 (Correct answer)",
+          "z = (-5 \u00b1 \u221a41)/4",
+          "z = (-3 \u00b1 \u221a61)/4",
+          "z = (-3 \u00b1 \u221a41)/4"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve for w: 4(w - 3) = 8w + 6.",
+    "questions": [
+      {
+        "question": "Distribute the 4.",
+        "options": [
+          "4w - 12 (Correct answer)",
+          "4w + 12",
+          "12 - 4w",
+          "12 + 4w"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Write the expanded equation.",
+        "options": [
+          "4w - 12 = 8w + 6 (Correct answer)",
+          "4w + 12 = 8w + 6",
+          "12 - 4w = 8w + 6",
+          "12 + 4w = 8w + 6"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Subtract 4w from both sides.",
+        "options": [
+          "-12 = 4w + 6 (Correct answer)",
+          "12 = 4w + 6",
+          "-12 = -4w + 6",
+          "12 = -4w + 6"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Subtract 6 from both sides.",
+        "options": [
+          "-18 = 4w (Correct answer)",
+          "6 = 4w",
+          "-18 = -4w",
+          "6 = -4w"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Divide by 4 on both sides.",
+        "options": [
+          "w = -9/2 (Correct answer)",
+          "w = 3/2",
+          "w = 9/2",
+          "w = -3/2"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve for x: (3x + 4)/(x - 2) = 5.",
+    "questions": [
+      {
+        "question": "Multiply both sides by (x - 2).",
+        "options": [
+          "3x + 4 = 5(x - 2) (Correct answer)",
+          "(3x + 4)(x - 2) = 5",
+          "3x + 4 = 5x - 10",
+          "(3x + 4)(x + 2) = 5"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Expand the left side.",
+        "options": [
+          "3x + 4 = 5x - 10 (Correct answer)",
+          "3x + 4 = 5(x - 2)",
+          "3x + 4 = 5x + 10",
+          "3x + 4 = 5x - 2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Rearrange the equation.",
+        "options": [
+          "2x = 14 (Correct answer)",
+          "2x = -14",
+          "x = 14",
+          "x = -14"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Expand the expression using the distributive property: 5(x + 3).",
+    "questions": []
+  },
+  {
+    "problem": "Solve for y: 4y + 3 = 19 - 2y.",
+    "questions": [
+      {
+        "question": "Add 2y to both sides of the equation.",
+        "options": [
+          "6y + 3 = 19 (Correct answer)",
+          "4y + 3 = 21",
+          "2y + 3 = 19",
+          "6y - 3 = 19"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Subtract 3 from both sides of the equation.",
+        "options": [
+          "6y = 16 (Correct answer)",
+          "6y = 22",
+          "2y = 16",
+          "6y = 10"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve for z: 2z\u00b2 + 5z - 3 = 0.",
+    "questions": [
+      {
+        "question": "Find the discriminant (b\u00b2 - 4ac).",
+        "options": [
+          "49 (Correct answer)",
+          "25",
+          "36",
+          "64"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Find the square root of the discriminant.",
+        "options": [
+          "7 (Correct answer)",
+          "5",
+          "6",
+          "8"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Calculate the two solutions using the quadratic formula.",
+        "options": [
+          "z = (-5 + 7)/(4) and z = (-5 - 7)/(4) (Correct answer)",
+          "z = (-5 + 5)/(4) and z = (-5 - 5)/(4)",
+          "z = (-5 + 6)/(4) and z = (-5 - 6)/(4)",
+          "z = (-5 + 8)/(4) and z = (-5 - 8)/(4)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Simplify the expression using the distributive property: 2(3x - 5y) + 4(2x + 3y).",
+    "questions": [
+      {
+        "question": "Apply the distributive property to the first term.",
+        "options": [
+          "6x - 10y (Correct answer)",
+          "6x + 10y",
+          "5x - 10y",
+          "6x - 8y"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Apply the distributive property to the second term.",
+        "options": [
+          "8x + 12y (Correct answer)",
+          "8x - 12y",
+          "10x + 12y",
+          "8x + 14y"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine the results from steps 1 and 2.",
+        "options": [
+          "6x - 10y + 8x + 12y (Correct answer)",
+          "6x + 10y + 8x - 12y",
+          "5x - 10y + 10x + 12y",
+          "6x - 8y + 8x + 14y"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Apply the distributive property to the expression: -3(2x - 4y + z).",
+    "questions": [
+      {
+        "question": "Distribute -3 to the first term inside the parentheses.",
+        "options": [
+          "-6x (Correct answer)",
+          "6x",
+          "-5x",
+          "-8x"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Distribute -3 to the second term inside the parentheses.",
+        "options": [
+          "12y (Correct answer)",
+          "-12y",
+          "10y",
+          "-14y"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Distribute -3 to the third term inside the parentheses.",
+        "options": [
+          "-3z (Correct answer)",
+          "3z",
+          "-5z",
+          "-3y"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Expand the expression: (x - 3)(x + 2) using the distributive property.",
+    "questions": [
+      {
+        "question": "Distribute the first term (x) in the first parentheses to both terms in the second parentheses.",
+        "options": [
+          "x(x) + x(2) (Correct answer)",
+          "-3(x) - 3(2)",
+          "x(x) - x(2)",
+          "-3(x) + 3(2)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Distribute the second term (-3) in the first parentheses to both terms in the second parentheses.",
+        "options": [
+          "-3(x) - 3(2) (Correct answer)",
+          "x(x) + x(2)",
+          "x(x) - x(2)",
+          "-3(x) + 3(2)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Simplify the terms from steps 1 and 2.",
+        "options": [
+          "x\u00b2 + 2x - 3x - 6 (Correct answer)",
+          "x\u00b2 - 2x + 3x - 6",
+          "x\u00b2 + 2x + 3x - 6",
+          "x\u00b2 - 2x - 3x + 6"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Apply the distributive property to simplify: 7(5x + 2) - 4(3x - 1).",
+    "questions": [
+      {
+        "question": "Distribute the first term (7) to both terms in the first parentheses.",
+        "options": [
+          "35x + 14 (Correct answer)",
+          "21x + 8",
+          "12x + 7",
+          "28x - 6"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Distribute the second term (-4) to both terms in the second parentheses.",
+        "options": [
+          "-12x + 4 (Correct answer)",
+          "12x - 4",
+          "-8x + 2",
+          "8x - 2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine the results from steps 1 and 2.",
+        "options": [
+          "35x + 14 - 12x + 4 (Correct answer)",
+          "35x + 14 + 12x - 4",
+          "35x - 14 - 12x + 4",
+          "35x - 14 + 12x - 4"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Rewrite the expression using the commutative property of addition: 3x + 5y - z.",
+    "questions": [
+      {
+        "question": "Rearrange the terms using the commutative property of addition.",
+        "options": [
+          "5y + 3x - z (Correct answer)",
+          "-3x - z + 5y",
+          "z + 3x + 5y",
+          "5y - z - 3x"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Rearrange the terms again using the commutative property of addition.",
+        "options": [
+          "-z + 5y + 3x (Correct answer)",
+          "3x + 5y + z",
+          "5y + z + 3x",
+          "z + 5y - 3x"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Rewrite the expression using the commutative property of multiplication: 2ab\u00b2c.",
+    "questions": [
+      {
+        "question": "Rearrange the factors using the commutative property of multiplication.",
+        "options": [
+          "2b\u00b2ac (Correct answer)",
+          "2bac\u00b2",
+          "c2ab\u00b2",
+          "ab\u00b2c"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Rearrange the factors again using the commutative property of multiplication.",
+        "options": [
+          "2acb\u00b2 (Correct answer)",
+          "2cab",
+          "b\u00b2ac",
+          "2ac\u00b2b"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Apply the commutative property to the sum: x\u00b2 + 3x + 4x\u00b3 - 2x\u00b2 + x.",
+    "questions": [
+      {
+        "question": "Rearrange the terms using the commutative property of addition.",
+        "options": [
+          "4x\u00b3 + x\u00b2 - 2x\u00b2 + 3x + x (Correct answer)",
+          "x\u00b2 - 2x\u00b2 + 4x\u00b3 + 3x - x",
+          "3x + x + x\u00b2 + 2x\u00b2 + 4x\u00b3",
+          "-2x\u00b2 + x\u00b2 + 3x + x - 4x\u00b3"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Rearrange the terms again using the commutative property of addition.",
+        "options": [
+          "x - 2x\u00b2 + x\u00b2 + 3x + 4x\u00b3 (Correct answer)",
+          "4x\u00b3 + 2x\u00b2 + x\u00b2 + 3x + x",
+          "x + 3x + 4x\u00b3 + x\u00b2 - 2x\u00b2",
+          "-2x\u00b2 + 4x\u00b3 + x + 3x + x\u00b2"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Apply the commutative property to the product: 3xy\u00b2z\u00b3 * 2x\u00b2y\u00b3z.",
+    "questions": [
+      {
+        "question": "Rearrange the factors using the commutative property of multiplication.",
+        "options": [
+          "2x\u00b2y\u00b3z * 3xy\u00b2z\u00b3 (Correct answer)",
+          "3xy\u00b2z\u00b3 * x\u00b2y\u00b3z",
+          "y\u00b3z * 3xy\u00b2z\u00b3 * x\u00b2",
+          "3z\u00b3 * 3xy\u00b2 * 2x\u00b2y\u00b3z"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Rearrange the factors again using the commutative property of multiplication.",
+        "options": [
+          "3xy\u00b2z\u00b3 * z * 2x\u00b2y\u00b3 (Correct answer)",
+          "5x\u00b2y\u00b3 * 3xy\u00b2z\u00b3 * 2z",
+          "y\u00b3 * 6xy\u00b2z\u00b3 * 2x\u00b2z",
+          "x\u00b2y\u00b3z * z\u00b3 * 3xy\u00b2"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Use the commutative property to rearrange the terms in the expression: 5x\u00b3 - 3x\u00b2 + 4x - 7.",
+    "questions": [
+      {
+        "question": "Rearrange the terms using the commutative property of addition.",
+        "options": [
+          "-3x\u00b2 + 5x\u00b3 + 4x - 7 (Correct answer)",
+          "4x + 5x\u00b3 + 7 - 3x\u00b2",
+          "-7 + 4x + 3x\u00b2 + 5x\u00b3",
+          "4x - 7 + 5x\u00b3 - 3x\u00b2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Rearrange the terms again using the commutative property of addition.",
+        "options": [
+          "-3x\u00b2 - 7 + 5x\u00b3 + 4x (Correct answer)",
+          "-5x\u00b3 + 4x - 3x\u00b2 - 7",
+          "4x + 5x\u00b3 - 7 + 3x\u00b2",
+          "-7 + 4x - 3x\u00b2 - 5x\u00b3"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Apply the associative property to the sum: (2x + 3y) + 4z.",
+    "questions": [
+      {
+        "question": "Rearrange the sum using the associative property of addition.",
+        "options": [
+          "2x + (3y + 4z) (Correct answer)",
+          "(4z + 2x) - 3y",
+          "-3y + (2x + 4z)",
+          "(3y - 4z) + 2x"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Rearrange the sum again using the associative property of addition.",
+        "options": [
+          "(4z + 3y) + 2x (Correct answer)",
+          "4z - (2x + 3y)",
+          "2x - (4z + 3y)",
+          "(2x + 3y) - 4z"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Apply the associative property to the product: 2 * (3 * x).",
+    "questions": [
+      {
+        "question": "Rearrange the product using the associative property of multiplication.",
+        "options": [
+          "(2 * 3) * x (Correct answer)",
+          "(4 * x) * 2",
+          "3 * (x * x)",
+          "x\u00b2 * (2 * 3)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Rearrange the product again using the associative property of multiplication.",
+        "options": [
+          "2 * (x * 3) (Correct answer)",
+          "(x * 2) * 2",
+          "x * (2 * 2)",
+          "(2 * x) * 4"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Use the associative property to rearrange the terms in the expression: 5x + (3x - 7) + 2x.",
+    "questions": [
+      {
+        "question": "Rearrange the terms using the associative property of addition.",
+        "options": [
+          "(5x + 3x) - 7 + 2x (Correct answer)",
+          "-5x - 7 + (3x + 2x)",
+          "-5x + 2x + (3x - 7)",
+          "(5x + 7) + 3x + 2x"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Rearrange the terms again using the associative property of addition.",
+        "options": [
+          "5x + (2x + 3x) - 7 (Correct answer)",
+          "(5x + 2x) + 3x + 7",
+          "5x +7 + 2x + 3x",
+          "2x + (5x - 7) - 3x"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Apply the associative property to the sum: (x\u00b2 + 3x) + (4x\u00b3 - 2x\u00b2) + x.",
+    "questions": [
+      {
+        "question": "Rearrange the terms using the associative property of addition.",
+        "options": [
+          "(x\u00b2 + (3x + x)) + (4x\u00b3 - 2x\u00b2) (Correct answer)",
+          "(x\u00b2 - 3x) + (4x\u00b3 + x) - 2x\u00b2",
+          "x\u00b2 + 3x + 4x\u00b3 - 2x\u00b2 - x",
+          "(x\u00b2 + 4x\u00b3) - (3x - 2x\u00b2) + x"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Rearrange the terms again using the associative property of addition.",
+        "options": [
+          "((x\u00b2 + 4x\u00b3) + 3x) - 2x\u00b2 + x (Correct answer)",
+          "x\u00b2 + (3x + 4x\u00b3) - 2x\u00b2 - x",
+          "x\u00b2 + 3x + 4x\u00b3 - 2x\u00b2 - x",
+          "(x\u00b2 + 3x) + 4x\u00b3 - 2x\u00b2 - x"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Use the associative property to rearrange the terms in the expression: 3x * (5y * 7z).",
+    "questions": [
+      {
+        "question": "Apply the associative property of multiplication to rearrange the terms.",
+        "options": [
+          "(3x * 5y) * 7z (Correct answer)",
+          "3x * 5y * z",
+          "(5y * x) * 7z",
+          "5y * (3x * z)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Apply the associative property of multiplication again to rearrange the terms.",
+        "options": [
+          "3x * (7z * 5y) (Correct answer)",
+          "x * 5y * 7z",
+          "(3x * 2z) * 5y",
+          "7z * (x * 5y)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve the system of equations using substitution: y = x + 3 and y = 2x - 1.",
+    "questions": [
+      {
+        "question": "Choose the equation to substitute into the other equation.",
+        "options": [
+          "Substitute y = x + 3 into y = 2x - 1 (Correct answer)",
+          "Substitute y = 2x  into y = x + 3",
+          "Substitute x + 3 = y into 2x - 1 = y",
+          "Substitute 2x - 1 = y into x + 3 = y"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the chosen equation.",
+        "options": [
+          "x + 3 = 2x - 1 (Correct answer)",
+          "x + 3 = 2x + 3",
+          "2x - 1 = x + 3",
+          "2x - 1 = x - 1"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve for x.",
+        "options": [
+          "x = 4 (Correct answer)",
+          "x = 0",
+          "x = -2",
+          "x = 3"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the value of x back into the equation to find y.",
+        "options": [
+          "y = x + 3 (Correct answer)",
+          "y = 2x + 1",
+          "y = x - 1",
+          "y = 2x + 3"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve the system of equations using substitution: x = 3y - 5 and 2x + 3y = 7.",
+    "questions": [
+      {
+        "question": "Choose the equation to substitute into the other equation.",
+        "options": [
+          "Substitute x = 3y - 5 into 2x + 3y = 7 (Correct answer)",
+          "Substitute 2x + 3y = 7 into x = 3y - 5",
+          "Substitute 3y - 5 = x into 2x + 3y = 7",
+          "Substitute 2x + 3y = 7 into 3y - 5 = x"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the chosen equation.",
+        "options": [
+          "2(3y - 5) + 3y = 7 (Correct answer)",
+          "2(3y + 5) + 3y = 7",
+          "2(3y - 7) + 3y = 7",
+          "2(3y + 1) + 3y = 7"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve the equation.",
+        "options": [
+          "9y - 10 = 7 (Correct answer)",
+          "9y + 10 = 7",
+          "9y - 14 = 7",
+          "9y + 2 = 7"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve for y.",
+        "options": [
+          "y = 17/9 (Correct answer)",
+          "y = -1/3",
+          "y = 21/9",
+          "y = 5/9"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the value of y back into the equation to find x.",
+        "options": [
+          "x = 3y - 5 (Correct answer)",
+          "x = 3y + 5",
+          "x = 3y - 7",
+          "x = 3y + 1"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "If f(x) = 2x\u00b2 - 3x + 4 and g(x) = x + 2, find f(g(1)).",
+    "questions": [
+      {
+        "question": "Determine g(1).",
+        "options": [
+          "g(1) = 1 + 2 (Correct answer)",
+          "g(1) = 1 - 2",
+          "g(1) = 1 + 4",
+          "g(1) = 1 - 4"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Calculate the value of g(1).",
+        "options": [
+          "g(1) = 3 (Correct answer)",
+          "g(1) = -1",
+          "g(1) = 5",
+          "g(1) = -3"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the value of g(1) into f(x).",
+        "options": [
+          "f(3) = 2(3)\u00b2 - 3(3) + 4 (Correct answer)",
+          "f(3) = 2(3)\u00b2 + 3(3) + 4",
+          "f(3) = 2(3)\u00b2 - 3(3) - 4",
+          "f(3) = 2(3)\u00b2 + 3(3) - 4"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Calculate the value of f(3).",
+        "options": [
+          "f(3) = 11",
+          "f(3) = 13 (Correct answer)",
+          "f(3) = -5",
+          "f(3) = 21"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve the system of equations using substitution: x + y = 5 and x - y = 1.",
+    "questions": [
+      {
+        "question": "Solve the first equation for x.",
+        "options": [
+          "x = 5 - y (Correct answer)",
+          "x = 5 + y",
+          "x = y - 5",
+          "x = -y + 5"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the expression for x into the second equation.",
+        "options": [
+          "(5 - y) - y = 1 (Correct answer)",
+          "(5 + y) - y = 1",
+          "(y - 5) - y = 1",
+          "(-y + 5) - y = 1"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Simplify the equation.",
+        "options": [
+          "5 - 2y = 1 (Correct answer)",
+          "y = 1",
+          "2y - 5 = 1",
+          "y = -1"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve for y.",
+        "options": [
+          "y = 2 (Correct answer)",
+          "y = 3",
+          "y = 1",
+          "y = -2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the value of y back into the expression for x.",
+        "options": [
+          "x = 5 - 2 (Correct answer)",
+          "x = 5 + 2",
+          "x = 2 - 5",
+          "x = -2 + 5"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve for x.",
+        "options": [
+          "x = 3 (Correct answer)",
+          "x = 7",
+          "x = -3",
+          "x = 1"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve the system of equations using substitution: y = 4x - 7 and 3x + 2y = 9.",
+    "questions": [
+      {
+        "question": "Substitute the expression for y into the second equation.",
+        "options": [
+          "3x + 2(4x - 7) = 9 (Correct answer)",
+          "3x - 2(4x - 7) = 9",
+          "3x + 2(-4x + 7) = 9",
+          "3x - 2(-4x + 7) = 9"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Distribute the 2 in the equation.",
+        "options": [
+          "3x + 8x - 14 = 9 (Correct answer)",
+          "3x - 8x + 14 = 9",
+          "3x - 8x - 14 = 9",
+          "3x + 8x + 14 = 9"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine like terms.",
+        "options": [
+          "11x - 14 = 9 (Correct answer)",
+          "-5x + 14 = 9",
+          "-5x - 14 = 9",
+          "11x + 14 = 9"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Add 14 to both sides of the equation.",
+        "options": [
+          "11x = 23 (Correct answer)",
+          "-5x = 23",
+          "-5x = -5",
+          "11x = -5"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve for x.",
+        "options": [
+          "x = 23/11 (Correct answer)",
+          "x = 23/5",
+          "x = -5/5",
+          "x = -5/11"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the value of x back into the expression for y.",
+        "options": [
+          "y = 4(23/11) - 7 (Correct answer)",
+          "y = 4(23/5) - 7",
+          "y = 4(-5/5) - 7",
+          "y = 4(-5/11) - 7"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve for y.",
+        "options": [
+          "y = 4/11",
+          "y = 29/5",
+          "y = -12",
+          "y = 15/11 (Correct answer)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve the system of equations using elimination: 3x + 2y = 7 and 6x - 2y = 14.",
+    "questions": [
+      {
+        "question": "Determine the coefficients for each equation.",
+        "options": [
+          "(3, 2) and (6, -2) (Correct answer)",
+          "(3, 2) and (6, 2)",
+          "(3, -2) and (6, -2)",
+          "(3, 2) and (6, 2)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Add the two equations together to eliminate one variable.",
+        "options": [
+          "3x + 2y + 6x - 2y = 7 + 14 (Correct answer)",
+          "3x + 2y - 6x - 2y = 7 - 14",
+          "3x + 2y + 6x + 2y = 7 + 14",
+          "3x + 2y - 6x + 2y = 7 - 14"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine like terms.",
+        "options": [
+          "9x = 21 (Correct answer)",
+          "-3x = -7",
+          "9x = -21",
+          "-3x = 7"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve for x.",
+        "options": [
+          "x = 21/9 (Correct answer)",
+          "x = -7/3",
+          "x = -21/9",
+          "x = 7/3"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the value of x back into one of the original equations.",
+        "options": [
+          "3(21/9) + 2y = 7 (Correct answer)",
+          "3(-7/3) + 2y = 7",
+          "3(-21/9) + 2y = 7",
+          "3(7/3) + 2y = 7"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve for y.",
+        "options": [
+          "2y = 7 - 7 (Correct answer)",
+          "2y = 7 + 7",
+          "2y = 7 + 21",
+          "2y = 7 - 21"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve the system of equations using elimination: 5x - 3y = 7 and -10x + 6y = -14.",
+    "questions": [
+      {
+        "question": "Determine the coefficients for each equation.",
+        "options": [
+          "(5, -3) and (-10, 6) (Correct answer)",
+          "(5, -3) and (10, 6)",
+          "(5, 3) and (-10, 6)",
+          "(5, -3) and (-10, -6)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Add the two equations together to eliminate one variable.",
+        "options": [
+          "5x - 3y - 10x + 6y = 7 - 14 (Correct answer)",
+          "5x - 3y + 10x - 6y = 7 + 14",
+          "5x + 3y - 10x + 6y = 7 - 14",
+          "5x - 3y - 10x - 6y = 7 - 14"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine like terms.",
+        "options": [
+          "-5x + 3y = -7 (Correct answer)",
+          "15x - 9y = 21",
+          "-5x + 9y = -7",
+          "-15x - 9y = -21"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve for x.",
+        "options": [
+          "x = (7 + 3y)/5 (Correct answer)",
+          "x = (21 + 9y)/15",
+          "x = (-7 - 9y)/5",
+          "x = (-21 - 9y)/15"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the value of x back into one of the original equations.",
+        "options": [
+          "5((7 + 3y)/5) - 3y = 7 (Correct answer)",
+          "5(21 + 9y)/15 - 3y = 7",
+          "5(-7 - 9y)/5 - 3y = 7",
+          "5(-21 - 9y)/15 - 3y = 7"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Simplify and solve for y.",
+        "options": [
+          "7 + 3y - 3y = 7 (Correct answer)",
+          "(21 + 9y)/3 - 3y = 7",
+          "-7 - 9y - 3y = 7",
+          "(-21 - 9y)/3 - 3y = 7"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve the system of equations using elimination: | 7x + 5y = 12 | 3x - 5y = -4.",
+    "questions": [
+      {
+        "question": "Determine the coefficients for each equation.",
+        "options": [
+          "(7, 5) and (3, -5) (Correct answer)",
+          "(7, 5) and (3, 5)",
+          "(7, -5) and (3, -5)",
+          "(7, 5) and (3, 5)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Add the two equations together to eliminate one variable.",
+        "options": [
+          "7x + 5y + 3x - 5y = 12 + (-4) (Correct answer)",
+          "7x + 5y + 3x + 5y = 12 + 4",
+          "7x - 5y + 3x - 5y = 12 - 4",
+          "7x + 5y + 3x + 5y = 12 + 4"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine like terms.",
+        "options": [
+          "10x = 8 (Correct answer)",
+          "10x + 10y = 16",
+          "10x - 10y = 8",
+          "10x + 10y = 16"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve for x.",
+        "options": [
+          "x = 8/10 (Correct answer)",
+          "x = 16/10",
+          "x = 8/10",
+          "x = 16/10"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the value of x back into one of the original equations.",
+        "options": [
+          "7(8/10) + 5y = 12 (Correct answer)",
+          "7(16/10) + 5y = 12",
+          "7(8/10) - 5y = 12",
+          "7(16/10) + 5y = 12"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Simplify and solve for y.",
+        "options": [
+          "5y = 12 - 7(8/10) (Correct answer)",
+          "5y = 12 - 7(16/10)",
+          "-5y = 12 - 7(8/10)",
+          "5y = 12 - 7(16/10)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve the system of equations using elimination: 4x - 6y = 8 and 2x + 6y = 10.",
+    "questions": [
+      {
+        "question": "Determine the coefficients for each equation.",
+        "options": [
+          "(4, -6) and (2, 6) (Correct answer)",
+          "(4, -6) and (2, -6)",
+          "(4, 6) and (2, 6)",
+          "(4, -6) and (2, 6)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Add the two equations together to eliminate one variable.",
+        "options": [
+          "4x - 6y + 2x + 6y = 8 + 10 (Correct answer)",
+          "4x - 6y + 2x - 6y = 8 + 10",
+          "4x + 6y + 2x + 6y = 8 + 10",
+          "4x - 6y + 2x + 6y = 8 - 10"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine like terms.",
+        "options": [
+          "6x = 18 (Correct answer)",
+          "6x - 12y = 18",
+          "6x + 12y = 18",
+          "6x = -2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve for x.",
+        "options": [
+          "x = 3 (Correct answer)",
+          "x = 18/12",
+          "x = 18/6",
+          "x = -2/6"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the value of x back into one of the original equations.",
+        "options": [
+          "4(3) - 6y = 8 (Correct answer)",
+          "4(18/12) - 6y = 8",
+          "4(18/6) + 6y = 8",
+          "4(-2/6) + 6y = 8"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Simplify and solve for y.",
+        "options": [
+          "-6y = 8 - 4*3 (Correct answer)",
+          "-6y = 8 - 4(18/12)",
+          "6y = 8 - 4(18/6)",
+          "6y = 8 - 4(-2/6)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve the system of equations using elimination: x + 3y = 5 and 2x - y = 7.",
+    "questions": [
+      {
+        "question": "Determine the coefficients for each equation.",
+        "options": [
+          "(1, 3) and (2, -1) (Correct answer)",
+          "(1, 3) and (2, 1)",
+          "(1, -3) and (2, -1)",
+          "(-1, 3) and (2, -1)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Multiply one or both equations by a constant to make the coefficients of one variable the same or additive inverses.",
+        "options": [
+          "Multiply the first equation by 2 (Correct answer)",
+          "Multiply the second equation by 4",
+          "Multiply the first equation by 3",
+          "Multiply the second equation by 2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Write the new equations.",
+        "options": [
+          "2(x + 3y) = 2(5) and 2x - y = 7 (Correct answer)",
+          "x + 3y = 5 and 3(2x - y) = 3(7)",
+          "3(x + 3y) = 3(5) and 2x - y = 7",
+          "x + 3y = 5 and 2(2x - y) = 2(7)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Apply the operation to the new equations.",
+        "options": [
+          "2x + 6y = 10 and 2x - y = 7 (Correct answer)",
+          "x + 3y = 5 and 6x - 3y = 21",
+          "3x + 9y = 15 and 2x - y = 7",
+          "x + 3y = 5 and 4x - 2y = 14"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Combine like terms and solve for the remaining variable.",
+        "options": [
+          "7y = 3 (Correct answer)",
+          "7x = 26",
+          "7y = 8",
+          "3y = 9"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the value of the remaining variable back into one of the original equations and solve for the other variable.",
+        "options": [
+          "x + 3(3/7) = 5 (Correct answer)",
+          "x + 3(26/7) = 5",
+          "x + 3(8/7) = 5",
+          "x + 3(9/7) = 5"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve for x: |x - 3| = 7.",
+    "questions": [
+      {
+        "question": "Determine the two possible cases for the absolute value.",
+        "options": [
+          "x - 3 = 7 and x - 3 = -7 (Correct answer)",
+          "x - 3 = 7 and x + 3 = -7",
+          "x + 3 = 7 and x + 3 = -7",
+          "x - 3 = 7 and x - 3 = 7"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve the first case.",
+        "options": [
+          "x = 10 (Correct answer)",
+          "x = 4",
+          "x = -4",
+          "x = 3"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve the second case.",
+        "options": [
+          "x = -4 (Correct answer)",
+          "x = 10",
+          "x = 4",
+          "x = 3"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve for y: |2y + 5| = 11.",
+    "questions": [
+      {
+        "question": "Determine the two possible cases for the absolute value.",
+        "options": [
+          "2y + 5 = 11 and 2y + 5 = -11 (Correct answer)",
+          "2y + 5 = 11 and 2y - 5 = -11",
+          "2y - 5 = 11 and 2y - 5 = -11",
+          "2y + 5 = 11 and 2y + 5 = 11"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve the first case.",
+        "options": [
+          "2y = 6 (Correct answer)",
+          "2y = 2",
+          "2y = -2",
+          "2y = 0"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Determine the value of y for the first case.",
+        "options": [
+          "y = 3 (Correct answer)",
+          "y = 1",
+          "y = -1",
+          "y = 0"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve the second case.",
+        "options": [
+          "2y = -16 (Correct answer)",
+          "2y = -6",
+          "2y = -26",
+          "2y = -10"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Determine the value of y for the second case.",
+        "options": [
+          "y = -8 (Correct answer)",
+          "y = -3",
+          "y = -13",
+          "y = -5"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve for y: |3y - 4| - 2 = 5y + 6.",
+    "questions": [
+      {
+        "question": "Add 2 to both sides of the equation.",
+        "options": [
+          "|3y - 4| = 5y + 8 (Correct answer)",
+          "|3y - 4| = 5y + 6",
+          "|3y - 4| = 5y + 10",
+          "|3y - 4| = 5y + 4"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Determine the two possible cases for the absolute value.",
+        "options": [
+          "3y - 4 = 5y + 8 and 3y - 4 = -(5y + 8) (Correct answer)",
+          "3y - 4 = 5y + 6 and 3y - 4 = -(5y + 6)",
+          "3y - 4 = 5y + 10 and 3y - 4 = -(5y + 10)",
+          "3y - 4 = 5y + 4 and 3y - 4 = -(5y + 4)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve the first case.",
+        "options": [
+          "-2y = 12 (Correct answer)",
+          "-2y = 10",
+          "-2y = 14",
+          "-2y = 8"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Determine the value of y for the first case.",
+        "options": [
+          "y = -6 (Correct answer)",
+          "y = -5",
+          "y = -7",
+          "y = -4"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve the second case.",
+        "options": [
+          "8y = -4 (Correct answer)",
+          "8y = 10",
+          "8y = 14",
+          "8y = 8"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Determine the value of y for the second case.",
+        "options": [
+          "y = -0.5 (Correct answer)",
+          "y = 1.25",
+          "y = 1.75",
+          "y = 1"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve for x: |5x - 3| = 2x + 9.",
+    "questions": [
+      {
+        "question": "Determine the two possible cases for the absolute value.",
+        "options": [
+          "5x - 3 = 2x + 9 and 5x - 3 = -(2x + 9) (Correct answer)",
+          "5x - 3 = 2x + 9 and 5x - 3 = -2x - 9",
+          "5x - 3 = 2x + 9 and 5x - 3 = 2x - 9",
+          "5x - 3 = 2x + 9 and 5x - 3 = -(2x - 9)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve the first case.",
+        "options": [
+          "3x = 12 (Correct answer)",
+          "3x = 10",
+          "3x = 14",
+          "3x = 8"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Determine the value of x for the first case.",
+        "options": [
+          "x = 4 (Correct answer)",
+          "x = 3.33",
+          "x = 4.67",
+          "x = 2.67"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Solve the second case.",
+        "options": [
+          "7x = -6 (Correct answer)",
+          "7x = -4",
+          "7x = -8",
+          "7x = -2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Determine the value of x for the second case.",
+        "options": [
+          "x = -6/7 (Correct answer)",
+          "x = -4/7",
+          "x = -8/7",
+          "x = -2/7"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Factor the quadratic expression: x\u00b2 - 9x + 20.",
+    "questions": [
+      {
+        "question": "Determine the factors of the constant term (20).",
+        "options": [
+          "1, 20",
+          "2, 10",
+          "4, 5",
+          "All the above (Correct answer)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the pair of factors that sum up to the coefficient of the linear term (-9).",
+        "options": [
+          "-1, -20",
+          "-2, -10",
+          "-4, -5 (Correct answer)",
+          "-3, -6"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Factor the expression: 3x\u00b2 - 12x.",
+    "questions": [
+      {
+        "question": "Identify the greatest common factor (GCF) of the terms.",
+        "options": [
+          "1",
+          "2",
+          "3 (Correct answer)",
+          "4"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Determine the remaining factors after dividing by the GCF.",
+        "options": [
+          "x\u00b2 - 12x",
+          "3x\u00b2 - 6x",
+          "x\u00b2 - 4x (Correct answer)",
+          "x\u00b2 - 3x"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Factor the quadratic expression: x\u00b2 - 4x - 32.",
+    "questions": [
+      {
+        "question": "Determine if the expression is factorable.",
+        "options": [
+          "Yes - it\u2019s factorable (Correct answer)",
+          "No, but it would be if you changed the 4 to a 6",
+          "No, but it would be if you added 32",
+          "No, but it would be if you took away the squared part"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the pair of numbers whose product is -32 and whose sum is -4.",
+        "options": [
+          "-8 and 4 (Correct answer)",
+          "-2 and 16",
+          "8 and -4",
+          "2 and -16"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 - 3x - 4 = 0.",
+    "questions": [
+      {
+        "question": "Determine if the equation is factorable.",
+        "options": [
+          "Yes (Correct answer)",
+          "No, but it would be if the 4 was an 8",
+          "No, but it would be if you changed the 3x to a 6x",
+          "No, but it would be if the entire thing was equal to 24"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the pair of numbers whose product is -4 and whose sum is -3.",
+        "options": [
+          "-4 and 1 (Correct answer)",
+          "4 and -1",
+          "-2 and 2",
+          "2 and -4"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Write the equation as the product of two binomials.",
+        "options": [
+          "(x - 4)(x + 1)",
+          "(x + 4)(x - 1)",
+          "(x - 2)(x + 2)",
+          "(x + 2)(x - 4) (Correct answer)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 4x + 4 = 0.",
+    "questions": [
+      {
+        "question": "Identify the pair of numbers whose product is 4 and whose sum is 4.",
+        "options": [
+          "1 and 4",
+          "-1 and -4",
+          "2 and 2 (Correct answer)",
+          "-2 and -2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Write the equation as the product of two binomials.",
+        "options": [
+          "(x + 1)(x + 4)",
+          "(x - 1)(x - 4)",
+          "(x + 2)(x + 2) (Correct answer)",
+          "(x - 2)(x - 2)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Solve the quadratic equation: 2x\u00b2 - 5x + 3 = 0.",
+    "questions": [
+      {
+        "question": "Determine if the equation can be factored.",
+        "options": [
+          "Yes (Correct answer)",
+          "No, but it would be if you changed the 5x to a 6x",
+          "No, but it would be if you changed the 2x to an x",
+          "No, but it would be if you removed the + 3 part."
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the pair of numbers whose product is 6 (2*3) and whose sum is -5.",
+        "options": [
+          "-1 and -6",
+          "-2 and -3 (Correct answer)",
+          "1 and 6",
+          "2 and 3"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Write the equation as the product of two binomials.",
+        "options": [
+          "(2x - 1)(x - 6)",
+          "(2x - 3)(x - 1) (Correct answer)",
+          "(2x + 1)(x + 6)",
+          "(2x + 3)(x + 2)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Simplify the expression: x\u00b3 * x^4.",
+    "questions": [
+      {
+        "question": "Recognize the expression is using the multiplication of powers rule. What is the rule?",
+        "options": [
+          "Add the exponents (Correct answer)",
+          "Subtract the exponents",
+          "Multiply the exponents",
+          "Divide the exponents"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Add the exponents of the two terms.",
+        "options": [
+          "3 + 4 (Correct answer)",
+          "3 - 4",
+          "3 * 4",
+          "3 / 4"
+        ],
+        "hints": []
+      },
+      {
+        "question": "What is the sum of the exponents?",
+        "options": [
+          "7 (Correct answer)",
+          "-1",
+          "12",
+          "0.75"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Simplify the expression: (x\u00b2)\u00b3.",
+    "questions": [
+      {
+        "question": "Recognize the expression is using the power of a power rule. What is the rule?",
+        "options": [
+          "Add the exponents",
+          "Subtract the exponents",
+          "Multiply the exponents (Correct answer)",
+          "Divide the exponents"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Multiply the exponents of the two terms.",
+        "options": [
+          "2 * 3 (Correct answer)",
+          "2 + 3",
+          "2 - 3",
+          "2 / 3"
+        ],
+        "hints": []
+      },
+      {
+        "question": "What is the product of the exponents?",
+        "options": [
+          "6 (Correct answer)",
+          "5",
+          "-1",
+          "0.67"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Simplify the expression: x^5 / x\u00b2.",
+    "questions": [
+      {
+        "question": "Recognize the expression is using the quotient rule. What is the rule?",
+        "options": [
+          "Add the exponents",
+          "Subtract the exponents (Correct answer)",
+          "Multiply the exponents",
+          "Divide the exponents"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Subtract the exponents of the two terms.",
+        "options": [
+          "5 - 2 (Correct answer)",
+          "5 + 2",
+          "5 * 2",
+          "5 / 2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "What is the difference between the exponents?",
+        "options": [
+          "3 (Correct answer)",
+          "7",
+          "10",
+          "2.5"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Simplify the radical expression: \u221a(49x^4).",
+    "questions": [
+      {
+        "question": "Recognize the square root of 49.",
+        "options": [
+          "5",
+          "6",
+          "7 (Correct answer)",
+          "8"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Recognize that the exponent of x^4 is even. What happens when you take the square root of x^4?",
+        "options": [
+          "x\u00b2 (Correct answer)",
+          "x\u00b3",
+          "x^4",
+          "x"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Simplify the radical expression: 3\u221a(8x\u00b3).",
+    "questions": [
+      {
+        "question": "Recognize the cube root of 8.",
+        "options": [
+          "2 (Correct answer)",
+          "3",
+          "4",
+          "5"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Recognize that the exponent of x\u00b3 is divisible by 3. What happens when you take the cube root of",
+        "options": [
+          "x\u00b3?",
+          "x (Correct answer)",
+          "x\u00b2",
+          "x\u00b3",
+          "x^4"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Simplify the radical expression: \u221a(18) / \u221a(2x\u00b2).",
+    "questions": [
+      {
+        "question": "Identify the square root of 18.",
+        "options": [
+          "3\u221a2 (Correct answer)",
+          "6",
+          "9",
+          "2\u221a3"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the square root of 2x\u00b2.",
+        "options": [
+          "x\u221a2 (Correct answer)",
+          "x",
+          "x\u00b2",
+          "x\u221a3"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Place the square roots found in step 1 and step 2 in the numerator and denominator, respectively.",
+        "options": [
+          "(3\u221a2) / (x\u221a2) (Correct answer)",
+          "(6) / (x)",
+          "(9) / (x\u00b2)",
+          "(2\u221a3) / (x\u221a3)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Simplify the rational expression: (3x\u00b2 - 6x) / (9x\u00b2 - 27x).",
+    "questions": [
+      {
+        "question": "Factor out the greatest common factor (GCF) from the numerator.",
+        "options": [
+          "3x(x - 2) (Correct answer)",
+          "3(x\u00b2 - 2x)",
+          "x(3x + 2)",
+          "3x(x - 2)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Factor out the greatest common factor (GCF) from the denominator.",
+        "options": [
+          "x(3x - 9)",
+          "9(x\u00b2 - 3x)",
+          "x(3x + 9)",
+          "9x(x - 3) (Correct answer)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Rewrite the expression with factored terms.",
+        "options": [
+          "(x(3x - 2)) / (x(3x - 9))",
+          "(3(x\u00b2 - 2x)) / (9(x\u00b2 - 3x))",
+          "(x(3x + 2)) / (x(3x + 9))",
+          "(3x(x - 2)) / (9x(x - 3)) (Correct answer)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Simplify the rational expression: (4x\u00b2 - 16x + 16) / (2x - 4).",
+    "questions": [
+      {
+        "question": "Factor out the greatest common factor (GCF) from the numerator",
+        "options": [
+          "4(x\u00b2 - 4x + 4) (Correct answer)",
+          "x(4x - 16 + 16)",
+          "4x(x\u00b2 - 4)",
+          "4(x\u00b2 - 4x + 4)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Factor out the greatest common factor (GCF) from the denominator.",
+        "options": [
+          "2(x - 2) (Correct answer)",
+          "x(2x - 4)",
+          "2x(x - 2)",
+          "2(x - 2)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Rewrite the expression with factored terms.",
+        "options": [
+          "(4(x\u00b2 - 4x + 4)) / (2(x - 2)) (Correct answer)",
+          "(x(4x - 16 + 16)) / (x(2x - 4))",
+          "(4x(x\u00b2 - 4)) / (2x(x - 2))",
+          "(4(x\u00b2 - 4x + 4)) / (2(x - 2))"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Factor the quadratic in the numerator.",
+        "options": [
+          "4(x - 2)(x - 2) (Correct answer)",
+          "(4x - 16 + 16)(x - 2)",
+          "4x(x\u00b2 - 4)(x - 2)",
+          "4(x - 2)(x - 2)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Simplify the rational expression: (6x\u00b3 - 9x\u00b2 + 3x) / (3x\u00b2).",
+    "questions": [
+      {
+        "question": "Factor out the greatest common factor (GCF) from the numerator.",
+        "options": [
+          "3x(2x\u00b2 - 3x + 1) (Correct answer)",
+          "6(x\u00b2 - 2x + 1)",
+          "x(6x\u00b2 - 9x + 3)",
+          "6x(x\u00b2 - 3x + 1)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Rewrite the expression with the factored terms.",
+        "options": [
+          "(3x(2x\u00b2 - 3x + 1)) / (3x\u00b2) (Correct answer)",
+          "(6(x\u00b2 - 2x + 1)) / (3x\u00b2)",
+          "(x(6x\u00b2 - 9x + 3)) / (3x\u00b2)",
+          "(6x(x\u00b2 - 3x + 1)) / (3x\u00b2)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Find the slope of the line that passes through the points (3, 4) and (7, 6).",
+    "questions": [
+      {
+        "question": "Recall the slope formula:",
+        "options": [
+          "m = (y2  y1) / (x2 - x1) (Correct answer)",
+          "m = (y2 - y1) / (x2 + x1)",
+          "m = (y2 + y1) / (x2 - x1)",
+          "m = (y2 + y1) / (x2 + x1)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the coordinates:",
+        "options": [
+          "(x1, y1) = (3, 4) and (x2, y2) = (7, 6) (Correct answer)",
+          "(x1, y1) = (4, 4) and (x2, y2) = (6, 6)",
+          "(x1, y1) = (3, 4) and (x2, y2) = (6, 6)",
+          "(x1, y1) = (4, 3) and (x2, y2) = (6, 7)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the coordinates into the slope formula and simplify.",
+        "options": [
+          "m = (6 - 4) / (7 - 3) (Correct answer)",
+          "m = (4 - 6) / (3 - 7)",
+          "m = (6 - 4) / (3 - 7)",
+          "m = (4 - 6) / (7 - 3)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Calculate the slope.",
+        "options": [
+          "m = 2 / 4 (Correct answer)",
+          "m = -2 / -4",
+          "m = 2 / -4",
+          "m = -2 / 4"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Write the equation of a line with a slope of 2 and passing through the point (4, 5).",
+    "questions": [
+      {
+        "question": "Recall the point-slope form of a linear equation:",
+        "options": [
+          "y - y1 = m(x + x1)",
+          "y - y1 = m(x - x1) (Correct answer)",
+          "y + y1 = m(x - x1)",
+          "y + y1 = m(x + x1)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the slope and the given point:",
+        "options": [
+          "m = 2, (x1, y1) = (4, 5) (Correct answer)",
+          "m = 3, (x1, y1) = (5, 5)",
+          "m = 1, (x1, y1) = (4, 4)",
+          "m = -2, (x1, y1) = (5, 4)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the slope and the given point into the point-slope form and simplify.",
+        "options": [
+          "y - 5 = 2(x - 4) (Correct answer)",
+          "y - 4 = 2(x - 5)",
+          "y - 5 = 2(x + 4)",
+          "y - 4 = 2(x + 5)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Write the equation of a line that passes through the points (2, 3) and (6, 7).",
+    "questions": [
+      {
+        "question": "Recall the slope formula:",
+        "options": [
+          "m = (y2  y1) / (x2 - x1) (Correct answer)",
+          "m = (y2 - y1) / (x2 + x1)",
+          "m = (y2 + y1) / (x2 - x1)",
+          "m = (y2 + y1) / (x2 + x1)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the coordinates into the slope formula and simplify.",
+        "options": [
+          "m = (7 - 3) / (6 - 2) (Correct answer)",
+          "m = (4 - 6) / (3 - 7)",
+          "m = (6 - 4) / (3 - 7)",
+          "m = (4 - 6) / (7 - 3)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Simplify the slope.",
+        "options": [
+          "m = 1 (Correct answer)",
+          "m = 1/2",
+          "m = -1/2",
+          "m = -1/2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Recall the point-slope form of a linear equation:",
+        "options": [
+          "y - y1 = m(x + x1)",
+          "y - y1 = m(x - x1) (Correct answer)",
+          "y + y1 = m(x - x1)",
+          "y + y1 = m(x + x1)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the slope and one of the given points into the point-slope form and simplify.",
+        "options": [
+          "y - 3 = 1(x - 2) (Correct answer)",
+          "y - 7 = 1(x - 6)",
+          "y - 3 = 1(x + 2)",
+          "y - 7 = 1(x + 6)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Calculate the slope of a line passing through the points (5, 8) and (1, 4).",
+    "questions": [
+      {
+        "question": "Recall the slope formula:",
+        "options": [
+          "m = (y2  y1) / (x2 - x1) (Correct answer)",
+          "m = (y2 - y1) / (x2 + x1)",
+          "m = (y2 + y1) / (x2 - x1)",
+          "m = (y2 + y1) / (x2 + x1)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Substitute the coordinates into the slope formula and simplify.",
+        "options": [
+          "m = (4 - 8) / (1 - 5) (Correct answer)",
+          "m = (4 - 6) / (3 - 7)",
+          "m = (6 - 4) / (3 - 7)",
+          "m = (4 - 6) / (7 - 3)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Determine the slope of a line that is parallel to the line with the equation 4x - 3y = 12.",
+    "questions": [
+      {
+        "question": "Convert the given equation to slope-intercept form, y = mx + b, where m is the slope.",
+        "options": [
+          "4x - 3y = 12",
+          "-3y = -4x + 12",
+          "y = (4/3)x - 4 (Correct answer)",
+          "y= 2x +4"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the slope of the given line.",
+        "options": [
+          "m = 4/3 (Correct answer)",
+          "m= 1",
+          "m= 3",
+          "m= 1/2"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Find the slope of a line that is perpendicular to the line with the equation 2x + 3y = 6.",
+    "questions": [
+      {
+        "question": "Convert the given equation to slope-intercept form, y = mx + b, where m is the slope.",
+        "options": [
+          "2x + 3y = 6",
+          "3y = -2x + 6",
+          "y = (-2/3)x + 2 (Correct answer)",
+          "y= 2x -1"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the slope of the given line.",
+        "options": [
+          "m = -2/3 (Correct answer)",
+          "m= 1",
+          "m= 3",
+          "m = 1/2"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Find the y-intercept of the line with the equation 3x + 4y = 12.",
+    "questions": [
+      {
+        "question": "Convert the given equation to slope-intercept form, y = mx + b, where b is the y-intercept.",
+        "options": [
+          "3x + 4y = 12",
+          "4y = -3x + 12",
+          "y = (-3/4)x + 3 (Correct answer)",
+          "y = 2x -5"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Determine the y-intercept of the line passing through the points (5, 7) and (8, 4).",
+    "questions": [
+      {
+        "question": "Find the slope of the line (m) using the formula m = (y2 - y1) / (x2 - x1).",
+        "options": [
+          "m = (4 - 7) / (8 - 5) (Correct answer)",
+          "m = (-3-1) / (3+1)",
+          "m = (7 - 7) / (8 - 5)",
+          "m = (-3-1) / (7+1)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Identify the slope of the given line.",
+        "options": [
+          "m = -1 (Correct answer)",
+          "m = 2",
+          "m = 3",
+          "m = 1"
+        ],
+        "hints": []
+      },
+      {
+        "question": "What is  the slope-intercept form of a straight line?",
+        "options": [
+          "y = mx + b, where m is the slope and b is the y-intercept. (Correct answer)",
+          "y = mx - b, where m is the slope and b is the y-intercept.",
+          "x = my + b, where m is the slope and b is the y-intercept.",
+          "x = my - b, where m is the slope and b is the y-intercept."
+        ],
+        "hints": []
+      },
+      {
+        "question": "Plug one of the points either (5,7) or (8,4) and the slope into the equation to find b.",
+        "options": [
+          "7 = (-1) * 5 + b (Correct answer)",
+          "7 = -5 + b",
+          "7 = 5 + b",
+          "7 = (1) * 5 + b"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Write the equation of a line with a slope of 5 and a y-intercept of -3.",
+    "questions": [
+      {
+        "question": "Recall the slope-intercept form of a linear equation:",
+        "options": [
+          "y = mx + b, where m is the slope and b is the y-intercept. (Correct answer)",
+          "y = mx - b, where m is the slope and b is the y-intercept.",
+          "x = my + b, where m is the slope and b is the y-intercept.",
+          "x = my - b, where m is the slope and b is the y-intercept."
+        ],
+        "hints": []
+      },
+      {
+        "question": "Plug in the given slope (m = 5) and y-intercept (b = -3) into the equation.",
+        "options": [
+          "y = 5x - 3 (Correct answer)",
+          "y = 5x + 3",
+          "y = -5x - 3",
+          "y = -5x + 3"
+        ],
+        "hints": []
+      }
+    ]
+  }
+]

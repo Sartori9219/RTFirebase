@@ -1,0 +1,3111 @@
+[
+  {
+    "problem": "A recipe calls for 2 1/2 cups of sugar. If you want to make one-fourth of the recipe, how many cups of sugar will you need?",
+    "questions": [
+      {
+        "question": "Let\u2019s build variable names like a pro. (define and assign variables)",
+        "options": [
+          "totalCupsOfSugar = 2 1/2 | fractionOfRecipe = 1/4 | cupsOfSugarNeeded = ____ (correct answer)",
+          "totalCupsOfSugar = 1 1/2 | fractionOfRecipe = 3/4 | cupsOfSugarNeeded = ____",
+          "totalCupsOfSugar = 2 1/2 | fractionOfRecipe = 1/4 | cupsOfSugarNeeded = ____",
+          "totalCupsOfSugar = 2 1/2 | fractionOfRecipe = 1/4 | cupsOfSugarNeeded = ____"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like labeled containers that hold values.  [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "You can put other variables and expressions in a variable",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get crazy and set up the problem, daisy.",
+        "options": [
+          "cupsOfSugarNeeded = totalCupsOfSugar \u2716\ufe0f fractionOfRecipe (correct answer)",
+          "cupsOfSugarNeeded = totalCupsOfSugar / fractionOfRecipe",
+          "cupsOfSugarNeeded = fractionOfRecipe / totalCupsOfSugar",
+          "cupsOfSugarNeeded = totalCupsOfSugar - fractionOfRecipe"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to get sharp and plug in the harp. (plug in the known values) | cupsOfSugarNeeded = totalCupsOfSugar \u2716\ufe0f fractionOfRecipe",
+        "options": [
+          "cupsOfSugarNeeded = 2.5 \u2716\ufe0f 1/4 (correct answer)",
+          "cupsOfSugarNeeded = 2.5 \u2716\ufe0f 1/3",
+          "cupsOfSugarNeeded = 2.5 \u2716\ufe0f 1/2",
+          "cupsOfSugarNeeded = 2.5 \u2716\ufe0f 2/3"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Before we solve, let\u2019s convert 2.5 into an improper fraction. | cupsOfSugarNeeded = 2.5 \u2716\ufe0f 1/4",
+        "options": [
+          "2.5 = 5/2 (correct answer)",
+          "2.5 = 7/2",
+          "2.5 = 9/4",
+          "2.5 = 3/2"
+        ],
+        "hints": [
+          {
+            "description": "[Convert a fraction to improper]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A rectangular prism has a length of 16 inches, a width of 10 inches, and a height of 8 inches. What is the surface area of the prism?",
+    "questions": [
+      {
+        "question": "Time to create variables, in a playful row. (define and assign variables)",
+        "options": [
+          "length = 16 | width = 10 | height = 8  (correct answer)",
+          "length = 16 | width = 8 | height = 10",
+          "length = 10 | width = 16 | height = 8",
+          "length = 8 | width = 16 | height = 10"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Explain to a tube of toothpaste (with a cap) why we can\u2019t just find the surface area of one surface and then multiply it by 6 (the number of sides a prism has).",
+        "options": [
+          "Because not all the surfaces are the same (correct answer)",
+          "Because a rectangular prism always has different side umbrellas",
+          "Because the surface area of a bicycle is always different for each surface",
+          "Because the sum of the surface areas of individual surfaces is like a pineapple"
+        ],
+        "hints": [
+          {
+            "description": "All the surfaces on a dice are the same, but what about a rectangular chair leg?",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many side faces do we have?  How many top and bottom faces do we have?",
+        "options": [
+          "4 | 2 (correct answer)",
+          "3 | 3",
+          "2 | 4",
+          "6 | 0"
+        ],
+        "hints": [
+          {
+            "description": "Imagine a dice (like one you would roll)",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Explain to a tower of pizza boxes the best approach for finding the total surface area of all 6 surfaces?",
+        "options": [
+          "Find the area of each surface and then add them up. (correct answer)",
+          "Multiply the area of one surface by 6",
+          "Divide the total volume by the height of the prism",
+          "Find the area of the largest surface and multiply by the number of sides"
+        ],
+        "hints": [
+          {
+            "description": "A prism has six sides. Each of the sides has its own surface area.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s start with the top or bottom faces (areaOfTopOrBottomFace). Put on your dancing shoes and set up the function, blues.",
+        "options": [
+          "areaOfTopOrBottomFace = length \u2716\ufe0f width (correct answer)",
+          "areaOfTopOrBottomFace = length \u2716\ufe0f height",
+          "areaOfTopOrBottomFace = width \u2716\ufe0f height",
+          "areaOfTopOrBottomFace = (length + width) \u2716\ufe0f height"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get snazzy and plug in the jazzie. (plug in the known values) | areaOfTopAndBottomFaces = length \u2716\ufe0f width",
+        "options": [
+          "areaOfTopOrBottomFace = 16 \u2716\ufe0f 10 (correct answer)",
+          "areaOfTopOrBottomFace = 16 \u2716\ufe0f 8",
+          "areaOfTopOrBottomFace = 10 \u2716\ufe0f 8",
+          "areaOfTopOrBottomFace = 16 \u2716\ufe0f 10 \u2716\ufe0f 8"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s figure it out and shout it out. | areaOfTopOrBottomFace = 16 \u2716\ufe0f 10",
+        "options": [
+          "areaOfTopOrBottomFace = 160 (correct answer)",
+          "areaOfTopOrBottomFace = 170",
+          "areaOfTopOrBottomFace = 150",
+          "areaOfTopOrBottomFace = 180"
+        ],
+        "hints": [
+          {
+            "description": "[basic double digit multiplication]",
+            "isBought": false
+          },
+          {
+            "description": "[trick with multiplication]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Great!  Now let\u2019s find areaOfOneSideFace.  Time to shine, let\u2019s find the expression, so fine.",
+        "options": [
+          "areaOfOneSideFace = length \u2716\ufe0f height (correct answer)",
+          "areaOfOneSideFace = length \u2716\ufe0f width",
+          "areaOfOneSideFace = width \u2716\ufe0f height",
+          "areaOfOneSideFace = (length + height) \u2716\ufe0f width"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to get tricky and plug in the mickey. (plug in the known values) | areaOfOneSideFace = height \u2716\ufe0f width",
+        "options": [
+          "areaOfOneSideFace = 16 \u2716\ufe0f 8 (correct answer)",
+          "areaOfOneSideFace = 16 \u2716\ufe0f 10",
+          "areaOfOneSideFace = 10 \u2716\ufe0f 8",
+          "areaOfOneSideFace = 16 \u2716\ufe0f 8 \u2716\ufe0f 10"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s work it out and remove the doubt. | areaOfOneSideFace = 8 \u2716\ufe0f 10",
+        "options": [
+          "areaOfOneSideFace = 128 (correct answer)",
+          "areaOfOneSideFace = 138",
+          "areaOfOneSideFace = 118",
+          "areaOfOneSideFace = 148"
+        ],
+        "hints": [
+          {
+            "description": "[basic double digit multiplication]",
+            "isBought": false
+          },
+          {
+            "description": "[trick with multiplication]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "We\u2019re almost there!  Now we put it all together (totalSurfaceArea).  Get your groove on and set up the equation, come on.",
+        "options": [
+          "totalSurfaceArea = (2 \u2716\ufe0f areaOfTopOrBottomFace) + (4 \u2716\ufe0f areaOfOneSideFace) (correct answer)",
+          "totalSurfaceArea = (areaOfTopOrBottomFace) + (4 \u2716\ufe0f areaOfOneSideFace)",
+          "totalSurfaceArea = (2 \u2716\ufe0f areaOfTopOrBottomFace) + (3 \u2716\ufe0f areaOfOneSideFace)",
+          "totalSurfaceArea = (3 \u2716\ufe0f areaOfTopOrBottomFace) + (4 \u2716\ufe0f areaOfOneSideFace)"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to get sharp and plug in the harp. (plug in the known values) | totalSurfaceArea = (2 \u2716\ufe0f areaOfTopOrBottomFace) + (4 \u2716\ufe0f areaOfOneSideFace)",
+        "options": [
+          "totalSurfaceArea = (2 \u2716\ufe0f 160) + (4 \u2716\ufe0f 128) (correct answer)",
+          "totalSurfaceArea = (2 \u2716\ufe0f 170) + (4 \u2716\ufe0f 138)",
+          "totalSurfaceArea = (2 \u2716\ufe0f 150) + (4 \u2716\ufe0f 118)",
+          "totalSurfaceArea = (2 \u2716\ufe0f 180) + (4 \u2716\ufe0f 148)"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s swish and swoosh, and simplify this equation smooth. | totalSurfaceArea = (2 \u2716\ufe0f 160) + (4 \u2716\ufe0f 80)",
+        "options": [
+          "totalSurfaceArea = (320) + (512) (correct answer)",
+          "totalSurfaceArea = (340) + (552)",
+          "totalSurfaceArea = (300) + (472)",
+          "totalSurfaceArea = (360) + (592)"
+        ],
+        "hints": [
+          {
+            "description": "[basic double digit multiplication]",
+            "isBought": false
+          },
+          {
+            "description": "[trick with multiplication]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A train leaves the station and travels at a speed of 100 miles per hour. Three hours later, a second train leaves the same station and travels at a speed of 120 miles per hour. How long will it take the second train to catch up to the first train if they are traveling in the same direction and are initially 300 miles apart?",
+    "questions": [
+      {
+        "question": "Jazzy variables are here, let\u2019s see how they glow. (define and assign the known variables)",
+        "options": [
+          "train1_speed = 100 | train2_speed = 120 | distanceBetweenTrains = 300 (correct answer)",
+          "train1_speed = 110 | train2_speed = 130 | distanceBetweenTrains = 310",
+          "train1_speed = 90 | train2_speed = 110 | distanceBetweenTrains = 290",
+          "train1_speed = 100 | train2_speed = 120 | distanceBetweenTrains = 310"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Explain to a giant box of tissues why we don\u2019t care about train1_distance or train2_distance",
+        "options": [
+          "We don\u2019t need them. We need only the relative speed (train2_speed - train1_speed).  (correct answer)",
+          "We don\u2019t need them. We need only the absolute speed (train2_speed + train1_speed).",
+          "We don\u2019t need them. We need only the average speed ((train2_speed + train1_speed) / 2).",
+          "We don\u2019t need them. We need only the speed difference (train1_speed - train2_speed)."
+        ],
+        "hints": [
+          {
+            "description": "Drawing or acting out the scenario can make it easier to reason.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Get into gear and set up the problem, dear.",
+        "options": [
+          "timeForSecondTrainToCatchUp = distanceBetweenTrains / (train2_speed - train1_speed) (correct answer)",
+          "timeForSecondTrainToCatchUp = distanceBetweenTrains / (train1_speed - train2_speed)",
+          "timeForSecondTrainToCatchUp = distanceBetweenTrains / (train2_speed + train1_speed)",
+          "timeForSecondTrainToCatchUp = distanceBetweenTrains / ((train2_speed + train1_speed) / 2)"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get creative and plug in the narrative. (plug in the known values) | timeForSecondTrainToCatchUp = distanceBetweenTrains / (train2_speed - train1_speed)",
+        "options": [
+          "timeForSecondTrainToCatchUp = 300 / (120 - 100) (correct answer)",
+          "timeForSecondTrainToCatchUp = 300 / (110 - 90)",
+          "timeForSecondTrainToCatchUp = 300 / (130 - 110)",
+          "timeForSecondTrainToCatchUp = 300 / (140 - 100)"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A store sells a shirt for $40, which is 20% off the original price. What was the original price of the shirt?",
+    "questions": [
+      {
+        "question": "With a wink and a smile, let the variables flow. (define and assign variables)",
+        "options": [
+          "originalPrice = ___ | discountPercentage = 0.2 | salePrice = 40 (correct answer)",
+          "originalPrice = ___ | discountPercentage = 200.00 | salePrice = 45",
+          "originalPrice = ___ | discountPercentage = 2.5 | salePrice = 54",
+          "originalPrice = ___ | discountPercentage = 2.22 | salePrice = 55"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like labeled containers that hold values.  [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "Think about what information is provided in the problem and what information we need to find.",
+            "isBought": false
+          },
+          {
+            "description": "We need to find the original price of the shirt, so we need to define a variable for that.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Explain to a stack of oversized pancakes why this formula doesn\u2019t work... | newPrice = originalPrice \u2716\ufe0f discount_percentage",
+        "options": [
+          "Discounts are subtracted from original values, not multiplied by them. (correct answer)",
+          "Discounts are multiplied by original values, not subtracted from them.",
+          "Discounts are added to original values, not multiplied by them.",
+          "Discounts should be divided by original values, not multiplied by them."
+        ],
+        "hints": [
+          {
+            "description": "[basic double digit multiplication]",
+            "isBought": false
+          },
+          {
+            "description": "[trick with multiplication]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s have a blast and create the formula, real fast.",
+        "options": [
+          "originalPrice = salePrice / (1 - discount rate) (correct answer)",
+          "originalPrice = salePrice + discountPercentage",
+          "originalPrice = salePrice / discountPercentage",
+          "originalPrice = salePrice \u2716\ufe0f discountPercentage"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get funky and plug in the monkey. (plug in the known values) | original price = sale price / (1 - discount rate)",
+        "options": [
+          "originalPrice = 40 / (1 - 0.2) (correct answer)",
+          "originalPrice = 30 / (1 - 2.2)",
+          "originalPrice = 50 / (1 - 1.2)",
+          "originalPrice = 20 / (1 - 0.25)"
+        ],
+        "hints": [
+          {
+            "description": "The formula needs to take into account the sale price and the discount percentage.",
+            "isBought": false
+          },
+          {
+            "description": "We want to calculate the original price, not the sale price, so the formula should solve for originalPrice.",
+            "isBought": false
+          },
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A company has a budget of $100,000 for advertising. If they have already spent $75,000, what percentage of the budget have they spent?",
+    "questions": [
+      {
+        "question": "Let\u2019s juggle with variables and make it a show. (define and assign variables)",
+        "options": [
+          "budget = 75,000 | spent = 100,000 | percentSpent = ___ (correct answer)",
+          "budget = 100,000 | spent = 70,000 | percentSpent = ___",
+          "budget = 80,000 | spent = 100,000 | percentSpent = ___",
+          "budget = 75,000 | spent = 95,000 | percentSpent = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like labeled containers that hold values. | [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "Think about what information is provided in the problem and what information we need to find.",
+            "isBought": false
+          },
+          {
+            "description": "We need to find the percentage of the budget that has been spent, so we need to define a variable for that.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Get into gear and set up the problem, dear.",
+        "options": [
+          "percentageSpent = spent / budget (correct answer)",
+          "percentageSpent = budget / spent",
+          "percentageSpent = spent + budget",
+          "percentageSpent = spent - budget"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          },
+          {
+            "description": "The formula needs to take into account the amount spent and the budget.",
+            "isBought": false
+          },
+          {
+            "description": "We want to calculate the percentage spent, so the formula should solve for percentageSpent.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to get fly and plug in the high. (plug in the known values) | percentageSpent = spent / budget",
+        "options": [
+          "percentageSpent = 75,000 / 100,000 (correct answer)",
+          "percentSpent = 75,000 \u2716\ufe0f 100,000 \u2716\ufe0f 100",
+          "percentSpent = 75,000 + 100,000 \u2716\ufe0f 100",
+          "percentSpent = 75,000 - 100,000 \u2716\ufe0f 100"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          },
+          {
+            "description": "The problem tells us that the budget is $100,000 and that $75,000 has already been spent.",
+            "isBought": false
+          },
+          {
+            "description": "We need to plug in the correct values for the budget and the amount spent.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A triangle has a base of 30 inches and a height of 20 inches. What is the area of the triangle?",
+    "questions": [
+      {
+        "question": "Let\u2019s spin a web of variables, nice and slow. (define and assign variables)",
+        "options": [
+          "base = 30 | height = 20 | area = ___ (correct answer)",
+          "base = 28 | height = 20 | area = ___",
+          "base = 30 | height = 18 | area = ___",
+          "base = 32 | height = 20 | area = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          },
+          {
+            "description": "Think about the properties of a triangle and what information is provided in the problem.",
+            "isBought": false
+          },
+          {
+            "description": "We need to find the area of the triangle, so we need to define variables for that.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "It\u2019s equation time, let\u2019s get the numbers to climb (set up the problem)",
+        "options": [
+          "area = (base + height) / 2 (correct answer)",
+          "area = 1/2 \u2716\ufe0f base \u2716\ufe0f height (correct answer)",
+          "area = 2(base + height)",
+          "area = base / height"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          },
+          {
+            "description": "Remember that the formula involves the base and height of the triangle.",
+            "isBought": false
+          },
+          {
+            "description": "Think about how changing the length of the base will affect the area of the triangle.",
+            "isBought": false
+          },
+          {
+            "description": "Use the same formula with the new values to calculate the new area of the triangle.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get creative and plug in the narrative. (plug in the known values) | area = 1/2 \u2716\ufe0f base \u2716\ufe0f height",
+        "options": [
+          "area = 1/2 \u2716\ufe0f 30 \u2716\ufe0f 20  (correct answer)",
+          "area = 1/2 \u2716\ufe0f 28 \u2716\ufe0f 20",
+          "area = 1/2 \u2716\ufe0f 30 \u2716\ufe0f 18",
+          "area = 28 \u2716\ufe0f 20"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A recipe calls for 1/2 teaspoon of baking powder for every cup of flour. If you want to make one-half of the recipe, how much baking powder will you need if you use 8 cups of flour?",
+    "questions": [
+      {
+        "question": "Let\u2019s juggle with variables and make it a show. (define and assign variables)",
+        "options": [
+          "cupsOfFlour = 8 | halfRecipe = 0.5 | bakingPowder = ___ (correct answer)",
+          "bakingPowderPerCup = 1/2 | cupsOfFlour = 8 | halfRecipe = 0.5 | bakingPowder = ___",
+          "fullRecipeBakingPowder = 1 | halfRecipeBakingPowder = 1/2 | cupsOfFlour = 8",
+          "fullRecipeFlour = 16 | halfRecipeFlour = 8 | bakingPowder = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get funky and see the equation, monkey. (set up the problem)",
+        "options": [
+          "bakingPowder = bakingPowderPerCup \u2716\ufe0f cupsOfFlour \u2716\ufe0f halfRecipe (correct answer)",
+          "bakingPowder = cupsOfFlour \u2716\ufe0f bakingPowderPerCup \u2716\ufe0f halfRecipe",
+          "bakingPowder = halfRecipe \u2716\ufe0f cupsOfFlour \u2716\ufe0f bakingPowderPerCup",
+          "bakingPowder = bakingPowderPerCup \u2716\ufe0f halfRecipe \u2716\ufe0f cupsOfFlour"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get zany and plug in the rainy. (plug in the known values)",
+        "options": [
+          "bakingPowder = 1/2 \u2716\ufe0f 8 \u2716\ufe0f 0.5 (correct answer)",
+          "bakingPowder = 8 \u2716\ufe0f 1/2 \u2716\ufe0f 0.5",
+          "bakingPowder = 0.5 \u2716\ufe0f 8 \u2716\ufe0f 1/2",
+          "bakingPowder = 8 \u2716\ufe0f 0.5 \u2716\ufe0f 1/2"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A cone has a height of 12 inches and a radius of 6 inches. What is the volume of the cone?",
+    "questions": [
+      {
+        "question": "Variable names to jive, let\u2019s put on a show. (define and assign variables)",
+        "options": [
+          "height = 12 | radius = 6 | volume = ___ (correct answer)",
+          "height = 6 | radius = 12 | volume = ___",
+          "height = 12 | diameter = 6 | volume = ___",
+          "height = 6 | diameter = 12 | volume = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get silly and figure out the expression, chilly.",
+        "options": [
+          "volume = (1/3) \u2716\ufe0f pi \u2716\ufe0f radius\u00b2 \u2716\ufe0f height (correct answer)",
+          "volume = pi \u2716\ufe0f radius\u00b2 \u2716\ufe0f height \u2716\ufe0f (1/3)",
+          "volume = (1/3) \u2716\ufe0f height \u2716\ufe0f radius\u00b2 \u2716\ufe0f pi",
+          "volume = pi \u2716\ufe0f (1/3) \u2716\ufe0f height \u2716\ufe0f radius\u00b2"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get cookin\u2019 and plug in the lookin\u2019. (plug in the known values) | volume = (1/3) \u2716\ufe0f pi \u2716\ufe0f radius\u00b2 \u2716\ufe0f heigh",
+        "options": [
+          "volume = (1/3) \u2716\ufe0f pi \u2716\ufe0f 6\u00b2 \u2716\ufe0f 12 (correct answer)",
+          "volume = pi \u2716\ufe0f 6\u00b2 \u2716\ufe0f 12 \u2716\ufe0f (1/3)",
+          "volume = (1/3) \u2716\ufe0f 12 \u2716\ufe0f 6\u00b2 \u2716\ufe0f pi",
+          "volume = pi \u2716\ufe0f (1/3) \u2716\ufe0f 12 \u2716\ufe0f 6\u00b2"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A car travels 1,200 miles in 18 hours. If the car's average speed is increased by 20 miles per hour, how long will it take to travel 1,200 miles?",
+    "questions": [
+      {
+        "question": "Let\u2019s paint the town with variables, from head to toe. (define and assign variables)",
+        "options": [
+          "distance = 1200 | time = 18 | speed = ___ | newSpeed = speed + 20 | newTime = ___ (correct answer)",
+          "distance = 1200 | time = t1 | speed = s1 | newSpeed = s1 + 20 | newTime = t2",
+          "distance = d | time = 18 | speed = s | newSpeed = s + 20 | newTime = t",
+          "distance = 1200 | time = 18 | speed = s1 | newSpeed = s1 + 20 | newTime = t2"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s find speed first, using our classic formula.  Get into gear and set up the problem, dear.",
+        "options": [
+          "time = distance / speed (correct answer)",
+          "speed = distance / time",
+          "time = speed / distance",
+          "speed = time / distance"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get goofy and plug in the roofie. (plug in the known values) | speed = distance / time",
+        "options": [
+          "speed = 1,200 / 18 (correct answer)",
+          "speed = 1,200 / 20",
+          "speed = 1,100 / 18",
+          "time = speed / (1,200 + 20)"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s use our head and solve this math instead | speed = 1,200 / 18",
+        "options": [
+          "speed = 66.67 (correct answer)",
+          "speed = 65",
+          "speed = 67",
+          "speed = 60"
+        ],
+        "hints": [
+          {
+            "description": " Divide the distance (1,200) by the time (18)",
+            "isBought": false
+          },
+          {
+            "description": " Simplify the expression to get the speed",
+            "isBought": false
+          },
+          {
+            "description": " Don't forget to include the appropriate units for speed",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Now we can find newSpeed.  It\u2019s time to prance and set up the function, let\u2019s dance.",
+        "options": [
+          "newSpeed = speed + 20 (correct answer)",
+          "newSpeed = speed - 20",
+          "newSpeed = speed \u2716\ufe0f 20",
+          "newSpeed = speed \u2716\ufe0f 2"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Can you plug in and solve it in a single step?  (you can use a calculator)",
+        "options": [
+          "newSpeed = 86.67 (correct answer)",
+          "newSpeed = 90",
+          "newSpeed = 85",
+          "newSpeed = 85"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "We\u2019re almost there!  Now we can find newTime.  It\u2019s time to prance and set up the function, let\u2019s dance.",
+        "options": [
+          "newTime = distance / speed (correct answer)",
+          "newTime = distance \u2716\ufe0f speed",
+          "newTime = distance + speed",
+          "newTime = distance - speed"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get cookin\u2019 and plug in the lookin\u2019. (plug in the known values) | newTime = distance / speed",
+        "options": [
+          "newTime = 1,200 / 86.67 (correct answer)",
+          "newTime = 1,200 / 90",
+          "newTime = 1,100 / 86.67",
+          "newTime = 1,200 / 20"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A train leaves the station and travels at a speed of 100 miles per hour. Three hours later, a second train leaves the same station and travels at a speed of 120 miles per hour. How long will it take the second train to catch up to the first train if they are traveling in the same direction and are initially 300 miles apart?",
+    "questions": [
+      {
+        "question": "Variable names to dance, let\u2019s give it a go. (define and assign variables)",
+        "options": [
+          "speed1 = 100 | speed2 = 120 | catchUpDistance = 300 | catchUpTime = ___ (correct answer)",
+          "speed1 = 100 | speed2 = 110 | catchUpDistance = 300 | catchUpTime = ___",
+          "speed1 = 100 | speed2 = 120 | catchUpDistance = 250 | catchUpTime = ___",
+          "speed1 = 90 | speed2 = 120 | catchUpDistance = 300 | catchUpTime = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "We need a new variable: relativeSpeed.  Let\u2019s get snappy and set up the problem, so it\u2019s not so tricky.",
+        "options": [
+          "relativeSpeed = speed1 - speed2 (correct answer)",
+          "relativeSpeed = speed1 + speed2",
+          "relativeSpeed = speed2 / speed1",
+          "relativeSpeed = 10"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Can you plug in the variables and solve it in a single step?",
+        "options": [
+          "relativeSpeed = 20 (correct answer)",
+          "relativeSpeed = 10",
+          "relativeSpeed = 30",
+          "relativeSpeed = 15"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Now we can use relativeSpeed and the classic speed formula to find catchUpTime.  Let\u2019s get funky and see the equation, monkey. (set up the problem)",
+        "options": [
+          "catchUpTime = distance / speed (correct answer)",
+          "speed = distance / catchUpTime",
+          "time = catchUpTime  / distance",
+          "speed = catchUpTime / distance"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Get ready to glow and plug in the flow. (plug in the known values)",
+        "options": [
+          "catchUpTime = 300 / 20 (correct answer)",
+          "catchUpTime = 300 / 10",
+          "catchUpTime = 300 / 30",
+          "catchUpTime = 300 / 40"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A store sells a shirt for $40, which is 20% off the original price. What was the original price of the shirt?",
+    "questions": [
+      {
+        "question": "It\u2019s a variable party, let the good times roll. (define and assign variables)",
+        "options": [
+          "salePrice = 40 | discountRate = 0.2 | originalPrice = ___ (correct answer)",
+          "discountedPrice = 40 | discountPercentage = 20 | originalCost = ___",
+          "saleCost = 40 | discount = 0.2 | originalCost = ___",
+          "discountPrice = 40 | discountRate = 20% | initialPrice = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s have a blast and create the formula, real fast.",
+        "options": [
+          "originalPrice = salePrice / (1 - discountRate) (correct answer)",
+          "originalPrice = salePrice / (1 + discountRate)",
+          "originalPrice = (1 - discountRate) / salePrice",
+          "originalPrice = (1 + discountRate) / salePrice"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get snazzy and plug in the jazzie. (plug in the known values) | originalPrice = salePrice / (1 - discountRate)",
+        "options": [
+          "originalPrice = 40 / (1 - 0.2) (correct answer)",
+          "originalPrice = 40 / (1 + 0.2)",
+          "originalPrice = (1 - 0.2) / 40",
+          "originalPrice = (1 + 0.2) / 40"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A triangle has a base of 30 inches and a height of 20 inches. What is the area of the triangle?",
+    "questions": [
+      {
+        "question": "Variable names to jive, let\u2019s put on a show. (define and assign variables)",
+        "options": [
+          "base = 30 | height = 20 | area = ___ (correct answer)",
+          "triangleBase = 30 | triangleHeight = 20 | triangleArea = ___",
+          "baseLength = 30 | heightLength = 20 | areaTriangle = ___",
+          "triangleB = 20 | triangleH = 40 | areaT = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get silly and figure out the expression, chilly.",
+        "options": [
+          "area = 0.5 \u2716\ufe0f base \u2716\ufe0f height (correct answer)",
+          "area = base \u2716\ufe0f height \u2716\ufe0f 0.5",
+          "area = 0.5 \u2716\ufe0f height \u2716\ufe0f base",
+          "area = height \u2716\ufe0f 0.5 \u2716\ufe0f base"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get creative and plug in the narrative. (plug in the known values)",
+        "options": [
+          "area = 0.5 \u2716\ufe0f 30 \u2716\ufe0f 20 (correct answer)",
+          "area = 30 \u2716\ufe0f 20 \u2716\ufe0f 0.5",
+          "area = 0.5 \u2716\ufe0f 20 \u2716\ufe0f 30",
+          "area = 20 \u2716\ufe0f 0.5 \u2716\ufe0f 30"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A car travels 1,200 miles in 18 hours. If the car's average speed is increased by 20 miles per hour, how long will it take to travel 1,200 miles?",
+    "questions": [
+      {
+        "question": "Let\u2019s sprinkle some magic, making variables flow. (define and assign variables)",
+        "options": [
+          "distance = 1,200 | time = 18 | speed = ___ | newSpeed = speed + 20 | newTime = ___ (correct answer)",
+          "distance = 1,100 | time = 18 | speed = ___ | newSpeed = speed + 20 | newTime = ___",
+          "distance = 1,200 | time = 16 | speed = ___ | newSpeed = speed + 20 | newTime = ___",
+          "distance = 1,300 | time = 18 | speed = ___ | newSpeed = speed + 20 | newTime = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "We know distance and time, so we can find ___.  This will open the door to finding newSpeed.",
+        "options": [
+          "speed",
+          "distance",
+          "time",
+          "sunshine"
+        ],
+        "hints": [
+          {
+            "description": "If I\u2019m driving 60mph, I would drive 60 miles in one hour.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "With a wink and a smile, let the variables flow. (define and assign variables) | Remember we\u2019re finding speed.",
+        "options": [
+          "speed = distance / time (correct answer)",
+          "time = distance + speed",
+          "time = speed - distance",
+          "speed = time + 2 \u2716\ufe0f distance"
+        ],
+        "hints": [
+          {
+            "description": "When we say \u201cmiles per hour\u201d or \u201cmph\u201d, the \u201cper\u201d part can be substituted by \u201c/\u201d.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get moving and plug in the proving. (plug in the known values) | speed = distance / time",
+        "options": [
+          "speed = 1,200 / 18 (correct answer)",
+          "speed = 1,200 / 20",
+          "speed = 1,200 / 24",
+          "speed = 1,200 / 30"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Formula refinement, so divine - let\u2019s simplify and make it shine. (you can use a calculator) | speed = 1,200 / 18",
+        "options": [
+          "speed = 66.67 (correct answer)",
+          "speed = 60",
+          "speed = 50",
+          "speed = 40"
+        ],
+        "hints": [
+          {
+            "description": "Carefully type the inputs into a calculator",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Now we can find newSpeed.  What was the formula again?",
+        "options": [
+          "newSpeed = speed + 20 (correct answer)",
+          "newSpeed = speed - 20",
+          "newSpeed = speed \u2716\ufe0f 20",
+          "newSpeed = speed / 20"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get hopping and plug in the shopping. (plug in the known values) | newSpeed = speed + 20",
+        "options": [
+          "newSpeed = 66.67 + 20 (correct answer)",
+          "newSpeed = 66.67 - 20",
+          "newSpeed = 66.67 \u2716\ufe0f 20",
+          "newSpeed = 66.67 / 20"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get to the point and solve this joint. | newSpeed = 66.67 + 20",
+        "options": [
+          "newSpeed = 88.67 (correct answer)",
+          "newSpeed = 46.67",
+          "newSpeed = 1333.4",
+          "newSpeed = 3.3335"
+        ],
+        "hints": [
+          {
+            "description": "[double digit addition]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "We\u2019re almost there!  Which formula will help us find how long it will take to travel 1,200 miles at newSpeed?",
+        "options": [
+          "speed = distance / time (correct answer)",
+          "time = distance + speed",
+          "time = speed - distance",
+          "speed = time + 2 \u2716\ufe0f distance"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Get ready to glow and plug in the flow. (plug in the known values) | speed = distance / time",
+        "options": [
+          "88.67 = 1,200 / time (correct answer)",
+          "88.67 = 1,100 / time",
+          "88.67 = 1,300 / time",
+          "88.67 = 1,500 / time"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Formula revamp on the way - let\u2019s simplify without delay. | 88.67 = 1,200 / time",
+        "options": [
+          "88.67 \u2716\ufe0f time = 1,200 (correct answer)",
+          "88.67 = 1,200 + time",
+          "88.67 - time = 1,200",
+          "time + 88.67 = 1,200"
+        ],
+        "hints": [
+          {
+            "description": "[Simplifying an equation by dividing by a constant]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to dance and prance, let\u2019s simplify this equation for a chance. | 88.67 \u2716\ufe0f time = 1,200",
+        "options": [
+          "time = 1,200 / 88.67 (correct answer)",
+          "time = 1,100 / 88.67",
+          "time = 1,300 / 88.67",
+          "time = 1,500 / 88.67"
+        ],
+        "hints": [
+          {
+            "description": "[simplifying an equation through division]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A cylindrical container has a height of 20 centimeters and a radius of 5 centimeters. What is the volume of the container?",
+    "questions": [
+      {
+        "question": "Variable names to dance, let\u2019s give it a go. (define and assign variables)",
+        "options": [
+          "height = 20 | radius = 5 | volume = ___ (correct answer)",
+          "height = 25 | radius = 5 | volume = 100",
+          "height = 20 | radius = 10 | volume = 1000",
+          "height = 10 | radius = 2 | volume = 40"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to rhyme and set up the problem in no time.",
+        "options": [
+          "volume = \u03c0 \u2716\ufe0f radius\u00b2 \u2716\ufe0f height (correct answer)",
+          "volume = \u03c0 \u2716\ufe0f radius^3 \u2716\ufe0f height",
+          "volume = \u03c0 \u2716\ufe0f (radius + height)",
+          "volume = \u03c0 \u2716\ufe0f radius\u00b2 + height"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get sparkly and plug in the darkly. (plug in the known values) | volume = \u03c0 \u2716\ufe0f radius\u00b2 \u2716\ufe0f height",
+        "options": [
+          "volume = \u03c0 \u2716\ufe0f (5\u00b2) \u2716\ufe0f 20 (correct answer)",
+          "volume = \u03c0 \u2716\ufe0f (5^3) \u2716\ufe0f 20",
+          "volume = \u03c0 \u2716\ufe0f (5\u00b2) \u2716\ufe0f 25",
+          "volume = \u03c0 \u2716\ufe0f (5\u00b2) \u2716\ufe0f 10"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A store offers a 15% discount on a pair of shoes that originally cost $120. How much will the final price be after the discount?",
+    "questions": [
+      {
+        "question": "Let\u2019s sprinkle some magic, making variables flow. (define and assign variables)",
+        "options": [
+          "originalPrice = 120 | discountRate = 0.15 | finalPrice = ___ (correct answer)",
+          "originalPrice = 100 | discountRate = 0.2 | finalPrice = 96",
+          "originalPrice = 130 | discountRate = 0.25 | finalPrice = 110",
+          "originalPrice = 90 | discountRate = 0.1 | finalPrice = 87"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "It\u2019s time to boogie and find out what\u2019s the formula, cutie.",
+        "options": [
+          "finalPrice = originalPrice \u2716\ufe0f (1 - discountRate) (correct answer)",
+          "finalPrice = originalPrice \u2716\ufe0f discountRate",
+          "finalPrice = originalPrice - discountRate",
+          "finalPrice = originalPrice / (1 - discountRate)"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get groovy and plug in the movie. (plug in the known values) | finalPrice = originalPrice \u2716\ufe0f (1 - discountRate)",
+        "options": [
+          "finalPrice = 120 \u2716\ufe0f (1 - 0.15) (correct answer)",
+          "finalPrice = 100 \u2716\ufe0f 0.2",
+          "finalPrice = 130 \u2716\ufe0f 0.25",
+          "finalPrice = 90 \u2716\ufe0f 0.1"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A car rental company charges a flat fee of $25 per day and an additional 10 cents per mile driven. If a customer rents the car for 3 days and drives 200 miles, how much will the rental cost?",
+    "questions": [
+      {
+        "question": "Get your groove on and set up the equation, come on.",
+        "options": [
+          "dailyFee = 25 | daysRented = 3 | costPerMile = 0.10 | milesDriven = 200 | totalCost = ___ (correct answer)",
+          "dailyFee = 20 | daysRented = 2 | costPerMile = 0.12 | milesDriven = 250 | totalCost = 93.00",
+          "dailyFee = 30 | daysRented = 4 | costPerMile = 0.08 | milesDriven = 150 | totalCost = 108.00",
+          "dailyFee = 35 | daysRented = 2 | costPerMile = 0.15 | milesDriven = 175 | totalCost = 103.25"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s drum up variables that make us glow. (define and assign variables)",
+        "options": [
+          "totalCost = (dailyFee \u2716\ufe0f daysRented) + (costPerMile \u2716\ufe0f milesDriven) (correct answer)",
+          "totalCost = (dailyFee + daysRented) + (costPerMile + milesDriven)",
+          "totalCost = (dailyFee \u2716\ufe0f 2) + (costPerMile \u2716\ufe0f milesDriven)",
+          "totalCost = (dailyFee + daysRented) \u2716\ufe0f (costPerMile + milesDriven)"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to roll and plug in the goal. (plug in the known values) | totalCost = (dailyFee \u2716\ufe0f daysRented) + (costPerMile \u2716\ufe0f milesDriven)",
+        "options": [
+          "totalCost = (25 \u2716\ufe0f 3) + (0.10 \u2716\ufe0f 200) (correct answer)",
+          "totalCost = (20 \u2716\ufe0f 2) + (0.12 \u2716\ufe0f 250)",
+          "totalCost = (30 \u2716\ufe0f 4) + (0.08 \u2716\ufe0f 150)",
+          "totalCost = (35 \u2716\ufe0f 2) + (0.15 \u2716\ufe0f 175)"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A factory produces 200 units per day. If the factory operates 6 days a week and takes two weeks off for vacation each year, how many units will it produce in a year?",
+    "questions": [
+      {
+        "question": "Variable names to jive, let\u2019s put on a show. (define and assign variables)",
+        "options": [
+          "dailyProduction = 200 | daysPerWeek = 6 | weeksPerYear = 50 (52 weeks - 2 weeks vacation) | annualProduction = ___ (correct answer)",
+          "dailyProduction = 100 | daysPerWeek = 5 | weeksPerYear = 40 | annualProduction = 20,000",
+          "dailyProduction = 250 | daysPerWeek = 7 | weeksPerYear = 60 | annualProduction = 105,000",
+          "dailyProduction = 180 | daysPerWeek = 6 | weeksPerYear = 48 | annualProduction = 50,000"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get peppy and set up the problem, so it\u2019s zippy.",
+        "options": [
+          "annualProduction = dailyProduction \u2716\ufe0f daysPerWeek \u2716\ufe0f weeksPerYear (correct answer)",
+          "annualProduction = dailyProduction + daysPerWeek + weeksPerYear",
+          "annualProduction = dailyProduction \u2716\ufe0f (daysPerWeek + weeksPerYear)",
+          "annualProduction = (dailyProduction \u2716\ufe0f daysPerWeek) + weeksPerYear"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to get snuggly and plug in the hugly. (plug in the known values) | annualProduction = dailyProduction \u2716\ufe0f daysPerWeek \u2716\ufe0f weeksPerYear",
+        "options": [
+          "annualProduction = 200 \u2716\ufe0f 6 \u2716\ufe0f 50 (correct answer)",
+          "annualProduction = 200 \u2716\ufe0f 5 \u2716\ufe0f 50",
+          "annualProduction = 250 \u2716\ufe0f 6 \u2716\ufe0f 40",
+          "annualProduction = 180 \u2716\ufe0f 7 \u2716\ufe0f 48"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A group of students is collecting cans for a recycling project. They need to collect 1,000 cans in total. If they collect 25 cans each day, how many days will it take them to reach their goal?",
+    "questions": [
+      {
+        "question": "Variable names to dance, let\u2019s give it a go. (define and assign variables)",
+        "options": [
+          "totalCans = 1000 | cansPerDay = 25 | daysNeeded = ___ (correct answer)",
+          "totalCans = 500 | cansPerDay = 20 | daysNeeded = 40",
+          "totalCans = 1500 | cansPerDay = 30 | daysNeeded = 50",
+          "totalCans = 750 | cansPerDay = 30 | daysNeeded = 25"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to shine, let\u2019s find the expression, so fine.",
+        "options": [
+          "daysNeeded = totalCans / cansPerDay (correct answer)",
+          "daysNeeded = totalCans \u2716\ufe0f cansPerDay",
+          "daysNeeded = totalCans / (2 \u2716\ufe0f cansPerDay)",
+          "daysNeeded = totalCans / (0.5 \u2716\ufe0f cansPerDay)"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to roll and plug in the goal. (plug in the known values) | daysNeeded = totalCans / cansPerDay",
+        "options": [
+          "daysNeeded = 1000 / 25 (correct answer)",
+          "daysNeeded = 1000 / (cansPerDay - 5)",
+          "daysNeeded = 1000 / cansPerDay + 5",
+          "daysNeeded = 1000 \u2716\ufe0f cansPerDay"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A company buys wholesale t-shirts for $8 each and sells them for $15 each. If the company sells 300 t-shirts, what is the total profit?",
+    "questions": [
+      {
+        "question": "Let\u2019s twist and twirl, creating variables in a row. (define and assign variables)",
+        "options": [
+          "wholesaleCost = 8 | salePrice = 15 | numShirts = 300 | totalProfit = ___ (correct answer)",
+          "wholesaleCost = 5 | salePrice = 14 | numShirts = 200 | totalProfit = ___",
+          "wholesaleCost = 6 | salePrice = 5 | numShirts = 400 | totalProfit = ___",
+          "wholesaleCost = 4 | salePrice = 37| numShirts = 350 | totalProfit = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "It\u2019s time to boogie and find out what\u2019s the formula, cutie.",
+        "options": [
+          "profitPerShirt = salePrice - wholesaleCost (correct answer)",
+          "profitPerShirt = salePrice \u2716\ufe0f wholesaleCost",
+          "profitPerShirt = salePrice + wholesaleCost",
+          "profitPerShirt = (salePrice - wholesaleCost)/numShirts"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to get fly and plug in the high. (plug in the known values) | profitPerShirt = salePrice - wholesaleCost",
+        "options": [
+          "profitPerShirt = 15 - 8 (correct answer)",
+          "profitPerShirt = 20 - 3",
+          "profitPerShirt = 7.5 - 1.5",
+          "profitPerShirt = 10 - 5"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s make it snappy and solve this math happy | profitPerShirt = 15 - 8",
+        "options": [
+          "profitPerShirt = 7 (correct answer)",
+          "profitPerShirt = 6",
+          "profitPerShirt = 8",
+          "profitPerShirt = 5"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Take a crack and set up the math",
+        "options": [
+          "totalProfit = numShirts \u2716\ufe0f profitPerShirt (correct answer)",
+          "totalProfit = numShirts \u2716\ufe0f (wholesaleCost - salePrice)",
+          "totalProfit = numShirts \u2716\ufe0f (salePrice / wholesaleCost)",
+          "totalProfit = numShirts / (wholesaleCost - salePrice)"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get cookin\u2019 and plug in the lookin\u2019. (plug in the known values) | totalProfit = numShirts \u2716\ufe0f profitPerShirt",
+        "options": [
+          "totalProfit = 300 \u2716\ufe0f 7 (correct answer)",
+          "totalProfit = 300 \u2716\ufe0f 3",
+          "totalProfit = 300 \u2716\ufe0f 4",
+          "totalProfit = 300 \u2716\ufe0f 6"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A bicycle shop sells bikes for $200 each. If the shop has a sale and offers a 10% discount, what is the new price of each bike?",
+    "questions": [
+      {
+        "question": "In a jiffy, let\u2019s make those variables blow. (define and assign variables)",
+        "options": [
+          "originalPrice = 200 | discountRate = 0.1 | salePrice = ___ (correct answer)",
+          "originalPrice = 200 | discountRate = 0.1 | salePrice = 150",
+          "originalPrice = 200 | discountRate = 0.15 | salePrice = 170",
+          "originalPrice = 200 | discountRate = 0.05 | salePrice = 190"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get crazy and set up the problem, daisy.",
+        "options": [
+          "salePrice = originalPrice \u2716\ufe0f (1 - discountRate) (correct answer)",
+          "salePrice = originalPrice \u2716\ufe0f discountRate",
+          "salePrice = originalPrice - discountRate",
+          "salePrice = originalPrice / (1 - discountRate)"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get crackin\u2019 and fill in the brackets. (plug in the known values) | salePrice = originalPrice \u2716\ufe0f (1 - discountRate)",
+        "options": [
+          "salePrice = 200 \u2716\ufe0f (1 - 0.1) (correct answer)",
+          "salePrice = 200 \u2716\ufe0f (0.1)",
+          "salePrice = 200 - (0.1 \u2716\ufe0f 200)",
+          "salePrice = 200 / (1 + 0.1)"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A library has 15 shelves, each containing 30 books. If 20% of the books are checked out, how many books are currently in the library?",
+    "questions": [
+      {
+        "question": "Variable names to amuse, let\u2019s see how it goes. (define and assign variables)",
+        "options": [
+          "totalShelves = 15 | booksPerShelf = 30 | checkedOutRate = 0.2 | booksInLibrary = ___ (correct answer)",
+          "totalShelves = 20 | booksPerShelf = 25 | checkedOutRate = 0.15 | booksInLibrary = 600",
+          "totalShelves = 10 | booksPerShelf = 35 | checkedOutRate = 0.25 | booksInLibrary = 300",
+          "totalShelves = 20 | booksPerShelf = 40 | checkedOutRate = 0.1 | booksInLibrary = 800"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s start with a small puzzle piece.  Let\u2019s get silly and figure out the expression, chilly.",
+        "options": [
+          "totalBooks = totalShelves \u2716\ufe0f booksPerShelf (correct answer)",
+          "totalBooks = totalShelves + booksPerShelf",
+          "totalBooks = totalShelves \u2716\ufe0f booksPerShelf / 2",
+          "totalBooks = totalShelves + booksPerShelf / 2"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "It\u2019s time to shine and fill in the line. (plug in the known values) | totalBooks = totalShelves \u2716\ufe0f booksPerShelf",
+        "options": [
+          "totalBooks = 15 \u2716\ufe0f 30 (correct answer)",
+          "totalBooks = 15 \u2716\ufe0f 25",
+          "totalBooks = 20 \u2716\ufe0f 30",
+          "totalBooks = 10 \u2716\ufe0f 20"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s put it together and make it better. | totalBooks = 15 \u2716\ufe0f 30",
+        "options": [
+          "totalBooks = 450 (correct answer)",
+          "totalBooks = 300",
+          "totalBooks = 600",
+          "totalBooks = 800"
+        ],
+        "hints": [
+          {
+            "description": "[basic double digit multiplication]",
+            "isBought": false
+          },
+          {
+            "description": "[trick with multiplication]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Now we can find the next puzzle piece.  Let\u2019s get crazy and set up the problem, daisy.",
+        "options": [
+          "checkedOutBooks = totalBooks \u2716\ufe0f checkedOutRate (correct answer)",
+          "checkedOutBooks = totalBooks \u2716\ufe0f 0.15",
+          "checkedOutBooks = totalBooks / 2",
+          "checkedOutBooks = totalBooks \u2716\ufe0f 0.3"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Get ready to ride and plug in the side. (plug in the known values) | checkedOutBooks = totalBooks \u2716\ufe0f checkedOutRate",
+        "options": [
+          "checkedOutBooks = 450 \u2716\ufe0f 0.2 (correct answer)",
+          "checkedOutBooks = 45",
+          "checkedOutBooks = 150",
+          "checkedOutBooks = 90 \u2716\ufe0f 0.5"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Get your thinking caps on and solve it \u2018till it\u2019s gone. | checkedOutBooks = 450 \u2716\ufe0f 0.2",
+        "options": [
+          "checkedOutBooks = 90 (correct answer)",
+          "checkedOutBooks = 80",
+          "checkedOutBooks = 85",
+          "checkedOutBooks = 95"
+        ],
+        "hints": []
+      },
+      {
+        "question": "We\u2019re almost there!  One more puzzle piece.  Let\u2019s have a blast and create the formula, real fast.",
+        "options": [
+          "booksInLibrary = totalBooks - checkedOutBooks (correct answer)",
+          "booksInLibrary = totalBooks + checkedOutBooks",
+          "booksInLibrary = totalBooks - 45",
+          "booksInLibrary = checkedOutBooks - totalBooks"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to get tricky and plug in the mickey. (plug in the known values) | booksInLibrary = totalBooks - checkedOutBooks",
+        "options": [
+          "booksInLibrary = 450 - 90 (correct answer)",
+          "booksInLibrary = 375 + 90",
+          "booksInLibrary = 90 / 0.2",
+          "booksInLibrary = 100 / 0.2"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A painter needs to paint a room that has walls with a total area of 500 square feet. If a gallon of paint covers 100 square feet, how many gallons of paint will the painter need?",
+    "questions": [
+      {
+        "question": "Variable names to jive, let\u2019s put on a show. (define and assign variables)",
+        "options": [
+          "wallArea = 500 | coveragePerGallon = 100 | gallonsNeeded = ___ (correct answer)",
+          "wallArea = 400 | coveragePerGallon = 50 | gallonsNeeded = 4",
+          "wallArea = 600 | coveragePerGallon = 150 | gallonsNeeded = 3",
+          "wallArea = 450 | coveragePerGallon = 75 | gallonsNeeded = 6"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get jazzy and set up the problem, so it\u2019s not too hazy.",
+        "options": [
+          "gallonsNeeded = wallArea / coveragePerGallon (correct answer)",
+          "gallonsNeeded = wallArea \u2716\ufe0f coveragePerGallon",
+          "gallonsNeeded = wallArea + coveragePerGallon",
+          "gallonsNeeded = wallArea / coveragePerGallon + 1"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get snazzy and plug in the jazzie. (plug in the known values) | gallonsNeeded = wallArea / coveragePerGallon",
+        "options": [
+          "gallonsNeeded = 500 / 100 (correct answer)",
+          "gallonsNeeded = 500 / 50",
+          "gallonsNeeded = 400 / 100",
+          "gallonsNeeded = 550 / 100"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A rectangular swimming pool is 25 feet long and 15 feet wide. If the pool is filled with water to a depth of 5 feet, what is the volume of the water in the pool in cubic feet?",
+    "questions": [
+      {
+        "question": "It\u2019s equation time, let\u2019s get the numbers to climb (set up the problem)",
+        "options": [
+          "length = 25 | width = 15 | depth = 5 | volume = ___ (correct answer)",
+          "length = 20 | width = 10 | depth = 5 | volume = 1000",
+          "length = 25 | width = 20 | depth = 5 | volume = 2500",
+          "length = 30 | width = 15 | depth = 5 | volume = 2250"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "It\u2019s time to boogie and find out what\u2019s the formula, cutie.",
+        "options": [
+          "volume = length \u2716\ufe0f width \u2716\ufe0f depth (correct answer)",
+          "volume = length + width + depth",
+          "volume = length \u2716\ufe0f width \u2716\ufe0f depth \u2716\ufe0f 2",
+          "volume = length \u2716\ufe0f width \u2716\ufe0f depth / 2"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s make it snappy and plug in the happy. (plug in the known values) | volume = length \u2716\ufe0f width \u2716\ufe0f depth",
+        "options": [
+          "volume = 25 \u2716\ufe0f 15 \u2716\ufe0f 5 (correct answer)",
+          "volume = 20 \u2716\ufe0f 10 \u2716\ufe0f 5",
+          "volume = 25 \u2716\ufe0f 20 \u2716\ufe0f 10",
+          "volume = 30 \u2716\ufe0f 15 \u2716\ufe0f 5"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A car travels 450 miles on a full tank of gas, which holds 15 gallons. What is the car's average fuel efficiency in miles per gallon?",
+    "questions": [
+      {
+        "question": "Let\u2019s cook up variables that steal the show. (define and assign variables)",
+        "options": [
+          "totalMiles = 450 | tankCapacity = 15 | fuelEfficiency = ___ (correct answer)",
+          "totalMiles = 250 | tankCapacity = 10 | fuelEfficiency = 25",
+          "totalMiles = 550 | tankCapacity = 20 | fuelEfficiency = 27.5",
+          "totalMiles = 350 | tankCapacity = 12 | fuelEfficiency = 29.2"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get jiggy and set up the biggie. (set up the problem)",
+        "options": [
+          "fuelEfficiency = totalMiles / tankCapacity (correct answer)",
+          "fuelEfficiency = totalMiles \u2716\ufe0f tankCapacity",
+          "fuelEfficiency = totalMiles - tankCapacity",
+          "fuelEfficiency = totalMiles + tankCapacity"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Get ready to jam and plug in the exam. (plug in the known values) | fuelEfficiency = totalMiles / tankCapacity",
+        "options": [
+          "fuelEfficiency = 450 / 15 (correct answer) | fuelEfficiency = totalMiles / tankCapacity",
+          "fuelEfficiency = 250 / 10",
+          "fuelEfficiency = 550 / 20",
+          "fuelEfficiency = 350 / 12"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A class of 30 students has 18 girls and 12 boys. If a student is randomly selected, what is the probability that the student is a girl?",
+    "questions": [
+      {
+        "question": "Variable names to amuse, let\u2019s see how it goes. (define and assign variables)",
+        "options": [
+          "totalStudents = 30 | girls = 18 | boys = 12 | probabilityGirl = ___ (correct answer)",
+          "totalStudents = 25 | girls = 20 | boys = 10 | probabilityGirl = 0.5",
+          "totalStudents = 35 | girls = 15 | boys = 20 | probabilityGirl = 0.4",
+          "totalStudents = 20 | girls = 16 | boys = 4 | probabilityGirl = 0.8"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to rhyme and set up the problem in no time.",
+        "options": [
+          "probabilityGirl = girls / totalStudents (correct answer)",
+          "probabilityGirl = boys / totalStudents",
+          "probabilityGirl = totalStudents / girls",
+          "probabilityGirl = totalStudents / boys"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get crackin\u2019 and fill in the brackets. (plug in the known values) | probabilityGirl = girls / totalStudents",
+        "options": [
+          "probabilityGirl = 18 / 30 (correct answer)",
+          "probabilityGirl = 0.4",
+          "probabilityGirl = 2/3",
+          "probabilityGirl = 4/5"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A delivery truck has a capacity of 2,000 pounds. If each package weighs 25 pounds, how many packages can the truck carry at a time?",
+    "questions": [
+      {
+        "question": "Time to create variables, in a playful row. (define and assign variables)",
+        "options": [
+          "truckCapacity = 2000 | packageWeight = 25 | maxPackages = ___ (correct answer)",
+          "truckCapacity = 1000 | packageWeight = 25 | maxPackages = ___",
+          "truckCapacity = 2000 | packageWeight = 10 | maxPackages = ___",
+          "truckCapacity = 3000 | packageWeight = 30 | maxPackages = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Start the show, set up the problem and let the solutions flow.",
+        "options": [
+          "maxPackages = truckCapacity / packageWeight (correct answer)",
+          "maxPackages = truckCapacity \u2716\ufe0f packageWeight",
+          "maxPackages = truckCapacity - packageWeight",
+          "maxPackages = truckCapacity + packageWeight"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to get funky and plug in the spunky. (plug in the known values) | maxPackages = truckCapacity / packageWeight",
+        "options": [
+          "maxPackages = 2000 / 25 (correct answer)",
+          "maxPackages = 200 \u2716\ufe0f 25",
+          "maxPackages = 200 / 25",
+          "maxPackages = 250 / 2"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A cylindrical container has a height of 20 centimeters and a radius of 5 centimeters. What is the volume of the container?",
+    "questions": [
+      {
+        "question": "It\u2019s a variable bonanza, let the excitement flow. (define and assign variables)",
+        "options": [
+          "height = 20 | radius = 5 | volume = ___ (correct answer)",
+          "height = 20 | radius = 10 | volume = ___",
+          "height = 10 | radius = 5 | volume = ___",
+          "height = 20 | diameter = 5 | volume = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to party and set it up smarty. (set up the problem)",
+        "options": [
+          "volume = \u03c0 \u2716\ufe0f radius\u00b2 \u2716\ufe0f height (correct answer)",
+          "volume = \u03c0 \u2716\ufe0f radius \u2716\ufe0f height",
+          "height = 5 | radius = 20 | volume = ___",
+          "volume = \u03c0 \u2716\ufe0f (2 \u2716\ufe0f radius) \u2716\ufe0f height"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to get sharp and plug in the harp. (plug in the known values) | volume = \u03c0 \u2716\ufe0f radius\u00b2 \u2716\ufe0f height",
+        "options": [
+          "volume = \u03c0 \u2716\ufe0f (5\u00b2) \u2716\ufe0f 20 (correct answer)",
+          "volume = \u03c0 \u2716\ufe0f (4\u00b2) \u2716\ufe0f 20",
+          "volume = \u03c0 \u2716\ufe0f (6\u00b2) \u2716\ufe0f 20",
+          "volume = \u03c0 \u2716\ufe0f (5\u00b2) \u2716\ufe0f 10"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Grab your thinking cap and let\u2019s zap this equation to its simplest form. | volume = \u03c0 \u2716\ufe0f (5\u00b2) \u2716\ufe0f 20",
+        "options": [
+          "volume = \u03c0 \u2716\ufe0f 25 \u2716\ufe0f 20 (correct answer)",
+          "volume = \u03c0 \u2716\ufe0f 30 \u2716\ufe0f 20",
+          "volume = \u03c0 \u2716\ufe0f 20 \u2716\ufe0f 20",
+          "volume = \u03c0 \u2716\ufe0f 25 \u2716\ufe0f 10"
+        ],
+        "hints": [
+          {
+            "description": "5\u00b2 = 5 \u2716\ufe0f5.  Try solving this part first.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Ready, steady, simplify. | volume = \u03c0 \u2716\ufe0f 25 \u2716\ufe0f 20",
+        "options": [
+          "volume = \u03c0 \u2716\ufe0f 500 (correct answer)",
+          "volume = \u03c0 \u2716\ufe0f 450",
+          "volume = \u03c0 \u2716\ufe0f 550",
+          "volume = \u03c0 \u2716\ufe0f 600"
+        ],
+        "hints": [
+          {
+            "description": "[trick with multiplication]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Calculate the volume using \u03c0 \u2248 3.14 | volume = \u03c0 \u2716\ufe0f 500",
+        "options": [
+          "volume = 3.14 \u2716\ufe0f 500 (correct answer)",
+          "volume = 3.14 \u2716\ufe0f 450",
+          "volume = 3.14 \u2716\ufe0f 550",
+          "volume = 3.14 \u2716\ufe0f 600"
+        ],
+        "hints": [
+          {
+            "description": "It\u2019s common to substitute 3.14 for \u03c0 (\u201cpi\u201d is pronounced like \u201cpie\u201d and its digits go on forever.  We just estimate it.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A store sells a pair of shoes for $80, which is 25% off the original price. What was the original price of the shoes?",
+    "questions": [
+      {
+        "question": "Variable names to amuse, let\u2019s see how it goes. (define and assign variables)",
+        "options": [
+          "salePrice = 80 | discountRate = 0.25 | originalPrice = ___ (correct answer)",
+          "salePrice = 90 | discountRate = 0.25 | originalPrice = ___",
+          "salePrice = 70 | discountRate = 0.25 | originalPrice = ___",
+          "salePrice = 80 | discountRate = 0.2 | originalPrice = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "It\u2019s time to boogie and find out what\u2019s the formula, cutie.",
+        "options": [
+          "originalPrice = salePrice / (1 - discountRate) (correct answer)",
+          "originalPrice = salePrice \u2716\ufe0f (1 - discountRate)",
+          "originalPrice = salePrice + (1 - discountRate)",
+          "originalPrice = salePrice - (1 - discountRate)"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Get ready to explore and plug in the score. (plug in the known values) | originalPrice = salePrice / (1 - discountRate)",
+        "options": [
+          "originalPrice = 80 / (1 - 0.25) (correct answer)",
+          "originalPrice = 80 / (1 - 0.2)",
+          "originalPrice = 80 / (1 - 0.3)",
+          "originalPrice = 80 / (1 - 0.15)"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Problem in disguise? Let\u2019s simplify and uncover its prize. | originalPrice = 80 / (1 - 0.25)",
+        "options": [
+          "originalPrice = 80 / 0.75 (correct answer)",
+          "originalPrice = 80 / 0.8",
+          "originalPrice = 80 / 0.7",
+          "originalPrice = 80 / 0.85"
+        ],
+        "hints": [
+          {
+            "description": "^^Order of operations reminds us to solve the \u201c(1 - 0.25)\u201d part first. | [Order of operations]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A rectangular garden has an area of 300 square meters. If the length of the garden is twice the width, what are the dimensions of the garden?",
+    "questions": [
+      {
+        "question": "It\u2019s a variable party, let the good times roll. (define and assign variables)",
+        "options": [
+          "area = 300 | length = 2 \u2716\ufe0f width | width = ___ (correct answer)",
+          "area = 200 | length = 2 \u2716\ufe0f width | width = ___",
+          "area = 400 | length = 2 \u2716\ufe0f width | width = ___",
+          "area = 300 | length = 3 \u2716\ufe0f width | width = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s have a blast and create the formula, real fast.",
+        "options": [
+          "area = length \u2716\ufe0f width (correct answer)",
+          "area = length + width",
+          "area = length / width",
+          "area = length - width"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to get fly and plug in the high. (plug in the known values) | area = length \u2716\ufe0f width",
+        "options": [
+          "area = (2 \u2716\ufe0f width) \u2716\ufe0f width (correct answer)",
+          "area = (2 \u2716\ufe0f width) + width",
+          "area = (2 \u2716\ufe0f width) / width",
+          "area = (2 \u2716\ufe0f width) - width"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Problem polishing time - let\u2019s simplify and make it sublime. | area = (2 \u2716\ufe0f width) \u2716\ufe0f width",
+        "options": [
+          "300 = 2 \u2716\ufe0f width\u00b2 (correct answer)",
+          "300 = width\u00b2",
+          "300 = 3 \u2716\ufe0f width\u00b2",
+          "300 = 4 \u2716\ufe0f width\u00b2"
+        ],
+        "hints": [
+          {
+            "description": "You can use the distributive property with the variable \u201cwidth\u201d | [Distributive property using 300]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Formula fusion - let\u2019s simplify for a clearer solution. | 300 = 2 \u2716\ufe0f width\u00b2",
+        "options": [
+          "width\u00b2 = 150 (correct answer)",
+          "width\u00b2 = 100",
+          "width\u00b2 = 200",
+          "width\u00b2 = 250"
+        ],
+        "hints": [
+          {
+            "description": "[simplifying an equation through division]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get to the point and solve this joint. | width\u00b2 = 150",
+        "options": [
+          "width = 12.25 (correct answer)",
+          "width = 11",
+          "width = 13",
+          "width = 14"
+        ],
+        "hints": [
+          {
+            "description": "Try taking the square root of both sides",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Now we can find length!  Get ready to rock and set it up, Doc.",
+        "options": [
+          "length = 2 \u2716\ufe0f 12.25 (correct answer)",
+          "length = 2 \u2716\ufe0f 11",
+          "length = 2 \u2716\ufe0f 13",
+          "length = 2 \u2716\ufe0f 14"
+        ],
+        "hints": [
+          {
+            "description": "^^Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A car travels 1500 miles in 24 hours. If the car's average speed is increased by 30 miles per hour, how long will it take to travel 1500 miles?",
+    "questions": [
+      {
+        "question": "Jazzy variables are here, let\u2019s see how they glow. (define and assign variables)",
+        "options": [
+          "distance = 1,500 | time = 24 | speed = ___ | newSpeed = speed + 30 | newTime = ___ (correct answer)",
+          "distance = 1,500 | time = 20 | speed = ___ | newSpeed = speed + 30 | newTime = ___",
+          "distance = 1,500 | time = 24 | speed = ___ | newSpeed = speed + 20 | newTime = ___",
+          "distance = 1,500 | time = 24 | speed = ___ | newSpeed = speed - 30 | newTime = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s start with one puzzle piece.  It\u2019s time to boogie and find out what\u2019s the formula, cutie.",
+        "options": [
+          "speed = distance / time (correct answer)",
+          "speed = distance \u2716\ufe0f time",
+          "speed = distance + time",
+          "speed = distance - time"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to get loose and plug in the goose. (plug in the known values) | speed = distance / time",
+        "options": [
+          "speed = 1,500 / 24 (correct answer)",
+          "speed = 1,500 / 20",
+          "speed = 1,500 / 28",
+          "speed = 1,500 / 30"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s do the math and take a path. You can use a calculator. | speed = 1,500 / 24",
+        "options": [
+          "speed = 62.5 (correct answer)",
+          "speed = 75",
+          "speed = 53.57",
+          "speed = 50"
+        ],
+        "hints": [
+          {
+            "description": "When using a calculator, slowing down might help you avoid silly typing mistakes.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Now we can solve the next puzzle piece.  Rev up the engine and set up the equation.",
+        "options": [
+          "newSpeed = speed + 30 (correct answer)",
+          "newSpeed = speed + 20",
+          "newSpeed = speed + 40",
+          "newSpeed = speed - 30"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to roll and plug in the goal. (plug in the known values) | newSpeed = speed + 30",
+        "options": [
+          "newSpeed = 62.5 + 30 (correct answer)",
+          "newSpeed = 62.5 + 20",
+          "newSpeed = 62.5 + 40",
+          "newSpeed = 62.5 - 30"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s make it snappy and solve this math happy. | newSpeed = 62.5 + 30",
+        "options": [
+          "newSpeed = 92.5 (correct answer)",
+          "newSpeed = 82.5",
+          "newSpeed = 102.5",
+          "newSpeed = 32.5"
+        ],
+        "hints": [
+          {
+            "description": "[double digit addition]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to groove, let\u2019s find the equation and improve.",
+        "options": [
+          "time = distance / speed (correct answer)",
+          "time = distance \u2716\ufe0f speed",
+          "time = distance + speed",
+          "time = distance - speed"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get creative and plug in the narrative. (plug in the known values) | time = distance / speed",
+        "options": [
+          "newTime = 1,500 / 92.5 (correct answer)",
+          "newTime = 1,500 / 80",
+          "newTime = 1,500 / 100",
+          "newTime = 1,500 / 120"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A store sells a jacket for $120, which is 40% off the original price. What was the original price of the jacket?",
+    "questions": [
+      {
+        "question": "Let\u2019s twist and twirl, creating variables in a row. (define and assign variables)",
+        "options": [
+          "originalPrice = ___ | salePrice = 120 | discountRate = 0.4 (correct answer)",
+          "originalPrice = ___ | salePrice = 120 | discountRate = 40",
+          "originalPrice = 120 | salePrice = ___ | discountRate = 0.4",
+          "originalPrice = 120 | salePrice = ___ | discountRate = 40"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "It\u2019s time to set up the problem (let\u2019s solve \u2018em)",
+        "options": [
+          "originalPrice = salePrice + (salePrice \u2716\ufe0f discountRate)",
+          "originalPrice = salePrice / discountRate",
+          "originalPrice = salePrice - (salePrice \u2716\ufe0f discountRate)",
+          "originalPrice = salePrice / (1 - discountRate) (correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Get ready to boogie and plug in the woogie. (plug in the known values) | originalPrice = salePrice + (salePrice \u2716\ufe0f discountRate)",
+        "options": [
+          "originalPrice = 120 / (1 - 0.4) (correct answer)",
+          "originalPrice = 120 / (1 - 40)",
+          "originalPrice = 120 / (1 + 0.4)",
+          "originalPrice = 120 / (1 + 40)"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A company has a budget of $500,000 for advertising. If they have already spent $350,000, what percentage of the budget have they spent?",
+    "questions": [
+      {
+        "question": "Get those variables dancing, toe to toe. (define and assign variables)",
+        "options": [
+          "originalPrice = ___ | salePrice = 90 | discountRate = 0.25 (correct answer)",
+          "originalPrice = ___ | salePrice = 90 | discountRate = 25",
+          "originalPrice = 90 | salePrice = ___ | discountRate = 0.25",
+          "originalPrice = 90 | salePrice = ___ | discountRate = 25"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to groove, let\u2019s find the equation and improve.",
+        "options": [
+          "originalPrice = salePrice + (salePrice \u2716\ufe0f discountRate)",
+          "originalPrice = salePrice / discountRate",
+          "originalPrice = salePrice - (salePrice \u2716\ufe0f discountRate)",
+          "originalPrice = salePrice / (1 - discountRate) (correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Get ready to ride and plug in the side. (plug in the known values) | originalPrice = salePrice + (salePrice \u2716\ufe0f discountRate)",
+        "options": [
+          "originalPrice = 90 / (1 - 0.25) (correct answer)",
+          "originalPrice = 90 / (1 - 25)",
+          "originalPrice = 90 / (1 + 0.25)",
+          "originalPrice = 90 / (1 + 25)"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A car travels 2000 miles in 30 hours. If the car's average speed is increased by 40 miles per hour, how long will it take to travel 2000 miles?",
+    "questions": [
+      {
+        "question": "Time to create variables, in a playful row. (define and assign variables)",
+        "options": [
+          "distance = 2000 | originalTime = 30 | originalSpeed = ___ | increasedSpeed = originalSpeed + 40 | newTime = ___ (correct answer)",
+          "distance = 3000 | originalTime = 30 | originalSpeed = ___ | increasedSpeed = 40 | newTime = ___",
+          "distance = 4000 | originalTime = 20 | originalSpeed = ___ | increasedSpeed = - 40 | newTime = ___",
+          "distance = 1000 | originalTime = 40 | originalSpeed = ___ | increasedSpeed = 40 | newTime = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s start with one piece of the puzzle.  Let\u2019s get jazzy and set up the problem, so it\u2019s not too hazy.",
+        "options": [
+          "originalSpeed = distance / originalTime (correct answer)",
+          "originalSpeed = distance \u2716\ufe0f originalTime",
+          "originalSpeed = distance + originalTime",
+          "originalSpeed = distance - originalTime"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to get loose and plug in the goose. (plug in the known values) | originalSpeed = distance / originalTime",
+        "options": [
+          "originalSpeed = 2000 / 30 (correct answer)",
+          "originalSpeed = 2000 \u2716\ufe0f 30",
+          "originalSpeed = 2000 + 30",
+          "originalSpeed = 2000 - 30"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s give it a whirl and solve this girl. | originalSpeed = 2000 / 30",
+        "options": [
+          "originalSpeed = 66.67 (correct answer)",
+          "originalSpeed = 60",
+          "originalSpeed = 70",
+          "originalSpeed = 75"
+        ],
+        "hints": [
+          {
+            "description": "[trick with division]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Now we can find the next piece of the puzzle.  Let\u2019s have a blast and create the formula, real fast.",
+        "options": [
+          "increasedSpeed = originalSpeed + 40 (correct answer)",
+          "increasedSpeed = originalSpeed - 40",
+          "increasedSpeed = originalSpeed \u2716\ufe0f 40",
+          "increasedSpeed = originalSpeed / 40"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get snazzy and plug in the jazzie. (plug in the known values)",
+        "options": [
+          "increasedSpeed = 66.67 + 40 (correct answer)",
+          "increasedSpeed = 66.67 - 40",
+          "increasedSpeed = 66.67 \u2716\ufe0f 40",
+          "increasedSpeed = 66.67 / 40"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get to the point and solve this joint. | increasedSpeed = 66.67 + 40",
+        "options": [
+          "increasedSpeed = 106.67 (correct answer)",
+          "increasedSpeed = 26.67",
+          "increasedSpeed = 2666.80",
+          "increasedSpeed = 1.67"
+        ],
+        "hints": [
+          {
+            "description": "[double digit addition]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Last puzzle piece!  It\u2019s time to prance and set up the function, let\u2019s dance.",
+        "options": [
+          "time = distance / speed (correct answer)",
+          "time = distance \u2716\ufe0f speed",
+          "time = distance + speed",
+          "time = distance - speed"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get zany and plug in the rainy. (plug in the known values) | time = distance / speed",
+        "options": [
+          "newTime = 2000 / 106.67 (correct answer)",
+          "newTime = 2000 \u2716\ufe0f 106.67",
+          "newTime = 2000 + 106.67",
+          "newTime = 2000 - 106.67"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A circular track has a diameter of 400 meters. If a runner completes 10 laps around the track, how many meters has the runner traveled in total?",
+    "questions": [
+      {
+        "question": "Let\u2019s get peppy and set up the problem, so it\u2019s zippy.",
+        "options": [
+          "diameter = 400 | laps = 10 | totalDistance = ___ (correct answer)",
+          "diameter = 500 | laps = 10 | totalDistance = 500",
+          "diameter = 300 | laps = 25 | totalDistance = ___",
+          "diameter = 450 | laps = 15 | totalDistance = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Start with the first puzzle piece.  It\u2019s time to boogie and find out what\u2019s the formula, cutie.",
+        "options": [
+          "circumference = \u03c0 \u2716\ufe0f diameter (correct answer)",
+          "circumference = \u03c0 \u2716\ufe0f radius\u00b2",
+          "circumference = 2 \u2716\ufe0f \u03c0 \u2716\ufe0f radius",
+          "circumference = \u03c0 \u2716\ufe0f (radius\u00b2) / 2"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Get ready to explore and plug in the score. (plug in the known values) | circumference = \u03c0 \u2716\ufe0f diameter",
+        "options": [
+          "circumference = 400\u03c0 (correct answer)",
+          "circumference = 200\u00b2\u03c0",
+          "circumference = 2 \u2716\ufe0f 200\u03c0",
+          "circumference = (200\u00b2) / 2\u03c0"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Now we can find totalDistance.  Get your groove on and set up the equation, come on.",
+        "options": [
+          "totalDistance = laps \u2716\ufe0f circumference (correct answer)",
+          "totalDistance = laps / circumference",
+          "totalDistance = laps + circumference",
+          "totalDistance = laps - circumference"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Get ready to explore and plug in the score. (plug in the known values) | totalDistance = laps \u2716\ufe0f circumference | circumference = 400\u03c0",
+        "options": [
+          "totalDistance = 10 \u2716\ufe0f 400\u03c0 (correct answer)",
+          "totalDistance = 10 / 400\u03c0",
+          "totalDistance = 10 + 400\u03c0",
+          "totalDistance = 10 - 400\u03c0"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s give it a go and solve this math flow | totalDistance = 10 \u2716\ufe0f 400\u03c0",
+        "options": [
+          "totalDistance = 4000\u03c0 (correct answer)",
+          "totalDistance = 4010\u03c0",
+          "totalDistance = 3900\u03c0",
+          "totalDistance = 4100\u03c0"
+        ],
+        "hints": [
+          {
+            "description": "[trick with multiplication]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Solve using \u03c0 \u2248 3.14 | totalDistance = 4000\u03c0",
+        "options": [
+          "totalDistance \u2248 4000 \u2716\ufe0f 3.14 (correct answer)",
+          "totalDistance \u2248 4010 \u2716\ufe0f 3.14",
+          "totalDistance \u2248 3900 \u2716\ufe0f 3.14",
+          "totalDistance \u2248 4100 \u2716\ufe0f 3.14"
+        ],
+        "hints": [
+          {
+            "description": "It\u2019s common to substitute 3.14 for \u03c0 (\u201cpi\u201d is pronounced like \u201cpie\u201d and its digits go on forever.  We just estimate it.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A company sells a product for $50 per unit, and the cost to produce each unit is $30. If the company sells 1,000 units, what is their gross profit?",
+    "questions": [
+      {
+        "question": "Variable names to amuse, let\u2019s see how it goes. (define and assign variables)",
+        "options": [
+          "pricePerUnit = 50 | costPerUnit = 30 | unitsSold = 1000 | grossProfit = ___ (correct answer)",
+          "height = 20 | radius = 5 | volume = ___",
+          "length = 2 \u2716\ufe0f width | width = ___",
+          "originalPrice = salePrice / (1 - discount rate)"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "It\u2019s time to prance and set up the function, let\u2019s dance.",
+        "options": [
+          "grossProfit = (pricePerUnit - costPerUnit) \u2716\ufe0f unitsSold (correct answer)",
+          "grossProfit = pricePerUnit \u2716\ufe0f unitsSold - costPerUnit \u2716\ufe0f unitsSold",
+          "grossProfit = (pricePerUnit \u2716\ufe0f unitsSold) - costPerUnit",
+          "grossProfit = (pricePerUnit + costPerUnit) \u2716\ufe0f unitsSold"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s make it snappy and plug in the happy. (plug in the known values) | grossProfit = (pricePerUnit - costPerUnit) \u2716\ufe0f unitsSold",
+        "options": [
+          "grossProfit = (50 - 30) \u2716\ufe0f 1000 (correct answer)",
+          "grossProfit = (60 - 30) \u2716\ufe0f 1000",
+          "grossProfit = (50 - 20) \u2716\ufe0f 1000",
+          "grossProfit = (40 - 30) \u2716\ufe0f 1000"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A rectangular field is 150 feet long and 90 feet wide. If the perimeter of the field is fenced, how many feet of fencing are needed?",
+    "questions": [
+      {
+        "question": "Let\u2019s juggle with variables and make it a show. (define and assign variables)",
+        "options": [
+          "length = 150 | width = 90 | perimeter = ___ (correct answer)",
+          "length = 90 | width = 150 | perimeter = ___",
+          "length = 150 | width = ___ | perimeter = 90",
+          "length = ___ | width = 90 | perimeter = 150"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "It\u2019s equation time, let\u2019s get the numbers to climb (set up the problem)",
+        "options": [
+          "perimeter = 2 \u2716\ufe0f (length + width) (correct answer)",
+          "perimeter = length + width",
+          "perimeter = length \u2716\ufe0f width",
+          "perimeter = length / width"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get crackin\u2019 and fill in the brackets. (plug in the known values) | perimeter = 2 \u2716\ufe0f (length + width)",
+        "options": [
+          "perimeter = 2 \u2716\ufe0f (150 + 90) (correct answer)",
+          "perimeter = 2 \u2716\ufe0f (150 \u2716\ufe0f 90)",
+          "perimeter = 2 \u2716\ufe0f (150 - 90)",
+          "perimeter = 2 \u2716\ufe0f (150 / 90)"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A box contains 12 red balls, 8 blue balls, and 5 green balls. If a ball is randomly drawn from the box, what is the probability that it will be a red ball?",
+    "questions": [
+      {
+        "question": "Let\u2019s build variable names like a pro. (define and assign variables)",
+        "options": [
+          "redBalls = 12 | blueBalls = 8 | greenBalls = 5 | totalBalls = ____ | probabilityRed = ___ (correct answer)",
+          "redBalls = 12 | blueBalls = 8 | greenBalls = 5 | totalBalls = redBalls - blueBalls - greenBalls | probabilityRed = ___",
+          "redBalls = 12 | blueBalls = 8 | greenBalls = 5 | totalBalls = redBalls \u2716\ufe0f blueBalls \u2716\ufe0f greenBalls | probabilityRed = ___",
+          "redBalls = 12 | blueBalls = 8 | greenBalls = 5 | totalBalls = redBalls / blueBalls / greenBalls | probabilityRed = ___"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to groove, let\u2019s find the equation and improve.",
+        "options": [
+          "totalBalls = redBalls + blueBalls + greenBalls",
+          "totalBalls = redBalls - blueBalls + greenBalls",
+          "totalBalls = redBalls \u2716\ufe0f blueBalls \u2716\ufe0f greenBalls",
+          "totalBalls = redBalls + blueBalls"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Get ready to ride and plug in the side. (plug in the known values) | totalBalls = redBalls + blueBalls + greenBalls",
+        "options": [
+          "totalBalls = 12 + 8 + 5 (correct answer)",
+          "totalBalls = 12 - 8 - 5",
+          "totalBalls = 12 \u2716\ufe0f 8 \u2716\ufe0f 5",
+          "totalBalls = 12 / 8 / 5"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Now we can solve find probabilityRed.  It\u2019s time to set up the problem (let\u2019s solve \u2018em)",
+        "options": [
+          "probabilityRed = redBalls / totalBalls (correct answer)",
+          "probabilityRed = redBalls \u2716\ufe0f totalBalls",
+          "probabilityRed = redBalls - totalBalls",
+          "probabilityRed = redBalls + totalBalls"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to get fly and plug in the high. (plug in the known values) | probabilityRed = redBalls / totalBalls",
+        "options": [
+          "probabilityRed = 12 / (12 + 8 + 5) (correct answer)",
+          "probabilityRed = 12 / (12 - 8 - 5)",
+          "probabilityRed = 12 / (12 \u2716\ufe0f 8 \u2716\ufe0f 5)",
+          "probabilityRed = 12 / (12 / 8 / 5)"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A triangle has a base of 18 centimeters and a height of 12 centimeters. What is the area of the triangle?",
+    "questions": [
+      {
+        "question": "Let\u2019s paint the town with variables, from head to toe. (define and assign variables)",
+        "options": [
+          "base = 18 | height = 12 | area = ___ (correct answer)",
+          "base = 12 | height = 18 | area = ___",
+          "base = 18 | height = ___ | area = 12",
+          "base = ___ | height = 12 | area = 18"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like containers that hold numbers.  They help us create and recall formulas.  A good variable name is easy to remember. [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get funky and see the equation, monkey. (set up the problem)",
+        "options": [
+          "area = 0.5 \u2716\ufe0f base \u2716\ufe0f height (correct answer)",
+          "area = base \u2716\ufe0f height",
+          "area = base + height",
+          "area = base / height"
+        ],
+        "hints": [
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s get zany and plug in the rainy. (plug in the known values) | area = 0.5 \u2716\ufe0f base \u2716\ufe0f height",
+        "options": [
+          "area = 0.5 \u2716\ufe0f 18 \u2716\ufe0f 12 (correct answer)",
+          "area = 0.5 \u2716\ufe0f 12 \u2716\ufe0f 18",
+          "area = 18 \u2716\ufe0f 12",
+          "area = 18 / 12"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [Fun equation showing how variables can be used like numbers]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s take a dive and solve this math five | area = 0.5 \u2716\ufe0f 18 \u2716\ufe0f 12",
+        "options": [
+          "area = 108 (correct answer)",
+          "area = 96",
+          "area = 216",
+          "area = 1.5"
+        ],
+        "hints": [
+          {
+            "description": "[basic double digit multiplication]",
+            "isBought": false
+          },
+          {
+            "description": "0.5 \u2716\ufe0f 18 = 18 / 2.  Multiplying anything by 0.5 is the same as dividing it by 2.",
+            "isBought": false
+          },
+          {
+            "description": "When multiplying (or dividing) 3+ numbers, order doesn\u2019t matter.  You can rearrange this to \u201c0.5 \u2716\ufe0f 12 \u2716\ufe0f 18\u201d if you want.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  }
+]

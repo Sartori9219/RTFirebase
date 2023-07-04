@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why is my dating app suggesting I date a penguin?!",
+        "Sounds like someone tweaked the algorithm to make your love life a bit more... Antarctic!"
+      ],
+      "options": [
+        "Algorithms (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My GPS led me straight into a pizza shop. Not my home!",
+        "Well, maybe the algorithm assumed you'd be hungry after your journey. Pizza first, home second!"
+      ],
+      "options": [
+        "Algorithms (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my music app keep suggesting songs about cheese?",
+        "You must have listened to 'Sweet dreams are made of cheese' too many times. The algorithm is now convinced you're a cheese music connoisseur!"
+      ],
+      "options": [
+        "Algorithms (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My closet is like a Stack. The last shirt I put in is the first one I take out.",
+        "That's the LIFO (Last In First Out) principle in action. Your closet is a real-life data structure!"
+      ],
+      "options": [
+        "Data Structures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I keep my books in a tree-like structure. It starts with genres, then authors, and finally titles.",
+        "Sounds like your library has a Binary Tree data structure, so finding a book is as easy as a preorder traversal!"
+      ],
+      "options": [
+        "Data Structures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My shopping list is like a Queue. The first item I wrote down is the first one I'll buy.",
+        "Ah, FIFO (First In First Out) - the principle that keeps the grocery line moving and your shopping list organized!"
+      ],
+      "options": [
+        "Data Structures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think my brain is like a CPU. It processes all my thoughts and actions.",
+        "Just remember, unlike a CPU, you can't overclock your brain without consequences."
+      ],
+      "options": [
+        "Computer Architecture (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish my memory was as good as a computer's RAM.",
+        "Just be careful what you wish for. RAM loses all its data when the power goes off!"
+      ],
+      "options": [
+        "Computer Architecture (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My room is a mess, just like a fragmented hard drive.",
+        "Sounds like you need a good defragmentation, or maybe a room clean-up algorithm!"
+      ],
+      "options": [
+        "Computer Architecture (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I feel like I'm an operating system sometimes, always multitasking!",
+        "Just don't end up crashing like a Windows Blue Screen."
+      ],
+      "options": [
+        "Operating Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is it that whenever I clean my room, it just gets messy again?",
+        "Sounds like your room needs a better memory management system!"
+      ],
+      "options": [
+        "Operating Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cat seems to have a monopoly on my attention.",
+        "Ah, so your cat runs a single-user, single-tasking system. Got it."
+      ],
+      "options": [
+        "Operating Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just communicate telepathically like in the movies?",
+        "I think we already do... it's called the internet."
+      ],
+      "options": [
+        "Computer Networks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My love for pizza is like a Wi-Fi signal, always there but stronger when closer to the source.",
+        "So, your heart is like a router for love?"
+      ],
+      "options": [
+        "Computer Networks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I feel like I'm a server, and my friends are clients always asking for services.",
+        "Welcome to the world of client-server relationships!"
+      ],
+      "options": [
+        "Computer Networks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think programming is like cooking. You combine different ingredients following a recipe to get the final dish.",
+        "That's a perfect analogy for software engineering, but remember, just like in cooking, sometimes the dish doesn't turn out as expected!"
+      ],
+      "options": [
+        "Software Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been debugging my code for hours, and it turns out I forgot a semicolon.",
+        "Ah, the eternal struggle of a software engineer, brought down by a single character!"
+      ],
+      "options": [
+        "Software Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've just realized, a software engineer is like a magician who transforms caffeine into functioning software.",
+        "Haha, I guess you could say that. But remember, a good software engineer doesn't just make software 'function'; they make it efficient and user-friendly."
+      ],
+      "options": [
+        "Software Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Learning a new programming language feels like learning to ride a bike all over again.",
+        "Yes, but once you get the hang of it, you'll be cruising down the code street in no time!"
+      ],
+      "options": [
+        "Programming Languages (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to decide whether to learn Python or JavaScript next. Any advice?",
+        "Well, it's like choosing between pizza and pasta. They're both delicious, but they serve different purposes."
+      ],
+      "options": [
+        "Programming Languages (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If programming languages were musicians, I'd say Python is like Mozart - elegant and powerful.",
+        "Haha, and JavaScript must be like rock and roll then - everywhere and constantly evolving!"
+      ],
+      "options": [
+        "Programming Languages (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I feel like I'm playing a never-ending game of whack-a-mole with these computer viruses.",
+        "That's cybersecurity for you! Except the moles are trying to steal your data."
+      ],
+      "options": [
+        "Cybersecurity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My password is password123. That's secure, right?",
+        "As secure as a bank vault made of cardboard!"
+      ],
+      "options": [
+        "Cybersecurity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ever since I installed that new antivirus, my computer is safer than a turtle in its shell.",
+        "Just remember, even turtles occasionally poke their heads out!"
+      ],
+      "options": [
+        "Cybersecurity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think if I stored all my recipes in a database, I could call myself a 'data chef'?",
+        "Only if you can query for the perfect spaghetti bolognese."
+      ],
+      "options": [
+        "Database Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My book collection is so big, I think I need a database to keep track.",
+        "That's one way to create your own 'stack' overflow!"
+      ],
+      "options": [
+        "Database Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just lost my shopping list. It was a real masterpiece.",
+        "Should've stored it in a database. They're great for backing up masterpieces."
+      ],
+      "options": [
+        "Database Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't believe my coffee maker knows when to start brewing coffee in the morning!",
+        "That's the magic of embedded systems. They're the real 'grounds' for our modern conveniences."
+      ],
+      "options": [
+        "Embedded Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My car just told me my tire pressure is low. How does it know?",
+        "It's all in the embedded systems. They keep us 'pumped' up with information!"
+      ],
+      "options": [
+        "Embedded Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard the new gaming console has an embedded system that makes it really fast.",
+        "Yeah, it really 'embeds' the competition."
+      ],
+      "options": [
+        "Embedded Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I told my phone to set a reminder for my mom's birthday and it did!",
+        "Sounds like you're getting the 'artificial' hand of this Intelligence thing."
+      ],
+      "options": [
+        "Artificial Intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My car just parallel parked itself. It's like it has a mind of its own!",
+        "Artificial Intelligence, my friend. It's like a 'parking lot' of possibilities."
+      ],
+      "options": [
+        "Artificial Intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My home assistant just ordered pizza for me. This is the future!",
+        "That's Artificial Intelligence for you. It's 'dough' good at multitasking."
+      ],
+      "options": [
+        "Artificial Intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I showed my computer a bunch of cat pictures, and now it recognizes cats!",
+        "Your computer is 'purr-fectly' trained! Machine Learning at its finest."
+      ],
+      "options": [
+        "Machine Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My computer can beat me at chess now, and I didn't even program the moves!",
+        "Well, it's 'checkmate' for you then! Sounds like Machine Learning."
+      ],
+      "options": [
+        "Machine Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My phone suggested a route home without traffic, even before I asked!",
+        "It's 'driving' towards Machine Learning. Predicting your moves before you make them."
+      ],
+      "options": [
+        "Machine Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just made a 3D model of a dragon on my computer!",
+        "That's fiery! You're 'blazing' through Computer Graphics."
+      ],
+      "options": [
+        "Computer Graphics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I created a virtual tour of our college campus!",
+        "That's 'virtually' amazing! It's all about Computer Graphics."
+      ],
+      "options": [
+        "Computer Graphics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been creating animations for my new game!",
+        "Game on! You're 'animating' your way into Computer Graphics."
+      ],
+      "options": [
+        "Computer Graphics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just designed a new app interface, it's so intuitive even my grandma can use it without help!",
+        "Wow, you're really mastering this Human-Computer Interaction thing."
+      ],
+      "options": [
+        "Human-Computer Interaction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm developing a new software. It should be easy to use and accessible for everyone!",
+        "Sounds like you're focusing on Human-Computer Interaction. That's awesome!"
+      ],
+      "options": [
+        "Human-Computer Interaction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I created a new VR game where you can feel the wind and even smell the flowers!",
+        "That's a whole new level of Human-Computer Interaction!"
+      ],
+      "options": [
+        "Human-Computer Interaction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to model the entire galaxy's star formation on my laptop. It's taking forever!",
+        "You need some High Performance Computing in your life!"
+      ],
+      "options": [
+        "High Performance Computing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when we used to wait for hours to render one frame of animation?",
+        "Oh yeah, High Performance Computing changed the game!"
+      ],
+      "options": [
+        "High Performance Computing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I cracked the code! I simulated a whole protein folding process in real-time!",
+        "Wow, the power of High Performance Computing!"
+      ],
+      "options": [
+        "High Performance Computing (correct answer)"
+      ]
+    }
+  ]
+}

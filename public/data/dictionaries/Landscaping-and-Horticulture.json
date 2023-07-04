@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Soil composition",
+        "Plant selection",
+        "Garden design",
+        "Irrigation techniques",
+        "Pest management",
+        "Pruning and trimming",
+        "Fertilization",
+        "Lawn care",
+        "Mulching",
+        "Composting",
+        "Landscape lighting",
+        "Hardscaping",
+        "Plant propagation",
+        "Seasonal maintenance",
+        "Water features"
+    ],
+    "hints": {
+        "Soil composition": "Understanding the different types of soil and their properties, like texture, pH, and nutrient content, for optimal plant growth.",
+        "Plant selection": "Choosing the right plants for specific areas, considering factors like sunlight, climate, and available space.",
+        "Garden design": "Creating visually appealing outdoor spaces using plants, hardscape elements, and other features.",
+        "Irrigation techniques": "Learning different methods to efficiently water plants, such as drip systems, sprinklers, and soaker hoses.",
+        "Pest management": "Identifying common garden pests and implementing strategies to control or prevent them without harming the environment.",
+        "Pruning and trimming": "Properly cutting back plants to maintain their health, promote growth, and improve their appearance.",
+        "Fertilization": "Applying nutrients to plants to enhance their growth, flowering, and fruit production.",
+        "Lawn care": "Maintaining healthy lawns through mowing, watering, fertilizing, and addressing common issues like weeds, pests, and diseases.",
+        "Mulching": "Using organic or inorganic materials to cover the soil surface to conserve moisture, suppress weeds, and regulate soil temperature.",
+        "Composting": "Recycling organic waste into a nutrient-rich soil amendment to improve garden and landscape soil quality.",
+        "Landscape lighting": "Installing and maintaining outdoor lighting to enhance the beauty, safety, and usability of landscape spaces.",
+        "Hardscaping": "Incorporating non-living elements like pathways, walls, patios, and decks into landscape design.",
+        "Plant propagation": "Learning techniques to create new plants from seeds, cuttings, or other plant parts.",
+        "Seasonal maintenance": "Understanding and performing necessary tasks to maintain a landscape throughout the year, such as leaf removal, winterizing, and spring clean-up.",
+        "Water features": "Designing, installing, and maintaining ponds, fountains, and other water elements in a landscape setting."
+    }
+}

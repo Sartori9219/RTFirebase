@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Land Use Planning",
+        "Zoning Regulations",
+        "Urban Design",
+        "Sustainable Development",
+        "Public Transportation",
+        "Walkability",
+        "Mixed-Use Development",
+        "Green Spaces and Parks",
+        "Historic Preservation",
+        "Affordable Housing",
+        "Smart Growth",
+        "Urban Redevelopment",
+        "Infrastructure Planning",
+        "Bicycle Infrastructure",
+        "Environmental Impact Assessments"
+    ],
+    "hints": {
+        "Land Use Planning": "The process of determining the best use for different areas of a city, such as residential, commercial, or industrial.",
+        "Zoning Regulations": "Rules that govern how land can be used in specific areas, including building height, density, and permitted uses.",
+        "Urban Design": "The arrangement, appearance, and functionality of buildings, public spaces, and other elements in a city.",
+        "Sustainable Development": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+        "Public Transportation": "Systems like buses, trains, and subways that provide affordable and efficient transportation for urban residents.",
+        "Walkability": "The extent to which a city is pedestrian-friendly, with safe sidewalks, crosswalks, and accessible destinations.",
+        "Mixed-Use Development": "A combination of residential, commercial, and other uses within the same building or neighborhood, promoting walkability and reducing car dependency.",
+        "Green Spaces and Parks": "Open areas within a city that provide recreational opportunities, improve air quality, and support biodiversity.",
+        "Historic Preservation": "Protecting and maintaining buildings and sites with historical, cultural, or architectural significance.",
+        "Affordable Housing": "Ensuring that adequate, safe, and affordable housing is available to all residents, regardless of income level.",
+        "Smart Growth": "An approach to urban planning that promotes compact, mixed-use development, walkability, and public transportation to reduce sprawl and environmental impact.",
+        "Urban Redevelopment": "The process of revitalizing and repurposing underused or deteriorating urban areas to improve quality of life and economic opportunities.",
+        "Infrastructure Planning": "The design, construction, and maintenance of public facilities such as roads, bridges, water supply, and sewer systems.",
+        "Bicycle Infrastructure": "The development of bike lanes, trails, and other facilities that promote and support cycling as a mode of transportation.",
+        "Environmental Impact Assessments": "Evaluating the potential environmental consequences of proposed development projects and identifying strategies to mitigate negative impacts."
+    }
+}

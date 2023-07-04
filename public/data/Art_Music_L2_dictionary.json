@@ -1,0 +1,418 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why was the piano laughing?",
+        "Because the violin's high pitch tickled its ivories!"
+      ],
+      "options": [
+        "Pitch (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If a cat played a trumpet, what would it sound like?",
+        "Probably a high-pitched purr-formance!"
+      ],
+      "options": [
+        "Pitch (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do a dancing octopus and music have in common?",
+        "They both need rhythm to keep their moves groovy!"
+      ],
+      "options": [
+        "Rhythm (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If a song was a sandwich, what would be the main ingredient?",
+        "The melody, of course! It's the tastiest part of the tune!"
+      ],
+      "options": [
+        "Melody (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when a choir of robots sing together?",
+        "A harmonious blend of futuristic voices!"
+      ],
+      "options": [
+        "Harmony (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the music notes start a game of hide and seek?",
+        "pianissimo hiding and forte seeking!"
+      ],
+      "options": [
+        "Dynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If a turtle conducted an orchestra, what would the music sound like?",
+        "A slow and steady tempo, perfect for a leisurely waltz!"
+      ],
+      "options": [
+        "Tempo (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the trombone go to speech therapy?",
+        "It wanted to improve its articulation for smoother, clearer notes!"
+      ],
+      "options": [
+        "Articulation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How is a piece of music like building a LEGO castle?",
+        "Both need a solid form and structure to create something amazing!"
+      ],
+      "options": [
+        "Form (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the difference between a duck playing a violin and a pro violinist?",
+        "Their timbre! One sounds quacky, while the other is smooth and elegant!"
+      ],
+      "options": [
+        "Timbre (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the musical secret to unlocking a treasure chest?",
+        "The right key signature! It sets the mood for the whole adventure!"
+      ],
+      "options": [
+        "Key signature (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do musicians know when it's time for a dance party?",
+        "The time signature tells them how to move and groove to the beat!"
+      ],
+      "options": [
+        "Time signature (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the quarter note feel left out at the music note party?",
+        "The whole notes and half notes were hogging all the time!"
+      ],
+      "options": [
+        "Note values (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do musical notes do when they need a break?",
+        "They take a rest! It's a silent moment in the music."
+      ],
+      "options": [
+        "Rest values (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the treble clef want to be a detective?",
+        "To help musicians solve the mysteries of musical symbols!"
+      ],
+      "options": [
+        "Musical symbols (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the musical equivalent of a high jump competition?",
+        "Intervals! It's all about the distance between pitches."
+      ],
+      "options": [
+        "Intervals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the music notes go on a hike?",
+        "They wanted to practice climbing up and down scales!"
+      ],
+      "options": [
+        "Scales (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a musical family reunion?",
+        "A chord! All the related notes come together in harmony."
+      ],
+      "options": [
+        "Chords (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's a musician's favorite type of triangle?",
+        "A triad! It's a three-note chord with perfect harmony."
+      ],
+      "options": [
+        "Triads (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If a melody was a storybook, what would its sentences be?",
+        "Musical phrases, weaving together to create a beautiful tale!"
+      ],
+      "options": [
+        "Phrases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do musical notes wear to a costume party?",
+        "Their favorite motifs! It's a recurring theme in their outfits."
+      ],
+      "options": [
+        "Motifs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Which musical note loves to relax at the spa?",
+        "A whole note! It loves to take its time and enjoy the moment."
+      ],
+      "options": [
+        "Whole notes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you divide a whole note in half?",
+        "A half note, of course! It's twice as fast but still smooth and steady."
+      ],
+      "options": [
+        "Half notes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the quarter note join a sports team?",
+        "It wanted to show off its quick moves and agility!"
+      ],
+      "options": [
+        "Quarter notes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Which musical notes are the best at tap dancing?",
+        "Eighth notes! They're quick on their feet and full of energy."
+      ],
+      "options": [
+        "Eighth notes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a group of musical notes who are always in a hurry?",
+        "Sixteenth notes! They're the fastest notes in town."
+      ],
+      "options": [
+        "Sixteenth notes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If a melody was a sunny day, what kind of scale would it be?",
+        "A major scale, bringing bright and cheerful sounds to the music!"
+      ],
+      "options": [
+        "Major scale (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's a musician's favorite type of scale on a rainy day?",
+        "A minor scale! It sets the mood with its mysterious and melancholic tones."
+      ],
+      "options": [
+        "Minor scale (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What type of musical scale is perfect for a five-star performance?",
+        "The pentatonic scale, with its five-note simplicity and versatility!"
+      ],
+      "options": [
+        "Pentatonic scale (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What kind of chord has a spooky Halloween vibe?",
+        "A diminished chord! It adds suspense and tension to the music."
+      ],
+      "options": [
+        "Diminished chord (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you mix a chord with a little extra magic?",
+        "An augmented chord! It creates a dreamy and mysterious sound."
+      ],
+      "options": [
+        "Augmented chord (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the drummer join a marching band?",
+        "To keep everyone in rhythm and step to the beat!"
+      ],
+      "options": [
+        "Rhythm (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's a pirate's favorite musical element?",
+        "Rhythm, matey! They love to tap their peg-legs to the beat!"
+      ],
+      "options": [
+        "Rhythm (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you combine a bunch of musical notes in a row?",
+        "A melody! It's like a musical journey through sound."
+      ],
+      "options": [
+        "Melody (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the melody go on a rollercoaster?",
+        "To experience the ups and downs of its musical adventure!"
+      ],
+      "options": [
+        "Melody (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the musical notes start a band?",
+        "To create beautiful harmonies and make music together!"
+      ],
+      "options": [
+        "Harmony (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If a melody was the main character of a story, who would be its sidekick?",
+        "Harmony! It supports and complements the melody throughout the tale."
+      ],
+      "options": [
+        "Harmony (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the pianist start an exercise program?",
+        "To improve their dynamics and give a powerful performance!"
+      ],
+      "options": [
+        "Dynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a musician who's always running late?",
+        "They're \"tempo-rarily\" offbeat, but they'll catch up soon!"
+      ],
+      "options": [
+        "Tempo (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the metronome go to a party?",
+        "To set the tempo and keep everyone dancing on time!"
+      ],
+      "options": [
+        "Tempo (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the saxophone go to elocution lessons?",
+        "To fine-tune its articulation for a smooth performance!"
+      ],
+      "options": [
+        "Articulation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How is a piece of music like a sandwich?",
+        "Both have a form that holds all the delicious layers together!"
+      ],
+      "options": [
+        "Form (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the music notes build a house?",
+        "To create a solid form for their musical masterpiece!"
+      ],
+      "options": [
+        "Form (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the difference between a dog playing a piano and a concert pianist?",
+        "Their timbre! One has a \"ruff\" touch, while the other is polished and refined."
+      ],
+      "options": [
+        "Timbre (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the music notes go on a treasure hunt?",
+        "They were searching for the perfect key signature to unlock a musical masterpiece!"
+      ],
+      "options": [
+        "Key signature (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's a musician's favorite type of map?",
+        "A key signature! It guides them through the musical landscape."
+      ],
+      "options": [
+        "Key signature (correct answer)"
+      ]
+    }
+  ]
+}

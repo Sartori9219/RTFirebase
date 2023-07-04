@@ -1,0 +1,497 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why did you just buy 100 tacos?",
+        "Well, my stomach was growling, and I thought it might stimulate the taco stand's economy."
+      ],
+      "options": [
+        "Demand-Side Economics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I see you're installing a new swimming pool.",
+        "Yep! My purchase will keep the pool company in business, and they'll buy more cement, which keeps the cement factory going..."
+      ],
+      "options": [
+        "Demand-Side Economics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you buying another video game? You haven't even finished the last one.",
+        "It's all about demand-side economics. By buying this game, I'm creating demand, which helps the gaming industry thrive."
+      ],
+      "options": [
+        "Demand-Side Economics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you buying all the concert tickets in town?",
+        "I am just trying to support all these bands, you know, stimulating demand for their music."
+      ],
+      "options": [
+        "Demand-Side Economics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You're buying another pair of shoes? You have so many already!"
+      ],
+      "options": [
+        "Demand-Side Economics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I see you're buying a lot of local artwork.",
+        "Yes, by purchasing this art, I'm creating demand which supports these local artists and their craft."
+      ],
+      "options": [
+        "Demand-Side Economics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you buying all the board games in the store?",
+        "I'm the government in our Monopoly game, investing in recreation to stimulate our pretend economy!"
+      ],
+      "options": [
+        "Government Spending (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did you buy the entire candy store?",
+        "Just doing my part as a candy government, investing in sugar infrastructure. You know, Keynesian stuff!"
+      ],
+      "options": [
+        "Government Spending (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you just buy all the dogs from the shelter?",
+        "Yes, as the government of our household, I decided to invest in happiness. Plus, we're going to need a lot of dog food."
+      ],
+      "options": [
+        "Government Spending (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bought one ice cream cone, and now the entire town has one!",
+        "Sounds like a delicious version of the multiplier effect!"
+      ],
+      "options": [
+        "The Multiplier Effect (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I put one dollar in the vending machine, and it gave me four drinks!",
+        "Hmm, an economic phenomenon in action - the vending machine multiplier effect!"
+      ],
+      "options": [
+        "The Multiplier Effect (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I told one joke in class, and now the entire school is laughing!",
+        "That's the power of the multiplier effect. You should consider a career in stand-up!"
+      ],
+      "options": [
+        "The Multiplier Effect (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are all the dogs in our neighborhood busy with a job?",
+        "I guess they took the Keynesian principle of full employment a bit too literally!"
+      ],
+      "options": [
+        "Full Employment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It seems every single ant in this colony has a job. Even the baby ants are sorting leaves!",
+        "That's some impressive full employment. Keynes would be proud!"
+      ],
+      "options": [
+        "Full Employment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cat just got a job as a professional napper.",
+        "Sounds like your cat is contributing to full employment in her own unique way!"
+      ],
+      "options": [
+        "Full Employment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know, I'm not sure I understand why my dog always chooses his water dish over his chew toy.",
+        "Well, it's simple. He's demonstrating liquidity preference. He values the water (liquidity) over the chew toy (illiquid asset)!"
+      ],
+      "options": [
+        "Liquidity Preference (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my toddler always choose the juice box over the toy car?"
+      ],
+      "options": [
+        "Liquidity Preference (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend always keeps more cash than he needs. Why's that?",
+        "It's liquidity preference! He prefers having cash on hand (liquid) rather than investing all of it (less liquid)."
+      ],
+      "options": [
+        "Liquidity Preference (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did my lemonade stand business fail when I have so many lemons?",
+        "Well, Say's Law might answer that. Just because you supply a lot of lemons doesn't mean the demand magically appears!"
+      ],
+      "options": [
+        "Say's Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've baked so many cookies but no one is buying them. What's wrong?",
+        "It seems like Say's Law is at work. You thought supply creates its own demand, didn't you?"
+      ],
+      "options": [
+        "Say's Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I produced a thousand shoes, but no one is buying!",
+        "Looks like you misunderstood Say's Law! Supply doesn't always create its own demand."
+      ],
+      "options": [
+        "Say's Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are roller coasters so fun?",
+        "Probably because they're like the business cycle. Ups, downs, and inevitable screams!"
+      ],
+      "options": [
+        "Business Cycle Theory (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My lemonade stand sales are plummeting! What's happening?",
+        "Sounds like your lemonade stand is experiencing its own little recession. It's just a part of the business cycle!"
+      ],
+      "options": [
+        "Business Cycle Theory (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "First I was making loads of money, now I'm losing it. What's going on?",
+        "Welcome to the business cycle! The tides of economy are a-changing."
+      ],
+      "options": [
+        "Business Cycle Theory (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish I had a magic wand to control the price of ice cream.",
+        "Sounds like you want to be in charge of the 'Ice Cream Monetary Policy'!"
+      ],
+      "options": [
+        "Monetary Policy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the bank suddenly decrease interest rates?",
+        "Probably because they're trying to encourage more people to take loans and spend. It's part of their monetary policy!"
+      ],
+      "options": [
+        "Monetary Policy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the big deal about changing the money supply anyway?",
+        "Well, imagine if there was more money than ice cream. The price of ice cream would shoot up! That's why monetary policy matters."
+      ],
+      "options": [
+        "Monetary Policy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the government suddenly want to build more parks and bridges?",
+        "They're likely trying to stimulate the economy by spending money. It's called fiscal policy!"
+      ],
+      "options": [
+        "Fiscal Policy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard the government is cutting taxes. Why?",
+        "It's part of their fiscal policy. By cutting taxes, they hope people will have more money to spend, boosting the economy!"
+      ],
+      "options": [
+        "Fiscal Policy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The government is spending more money on education. What's up with that?",
+        "They're using fiscal policy to invest in the future. Educated people can create new businesses and jobs!"
+      ],
+      "options": [
+        "Fiscal Policy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My boss hasn't increased my salary for two years now!",
+        "Sounds like a classic case of wage rigidity. Even if your productivity has increased, your wage hasn't!"
+      ],
+      "options": [
+        "Price and Wage Rigidity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why doesn't the price of milk change, even when there's a bumper harvest of dairy cows?",
+        "It's due to price rigidity. The market doesn't always adjust prices quickly in response to supply and demand changes!"
+      ],
+      "options": [
+        "Price and Wage Rigidity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why hasn't the price of my favorite book dropped even though it was published years ago?",
+        "That's price rigidity for you. Sometimes prices can be sticky and don't adjust as quickly as we'd like!"
+      ],
+      "options": [
+        "Price and Wage Rigidity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to buy a house, but the interest rates on loans are so high right now!",
+        "Well, higher interest rates can be a bummer. But on the flip side, they're great if you're saving money in a bank!"
+      ],
+      "options": [
+        "Interest Rates (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just got a new credit card, and the interest rate is 20%! Is that good or bad?",
+        "I hate to break it to you, but that's pretty high. You'll want to pay off your balance in full each month to avoid those interest charges."
+      ],
+      "options": [
+        "Interest Rates (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard the central bank is lowering interest rates. What does that mean for me?",
+        "Lower interest rates can make it cheaper for you to borrow money. It's like a sale on the price of money!"
+      ],
+      "options": [
+        "Interest Rates (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to buy a house, but the interest rates on loans are so high right now!",
+        "Well, higher interest rates can be a bummer. But on the flip side, they're great if you're saving money in a bank!"
+      ],
+      "options": [
+        "Interest Rates (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just got a new credit card, and the interest rate is 20%! Is that good or bad?",
+        "I hate to break it to you, but that's pretty high. You'll want to pay off your balance in full each month to avoid those interest charges."
+      ],
+      "options": [
+        "Interest Rates (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My new rubber boots are so bouncy!",
+        "That's because they're made from rubber, a type of polymer that's known for its elasticity."
+      ],
+      "options": [
+        "Polymers (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking of starting a collection of chains, all sorts, from gold to bicycle chains.",
+        "Don't forget to include polymers, they're the ultimate chain collection!"
+      ],
+      "options": [
+        "Polymers (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to build a sandcastle, but it just keeps falling apart!",
+        "Maybe you should try making a castle out of metal instead. They're usually more structurally sound!"
+      ],
+      "options": [
+        "Metals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just got my haircut and it feels so light and bouncy!",
+        "Ah, the joys of not having a head full of metal!"
+      ],
+      "options": [
+        "Metals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been trying to melt this chocolate bar for an hour now and it's still not melting!",
+        "Are you sure that's not a metal bar you're trying to melt? They usually require higher temperatures."
+      ],
+      "options": [
+        "Metals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking of buying this fancy new phone, but it's so expensive!",
+        "Well, if you've been saving your money like a squirrel hoarding acorns for winter, you might just have enough!"
+      ],
+      "options": [
+        "Role of Savings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to go on a vacation, but I can't afford it right now.",
+        "Sounds like you need a piggy bank, my friend. Nothing like good old savings for those impromptu trips!"
+      ],
+      "options": [
+        "Role of Savings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm feeling so down, I think I need some retail therapy.",
+        "Remember, your savings account isn't a mood-lifting device!"
+      ],
+      "options": [
+        "Role of Savings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is this candy bar so expensive? It was half this price last year!",
+        "Well, that's inflation for you. It's like the growing pains of the economy!"
+      ],
+      "options": [
+        "Inflation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I remember when a movie ticket was just $5.",
+        "And I remember when dinosaurs roamed the earth! Inflation, my friend, inflation."
+      ],
+      "options": [
+        "Inflation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My grandma gave me a $10 bill for my birthday. I can't buy much with this.",
+        "Blame inflation, it's the silent party crasher!"
+      ],
+      "options": [
+        "Inflation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just can't find a Goldilocks zone for my popcorn. It's either burnt or undercooked!",
+        "Sounds like you need to find your popcorn's economic equilibrium - not too hot, not too cold, just right!"
+      ],
+      "options": [
+        "Economic Equilibrium (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My lemonade stand isn't doing so well. I can't sell my lemonade for more than a dollar, but I can't make any profit if I sell it for less!",
+        "Sounds like you need to find your lemonade stand's economic equilibrium. You know, the sweet spot where supply meets demand!"
+      ],
+      "options": [
+        "Economic Equilibrium (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've got so many socks, but only two feet. What's a guy to do?",
+        "Ah, the classic sock equilibrium problem. You need to balance your sock supply with your foot demand!"
+      ],
+      "options": [
+        "Economic Equilibrium (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm opening a lemonade stand. But there are already 3 in our neighborhood!",
+        "That's the spirit of free market capitalism. May the best lemonade win!"
+      ],
+      "options": [
+        "Free Market Capitalism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't decide what to sell at the fair, cookies or muffins?",
+        "Why not both? Let the customers decide. That's free market capitalism!"
+      ],
+      "options": [
+        "Free Market Capitalism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's so hard to choose a phone these days. So many options!",
+        "That's a free market for you. Competition leads to innovation!"
+      ],
+      "options": [
+        "Free Market Capitalism (correct answer)"
+      ]
+    }
+  ]
+}

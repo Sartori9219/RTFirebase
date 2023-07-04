@@ -1,0 +1,340 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Imagine if neurons were like a busy post office, sending messages all over the body.",
+        "Yeah, and instead of mail, it's sending zappy electrical signals - 'you've got shock!'"
+      ],
+      "options": [
+        "Neurons (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that our brain's like a city with billions of residents.",
+        "Yeah, and every resident is a neuron chatting up a storm with their neighbors!"
+      ],
+      "options": [
+        "Neurons (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If neurons were in a band, they'd probably call themselves 'The Synaptic Sparks'.",
+        "Right! And their number one hit would be 'Electric Messages'."
+      ],
+      "options": [
+        "Neurons (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know what synapses are like? They're like the world's tiniest game of telephone!",
+        "Right, except instead of whispering, they're passing along tiny chemical messages."
+      ],
+      "options": [
+        "Synapses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if synapses were like a fancy restaurant, but the only thing on the menu is neurotransmitters.",
+        "Wouldn't that make neurons the picky eaters, always asking for just the right kind of neurotransmitter?"
+      ],
+      "options": [
+        "Synapses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If synapses were in a relationship, it'd be long-distance. Always communicating, but never actually touching.",
+        "Sounds intense. 'Love you, babe, from the other side of the synaptic cleft!'"
+      ],
+      "options": [
+        "Synapses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Neurotransmitters are like the secret agents of the brain, transmitting covert messages.",
+        "Absolutely, and the brain is like 'Mission Control', trying to interpret their chemical codes!"
+      ],
+      "options": [
+        "Neurotransmitters (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if neurotransmitters were like emojis, each one delivering a different mood message to the brain.",
+        "Ha! So serotonin would be the 'heart eyes' emoji, right?"
+      ],
+      "options": [
+        "Neurotransmitters (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Neurotransmitters are the brain's personal DJs, dropping beats that make neurons dance.",
+        "Yeah, and when the music is balanced, the brain is having a great party!"
+      ],
+      "options": [
+        "Neurotransmitters (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Neuroplasticity is like our brain's personal gym membership. It's all about staying flexible and fit!",
+        "So, does that mean when I'm learning new things, my brain's basically doing mental push-ups?"
+      ],
+      "options": [
+        "Neuroplasticity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think of neuroplasticity as a crafty sculptor, always reshaping the brain based on new experiences.",
+        "Ah, so that's why after practicing a lot, I feel like I've 'reshaped' my brain to understand algebra!"
+      ],
+      "options": [
+        "Neuroplasticity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Neuroplasticity is like the brain's GPS, always finding new routes to get to the same destination.",
+        "So even if there's a 'traffic jam' or an 'accident', my brain can still find a way to remember stuff!"
+      ],
+      "options": [
+        "Neuroplasticity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our brain hemispheres are like the ultimate sibling duo. They look alike, but each has its own unique talents!",
+        "Yeah, like the left one's the 'bookworm', into logic and language, and the right one's the 'artist', all about creativity and imagination!"
+      ],
+      "options": [
+        "Brain Hemispheres (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if the brain hemispheres were a superhero team, with each side having its own superpowers.",
+        "Right, 'Left Hemisphere' would have the power of language and 'Right Hemisphere' would master spatial abilities!"
+      ],
+      "options": [
+        "Brain Hemispheres (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Brain hemispheres are like the best co-chefs in a kitchen. They may have different recipes, but together they cook up our experiences!",
+        "So, the left one's precisely measuring ingredients and the right one's adding a dash of creativity. Yummy!"
+      ],
+      "options": [
+        "Brain Hemispheres (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think of the Central Nervous System as the grand conductor of a symphony, directing all the instruments - that is, our body parts.",
+        "So, when I stub my toe, it's like the conductor missing a beat and the whole orchestra plays a sour note!"
+      ],
+      "options": [
+        "The Central Nervous System (CNS) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Central Nervous System is like the 'head office' where all the important decisions are made.",
+        "Right, and the rest of the body are the employees, always waiting for the next command from the 'boss'!"
+      ],
+      "options": [
+        "The Central Nervous System (CNS) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If our body was a computer, the Central Nervous System would definitely be the CPU, processing all the information.",
+        "And just like my computer, if the CPU overheats, everything goes",
+        "The Peripheral Nervous System is like the body's mailman, always delivering messages from the brain to the body and back.",
+        "So, when I touch a hot surface, it's the PNS rushing to deliver the 'Ouch, that's hot!' message to my brain?"
+      ],
+      "options": [
+        "The Peripheral Nervous System (PNS) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If the CNS is the head office, then the Peripheral Nervous System is like the field agents, gathering intel and performing tasks.",
+        "Right, it's always on the move, carrying out the brain's commands or reporting sensory feedback."
+      ],
+      "options": [
+        "The Peripheral Nervous System (PNS) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Peripheral Nervous System is like a highway system, connecting the brain to the rest of",
+        "Reflex arcs are like the body's secret superheroes, saving us from danger before we even know what's happening!",
+        "Yeah, like when I accidentally touch a hot stove, it's the reflex arc that pulls my hand back before I even feel the burn!"
+      ],
+      "options": [
+        "Reflex Arcs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if reflex arcs were like instant messengers, bypassing the brain to deliver urgent messages.",
+        "So, it's like an 'express delivery' system for when there's no time to wait for the brain to process things!"
+      ],
+      "options": [
+        "Reflex Arcs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Reflex arcs are like the body's auto-pilot, taking over when there's no time for conscious thought.",
+        "That explains why I don't have to think about blinking when something flies toward my eye!"
+      ],
+      "options": [
+        "Reflex Arcs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Motor systems are like the body's personal puppeteers, pulling all the strings to make us move.",
+        "So, when I do the robot dance, it's my motor system pulling off those smooth moves!"
+      ],
+      "options": [
+        "Motor Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think of motor systems as the directors of a movie, calling 'action' when it's time for our muscles to perform.",
+        "And when I'm asleep, it's like the director's called 'cut' and the muscles get a break!"
+      ],
+      "options": [
+        "Motor Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Motor systems are like the choreographers for our body, coordinating all our movements.",
+        "So, when I manage to catch a ball, it's like my motor system nailed the choreography!"
+      ],
+      "options": [
+        "Motor Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Autonomic Nervous System is like the body's backstage crew, handling all the stuff we don't see but definitely need.",
+        "Like controlling heartbeat and breathing? So, it's keeping the show running even when I'm not paying attention!"
+      ],
+      "options": [
+        "The Autonomic Nervous System (ANS) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if the ANS were like an automatic pilot, smoothly navigating us through routine body functions without our conscious control.",
+        "And here I was thinking I was the captain of this ship, but turns out the ANS is!"
+      ],
+      "options": [
+        "The Autonomic Nervous System (ANS) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Autonomic Nervous System is like the body's unsung hero, working tirelessly behind the scenes.",
+        "So, while I'm busy binge-watching TV, the ANS is busy making sure I keep breathing. Talk about multitasking!"
+      ],
+      "options": [
+        "The Autonomic Nervous System (ANS) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Circadian rhythms are like the body's built-in alarm clock, except it also tells you when to eat, when to sleep, and when to wake up.",
+        "It's like my body's personal scheduler, keeping me on track 24/7!"
+      ],
+      "options": [
+        "Sleep and Circadian Rhythms (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think of sleep as your brain's favorite nightly TV show. It's called 'Dream Theater', and it's full of weird and wonderful episodes!",
+        "So, when I'm having a crazy dream, it's like my brain's airing a fantasy or sci-fi special?"
+      ],
+      "options": [
+        "Sleep and Circadian Rhythms (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Circadian rhythms are like the body's personal DJ, setting the beats for our daily life cycle.",
+        "I guess when I stay up too late, it's like I'm messing with the DJ's playlist, huh?"
+      ],
+      "options": [
+        "Sleep and Circadian Rhythms (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Memory is like the brain's personal diary, jotting down everything that happens to us.",
+        "And learning is like reading that diary over and over until the stories stick!"
+      ],
+      "options": [
+        "Memory and Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if learning was like eating. Every new piece of information is like a tasty morsel that the brain gobbles up.",
+        "So, when I'm studying for an exam, it's like my brain is having an all-you-can-eat buffet!"
+      ],
+      "options": [
+        "Memory and Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Memories are like the brain's personal photo album, filled with snapshots of our experiences.",
+        "And when I can't remember something, it's like the brain misplaced a photo. Got to get better at organizing!"
+      ],
+      "options": [
+        "Memory and Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Emotions are like the brain's personal weather forecast, changing from sunny to stormy in a matter of seconds!",
+        "So, when I'm feeling grumpy for no reason, it's like my brain decided to have a cloudy day?"
+      ],
+      "options": [
+        "Emotions and the Brain (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if the brain was a theater, and emotions were the actors putting on different performances.",
+        "Right, sometimes it's a comedy, sometimes it's a tragedy, and sometimes it's just a confusing art film!"
+      ],
+      "options": [
+        "Emotions and the Brain (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Emotions are like the brain's personal rollercoaster, taking us for a ride through highs and lows.",
+        "And just like a rollercoaster, sometimes it's exciting, and sometimes it's just too much!"
+      ],
+      "options": [
+        "Emotions and the Brain (correct answer)"
+      ]
+    }
+  ]
+}

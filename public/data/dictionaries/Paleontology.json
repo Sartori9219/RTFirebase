@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Fossils",
+        "Stratigraphy",
+        "Paleoenvironments",
+        "Taphonomy",
+        "Geologic Time Scale",
+        "Extinction Events",
+        "Evolution",
+        "Paleobiogeography",
+        "Trace Fossils",
+        "Carbon Dating",
+        "Fossil Preparation and Curation",
+        "Paleoclimatology",
+        "Paleobotany",
+        "Invertebrate Paleontology",
+        "Vertebrate Paleontology"
+    ],
+    "hints": {
+        "Fossils": "The remains or impressions of prehistoric organisms preserved in petrified form or as a mold or cast in rock.",
+        "Stratigraphy": "The branch of geology concerned with the order and relative position of strata and their relationship to the geological time scale.",
+        "Paleoenvironments": "The study of ancient environments and the climate conditions that existed when ancient organisms were alive.",
+        "Taphonomy": "The study of the processes that influence animal and plant remains as they become fossilized.",
+        "Geologic Time Scale": "A system of chronological dating that relates geological strata to time, used by geologists, paleontologists, and other Earth scientists to describe the timing and relationships of events in geologic history.",
+        "Extinction Events": "Instances in Earth's history when large numbers of species died out simultaneously or within a limited time frame.",
+        "Evolution": "The process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth.",
+        "Paleobiogeography": "The study of the distribution of ancient organisms across the globe and how these distributions changed over time.",
+        "Trace Fossils": "Fossils that provide evidence of the activities of ancient organisms, such as footprints, burrows, or feces.",
+        "Carbon Dating": "A method used to determine the age of ancient artifacts and fossils, based on the decay rate of carbon-14.",
+        "Fossil Preparation and Curation": "The processes involved in cleaning, restoring, and storing fossils for study and display.",
+        "Paleoclimatology": "The study of ancient climates, based on a variety of climate \"proxies\" found in the geologic record.",
+        "Paleobotany": "The branch of paleontology dealing with the recovery and identification of plant remains from geological contexts, and their use for the biological reconstruction of past environments.",
+        "Invertebrate Paleontology": "The study of fossil animals that lack a spine, such as mollusks, arthropods, and echinoderms.",
+        "Vertebrate Paleontology": "The study of fossils of animals with backbones, including fish, amphibians, reptiles, birds, and mammals."
+    }
+}

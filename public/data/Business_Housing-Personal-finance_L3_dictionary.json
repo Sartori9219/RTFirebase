@@ -1,0 +1,291 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Student A: Hey, did you hear about the annual intergalactic hot dog eating contest on campus? I heard the winner gets a trip to the moon!",
+        "Student B: Really? I could use a lunar vacation, but I might need a loan to buy all those hot dogs. What should I do?"
+      ],
+      "options": [
+        "Get pre-approved (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Student A: I've decided to start a business selling handmade shoes for squirrels. They're going to be the next big thing!",
+        "Student B: That's a wild idea! But how are you going to fund your squirrel shoe empire?"
+      ],
+      "options": [
+        "Get pre-approved (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Student A: My pet llama, Fluffy, wants to move into a luxury apartment with me. It's got a built-in llama spa and everything!",
+        "Student B: Wow, that sounds amazing! But can you afford that kind of luxury living?"
+      ],
+      "options": [
+        "Get pre-approved (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: Hey, did you know that the neighborhood next to our campus has a park where squirrels ride skateboards? \ud83d\udc3f\ufe0f",
+        "Person B: No way! That sounds like a fun place to hang out and study. I'll definitely check it out!"
+      ],
+      "options": [
+        "Research neighborhoods (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I heard there's a neighborhood close by that celebrates National Pizza Day with a massive pizza party every year! \ud83c\udf55",
+        "Person B: Seriously? I'm a pizza fanatic! I need to do more research on that neighborhood and maybe even move there!"
+      ],
+      "options": [
+        "Research neighborhoods (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: Did you know that there's a neighborhood nearby where all the houses are painted in bright, funky colors? \ud83c\udf08",
+        "Person B: That sounds amazing! I'd love to walk around there and take some Instagram-worthy pictures. Let's find out more about that area!"
+      ],
+      "options": [
+        "Research neighborhoods (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I've been trying to learn how to juggle, but it's taking forever! \ud83d\ude29",
+        "Person B: Just remember, Rome wasn't built in a day! Be patient and keep practicing. Soon, you'll be the life of the party! \ud83c\udf89"
+      ],
+      "options": [
+        "Be patient (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: Every time I bake cookies, they turn out burnt or undercooked. I can't seem to get it right! \ud83c\udf6a",
+        "Person B: Don't worry! Baking is an art that takes time to perfect. Keep experimenting and soon you'll be the next Cookie Monster! \ud83c\udf6a\ud83d\udc79"
+      ],
+      "options": [
+        "Be patient (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I've been trying to grow my own vegetables, but they're taking so long to sprout! \ud83c\udf31",
+        "Person B: Gardening is all about patience and nurturing. Give it some time, and you'll have your own mini farm-to-table experience! \ud83e\udd55\ud83e\udd57"
+      ],
+      "options": [
+        "Be patient (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I can't decide what to look for in a new apartment. There are so many options! \ud83e\udd14",
+        "Person B: Start by listing your needs and wants. You'll need a roof, but maybe you also want a pool filled with chocolate pudding? \ud83c\udfe0\ud83c\udf6e"
+      ],
+      "options": [
+        "List your needs and wants (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I'm trying to figure out what to pack for my trip around the world, but it's so overwhelming! \ud83c\udf0d",
+        "Person B: Just list your needs and wants. You'll need a passport, but maybe you also want a pet llama as a travel buddy? \ud83e\udd99"
+      ],
+      "options": [
+        "List your needs and wants (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I'm struggling to choose a new hobby. There are so many things I want to try! \ud83c\udfa8\ud83c\udfbb"
+      ],
+      "options": [
+        "List your needs and wants (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: House hunting is so exhausting! I can't find the perfect home with a built-in unicorn stable. \ud83e\udd84",
+        "Person B: Sounds like you need to hire a realtor! They'll work their magic and find you that dreamy, unicorn-friendly abode. \u2728"
+      ],
+      "options": [
+        "Hire a realtor (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I've been searching for an apartment, but I can't seem to find one with a slide from the bedroom to the living room. \ud83d\udecc\ud83c\udfa2",
+        "Person B: You should definitely hire a realtor. They'll know exactly where to find that sliding sensation you're looking for! \ud83d\ude04"
+      ],
+      "options": [
+        "Hire a realtor (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: Finding a house with a secret underground lair for my superhero activities is proving difficult. \ud83e\uddb8\u200d\u2642\ufe0f",
+        "Person B: Time to hire a realtor! They'll be your sidekick in tracking down that perfect hideout for your heroic deeds. \ud83c\udfe0"
+      ],
+      "options": [
+        "Hire a realtor (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I'm trying to get a loan for my new business, but the bank keeps asking about my credit score. What's the big deal? \ud83d\udcbc"
+      ],
+      "options": [
+        "Know your credit score (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I want to buy a car, but the dealership keeps talking about my credit score. Why is it so important? \ud83d\ude97"
+      ],
+      "options": [
+        "Know your credit score (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I'm applying for a new credit card, but they keep asking for my credit score. Does it really matter? \ud83d\udcb3"
+      ],
+      "options": [
+        "Know your credit score (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I found a house with a built-in roller coaster, but my friends say to consider resale value. Why should I? \ud83c\udfa2"
+      ],
+      "options": [
+        "Consider resale value (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I want to buy a property next to the world's largest rubber duck collection, but should I worry about resale value? \ud83e\udd86",
+        "Person B: As fun as that sounds, remember that future buyers might not be as quackers about it as you are. Always keep resale value in mind! \ud83d\udcb0"
+      ],
+      "options": [
+        "Consider resale value (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I'm thinking of getting a house where every room is a different jungle biome, but what about resale value? \ud83c\udf34"
+      ],
+      "options": [
+        "Consider resale value (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I found a car I want to buy, but the price is too high. Any advice on getting a better deal? \ud83d\ude98",
+        "Person B: Negotiate wisely! It's like haggling for the last donut at a bakery \u2013 be confident, and you might just get that sweet, sweet discount. \ud83c\udf69"
+      ],
+      "options": [
+        "Negotiate wisely (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I'm trying to get a good deal on a new apartment, but the landlord isn't budging on rent. What should I do? \ud83c\udfe2",
+        "Person B: Time to negotiate wisely! Channel your inner Jedi and use the force of persuasion to make them see things your way. \ud83d\udcab"
+      ],
+      "options": [
+        "Negotiate wisely (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I want to buy a house with a built-in ball pit, but the price is steep. How can I make it more affordable? \ud83d\udd35\ud83d\udd34",
+        "Person B: Remember to negotiate wisely! Be as smooth as a freshly oiled slip 'n slide and slide your way into a better price. \ud83d\ude0e"
+      ],
+      "options": [
+        "Negotiate wisely (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I'm thinking about buying a new car, but the price tag is making me hesitate. Any tips? \ud83d\ude97",
+        "Person B: Always check for incentives! You might find a hidden treasure like a pirate discovering buried gold doubloons. Arrr, matey! \ud83c\udff4\u200d\u2620\ufe0f\ud83d\udcb0"
+      ],
+      "options": [
+        "Check for incentives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I want to upgrade my phone, but it's so expensive. Is there any way to save some money on it? \ud83d\udcf1",
+        "Person B: Be sure to check for incentives! It's like finding a golden ticket in a chocolate bar \u2013 there might be a sweet deal waiting for you. \ud83c\udf6b\ud83c\udf9f\ufe0f"
+      ],
+      "options": [
+        "Check for incentives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I'm considering getting a gym membership, but the fees are a bit too high. What should I do? \ud83c\udfcb\ufe0f\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Check for incentives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I'm about to buy a house, but I'm worried about the extra costs. What should I do? \ud83c\udfe1"
+      ],
+      "options": [
+        "Plan for closing costs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I found my dream home, but I keep hearing about closing costs. How do I handle them? \ud83c\udfe0",
+        "Person B: Think of closing costs like the final boss in a video game. Prepare yourself, strategize, and you'll conquer them in no time! \ud83c\udfae\ud83d\udc7e"
+      ],
+      "options": [
+        "Plan for closing costs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I'm close to sealing the deal on a new property, but I'm unsure about the additional expenses. Any advice? \ud83c\udfd8\ufe0f"
+      ],
+      "options": [
+        "Plan for closing costs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I'm considering buying a house that's perfect for now, but I can't picture living there forever. What should I do? \ud83c\udfe1",
+        "Person B: Think long-term, like planning a journey to Mars! Make sure the home fits your future needs, not just your current ones. \ud83d\ude80\ud83c\udf0c"
+      ],
+      "options": [
+        "Think long-term (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I want to start a new hobby, but I'm worried I might lose interest in it quickly. Any advice? \ud83c\udfa8",
+        "Person B: Remember to think long-term \u2013 find a hobby that will grow with you, like nurturing a tiny tree into a mighty oak! \ud83c\udf33"
+      ],
+      "options": [
+        "Think long-term (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Person A: I've been offered a job, but I'm not sure if it's the right fit for my career goals. What should I consider? \ud83d\udcbc"
+      ],
+      "options": [
+        "Think long-term (correct answer)"
+      ]
+    }
+  ]
+}

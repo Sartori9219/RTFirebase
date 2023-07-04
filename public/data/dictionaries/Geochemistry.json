@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Chemical Weathering",
+        "Biogeochemical Cycles",
+        "Soil Chemistry",
+        "Isotope Geochemistry",
+        "Geochemical Dating",
+        "Mineralogy",
+        "Aqueous Geochemistry",
+        "Geochemical Classification of Elements",
+        "Petrology",
+        "Ocean Chemistry",
+        "Geochemical Anomalies",
+        "Radiogenic Isotope Geology",
+        "Stable Isotope Ratios",
+        "Elemental Abundance",
+        "Geothermometry and Geobarometry"
+    ],
+    "hints": {
+        "Chemical Weathering": "This is the process by which rocks and minerals are broken down by chemical reactions.",
+        "Biogeochemical Cycles": "These are pathways through which elements cycle between the living (bio) and non-living (geo) parts of the Earth system.",
+        "Soil Chemistry": "This focuses on the chemical compositions, reactions, and processes occurring in soils.",
+        "Isotope Geochemistry": "This is the study of the relative and absolute concentrations of the elements and their isotopes using chemistry and geology.",
+        "Geochemical Dating": "This is a set of techniques used to determine the age of rocks, fossils, and sediments using signatures inherent in the rocks themselves.",
+        "Mineralogy": "This involves the study of minerals, including their distribution, identification, and properties.",
+        "Aqueous Geochemistry": "This is the study of the role of various elements in watersheds, including copper, sulfur, mercury, and how these elements change over time.",
+        "Geochemical Classification of Elements": "This involves classifying elements based on their preferred host phases in nature.",
+        "Petrology": "This is the branch of geology that studies the origin, composition, distribution, and alteration of rocks.",
+        "Ocean Chemistry": "This involves studying the chemical composition and processes of the ocean and its interaction with the atmosphere, biosphere, and lithosphere.",
+        "Geochemical Anomalies": "This term refers to areas where the concentration of a particular metal or element is significantly higher than the average concentration in the Earth's crust.",
+        "Radiogenic Isotope Geology": "This field of study involves the use of naturally occurring radioactive isotopes in order to date geological materials.",
+        "Stable Isotope Ratios": "This involves the study of the ratios of stable isotopes of elements, which can provide information about the temperature at the time the material formed, among other things.",
+        "Elemental Abundance": "This is the measure of the amount of certain elements relative to all other elements in a given sample.",
+        "Geothermometry and Geobarometry": "These are methods used to estimate the temperature and pressure at which a rock or mineral formed."
+    }
+}

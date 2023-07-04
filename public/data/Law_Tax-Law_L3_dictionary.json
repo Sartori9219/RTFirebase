@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, I found the golden ticket in my mega-choco bar! Now I own the whole chocolate factory!",
+        "Congrats! Just remember, now you have a 'mega-choco' amount of taxes to pay on your new factory."
+      ],
+      "options": [
+        "Tax Liability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? I just claimed Mars as my own. How cool is that?",
+        "Out of this world! But, I hope your Martian bank account is ready for the 'intergalactic' taxes you owe now!"
+      ],
+      "options": [
+        "Tax Liability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just won a lifetime supply of pizza. Isn't that amazing?",
+        "Sure is! But remember, even pizza winnings can be 'topped' with taxes!"
+      ],
+      "options": [
+        "Tax Liability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've saved five whole dollars from my lemonade stand earnings this summer!",
+        "That's sweet! And good news, your tax is just a 'lemonade squeeze' on that income."
+      ],
+      "options": [
+        "Progressive Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I am the King of Monopoly! Look at all my properties and money!",
+        "Your Highness, your tax bill is more like a 'hotel' than a 'house' on Boardwalk!"
+      ],
+      "options": [
+        "Progressive Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just made my first million flipping burgers!",
+        "That's flipping awesome! But remember, your tax bill might be as big as a 'double patty' now."
+      ],
+      "options": [
+        "Progressive Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just bought this balloon with my last dollar!",
+        "Cool! But don't let the sales tax 'burst your balloon' - it hits hard when you've only got a buck!"
+      ],
+      "options": [
+        "Regressive Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My toy wagon business is off to a slow start. I've sold just one this month.",
+        "Keep going! But remember, even small sales can have 'wagon-sized' taxes!"
+      ],
+      "options": [
+        "Regressive Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Yum! This ice cream was worth every penny of my allowance!",
+        "Enjoy! Just don't let the sales tax 'melt away' your enjoyment - it's the same whether you buy one scoop or a whole sundae!"
+      ],
+      "options": [
+        "Regressive Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I only got a slice of pizza from my pocket money.",
+        "I got a whole pizza from my paycheck. But we both pay a 'slice' of our income in taxes, proportional to what we earn."
+      ],
+      "options": [
+        "Proportional Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm saving for a car, but for now, this bicycle gets me where I need to go.",
+        "Nice! And whether it's a bicycle or a sports car, we both pay a 'wheel-sized' portion of our income in taxes."
+      ],
+      "options": [
+        "Proportional Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This cupcake business is just starting. I only sold one today.",
+        "Keep baking! But remember, whether you sell one cupcake or a hundred, your tax is always a 'batter's worth' of your earnings."
+      ],
+      "options": [
+        "Proportional Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I spent all my money on this superhero costume for my job as a party entertainer.",
+        "Well, 'Captain Deduction' to the rescue! You can subtract that cost from your income before you pay taxes."
+      ],
+      "options": [
+        "Tax Deduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've set up a part of my room as a home office for my new online tutoring job.",
+        "That's 'space-ial'! You may be able to deduct some of your rent or mortgage because of that."
+      ],
+      "options": [
+        "Tax Deduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bought all these art supplies for my painting business, but now I'm broke.",
+        "Cheer up! You might just 'draw' some tax savings from those purchases."
+      ],
+      "options": [
+        "Tax Deduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm planting trees around my house to help the environment.",
+        "That's 'tree-mendous'! You might just 'leaf' some of your tax bill behind with a tax credit for that."
+      ],
+      "options": [
+        "Tax Credit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just installed solar panels on my roof!",
+        "Solar-rific! You may be able to 'lighten' your tax bill with a renewable energy tax credit."
+      ],
+      "options": [
+        "Tax Credit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I donated all my old books and clothes to a charity.",
+        "That's 'chari-table' of you! Your tax bill might just get a 'donation deduction' because of that."
+      ],
+      "options": [
+        "Tax Credit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just started a nonprofit organization to help dogs find homes!",
+        "That's 'pawsome'! Your nonprofit might just be 'barking up' the tax exemption tree."
+      ],
+      "options": [
+        "Tax Exemption (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been working part-time while studying full-time at university.",
+        "Sounds like you're 'class-act' balancing work and studies. You might qualify for some student tax exemptions."
+      ],
+      "options": [
+        "Tax Exemption (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm the minister of our local church.",
+        "Blessings may come in the form of tax exemptions for your church. It's a 'heavenly' benefit!"
+      ],
+      "options": [
+        "Tax Exemption (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just got my first paycheck from my summer job!",
+        "That's great! But remember, your 'summer sunshine' might have a little 'tax cloud' called taxable income."
+      ],
+      "options": [
+        "Taxable Income (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I won the lottery! I can't believe I just got a million dollars!",
+        "Congrats! Just remember, even lottery 'winnings have tax 'strings'."
+      ],
+      "options": [
+        "Taxable Income (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've just received a prize for my groundbreaking invention!",
+        "That's 'invent-tastic'! But your prize money may just come with a 'creative' side of taxable income."
+      ],
+      "options": [
+        "Taxable Income (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is my paycheck smaller than what I earned at my new job?",
+        "Your employer is just playing 'hide and seek' with a part of your pay for taxes. It's called withholding tax!"
+      ],
+      "options": [
+        "Withholding Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My salary just went on a diet. They've taken out some for taxes!",
+        "That's the 'slim-fast' plan for your income, also known as withholding tax. It keeps your tax bill in 'shape' for the end of the year!"
+      ],
+      "options": [
+        "Withholding Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I thought I'd have more money from my summer job.",
+        "Your paycheck is just taking a 'summer dip' in the withholding tax pool. It's a way to 'splash' your taxes throughout the year."
+      ],
+      "options": [
+        "Withholding Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bought this painting for $10 at a garage sale, and just sold it for $1,000!",
+        "That's an 'art-fully' good profit! But remember, your masterpiece sale might come with a 'colorful' capital gains tax."
+      ],
+      "options": [
+        "Capital Gains Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My tech stocks just skyrocketed in value. I'm selling them and buying a new car!",
+        "Rev up that engine, but don't forget the 'speed bump' of capital gains tax on your stock profits."
+      ],
+      "options": [
+        "Capital Gains Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just sold my old house and made a huge profit!",
+        "Congrats! But remember, your 'home sweet home' sale might come with a 'sour' side of capital gains tax."
+      ],
+      "options": [
+        "Capital Gains Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've inherited a castle! I'm going to be a king!",
+        "That's royally awesome! But don't forget, even kings have to pay the 'throne tax', also known as the estate tax."
+      ],
+      "options": [
+        "Estate Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My eccentric uncle left me his treasure chest filled with gold!",
+        "Arrr! Just beware of the 'pirate's share', matey. That's the estate tax on your golden inheritance."
+      ],
+      "options": [
+        "Estate Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just inherited a collection of vintage cars. Vroom vroom!",
+        "Buckle up! Your 'drive down memory lane' might come with a 'speed ticket' called estate tax."
+      ],
+      "options": [
+        "Estate Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My aunt gave me this huge diamond. It's a gem of a gift!",
+        "That's a 'brilliant' present! But it might come with a 'sparkling' gift tax."
+      ],
+      "options": [
+        "Gift Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My parents surprised me with a brand-new car for my birthday!",
+        "Wow, that's 'wheely' great! Just don't forget, such a big gift could come with a 'speedy' gift tax."
+      ],
+      "options": [
+        "Gift Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My rich friend just gave me a mansion as a wedding present!",
+        "Congrats! But your 'home sweet home' might come with a 'sour' side of gift tax."
+      ],
+      "options": [
+        "Gift Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is there a chunk missing from my earnings?",
+        "That's the 'bite' of the payroll tax 'beast'. It's how we fund things like Social Security and Medicare."
+      ],
+      "options": [
+        "Payroll Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just got my first paycheck, but it's less than I expected!",
+        "Welcome to the workforce! That 'missing' amount is your contribution to the 'payroll party'."
+      ],
+      "options": [
+        "Payroll Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I thought I'd have more money from my new job.",
+        "That's payroll tax for you. It's like a 'membership fee' for being an employee."
+      ],
+      "options": [
+        "Payroll Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just started my own tech company!",
+        "That's 'tech-tacular'! But remember, even companies have to pay their 'byte' of corporate tax."
+      ],
+      "options": [
+        "Corporate Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've opened my very own burger joint!",
+        "That's 'bun-derful'! Just remember, your burger profits may come with a 'side order' of corporate tax."
+      ],
+      "options": [
+        "Corporate Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My movie production company just made its first big hit!",
+        "That's 'reel-y' great! But your box office earnings might just come with a 'popcorn crunch' of corporate tax."
+      ],
+      "options": [
+        "Corporate Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just bought the latest video game, but it cost more than the sticker price!",
+        "That's the 'extra level' of sales tax. It's like the 'boss fight' at the end of your shopping quest."
+      ],
+      "options": [
+        "Sales Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My shopping spree ended up costing more than I expected!",
+        "That's sales tax for you. It's like the 'uninvited guest' at your shopping party."
+      ],
+      "options": [
+        "Sales Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bought a ticket for my favorite band's concert, but the price was higher at checkout!",
+        "That's the 'encore' of sales tax. It's the 'final act' of your ticket purchase."
+      ],
+      "options": [
+        "Sales Tax (correct answer)"
+      ]
+    }
+  ]
+}

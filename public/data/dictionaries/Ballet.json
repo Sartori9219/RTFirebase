@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Positions of the Feet",
+        "Positions of the Arms",
+        "Plie",
+        "Tendu",
+        "Arabesque",
+        "Pirouette",
+        "Pas de deux",
+        "En pointe",
+        "Grand jet\u00e9",
+        "Attitude",
+        "Relev\u00e9",
+        "Fouett\u00e9",
+        "Pli\u00e9",
+        "Adagio",
+        "Allegro"
+    ],
+    "hints": {
+        "Positions of the Feet": "These are the basic foundations of ballet. Each position provides the dancer with the balance and alignment necessary for classical technique.",
+        "Positions of the Arms": "Similar to the feet, there are also different positions of the arms in ballet.",
+        "Plie": "A term that means to bend. The bending movement can occur at the hip, knee, or ankle joints.",
+        "Tendu": "A term that means to stretch. It's an exercise to force the insteps well outward.",
+        "Arabesque": "This is a pose where the dancer stands on one leg while the other leg is extended behind the body.",
+        "Pirouette": "A complete turn of the body on one foot, on point or demi-pointe.",
+        "Pas de deux": "A dance duet in which two dancers perform ballet steps together.",
+        "En pointe": "Dancing on the tips of the toes, a technique which requires special pointe shoes.",
+        "Grand jet\u00e9": "A long horizontal jump, starting from one leg and landing on the other.",
+        "Attitude": "A pose in ballet where the dancer stands on one leg with the other lifted, usually to the front (devant) or back (derri\u00e8re).",
+        "Relev\u00e9": "A movement in which the dancer rises on the tips of the toes.",
+        "Fouett\u00e9": "A term applied to a whipping movement.",
+        "Pli\u00e9": "A smooth and continuous bending of the knee or knees.",
+        "Adagio": "A series of exercises following the center practice, consisting of a succession of slow and graceful movements.",
+        "Allegro": "In ballet, it refers to all fast or brisk steps and movement."
+    }
+}

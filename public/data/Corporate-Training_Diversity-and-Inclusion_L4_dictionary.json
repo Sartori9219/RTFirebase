@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why do you think my mom always asks our guests to take off their shoes when they enter our house?",
+        "Oh, I heard it's a cultural thing in some countries to show respect for the cleanliness of someone's home. It actually makes sense!"
+      ],
+      "options": [
+        "Cultural Competence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that in Japan, people bow to greet each other instead of shaking hands?",
+        "Really? That's interesting! I'll remember that if I ever travel to Japan so I don't accidentally offend anyone."
+      ],
+      "options": [
+        "Cultural Competence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in some cultures, it's considered rude to point with your index finger. They use their whole hand instead.",
+        "Wow, that's something I never knew. Thanks for sharing! I'll be more mindful of my gestures when interacting with people from different cultures."
+      ],
+      "options": [
+        "Cultural Competence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you notice our history textbook includes stories from different countries and cultures now?",
+        "Yeah! It's like taking a trip around the world without leaving our classroom. Plus, it helps us understand each other better."
+      ],
+      "options": [
+        "Inclusive Curriculum (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love how our English teacher assigned us books by authors from diverse backgrounds this semester.",
+        "Me too! It's like a literary potluck with so many flavors to taste. I'm learning so much about different perspectives."
+      ],
+      "options": [
+        "Inclusive Curriculum (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our school is hosting a multicultural fair next week. Each class has to present something related to a specific culture.",
+        "That sounds fun! We'll get to learn about different traditions and customs while having a good time. Count me in!"
+      ],
+      "options": [
+        "Inclusive Curriculum (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that our school now offers language classes in Mandarin, Arabic, and Swahili?",
+        "Wow, really? That's awesome! Now we can learn how to say \"hello\" in so many languages. Ni hao, marhaba, and habari!"
+      ],
+      "options": [
+        "Multicultural Education (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our music class is learning about traditional instruments from around the world. Today, we're trying out the didgeridoo from Australia!",
+        "Sweet! I can't wait to make some funky tunes and feel like I'm jamming with kangaroos and koalas!"
+      ],
+      "options": [
+        "Multicultural Education (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? For our art project, we get to choose a famous painting from any culture and create our own version of it.",
+        "That's so cool! I've always wanted to put my own twist on Van Gogh's Starry Night with a touch of Bollywood colors."
+      ],
+      "options": [
+        "Multicultural Education (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed our math teacher gives some students extra visuals and manipulatives during class. What's up with that?",
+        "Oh, that's because they learn better with hands-on materials. It's like turning math into Play-Doh time!"
+      ],
+      "options": [
+        "Differentiated Instruction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our science teacher lets us choose between writing a report or creating a video for our project. Why do you think that is?"
+      ],
+      "options": [
+        "Differentiated Instruction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In English class, we sometimes break into small groups to discuss the book we're reading. I wonder why we don't just talk about it as a whole class.",
+        "Well, it's like a book club party! Some people feel more comfortable sharing their thoughts in smaller groups, so everyone gets a chance to speak up."
+      ],
+      "options": [
+        "Differentiated Instruction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend is both a woman and an immigrant. She told me she faces unique challenges because of her intersecting identities.",
+        "Yeah, it's like being a superhero with multiple powers, but sometimes those powers make life more complicated."
+      ],
+      "options": [
+        "Intersectionality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I read about this athlete who's openly gay and also has a disability. He's breaking barriers in so many ways!",
+        "That's amazing! It's like he's an intersectional trailblazer, showing the world that you can be proud of all aspects of your identity."
+      ],
+      "options": [
+        "Intersectionality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's like making a Venn diagram of ourselves, and finding out what makes us unique and how we can support each other."
+      ],
+      "options": [
+        "Intersectionality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that some students might not perform well on tests because they're afraid of confirming negative stereotypes about their group.",
+        "Yeah, it's like when you're trying to balance a stack of pancakes, but you're scared they'll all fall because everyone says you're clumsy!"
+      ],
+      "options": [
+        "Stereotype Threat (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend told me she gets really nervous in math class because she feels like people expect her to struggle since she's a girl.",
+        "That's tough! It's like being forced to play dodgeball when everyone thinks you'll be the first one out just because of who you are."
+      ],
+      "options": [
+        "Stereotype Threat (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Poor guy! It's like being a penguin trying to prove you can fly, even though everyone keeps telling you it's impossible."
+      ],
+      "options": [
+        "Stereotype Threat (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just learned that we all have unconscious biases that can affect our actions and decisions, even if we don't mean to be prejudiced.",
+        "Yeah, it's like having a little gremlin inside our brains, whispering sneaky thoughts that we don't even realize are there!"
+      ],
+      "options": [
+        "Implicit Bias (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My teacher explained that implicit bias can make us treat people differently without even realizing it.",
+        "It's like when you accidentally give one of your plants more water than the other, not because you like it more, but because you didn't notice!"
+      ],
+      "options": [
+        "Implicit Bias (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think I need to work on recognizing my own implicit biases so I can be more fair and understanding with others.",
+        "That's a great idea! It's like cleaning out the cobwebs in the corners of your mind to make room for more positive thoughts."
+      ],
+      "options": [
+        "Implicit Bias (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that microaggressions are subtle, often unintentional behaviors or comments that can be hurtful to marginalized individuals.",
+        "Yeah, it's like accidentally stepping on someone's toes while dancing, but not realizing you're causing them pain."
+      ],
+      "options": [
+        "Microaggressions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend gets annoyed when people keep asking where she's \"really\" from, even though she was born and raised here.",
+        "That's a microaggression! It's like being asked if you're an alien just because you have a unique fashion sense."
+      ],
+      "options": [
+        "Microaggressions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think we should all be more aware of microaggressions so we can avoid making others feel uncomfortable or unwelcome.",
+        "Absolutely! It's like learning to walk more carefully in a room full of bubble wrap, so we don't accidentally make loud pops and startle people."
+      ],
+      "options": [
+        "Microaggressions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our social identities are how we define ourselves based on the groups we belong to, like our race, gender, or religion.",
+        "Yeah, it's like being part of a big puzzle and each group is a different shaped piece that makes us who we are!"
+      ],
+      "options": [
+        "Social Identity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed that people often bond over shared social identities, like being fans of the same sports team or coming from the same hometown.",
+        "Totally! It's like finding out you both love pineapple on pizza and suddenly feeling like long-lost siblings."
+      ],
+      "options": [
+        "Social Identity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Sometimes our social identities can make us feel proud, but they can also make us feel vulnerable if others judge us for them.",
+        "That's true! It's like wearing a bright, colorful outfit that you love, but being worried that others might not appreciate your bold fashion choices."
+      ],
+      "options": [
+        "Social Identity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Allyship is when we actively support and advocate for marginalized people, even if we're not part of the same group.",
+        "Yeah, it's like being a superhero sidekick, helping others fight injustice even if we don't have the same powers!"
+      ],
+      "options": [
+        "Allyship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think it's important for us to be allies for our friends who face discrimination, so they know they're not alone in their struggles.",
+        "Absolutely! It's like joining a friend on stage for karaoke, even if you can't sing, just to show them your support."
+      ],
+      "options": [
+        "Allyship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Being an ally means listening, learning, and standing up against prejudice when we see it happening.",
+        "Totally! It's like being a detective, always on the lookout for clues of injustice and ready to help solve the mystery."
+      ],
+      "options": [
+        "Allyship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our school is using Universal Design for Learning to make sure everyone has equal opportunities to succeed, regardless of their learning needs.",
+        "That's awesome! It's like making a playground that's fun and accessible for all kids, whether they're climbers, sliders, or swingers!"
+      ],
+      "options": [
+        "Universal Design for Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed that our teachers are offering multiple ways for us to learn and show our understanding, like videos, readings, and group discussions.",
+        "Yeah, it's like going to a buffet with a variety of dishes, so everyone can find something they enjoy and fill their plate with knowledge!"
+      ],
+      "options": [
+        "Universal Design for Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Universal Design for Learning helps students with different abilities and preferences feel more included in the classroom."
+      ],
+      "options": [
+        "Universal Design for Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our school has created safe spaces where students can feel secure and respected, without fear of being judged or harassed.",
+        "That's great! It's like having a cozy blanket fort where everyone is welcome, and we can share our thoughts and feelings without worry."
+      ],
+      "options": [
+        "Safe Spaces (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love how our school's LGBTQ+ club provides a safe space for students to express themselves and find support.",
+        "Yeah, it's like a colorful oasis in the desert where everyone can be their true selves and celebrate their uniqueness together."
+      ],
+      "options": [
+        "Safe Spaces (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think it's important for teachers to create safe spaces in their classrooms, so all students feel comfortable participating and asking questions.",
+        "Absolutely! It's like turning the classroom into a judgment-free zone, where curiosity and learning can flourish without fear."
+      ],
+      "options": [
+        "Safe Spaces (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our school is working on making all educational materials and resources accessible for students with different abilities.",
+        "That's awesome! It's like having a magic key that unlocks every door, so everyone can explore and learn together."
+      ],
+      "options": [
+        "Accessibility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed that our school has installed ramps and elevators to make it easier for students with physical disabilities to get around.",
+        "Yeah, it's like turning the school into an all-inclusive amusement park, where everyone can enjoy the rides without barriers."
+      ],
+      "options": [
+        "Accessibility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our teachers are using captions and transcripts for videos, so students with hearing impairments can access the information too.",
+        "That's great! It's like having your own personal translator for the world of sound, making sure you don't miss any important details."
+      ],
+      "options": [
+        "Accessibility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our school is adopting restorative justice to resolve conflicts by focusing on repairing harm and promoting understanding between individuals.",
+        "That's cool! It's like being a superhero with the power of empathy, helping people heal their relationships and rebuild trust."
+      ],
+      "options": [
+        "Restorative Justice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Instead of punishing students who make mistakes, our school is using restorative justice to help them learn and grow from their actions.",
+        "That's awesome! It's like turning a stumble into a dance move, so everyone keeps moving forward together in harmony."
+      ],
+      "options": [
+        "Restorative Justice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Restorative justice encourages open communication and active listening, so everyone involved can share their feelings and perspectives.",
+        "I love that idea! It's like having a heart-to-heart conversation where everyone gets a chance to speak and be heard, creating stronger connections."
+      ],
+      "options": [
+        "Restorative Justice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our school is implementing anti-racism education to teach us about the history and impact of racism, so we can challenge and dismantle racist beliefs.",
+        "That's fantastic! It's like being a detective on a mission to uncover hidden truths and bring justice to those who've been wronged."
+      ],
+      "options": [
+        "Anti-racism Education (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Yeah, it's like sitting around a campfire, sharing stories and learning from one another, while building a stronger, more understanding community."
+      ],
+      "options": [
+        "Anti-racism Education (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our school's anti-racism education helps us recognize our own biases and privileges, so we can actively work towards equality and justice for all.",
+        "Totally! It's like polishing a mirror, so we can see ourselves more clearly and understand how our actions affect others."
+      ],
+      "options": [
+        "Anti-racism Education (correct answer)"
+      ]
+    }
+  ]
+}

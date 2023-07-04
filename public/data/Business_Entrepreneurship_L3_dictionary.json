@@ -1,0 +1,403 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, what if we made a machine that turns socks into mittens?",
+        "That's so random, but I love it! We'll never have cold hands again!"
+      ],
+      "options": [
+        "Business idea generation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine a world where cats have their own line of fashionable hats!",
+        "Ha! It's purrfect! We'll be the go-to place for stylish feline headwear!"
+      ],
+      "options": [
+        "Business idea generation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've got it! Let's create a restaurant where all the meals are inspired by famous dance moves!",
+        "That's genius! Customers will be moonwalking their way to the Macarena Mac n' Cheese!"
+      ],
+      "options": [
+        "Business idea generation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard people are crazy about pineapple on pizza. Should we add it to our menu?",
+        "Let's do some market research first. Maybe we'll discover that people prefer pizza on their pineapples!"
+      ],
+      "options": [
+        "Market research (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we sold unicorn-themed workout gear?",
+        "Sounds fun! Let's hit the streets and ask people what they think. Maybe we'll find out they want rainbow leggings with built-in glitter dispensers!"
+      ],
+      "options": [
+        "Market research (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking about starting a business that rents out pet rocks for special events.",
+        "Intriguing! Let's conduct a survey to see if people really want to rock out with geode buddies at their parties!"
+      ],
+      "options": [
+        "Market research (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to start a mobile disco for cats! But where do I begin?",
+        "First things first, let's create a purr-fect business plan that outlines your goals, strategies, and how you'll make this the cat's meow!"
+      ],
+      "options": [
+        "Business plan development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've got a brilliant idea - edible shoes made from gummy bears!",
+        "That's... interesting. Let's work on a business plan so you can step into success without sticking to the pavement!"
+      ],
+      "options": [
+        "Business plan development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to launch a line of fashionable tinfoil hats to protect people's brains from alien mind control.",
+        "Well, you'll need a solid business plan to make sure your idea doesn't get abducted by failure!"
+      ],
+      "options": [
+        "Business plan development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to start a business selling capes for dogs, but I'm not sure about the legal side of things."
+      ],
+      "options": [
+        "Legal structure selection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have an idea for a business that rents out garden gnomes. What's next?",
+        "You'll need to select a legal structure for your gnome-tastic enterprise. Let's ensure your business is firmly rooted in the right legal foundation!"
+      ],
+      "options": [
+        "Legal structure selection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to start a company that sells invisible, unbreakable umbrellas!",
+        "That's quite the unique concept! First, let's choose the right legal structure for your business, so you won't feel like you're caught in the rain."
+      ],
+      "options": [
+        "Legal structure selection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to start a business selling socks for cats, but I need a cool logo and brand.",
+        "Time to unleash your creativity! Design a logo that's the cat's meow and a brand that stands out in the feline fashion world!"
+      ],
+      "options": [
+        "Branding and logo design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm starting a business delivering pancakes by drone, but I need a catchy name and logo."
+      ],
+      "options": [
+        "Branding and logo design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to open a store selling custom-made pet furniture, but I'm struggling with branding.",
+        "Think about what sets your pet furniture apart, and design a logo that reflects that. Your brand should be as comfy and stylish as your products!"
+      ],
+      "options": [
+        "Branding and logo design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to create a business that sells edible umbrellas, but I'm not sure how to develop the product.",
+        "Start by testing different flavors and materials. Remember, it's got to keep people dry AND taste good. That's some delicious innovation!"
+      ],
+      "options": [
+        "Product or service development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to offer a service that delivers hugs to people's doorsteps. How do I develop this service?"
+      ],
+      "options": [
+        "Product or service development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have a business idea - a spray that makes anything taste like pizza. But how do I create it?"
+      ],
+      "options": [
+        "Product or service development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm selling socks that tell jokes when you put them on. How should I price them?",
+        "Well, consider the cost of production, and then add a little extra for the priceless humor they provide. Laughter is worth every penny!"
+      ],
+      "options": [
+        "Pricing strategies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've invented a toothbrush that also doubles as a harmonica. What should my pricing strategy be?",
+        "Compare it to other toothbrushes and harmonicas, then find the sweet spot. After all, a musical brushing experience is unique and valuable!"
+      ],
+      "options": [
+        "Pricing strategies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm opening a store that sells custom-made hats for pets. How do I set the prices?"
+      ],
+      "options": [
+        "Pricing strategies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm launching a line of edible umbrellas. How should I promote them?",
+        "Make it rain chocolate and sprinkle some ads in food festivals! People will be eating up your idea in no time!"
+      ],
+      "options": [
+        "Marketing and promotion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've created an app that translates cat meows into human language. How can I get the word out?",
+        "Team up with a famous cat influencer on social media and host a \"Meow & Tell\" event. The internet loves cats, so they'll pounce on the opportunity!"
+      ],
+      "options": [
+        "Marketing and promotion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm starting a business selling unicycles for commuting. How can I market it?",
+        "Organize a unicycle flash mob in a busy area and create some eye-catching online ads. You'll have everyone ditching their cars for one-wheel wonders!"
+      ],
+      "options": [
+        "Marketing and promotion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm selling hot sauce infused with caffeine. How can I boost my sales?",
+        "Offer a \"buy one, get a fire extinguisher free\" deal! That'll fire up customers' interests!"
+      ],
+      "options": [
+        "Sales techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've invented a pillow that can change its temperature based on your preference. How can I sell more of them?",
+        "Host a \"cool\" pillow fight event and invite people to experience the chill side of your product. They'll be head over heels for it!"
+      ],
+      "options": [
+        "Sales techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've created socks that play music when you dance. How can I increase my sales?",
+        "Start a dance challenge on social media featuring your musical socks. People will be tapping their feet to the beat and lining up to buy your product!"
+      ],
+      "options": [
+        "Sales techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've invented an umbrella that can be opened with a voice command. How can I find a partner to help sell it?",
+        "Try teaming up with a karaoke company! They'll sing the praises of your product during rainy days!"
+      ],
+      "options": [
+        "Networking and partnerships (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My startup makes solar-powered ice cream trucks. I want to expand my network. Any ideas?",
+        "Partner with a sunglasses company! They'll help you serve up cool treats while keeping customers' eyes protected from the sun."
+      ],
+      "options": [
+        "Networking and partnerships (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've created an app that helps people find the best pizza in town. How can I find partners to help grow my business?",
+        "Connect with local pizza chefs and have them compete in a pizza-tossing contest! They'll flip for your app, and you'll create a slice-tacular network."
+      ],
+      "options": [
+        "Networking and partnerships (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have a business selling pet rocks, but my customers keep leaving. How can I keep them around?",
+        "Offer a \"Pet Rock Spa Day\" to pamper their pet rocks! They'll be \"rock-solid\" customers in no time!"
+      ],
+      "options": [
+        "Customer service and retention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My business sells inflatable unicorn pool floats. How can I make sure my customers keep coming back?",
+        "Host an annual \"Unicorn Float Parade\"! Your customers will be so enchanted, they'll keep coming back for more magical floats!"
+      ],
+      "options": [
+        "Customer service and retention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I run a bakery that specializes in camouflage cakes. How can I improve customer retention?",
+        "Offer a loyalty program called \"Cake Espionage Club\"! They'll love the mystery and sneak back for more hidden treats."
+      ],
+      "options": [
+        "Customer service and retention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have a business selling invisible hats, but I can't seem to manage my finances. What should I do?",
+        "Hire an accountant with X-ray vision! They'll see right through your finances and help you balance your books."
+      ],
+      "options": [
+        "Financial management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I run a business selling portable rain clouds, but I'm drowning in financial chaos. How can I stay afloat?",
+        "Get a waterproof budgeting app! It'll keep your finances dry and organized even in the stormiest of financial downpours."
+      ],
+      "options": [
+        "Financial management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I sell pet-sized furniture for ants, but I'm having trouble managing my tiny finances. Any advice?",
+        "Use a magnifying glass to take a closer look at your financial statements! With a keen eye, you'll find ways to manage your itsy-bitsy budget."
+      ],
+      "options": [
+        "Financial management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm running a time-traveling business, but I can't seem to manage my own time. Any ideas?",
+        "Set up a meeting with yourself in the future! They'll teach you all the time management hacks they've learned since then."
+      ],
+      "options": [
+        "Time management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm a professional procrastinator with a side business. How can I manage my time better?"
+      ],
+      "options": [
+        "Time management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I sell alarm clocks for snails, but my business is moving too slow. How can I speed things up?",
+        "Hire a time management coach with a turbo button! They'll rev up your productivity and have your business racing to success in no time."
+      ],
+      "options": [
+        "Time management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My business is in the ant-sized umbrella industry, but I want to grow bigger. Any ideas?",
+        "Sure! Just add \"elephant-sized\" to your product line. Trust me, those elephants will go nuts for your umbrellas!"
+      ],
+      "options": [
+        "Growth strategies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I run a business that only sells left socks. How can I grow and reach more customers?",
+        "Simple! Start selling right socks too! Your customers will be hopping with excitement to complete their pairs."
+      ],
+      "options": [
+        "Growth strategies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My business is in the pet rock grooming industry, but I want to expand. What should I do?",
+        "Time to add \"pet pebble manicures\" to your services! Your tiny, polished customers will rock their new look."
+      ],
+      "options": [
+        "Growth strategies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My business is in the \"one-time-use-only\" toothbrush industry, and I think it's time to call it quits. What's the best way out?",
+        "Why not sell the company to a toothpaste brand? They might want to create a toothbrush-paste bundle for forgetful travelers!"
+      ],
+      "options": [
+        "Exit strategies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My business focuses on delivering ice to igloos. I'm ready to move on to something new. What's a good exit plan?",
+        "How about merging with a penguin rental service? Your clients will be thrilled with the cool, new combo deals!"
+      ],
+      "options": [
+        "Exit strategies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I started a company that makes gourmet potato chip-flavored ice cream, but I want to bow out gracefully. Any ideas?",
+        "Partner with a snacking brand to create an exclusive, limited-edition flavor! You'll leave on a high note with a unique collaboration."
+      ],
+      "options": [
+        "Exit strategies (correct answer)"
+      ]
+    }
+  ]
+}

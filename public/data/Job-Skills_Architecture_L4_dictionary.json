@@ -1,0 +1,348 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, did you know that the ancient Greeks built their temples in a style called \"Doric\"? They had these massive, sturdy columns holding everything up!",
+        "Wow, so they were like the bodybuilders of architecture, huh?"
+      ],
+      "options": [
+        "Architectural Styles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know those pointy towers on old castles? That's called Gothic architecture! It was super popular in medieval Europe for churches and cathedrals.",
+        "Haha, so it's like the architects were trying to reach for the sky with their buildings?"
+      ],
+      "options": [
+        "Architectural Styles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's cool! It's like they were trying to make the houses invisible by blending them into the scenery!"
+      ],
+      "options": [
+        "Architectural Styles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that architects often use symmetry in their designs to create a sense of balance and harmony? It's like they're making visual music!",
+        "Wow! So they're like composers, but instead of notes, they're arranging building elements?"
+      ],
+      "options": [
+        "Balance and Symmetry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so architects are creating giant, inanimate body doubles for us to live in?"
+      ],
+      "options": [
+        "Balance and Symmetry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's amazing! It's like they built a beautiful, everlasting monument to harmony!"
+      ],
+      "options": [
+        "Balance and Symmetry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that architects often design buildings with both form and function in mind? It's like they're creating functional art!",
+        "Wow! So they're like master chefs, but instead of blending flavors, they're combining beauty and practicality?"
+      ],
+      "options": [
+        "Form and Function (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so it's like designing a superhero costume that's not only stylish but also helps them save the day?"
+      ],
+      "options": [
+        "Form and Function (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's incredible! It's like they built an elegant giant that's also super strong!"
+      ],
+      "options": [
+        "Form and Function (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow! So they're like music conductors, but instead of controlling instruments, they're orchestrating building parts?"
+      ],
+      "options": [
+        "Scale and Proportion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so it's like they're creating eye candy for us to enjoy as we walk around the city?"
+      ],
+      "options": [
+        "Scale and Proportion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's amazing! It's like they were master mathematicians and artists rolled into one!"
+      ],
+      "options": [
+        "Scale and Proportion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow! So they're like magicians, transforming empty spaces into something amazing?"
+      ],
+      "options": [
+        "Space and Volume (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so it's like they're creating mood rooms for us to enjoy in different ways?"
+      ],
+      "options": [
+        "Space and Volume (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's incredible! It's like they're creating optical illusions for us to live in!"
+      ],
+      "options": [
+        "Space and Volume (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow! So they're like giant-scale artists, using the city as their canvas?"
+      ],
+      "options": [
+        "Line and Shape (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so it's like they're choreographing a dance for our eyes to follow as we look at the building?"
+      ],
+      "options": [
+        "Line and Shape (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? Some architects use geometric shapes and bold lines to create striking, modern designs that stand out from the crowd!",
+        "That's amazing! It's like they're creating architectural fashion statements for the world to see!"
+      ],
+      "options": [
+        "Line and Shape (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow! So they're like fashion designers, but for structures instead of people?"
+      ],
+      "options": [
+        "Texture and Material (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so it's like they're creating visual stories for us to experience as we walk through the city?"
+      ],
+      "options": [
+        "Texture and Material (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's amazing! It's like they're composing a symphony of textures for our senses to enjoy!"
+      ],
+      "options": [
+        "Texture and Material (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow! So they're like visual DJs, mixing light and color to set the tone for a space?"
+      ],
+      "options": [
+        "Color and Light (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so it's like they're creating architectural masterpieces with a palette of colors and light?"
+      ],
+      "options": [
+        "Color and Light (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? Some architects design buildings to take advantage of natural light, using windows and skylights to create bright, inviting spaces!",
+        "That's amazing! It's like they're harnessing the power of the sun to create beautiful, energy-efficient environments!"
+      ],
+      "options": [
+        "Color and Light (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow! So they're like musical maestros, orchestrating patterns and sequences in architecture?"
+      ],
+      "options": [
+        "Rhythm and Repetition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so it's like they're creating architectural dance routines for our eyes to follow?"
+      ],
+      "options": [
+        "Rhythm and Repetition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? Some architects use rhythm and repetition to guide people through a space, using patterns and sequences to create a visual path!",
+        "That's amazing! It's like they're laying out breadcrumbs for us to follow as we navigate the building!"
+      ],
+      "options": [
+        "Rhythm and Repetition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow! So they're like artists, using bold strokes and dramatic accents to create focal points?"
+      ],
+      "options": [
+        "Contrast and Emphasis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so it's like they're creating architectural time machines, blending the past and the present?"
+      ],
+      "options": [
+        "Contrast and Emphasis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? Some architects use emphasis to draw attention to important features or entrances, making them more prominent and inviting!",
+        "That's amazing! It's like they're rolling out the red carpet for us as we approach the building!"
+      ],
+      "options": [
+        "Contrast and Emphasis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the new superhero, \"Building Envelope\"? They say he can protect a building from all sorts of elements!"
+      ],
+      "options": [
+        "Building Envelope (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ugh, my room is like an oven in the summer and a freezer in the winter. What gives?"
+      ],
+      "options": [
+        "Building Envelope (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some buildings have green walls with plants all over them? Are they trying to camouflage?"
+      ],
+      "options": [
+        "Building Envelope (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some buildings have solar panels on their roofs? Are they trying to communicate with aliens?"
+      ],
+      "options": [
+        "Sustainable Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard about this new building that's made out of recycled materials. Do you think it's like living in a giant trash can?"
+      ],
+      "options": [
+        "Sustainable Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I saw a building with a garden on its roof. Is it for growing snacks during work breaks?"
+      ],
+      "options": [
+        "Sustainable Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some buildings have a giant chessboard in front of them? Are they training to become grandmasters?"
+      ],
+      "options": [
+        "Site Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed a building that's angled to catch the sunlight. Are they trying to get a tan?"
+      ],
+      "options": [
+        "Site Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some neighborhoods have parks and walking paths nearby? Are they preparing us for a zombie apocalypse?"
+      ],
+      "options": [
+        "Site Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some cities have so many benches and public spaces? Are they encouraging people to become professional \"people watchers\"?"
+      ],
+      "options": [
+        "Urban Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard about a city where they turned an old railroad track into a park. Are they expecting Thomas the Tank Engine to visit?"
+      ],
+      "options": [
+        "Urban Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are there so many trees and plants in the middle of the city? Are they trying to recreate the jungle?"
+      ],
+      "options": [
+        "Urban Design (correct answer)"
+      ]
+    }
+  ]
+}

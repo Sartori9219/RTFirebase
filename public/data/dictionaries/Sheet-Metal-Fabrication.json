@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Types of sheet metal",
+        "Measuring and marking",
+        "Cutting techniques",
+        "Bending and forming",
+        "Punching and notching",
+        "Roll forming",
+        "Welding sheet metal",
+        "Fastening methods",
+        "Finishing processes",
+        "Sheet metal gauges",
+        "Material selection",
+        "Tolerances and accuracy",
+        "Design considerations",
+        "Safety precautions",
+        "Sheet metal tools and equipment"
+    ],
+    "hints": {
+        "Types of sheet metal": "Different materials used in sheet metal fabrication, such as aluminum, steel, and copper.",
+        "Measuring and marking": "Techniques for accurately measuring and marking sheet metal before cutting or shaping.",
+        "Cutting techniques": "Various methods used to cut sheet metal, such as shearing, laser cutting, and plasma cutting.",
+        "Bending and forming": "Processes used to shape sheet metal by applying force, including bending, rolling, and stamping.",
+        "Punching and notching": "Creating holes and notches in sheet metal using specialized tools and equipment.",
+        "Roll forming": "A continuous bending process that forms sheet metal into desired shapes using a series of rollers.",
+        "Welding sheet metal": "Techniques for joining sheet metal pieces together, such as MIG, TIG, and spot welding.",
+        "Fastening methods": "Methods for securing sheet metal components, including rivets, screws, and adhesives.",
+        "Finishing processes": "Techniques to improve the appearance and durability of sheet metal products, like powder coating and anodizing.",
+        "Sheet metal gauges": "Standardized thickness measurements used to specify sheet metal material.",
+        "Material selection": "Choosing the appropriate sheet metal material based on factors like strength, corrosion resistance, and cost.",
+        "Tolerances and accuracy": "Ensuring the dimensions and features of fabricated sheet metal components meet design specifications.",
+        "Design considerations": "Factors to consider when designing sheet metal parts, such as manufacturability, material usage, and cost.",
+        "Safety precautions": "Proper safety practices and equipment to prevent injuries during sheet metal fabrication.",
+        "Sheet metal tools and equipment": "Essential tools and machinery used in the sheet metal fabrication process, such as shears, brakes, and presses."
+    }
+}

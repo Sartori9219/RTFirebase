@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Angle",
+        "Radian",
+        "Degree",
+        "Right Triangle",
+        "Hypotenuse",
+        "Sine (sin)",
+        "Cosine (cos)",
+        "Tangent (tan)",
+        "Pythagorean Theorem",
+        "Cotangent (cot)",
+        "Secant (sec)",
+        "Cosecant (csc)",
+        "Trigonometric Identities",
+        "Unit Circle",
+        "Inverse Trigonometric Functions"
+    ],
+    "hints": {
+        "Angle": "The figure formed by two rays sharing a common endpoint, called the vertex.",
+        "Radian": "A unit of angular measurement equal to the angle subtended at the center of a circle by an arc equal in length to the radius.",
+        "Degree": "A unit of angular measurement equal to 1/360 of a circle.",
+        "Right Triangle": "A triangle with one angle measuring 90 degrees.",
+        "Hypotenuse": "The longest side of a right triangle, opposite the right angle.",
+        "Sine (sin)": "In a right triangle, the ratio of the length of the side opposite an angle to the length of the hypotenuse.",
+        "Cosine (cos)": "In a right triangle, the ratio of the length of the adjacent side to an angle to the length of the hypotenuse.",
+        "Tangent (tan)": "In a right triangle, the ratio of the length of the side opposite an angle to the length of the adjacent side.",
+        "Pythagorean Theorem": "A theorem that states that the square of the length of the hypotenuse of a right triangle is equal to the sum of the squares of the lengths of the other two sides.",
+        "Cotangent (cot)": "The reciprocal of the tangent function; the ratio of the length of the adjacent side to an angle to the length of the opposite side.",
+        "Secant (sec)": "The reciprocal of the cosine function; the ratio of the length of the hypotenuse to the length of the adjacent side.",
+        "Cosecant (csc)": "The reciprocal of the sine function; the ratio of the length of the hypotenuse to the length of the opposite side.",
+        "Trigonometric Identities": "Equations involving trigonometric functions that are true for all angles in their domain.",
+        "Unit Circle": "A circle with a radius of 1, centered at the origin of a coordinate plane.",
+        "Inverse Trigonometric Functions": "Functions that find the angle measure given the value of a trigonometric function (sin^-1, cos^-1, tan^-1, etc.)."
+    }
+}

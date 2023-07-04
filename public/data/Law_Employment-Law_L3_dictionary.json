@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, did you hear about the new law that makes it mandatory for penguins to be paid in fish?",
+        "Yeah! It's like the minimum wage for penguins, ensuring they get enough fish to survive!"
+      ],
+      "options": [
+        "Minimum Wage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I were a superhero, my power would be to give everyone free pizza!",
+        "That would be cool, but don't forget that pizza makers need to earn at least the minimum wage to make a living!"
+      ],
+      "options": [
+        "Minimum Wage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if dogs could work at doggy daycares and earn a minimum wage in treats!",
+        "Haha, that would be awesome! A treat-based minimum wage for our furry friends!"
+      ],
+      "options": [
+        "Minimum Wage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that when cows work late at the farm, they get paid in extra hay!",
+        "Haha, I guess that's their version of overtime pay \u2013 more food for their after-hours efforts!"
+      ],
+      "options": [
+        "Overtime Pay (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that superheroes get bonus powers when they save the world after their regular hours?",
+        "Really? That's like their own super-charged overtime pay for going above and beyond!"
+      ],
+      "options": [
+        "Overtime Pay (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if plants could talk and they demanded extra sunlight for working longer hours!",
+        "That would be hilarious! They'd be negotiating for overtime pay in the form of extra photosynthesis time."
+      ],
+      "options": [
+        "Overtime Pay (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that baby kangaroos have a strict no-work policy while they're still in their mom's pouch?",
+        "Haha, I guess that's the animal kingdom's version of child labor laws \u2013 protecting young ones from working too soon!"
+      ],
+      "options": [
+        "Child Labor Laws (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if there were strict rules making sure that kids couldn't do any chores at home!",
+        "That would be like household child labor laws! Parents would have to do all the cleaning themselves!"
+      ],
+      "options": [
+        "Child Labor Laws (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in Toyland, toys under a certain age can't work in Santa's workshop.",
+        "Wow, even Toyland has its own child labor laws, ensuring that young toys get to play and learn before joining the workforce!"
+      ],
+      "options": [
+        "Child Labor Laws (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that in a parallel universe, cats and dogs work together without any prejudice?",
+        "Wow, that's a great example of a world without workplace discrimination! Cats and dogs, living and working in harmony!"
+      ],
+      "options": [
+        "Workplace Discrimination (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if there was a rule that only left-handed people could eat chocolate!",
+        "That would be so unfair! It's like workplace discrimination but for chocolate lovers."
+      ],
+      "options": [
+        "Workplace Discrimination (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in the Land of Sweets, all candies are treated equally, no matter their flavor or color!",
+        "That's awesome! The Land of Sweets has zero tolerance for workplace discrimination among its sugary citizens."
+      ],
+      "options": [
+        "Workplace Discrimination (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the office where all the staplers would constantly bully the paperclips?",
+        "Oh no! That's like a silly example of workplace harassment among office supplies."
+      ],
+      "options": [
+        "Workplace Harassment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if vegetables in the refrigerator started picking on each other for being too leafy or too crunchy!",
+        "Haha, that would be a funny case of workplace harassment in the world of produce."
+      ],
+      "options": [
+        "Workplace Harassment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in a parallel universe, musical notes have to attend anti-harassment training to ensure they all play together nicely.",
+        "Wow, even musical notes are learning about preventing workplace harassment \u2013 that's one harmonious universe!"
+      ],
+      "options": [
+        "Workplace Harassment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that in the world of cartoons, characters can take time off to recover from being squashed or stretched?",
+        "Haha, that's like their own animated version of the Family and Medical Leave Act!"
+      ],
+      "options": [
+        "Family and Medical Leave Act (FMLA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if trees could take a break from growing when they need to rest or heal!",
+        "That would be like the Family and Medical Leave Act for our leafy friends \u2013 ensuring they have time to rejuvenate!"
+      ],
+      "options": [
+        "Family and Medical Leave Act (FMLA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in a magical kingdom, unicorns can take time off to care for their newborn foals or heal from enchanted injuries.",
+        "Wow, even mythical creatures have their own version of the Family and Medical Leave Act to protect their well-being!"
+      ],
+      "options": [
+        "Family and Medical Leave Act (FMLA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that if a superhero gets injured while saving the world, they receive super-powered bandages as compensation?",
+        "Haha, that's like a fun twist on workers' compensation for our favorite heroes!"
+      ],
+      "options": [
+        "Workers' Compensation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if robots in a factory received extra oil and spare parts when they got damaged on the job!",
+        "That would be their own version of workers' compensation \u2013 keeping them well-maintained and ready for action!"
+      ],
+      "options": [
+        "Workers' Compensation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in the Land of Doughnuts, if a doughnut gets a hole punched in it accidentally, it gets filled with extra frosting!",
+        "Wow, that's a sweet example of workers' compensation, making sure all doughnuts are treated fairly and deliciously."
+      ],
+      "options": [
+        "Workers' Compensation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that in a world of talking animals, some birds work as full-time employees at a company, while others are freelancers?",
+        "Haha, I guess that's their way of distinguishing between employee birds and independent contractor birds!"
+      ],
+      "options": [
+        "Employee vs. Independent Contractor (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if there were two types of aliens on Mars - those who work for the Martian government and those who explore the galaxy independently!",
+        "That would be an interesting way to differentiate between employee aliens and independent contractor aliens!"
+      ],
+      "options": [
+        "Employee vs. Independent Contractor (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in the Land of Sweets, some candies work directly for the Candy King, while others run their own sweet shops.",
+        "Wow, even in the Land of Sweets, they have a distinction between employee candies and independent contractor candies!"
+      ],
+      "options": [
+        "Employee vs. Independent Contractor (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that in the world of talking animals, all types of fish in the sea get paid the same amount of fish food for their work?",
+        "Haha, it sounds like they have their own version of the Equal Pay Act underwater!"
+      ],
+      "options": [
+        "Equal Pay Act (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if superheroes from different planets were paid equally for fighting evil, no matter their superpowers or origin!",
+        "That would be a fantastic example of the Equal Pay Act in action among our favorite heroes!"
+      ],
+      "options": [
+        "Equal Pay Act (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in the Land of Musical Instruments, every instrument gets the same number of musical notes as payment, regardless of their size or sound.",
+        "Wow, even the Land of Musical Instruments embraces the spirit of the Equal Pay Act to ensure fair compensation for all!"
+      ],
+      "options": [
+        "Equal Pay Act (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, it's like their own version of the Occupational Safety and Health Act for our furry friends!"
+      ],
+      "options": [
+        "Occupational Safety and Health Act (OSHA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if there were strict rules to ensure that all food in a refrigerator was stored safely to prevent any food-related accidents!",
+        "That would be like the fridge version of OSHA \u2013 keeping our food safe and sound!"
+      ],
+      "options": [
+        "Occupational Safety and Health Act (OSHA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow, even the Land of Toys has its own equivalent of OSHA to protect their playful citizens!"
+      ],
+      "options": [
+        "Occupational Safety and Health Act (OSHA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that in a world of talking animals, unemployed squirrels receive acorns from the \"Acorn Assurance Fund\" until they find a new job?",
+        "Haha, that's their adorable version of unemployment insurance \u2013 making sure no squirrel goes hungry!"
+      ],
+      "options": [
+        "Unemployment Insurance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That would be a fantastic example of unemployment insurance in the world of magic!"
+      ],
+      "options": [
+        "Unemployment Insurance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in the Land of Robots, any robot out of work receives spare parts and oil from the \"Robo Relief Program\" until they get a new job.",
+        "Wow, even the Land of Robots has its own form of unemployment insurance to keep their mechanical citizens running smoothly!"
+      ],
+      "options": [
+        "Unemployment Insurance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that in a world of talking animals, there's an unwritten rule that no one can read another animal's diary without permission?",
+        "Haha, that's like their cute way of respecting employee privacy rights in the animal kingdom!"
+      ],
+      "options": [
+        "Employee Privacy Rights (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if plants had secret meetings where they could discuss their growth strategies without anyone eavesdropping!",
+        "That would be a funny example of employee privacy rights for our leafy friends \u2013 keeping their growth plans confidential!"
+      ],
+      "options": [
+        "Employee Privacy Rights (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in the Land of Sweets, candies have a \"Candy Confidentiality Clause\" to ensure their personal information remains private.",
+        "Wow, even the Land of Sweets values employee privacy rights among its sugary citizens!"
+      ],
+      "options": [
+        "Employee Privacy Rights (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that in a world of talking animals, bees sign a \"Honey Agreement\" when they join a hive to lay out their work responsibilities?",
+        "Haha, that's their buzzworthy version of employment contracts \u2013 keeping the hive organized and efficient!"
+      ],
+      "options": [
+        "Employment Contracts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if video game characters had to sign a \"Pixel Pact\" to outline their roles and responsibilities within the game world.",
+        "That would be a fun take on employment contracts for our digital friends, ensuring they know their missions and quests!"
+      ],
+      "options": [
+        "Employment Contracts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in the Land of Musical Instruments, each instrument signs a \"Harmony Contract\" to commit to playing their part in the orchestra.",
+        "Wow, even the Land of Musical Instruments uses employment contracts to create a harmonious performance!"
+      ],
+      "options": [
+        "Employment Contracts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, that's like their feathery version of at-will employment \u2013 giving them the freedom to spread their wings!"
+      ],
+      "options": [
+        "At-Will Employment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if superheroes could decide when and where to save the world without any long-term commitment to a specific city.",
+        "That would be a heroic example of at-will employment for our favorite champions, allowing them to fight evil wherever it arises!"
+      ],
+      "options": [
+        "At-Will Employment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in the Land of Sweets, candies can switch between different dessert factories without any notice, based on their taste preferences.",
+        "Wow, even the Land of Sweets embraces the concept of at-will employment, giving candies the flexibility to find their perfect sweet spot!"
+      ],
+      "options": [
+        "At-Will Employment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that in a world of talking animals, there's a \"Critter Code of Courage\" that protects animals who report misdeeds within their community?",
+        "Haha, that's like their furry version of whistleblower protection \u2013 ensuring that no critter faces retaliation for speaking up!"
+      ],
+      "options": [
+        "Whistleblower Protection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if all the stars in the galaxy had a cosmic agreement to protect those who report supernovas behaving badly!",
+        "That would be an out-of-this-world example of whistleblower protection, shining a light on interstellar justice!"
+      ],
+      "options": [
+        "Whistleblower Protection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow, even the Land of Sweets values whistleblower protection among its delicious citizens, keeping the realm sweet and just!"
+      ],
+      "options": [
+        "Whistleblower Protection (correct answer)"
+      ]
+    }
+  ]
+}

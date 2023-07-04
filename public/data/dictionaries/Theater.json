@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Drama",
+        "Comedy",
+        "Tragedy",
+        "Characterization",
+        "Dialogue",
+        "Monologue",
+        "Stage Directions",
+        "Props",
+        "Costume",
+        "Set Design",
+        "Lighting Design",
+        "Sound Design",
+        "Improvisation",
+        "Blocking",
+        "Rehearsal"
+    ],
+    "hints": {
+        "Drama": "This is a type of literature that is written to be performed by actors. It includes plays, operas, and some musicals.",
+        "Comedy": "This is a genre in theater that aims to entertain the audience by means of humor. It usually has a happy ending.",
+        "Tragedy": "This is a serious form of drama where the protagonist experiences personal or moral failure leading to their downfall.",
+        "Characterization": "This is the way a playwright reveals the personality of a character. This can be through dialogue, monologues, or physical description.",
+        "Dialogue": "This is the conversation between characters in a play. It's the primary way characters communicate with each other.",
+        "Monologue": "A long speech by a single character. It can reveal a character's thoughts or feelings, or be directed towards other characters or the audience.",
+        "Stage Directions": "These are instructions in the script of a play that tell actors where to go on stage, how to move, and how to deliver their lines.",
+        "Props": "These are items that actors use on stage to enhance the story. They can be anything from a letter to a sword.",
+        "Costume": "These are the clothes actors wear during a performance. They help define characters and set the era and place of the action.",
+        "Set Design": "This involves creating the physical environment where the play takes place. It can be a specific location or an abstract, symbolic space.",
+        "Lighting Design": "This involves planning and arranging lights to create mood, direct the audience's focus, or symbolize elements of the story.",
+        "Sound Design": "This involves planning and creating all the auditory aspects of a production, including music, sound effects, and amplification of actors' voices.",
+        "Improvisation": "This is the act of spontaneously creating dialogue and action within the performance, without a script. It requires quick thinking and good listening.",
+        "Blocking": "This refers to the positioning and movement of actors on stage. It's carefully planned by the director to ensure a smooth performance.",
+        "Rehearsal": "This is the time when actors practice their lines, movements, and interactions. It's an essential part of preparing for a performance."
+    }
+}

@@ -1,0 +1,625 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I made a lemonade stand, but I only sold two cups of lemonade all day!",
+        "Let's use DMAIC! Define the problem, measure your sales, analyze the cause, improve your stand, and control the results. You'll be a lemonade tycoon in no time!"
+      ],
+      "options": [
+        "DMAIC (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My treehouse always gets messy, and I can't find my comic books!",
+        "Sounds like a job for DMAIC! Define the mess issue, measure the clutter, analyze the reasons, improve your organization, and control the new tidy space. Your treehouse will be super clean!"
+      ],
+      "options": [
+        "DMAIC (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm terrible at playing the drums. I can't keep a steady beat.",
+        "Why not try DMAIC? Define your drumming goals, measure your progress, analyze your technique, improve your skills, and control your new rhythm. You'll be rocking out in no time!"
+      ],
+      "options": [
+        "DMAIC (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My paper airplane only flies a few feet before crashing!",
+        "Practice continuous improvement! Keep making tiny changes and see which ones help your airplane fly further."
+      ],
+      "options": [
+        "Continuous Improvement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My baking always turns out weird, and I can't figure out why.",
+        "Use continuous improvement! Keep tweaking your recipe and technique until you're a master baker."
+      ],
+      "options": [
+        "Continuous Improvement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to draw better, but my doodles still look like stick figures.",
+        "Embrace continuous improvement! Keep learning new techniques and making small changes to improve your skills."
+      ],
+      "options": [
+        "Continuous Improvement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My toy car factory takes forever to make a single car.",
+        "Try value stream mapping! It's like drawing a treasure map for your toy car factory process to find the bottlenecks and fix them."
+      ],
+      "options": [
+        "Value Stream Mapping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My morning routine is so slow, I'm always late for school!",
+        "Use value stream mapping! Map out your morning routine and find ways to make it more efficient."
+      ],
+      "options": [
+        "Value Stream Mapping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My homework takes ages because I keep getting distracted.",
+        "Value stream mapping can help! Map your homework process, spot the distractions, and eliminate them."
+      ],
+      "options": [
+        "Value Stream Mapping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My bedroom is a mess, and I can't find my favorite toy!",
+        "Time for the 5S Methodology! Sort, Set in Order, Shine, Standardize, and Sustain. Your room will be clean, and you'll find your toy."
+      ],
+      "options": [
+        "5S Methodology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My school bag is full of junk, and I can never find my pencils.",
+        "Use the 5S Methodology! Organize your bag with Sort, Set in Order, Shine, Standardize, and Sustain. You'll never lose your pencils again."
+      ],
+      "options": [
+        "5S Methodology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My gaming desk is so cluttered that I can't focus on playing.",
+        "Apply the 5S Methodology! Sort your stuff, Set in Order, Shine it up, Standardize, and Sustain. Now you can game in peace!"
+      ],
+      "options": [
+        "5S Methodology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "We always have so many leftovers after our family dinner!",
+        "Focus on waste reduction! Cook just the right amount, reuse leftovers, and compost the scraps."
+      ],
+      "options": [
+        "Waste Reduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I keep losing markers because they dry out when I forget to cap them.",
+        "Try waste reduction! Make a habit of capping your markers, and you'll save money and the environment."
+      ],
+      "options": [
+        "Waste Reduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My science project used so many materials, but I threw most of them away!",
+        "Next time, practice waste reduction! Use fewer materials, recycle, and repurpose what you can."
+      ],
+      "options": [
+        "Waste Reduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My bike keeps getting flat tires, and I don't know why!",
+        "Use root cause analysis! Investigate what's causing the flats and fix the problem once and for all."
+      ],
+      "options": [
+        "Root Cause Analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always hungry after school, but I don't know why!",
+        "Do a root cause analysis! Maybe you're not eating enough for lunch or need healthier snacks to keep you full."
+      ],
+      "options": [
+        "Root Cause Analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My plants keep dying, but I'm watering them every day!",
+        "Try root cause analysis! Investigate if they're getting too much water, not enough sunlight, or have a pest problem."
+      ],
+      "options": [
+        "Root Cause Analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't figure out how to build this model airplane.",
+        "Create a process map! Break down the steps and organize them in a clear order to make it easier."
+      ],
+      "options": [
+        "Process Mapping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I keep getting lost while making friendship bracelets.",
+        "Use process mapping! List the steps in order and follow them to make the perfect bracelet."
+      ],
+      "options": [
+        "Process Mapping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to learn a new dance, but it seems too complicated.",
+        "Process mapping can help! Break the dance into smaller steps and practice them in order."
+      ],
+      "options": [
+        "Process Mapping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do my sandwiches always end up soggy?",
+        "Try standard work! Follow the same steps each time, like toasting the bread and using a barrier between the bread and wet ingredients."
+      ],
+      "options": [
+        "Standard Work (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My science experiments never turn out right.",
+        "Use standard work! Follow the same procedure every time to ensure consistency and accuracy."
+      ],
+      "options": [
+        "Standard Work (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't seem to tie my shoelaces the same way every time.",
+        "Practice standard work! Pick a method and stick to it, so you'll get better and faster at tying your shoes."
+      ],
+      "options": [
+        "Standard Work (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I keep forgetting my chores!",
+        "Try visual management! Make a fun chore chart to help you remember what needs to be done."
+      ],
+      "options": [
+        "Visual Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My desk is so cluttered, I can't find anything.",
+        "Use visual management! Label and color-code your stuff to make it easy to find and stay organized."
+      ],
+      "options": [
+        "Visual Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't remember which day is trash day.",
+        "Visual management can help! Make a colorful calendar and mark trash day with a big, bold icon."
+      ],
+      "options": [
+        "Visual Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can never tell if my basketball shooting is getting better.",
+        "Use statistical process control! Track your shots, analyze the data, and watch your progress over time."
+      ],
+      "options": [
+        "Statistical Process Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My math test scores are all over the place.",
+        "Try statistical process control! Chart your scores and look for patterns to help improve your performance."
+      ],
+      "options": [
+        "Statistical Process Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't know if my piano practice is making a difference.",
+        "Statistical process control can help! Record your practice times and performance to see your improvement."
+      ],
+      "options": [
+        "Statistical Process Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to see if my running speed is improving, but I don't know how.",
+        "Use control charts! Plot your running times on a chart to see your progress and spot any unusual changes."
+      ],
+      "options": [
+        "Control Charts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't tell if my lemonade stand sales are going up or down.",
+        "Try control charts! Track your daily sales on a chart to spot trends and identify any unusual fluctuations."
+      ],
+      "options": [
+        "Control Charts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wonder if my video game skills are improving.",
+        "Control charts can help! Record your game scores and plot them on a chart to see your progress."
+      ],
+      "options": [
+        "Control Charts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My paper airplanes never fly straight, and I don't know why!",
+        "Try Six Sigma! It's all about reducing errors and making things better, like perfecting your paper airplane designs."
+      ],
+      "options": [
+        "Six Sigma (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cookies always turn out different even though I use the same recipe.",
+        "Use Six Sigma! It's about reducing variation and making your cookies consistently delicious."
+      ],
+      "options": [
+        "Six Sigma (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My snowball fights never go well. My snowballs just fall apart!",
+        "Apply Six Sigma! Improve your snowball-making process and aim for a consistently compact snowball."
+      ],
+      "options": [
+        "Six Sigma (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to start a dog-walking business, but I don't know where to begin.",
+        "Use SIPOC! Identify Suppliers, Inputs, Process, Outputs, and Customers to plan your business like a pro."
+      ],
+      "options": [
+        "SIPOC (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm organizing a bake sale, and it's so complicated.",
+        "Try SIPOC! Break it down into Suppliers, Inputs, Process, Outputs, and Customers to simplify and organize."
+      ],
+      "options": [
+        "SIPOC (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to build a treehouse, but it seems overwhelming.",
+        "SIPOC can help! Map out Suppliers, Inputs, Process, Outputs, and Customers to make it more manageable."
+      ],
+      "options": [
+        "SIPOC (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't figure out why my toy car track keeps crashing.",
+        "Do a Gemba Walk! Go to where the problem is happening and observe to find the cause."
+      ],
+      "options": [
+        "Gemba Walk (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't understand why my bike chain keeps falling off.",
+        "Try a Gemba Walk! Go to the scene of the issue, observe, and find what's causing the problem."
+      ],
+      "options": [
+        "Gemba Walk (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My science experiment isn't working, and I don't know why.",
+        "Use a Gemba Walk! Observe the experiment up close and find out what's going wrong."
+      ],
+      "options": [
+        "Gemba Walk (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I keep forgetting to do my homework!",
+        "Try Kanban! Make a board with to-do, doing, and done columns to help you stay organized."
+      ],
+      "options": [
+        "Kanban (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have so many chores, I don't know where to start!",
+        "Use Kanban! Create a board to prioritize and track your chores, so you never feel overwhelmed."
+      ],
+      "options": [
+        "Kanban (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't keep track of all my club meetings and events.",
+        "Kanban can help! Organize your schedule with a visual board and never miss a meeting again."
+      ],
+      "options": [
+        "Kanban (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't seem to improve my jump rope skills.",
+        "Try continuous improvement! Keep practicing and making small changes to get better over time."
+      ],
+      "options": [
+        "Continuous Improvement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to get better at drawing, but I feel stuck.",
+        "Use continuous improvement! Practice daily, learn new techniques, and watch your progress."
+      ],
+      "options": [
+        "Continuous Improvement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My homemade pizza isn't as tasty as I want it to be.",
+        "Continuous improvement can help! Keep refining your recipe and technique to make it better each time."
+      ],
+      "options": [
+        "Continuous Improvement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to start a YouTube channel, but I don't know how to plan the process.",
+        "Try value stream mapping! It can help you visualize and optimize the steps to create and publish videos."
+      ],
+      "options": [
+        "Value Stream Mapping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm having trouble organizing my school project.",
+        "Use value stream mapping! It'll help you identify the steps and make the process more efficient."
+      ],
+      "options": [
+        "Value Stream Mapping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to start a small business selling handmade crafts.",
+        "Value stream mapping can help! Map out the steps from creation to customer to optimize your workflow."
+      ],
+      "options": [
+        "Value Stream Mapping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My room is a mess, and I can't find anything!",
+        "Try the 5S Methodology! Sort, Set in order, Shine, Standardize, and Sustain to keep your room clean and organized."
+      ],
+      "options": [
+        "5S Methodology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My backpack is a disaster zone.",
+        "Use the 5S Methodology! It'll help you keep your backpack organized and easy to navigate."
+      ],
+      "options": [
+        "5S Methodology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't find any of my art supplies when I need them.",
+        "5S Methodology can help! Organize and maintain your art supplies so you can easily find them when needed."
+      ],
+      "options": [
+        "5S Methodology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always running out of notebook paper.",
+        "Try waste reduction! Use both sides of the paper and save resources."
+      ],
+      "options": [
+        "Waste Reduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "We throw away so much food at home.",
+        "Use waste reduction! Plan your meals, store food properly, and use leftovers to minimize waste."
+      ],
+      "options": [
+        "Waste Reduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have so many old toys I don't play with anymore.",
+        "Waste reduction can help! Donate or recycle them instead of throwing them away."
+      ],
+      "options": [
+        "Waste Reduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My bike keeps getting flat tires, and I don't know why!",
+        "Try root cause analysis! Investigate to find the underlying issue causing the flats."
+      ],
+      "options": [
+        "Root Cause Analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My plants keep dying, but I'm not sure what I'm doing wrong.",
+        "Use root cause analysis! Figure out the main reason for their poor health and fix it."
+      ],
+      "options": [
+        "Root Cause Analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my computer keep freezing?",
+        "Root cause analysis can help! Determine the primary cause and address it to fix the problem."
+      ],
+      "options": [
+        "Root Cause Analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to plan a surprise party, but it's so complicated!",
+        "Try process mapping! Break down the steps and organize them to make planning easier."
+      ],
+      "options": [
+        "Process Mapping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to create a comic, but I don't know where to start.",
+        "Use process mapping! Identify and arrange the steps from brainstorming to publishing."
+      ],
+      "options": [
+        "Process Mapping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How can I make my morning routine more efficient?",
+        "Process mapping can help! Map out your routine, then look for ways to optimize it."
+      ],
+      "options": [
+        "Process Mapping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm having trouble keeping my room clean.",
+        "Try standard work! Establish a routine to follow consistently, so your room stays tidy."
+      ],
+      "options": [
+        "Standard Work (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't seem to get good grades on my math tests.",
+        "Use standard work! Create a consistent study plan to improve your understanding and performance."
+      ],
+      "options": [
+        "Standard Work (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to improve my cooking skills, but I keep making mistakes.",
+        "Standard work can help! Follow consistent methods and techniques to perfect your cooking."
+      ],
+      "options": [
+        "Standard Work (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't keep track of all my homework assignments.",
+        "Try visual management! Use a calendar or planner to see your assignments at a glance."
+      ],
+      "options": [
+        "Visual Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need help organizing my after-school activities.",
+        "Use visual management! Create a schedule or chart to easily see what's coming up."
+      ],
+      "options": [
+        "Visual Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to save money, but I don't know how to track my progress.",
+        "Visual management can help! Create a visual savings tracker to stay motivated and on track."
+      ],
+      "options": [
+        "Visual Management (correct answer)"
+      ]
+    }
+  ]
+}

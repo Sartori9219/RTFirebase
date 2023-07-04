@@ -1,0 +1,26 @@
+{
+    "options": [
+        "Set a budget",
+        "Research models",
+        "Consider needs vs wants",
+        "Compare new vs used",
+        "Shop around for financing",
+        "Check insurance costs",
+        "Test drive options",
+        "Inspect the vehicle",
+        "Negotiate the price",
+        "Review the paperwork"
+    ],
+    "hints": {
+        "Set a budget": "Determine the amount you can comfortably afford for a car, including down payment, monthly payments, and other expenses.",
+        "Research models": "Compare different car models and their features, reliability, and overall value.",
+        "Consider needs vs wants": "Identify the essential features you need in a car and prioritize them over non-essential features.",
+        "Compare new vs used": "Weigh the pros and cons of buying a brand-new car versus a used one, considering factors such as cost, depreciation, and warranty.",
+        "Shop around for financing": "Explore different financing options, including bank loans, credit union loans, and dealership financing, to find the best interest rate and terms.",
+        "Check insurance costs": "Get insurance quotes for the cars you're considering to factor in the cost of insurance when making your decision.",
+        "Test drive options": "Test drive multiple cars to get a feel for how they handle and perform to help narrow down your choices.",
+        "Inspect the vehicle": "If buying a used car, have it inspected by a qualified mechanic to identify any potential issues.",
+        "Negotiate the price": "Use your research and knowledge of the car's value to negotiate the best possible price with the seller.",
+        "Review the paperwork": "Carefully read and understand all the documents associated with the purchase, including the contract, title, and any warranties or guarantees."
+    }
+}

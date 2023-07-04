@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Budgeting and saving",
+        "Wants vs needs",
+        "Opening and managing a bank account",
+        "Emergency fund",
+        "Credit and credit scores",
+        "Investing and compound interest",
+        "Loans and debt management",
+        "Taxes and tax planning",
+        "Financial goal setting",
+        "Basics of insurance",
+        "Inflation",
+        "Financial planning for college",
+        "Smart shopping and consumer awareness",
+        "Financial institutions",
+        "Philanthropy and charitable giving"
+    ],
+    "hints": {
+        "Budgeting and saving": "Creating a plan for managing income and expenses, and setting aside money for future needs.",
+        "Wants vs needs": "Differentiating between essential items for survival and non-essential items that are desired.",
+        "Opening and managing a bank account": "Setting up a bank account to deposit and withdraw money, and monitoring transactions and balances.",
+        "Emergency fund": "Saving money specifically for unexpected expenses or financial emergencies.",
+        "Credit and credit scores": "Understanding how borrowing money affects your credit history and the impact it has on your credit score.",
+        "Investing and compound interest": "Putting money into assets with the potential to grow in value and understanding the power of interest earned on interest.",
+        "Loans and debt management": "Borrowing money responsibly and creating a plan to pay off debts in a timely manner.",
+        "Taxes and tax planning": "Understanding income tax obligations and strategies to minimize tax liability.",
+        "Financial goal setting": "Identifying short-term and long-term financial objectives and creating a plan to achieve them.",
+        "Basics of insurance": "Protecting yourself financially against unexpected events by purchasing insurance policies.",
+        "Inflation": "Understanding the increase in the cost of goods and services over time and its impact on purchasing power.",
+        "Financial planning for college": "Creating a strategy to save and pay for higher education expenses.",
+        "Smart shopping and consumer awareness": "Making informed purchasing decisions and being aware of marketing tactics used by sellers.",
+        "Financial institutions": "Understanding the role of banks, credit unions, and other organizations that provide financial services.",
+        "Philanthropy and charitable giving": "Donating money, goods, or time to support causes and organizations that help others."
+    }
+}

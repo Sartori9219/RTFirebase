@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Active Listening",
+        "Empathy",
+        "Responsiveness",
+        "Customer Retention",
+        "Customer Satisfaction",
+        "Service Recovery",
+        "Customer Feedback",
+        "Customer Expectations",
+        "Customer Loyalty",
+        "Personalization",
+        "Multichannel Support",
+        "Customer Experience",
+        "Conflict Resolution",
+        "Customer Journey",
+        "Service Quality"
+    ],
+    "hints": {
+        "Active Listening": "This is about fully focusing on, understanding, and responding to a customer. It's not just about hearing the words, but also understanding the customer's emotions and needs.",
+        "Empathy": "This refers to the ability to understand and share the feelings of the customer. In customer service, empathy helps build a connection and shows the customer that their concerns are being taken seriously.",
+        "Responsiveness": "This involves quickly and effectively answering customer inquiries. Fast response times can help improve customer satisfaction.",
+        "Customer Retention": "This is the process of keeping customers doing business with your company. High customer retention means customers of the product or business tend to return to, continue to buy or in some other way not defect to another product or business.",
+        "Customer Satisfaction": "This measures how happy customers are with a company's products, services, and capabilities. Customer satisfaction is often assessed using surveys.",
+        "Service Recovery": "This is how you handle a customer who has had a bad experience. This can involve things like resolving their issue, apologizing, and making it up to the customer.",
+        "Customer Feedback": "This involves collecting opinions and insights from customers about their experiences with your products, services, or customer service.",
+        "Customer Expectations": "This refers to what your customers think will happen when they use your product or service. Meeting or exceeding these expectations can lead to customer satisfaction and loyalty.",
+        "Customer Loyalty": "This is when a customer consistently chooses one company's products or services over its competition.",
+        "Personalization": "This involves tailoring your service or product to individual customer needs or desires. This can make the customer feel valued and improve their overall experience.",
+        "Multichannel Support": "This involves providing customer service through multiple channels, such as phone, email, live chat, and social media.",
+        "Customer Experience": "This is the overall perception a customer has of their interactions with a company. It encompasses every aspect of the company's offering\u2014the quality of customer care, of course, but also advertising, packaging, product and service features, ease of use, and reliability.",
+        "Conflict Resolution": "This refers to the methods and processes involved in facilitating the peaceful ending of a dispute or a conflict. In customer service, this can involve addressing a customer's issue and finding a solution that satisfies them.",
+        "Customer Journey": "This is the complete sum of experiences that customers go through when interacting with your company and brand. Instead of looking at just a part of a transaction or experience, the customer journey documents the full experience of being a customer.",
+        "Service Quality": "This refers to the perception of how well a service meets or exceeds customer expectations. Service quality can be related to service potential (worker's qualifications), service process (the quickness and politeness of service), and service result (customer satisfaction)."
+    }
+}

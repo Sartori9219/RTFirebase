@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Biomechanics",
+        "Bioinformatics",
+        "Tissue Engineering",
+        "Medical Imaging",
+        "Biomedical Devices",
+        "Biomaterials",
+        "Biomedical Optics",
+        "Genomic Engineering",
+        "Neural Engineering",
+        "Cardiovascular Engineering",
+        "Rehabilitation Engineering",
+        "Biomedical Signal Processing",
+        "Bioinstrumentation",
+        "Pharmacokinetics",
+        "Orthopedic Bioengineering"
+    ],
+    "hints": {
+        "Biomechanics": "The study of the structure and function of biological systems using the methods of mechanics.",
+        "Bioinformatics": "The application of computer technology to manage biological data, especially in the field of genomics.",
+        "Tissue Engineering": "A field that uses a combination of cells, engineering, and materials methods to improve or replace biological tissues.",
+        "Medical Imaging": "Techniques and processes used to create images of the human body for clinical purposes or medical science.",
+        "Biomedical Devices": "Design and development of devices used in healthcare, from diagnostic tools to treatment devices.",
+        "Biomaterials": "Materials, often used in medical devices, that interact with biological systems.",
+        "Biomedical Optics": "The application of optical techniques and instruments to medicine and biology.",
+        "Genomic Engineering": "The use of biotechnology to alter the genes in an organism's genome.",
+        "Neural Engineering": "A discipline that uses engineering techniques to understand, repair, replace, or enhance neural systems.",
+        "Cardiovascular Engineering": "The use of engineering principles to understand, diagnose, and treat diseases of the cardiovascular system.",
+        "Rehabilitation Engineering": "The study of engineering and computer science to develop devices that assist individuals recovering from or adapting to physical and cognitive impairments.",
+        "Biomedical Signal Processing": "The technique used to aid in the diagnosis and monitoring of human health conditions by analyzing biomedical signals.",
+        "Bioinstrumentation": "Development of devices used for the diagnosis and treatment of diseases.",
+        "Pharmacokinetics": "The study of how drugs are absorbed, distributed, metabolized, and excreted by the body.",
+        "Orthopedic Bioengineering": "The use of engineering for the understanding of the function of bones, joints, and muscles, and for the design of artificial joint replacements."
+    }
+}

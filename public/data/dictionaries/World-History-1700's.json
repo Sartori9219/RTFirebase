@@ -1,0 +1,36 @@
+{
+    "options": [
+        "The American Revolution",
+        "The French Revolution",
+        "Industrial Revolution",
+        "British Empire",
+        "Scientific advancements",
+        "Age of Enlightenment",
+        "Colonialism",
+        "Abolition of slavery",
+        "Napoleonic Wars",
+        "Nationalism",
+        "Romanticism",
+        "Agricultural Revolution",
+        "Seven Years' War",
+        "American Constitution and Bill of Rights",
+        "Women's rights movements"
+    ],
+    "hints": {
+        "The American Revolution": "The 18th-century war between Great Britain and its thirteen North American colonies, which led to the formation of the United States.",
+        "The French Revolution": "A period of radical social and political change in France, marked by the collapse of the Bourbon monarchy and the rise of radical political factions.",
+        "Industrial Revolution": "The transition from agrarian, handcraft economies to industrial and machine-based production, significantly altering the social, economic, and environmental landscape.",
+        "British Empire": "The global empire established by Great Britain during the 18th century, encompassing territories in Africa, Asia, the Americas, and Oceania.",
+        "Scientific advancements": "Notable developments in fields such as chemistry, physics, and biology, which expanded human understanding of the natural world.",
+        "Age of Enlightenment": "An intellectual and philosophical movement that emphasized reason, individualism, and the questioning of traditional authority.",
+        "Colonialism": "The policy or practice of acquiring partial or full control over another country, occupying it with settlers, and exploiting it economically.",
+        "Abolition of slavery": "The movement to end the transatlantic slave trade and the institution of chattel slavery in the Americas and Europe.",
+        "Napoleonic Wars": "A series of conflicts between Napoleon Bonaparte's French Empire and various European powers, reshaping the continent's political landscape.",
+        "Nationalism": "The political ideology that emphasizes loyalty, devotion, or allegiance to a nation or nation-state.",
+        "Romanticism": "An artistic, literary, and intellectual movement that emphasized emotion, individualism, and the beauty of nature.",
+        "Agricultural Revolution": "A period of significant agricultural advancements, including crop rotation, selective breeding, and new farming technologies, which increased food production and supported population growth.",
+        "Seven Years' War": "A global conflict between major European powers, with battles fought in Europe, North America, and Asia, ultimately leading to shifts in colonial territories.",
+        "American Constitution and Bill of Rights": "The founding documents of the United States, establishing the framework for the federal government and protecting individual liberties.",
+        "Women's rights movements": "The social and political efforts to secure equal rights and opportunities for women, including the right to vote, hold property, and access education and employment."
+    }
+}

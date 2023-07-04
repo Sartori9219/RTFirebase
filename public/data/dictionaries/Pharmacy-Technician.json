@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Prescription Reading",
+        "Drug Classifications",
+        "Dosage Calculations",
+        "Drug Interactions",
+        "Medication Storage",
+        "Pharmaceutical Compounding",
+        "Pharmacy Law and Ethics",
+        "Drug Dispensing",
+        "Medication Administration Routes",
+        "Inventory Management",
+        "Aseptic Technique",
+        "Patient Confidentiality",
+        "Pharmacy Terminology",
+        "Labeling Requirements",
+        "Pharmacy Billing"
+    ],
+    "hints": {
+        "Prescription Reading": "Understanding and interpreting written prescriptions from healthcare providers, including drug names, dosages, and instructions.",
+        "Drug Classifications": "Learning the different categories of medications based on their therapeutic effects and chemical structures.",
+        "Dosage Calculations": "Mastering the mathematical skills required to determine correct medication dosages based on factors like body weight, age, and condition.",
+        "Drug Interactions": "Identifying potential interactions between medications that may cause adverse effects or reduce effectiveness.",
+        "Medication Storage": "Properly storing medications according to temperature, light, and humidity requirements to maintain their potency and safety.",
+        "Pharmaceutical Compounding": "Preparing customized medications by mixing ingredients according to a prescription, often for patients with specific needs or allergies.",
+        "Pharmacy Law and Ethics": "Understanding the legal and ethical guidelines that govern pharmacy practice, including regulations and professional standards.",
+        "Drug Dispensing": "Accurately measuring, counting, and packaging medications for patients, ensuring correct dosage and labeling.",
+        "Medication Administration Routes": "Familiarizing oneself with the various ways medications can be administered, such as orally, topically, or intravenously.",
+        "Inventory Management": "Maintaining adequate stock levels of medications and supplies, while minimizing waste and controlling costs.",
+        "Aseptic Technique": "Practicing proper procedures to prevent contamination when working with sterile medications, such as in compounding or IV preparation.",
+        "Patient Confidentiality": "Respecting and protecting patients' privacy by securely handling their personal and medical information.",
+        "Pharmacy Terminology": "Learning the terminology used in the pharmacy setting, including abbreviations, symbols, and drug names.",
+        "Labeling Requirements": "Ensuring medication labels include all necessary information, such as patient name, drug name, dosage, and instructions for use.",
+        "Pharmacy Billing": "Understanding the billing process for medications and working with insurance companies to ensure accurate payment and reimbursement."
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Clean Air Act",
+        "Clean Water Act",
+        "Endangered Species Act",
+        "National Environmental Policy Act (NEPA)",
+        "Resource Conservation and Recovery Act (RCRA)",
+        "Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA)",
+        "Environmental Impact Assessment (EIA)",
+        "Ecosystem Services",
+        "Pollution Prevention",
+        "Sustainable Development",
+        "Conservation of Biodiversity",
+        "Climate Change Policy",
+        "Renewable Energy Policy",
+        "Environmental Justice",
+        "International Environmental Agreements"
+    ],
+    "hints": {
+        "Clean Air Act": "A federal law designed to control air pollution and improve air quality by setting emissions standards for industries and vehicles.",
+        "Clean Water Act": "A federal law that regulates the discharge of pollutants into the nation's surface waters, including lakes, rivers, and coastal areas.",
+        "Endangered Species Act": "A law aimed at protecting and recovering endangered and threatened species and their habitats.",
+        "National Environmental Policy Act (NEPA)": "A law that requires federal agencies to assess the environmental impact of proposed projects before making decisions.",
+        "Resource Conservation and Recovery Act (RCRA)": "A law that governs the disposal of solid and hazardous waste to protect human health and the environment.",
+        "Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA)": "A law that provides a framework for cleaning up hazardous waste sites and holding responsible parties accountable for cleanup costs.",
+        "Environmental Impact Assessment (EIA)": "A process used to evaluate the potential environmental effects of a proposed project or development.",
+        "Ecosystem Services": "The benefits that humans obtain from ecosystems, such as clean air, water, food, and recreational opportunities.",
+        "Pollution Prevention": "Strategies and practices aimed at reducing or eliminating waste and pollution at the source.",
+        "Sustainable Development": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+        "Conservation of Biodiversity": "The protection, preservation, and management of biodiversity to maintain healthy ecosystems and support human well-being.",
+        "Climate Change Policy": "Policies and regulations aimed at reducing greenhouse gas emissions and mitigating the impacts of climate change.",
+        "Renewable Energy Policy": "Policies that promote the development and use of clean, renewable energy sources such as solar, wind, and hydroelectric power.",
+        "Environmental Justice": "The fair treatment and meaningful involvement of all people, regardless of race, color, national origin, or income, in the development, implementation, and enforcement of environmental laws, regulations, and policies.",
+        "International Environmental Agreements": "Treaties and agreements between countries aimed at addressing global environmental issues, such as climate change, ozone depletion, and biodiversity loss."
+    }
+}

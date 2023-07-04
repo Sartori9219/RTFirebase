@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Branding",
+        "Sponsorship",
+        "Public Relations",
+        "Social Media Marketing",
+        "Content Creation",
+        "Event Management",
+        "Athlete Endorsements",
+        "Merchandising",
+        "Fan Engagement",
+        "Sports Analytics",
+        "Market Segmentation",
+        "Licensing",
+        "Ticket Sales & Promotion",
+        "Community Outreach",
+        "Crisis Management"
+    ],
+    "hints": {
+        "Branding": "Developing a unique identity and image for a sports team or athlete to create a strong connection with fans.",
+        "Sponsorship": "Partnering with businesses to support sports teams, events, or athletes in exchange for brand exposure and promotion.",
+        "Public Relations": "Managing communication between a sports organization and the public to maintain a positive reputation.",
+        "Social Media Marketing": "Using platforms like Facebook, Twitter, and Instagram to connect with fans, share updates, and promote events.",
+        "Content Creation": "Producing engaging articles, videos, and images to share on websites, social media, and other channels.",
+        "Event Management": "Planning and organizing sports events, including logistics, staffing, and promotions.",
+        "Athlete Endorsements": "Partnering with well-known athletes to promote a brand or product, leveraging their popularity and influence.",
+        "Merchandising": "Creating and selling products featuring a sports team's logo, colors, and branding to generate revenue and build fan loyalty.",
+        "Fan Engagement": "Developing strategies to keep fans engaged and excited about a team, both during games and in between seasons.",
+        "Sports Analytics": "Using data and statistics to inform decision-making for teams, including player performance, fan behavior, and marketing strategies.",
+        "Market Segmentation": "Identifying and targeting specific groups of fans based on factors like demographics, interests, and location.",
+        "Licensing": "Securing the rights to use a sports team's logo, name, and branding on products and in promotions.",
+        "Ticket Sales & Promotion": "Marketing and selling tickets to games and events, including special offers and group discounts.",
+        "Community Outreach": "Building relationships with the local community through charitable initiatives, youth programs, and other activities.",
+        "Crisis Management": "Preparing for and responding to negative situations that could impact a sports organization's reputation, such as scandals or controversies."
+    }
+}

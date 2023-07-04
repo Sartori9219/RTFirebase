@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Shuffle",
+        "Ball Change",
+        "Tap Step",
+        "Flap",
+        "Scuffle",
+        "Time Steps",
+        "Cramproll",
+        "Wings",
+        "Pullbacks",
+        "Maxi Ford",
+        "Paradiddle",
+        "Slides",
+        "Over the Top",
+        "Waltz Clog",
+        "Cincinnati"
+    ],
+    "hints": {
+        "Shuffle": "A basic tap step involving a brush forward and a brush back.",
+        "Ball Change": "A quick change of weight from one foot to the other.",
+        "Tap Step": "A simple step involving tapping the ball of the foot on the ground.",
+        "Flap": "A brush forward and a step.",
+        "Scuffle": "A combination of a shuffle and a leap.",
+        "Time Steps": "A specific rhythm pattern repeated over and over.",
+        "Cramproll": "A four-note tap combination popular in jazz dance.",
+        "Wings": "A more advanced step where the dancer jumps in the air and hits both feet to the side.",
+        "Pullbacks": "A step in which the dancer pulls their body backward while tapping.",
+        "Maxi Ford": "A complex tap step that includes a leap and a shuffle.",
+        "Paradiddle": "A complex rhythm that involves alternate heel and toe taps.",
+        "Slides": "A step where the dancer slides one foot along the floor.",
+        "Over the Top": "A complex movement where the dancer leaps over their own leg.",
+        "Waltz Clog": "A three-count tap dance step with a waltz rhythm.",
+        "Cincinnati": "A rhythm tap step that consists of a shuffle, hop, and a heel drop."
+    }
+}

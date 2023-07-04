@@ -1,0 +1,699 @@
+{
+  "questions": [
+    {
+      "question": "\"At the park, I saw a squirrel trying to water ski on a pair of _____.\"",
+      "options": [
+        "baguettes (correct answer)",
+        "quickly",
+        "twisting",
+        "surprisingly"
+      ]
+    },
+    {
+      "question": "\"In the cafeteria, the aliens served _____ on their spaceship.\"",
+      "options": [
+        "spaghetti (correct answer)",
+        "calmly",
+        "running",
+        "sweet"
+      ]
+    },
+    {
+      "question": "\"On her birthday, the cat received a gift-wrapped _____ from her owner.\"",
+      "options": [
+        "pineapple (correct answer)",
+        "hastily",
+        "whispering",
+        "tall"
+      ]
+    },
+    {
+      "question": "\"The magician pulled a _____ out of the tiny hat.\"",
+      "options": [
+        "giraffe (correct answer)",
+        "softly",
+        "hopping",
+        "fuzzy"
+      ]
+    },
+    {
+      "question": "\"The _____ was voted the best-smelling plant at the botanical garden.\"",
+      "options": [
+        "durian (correct answer)",
+        "heavily",
+        "blooming",
+        "shiny",
+        "Pronouns:"
+      ]
+    },
+    {
+      "question": "\"Even though the cake was enormous, _____ managed to finish it all by themselves.\"",
+      "options": [
+        "they (correct answer)",
+        "swim",
+        "round",
+        "often"
+      ]
+    },
+    {
+      "question": "\"Every weekend, my friends and I play basketball, but _____ usually wins.\"",
+      "options": [
+        "she (correct answer)",
+        "jump",
+        "tall",
+        "slowly"
+      ]
+    },
+    {
+      "question": "\"The dog barked at the stranger because _____ felt threatened.\"",
+      "options": [
+        "it (correct answer)",
+        "chase",
+        "furry",
+        "quickly"
+      ]
+    },
+    {
+      "question": "\"Everyone brought their own lunch, but _____ forgot theirs.\"",
+      "options": [
+        "someone (correct answer)",
+        "eat",
+        "delicious",
+        "loudly"
+      ]
+    },
+    {
+      "question": "\"The robot tried to _____ a cake for the first time.\"",
+      "options": [
+        "bake (correct answer)",
+        "fluffy",
+        "above",
+        "and"
+      ]
+    },
+    {
+      "question": "\"The octopus decided to _____ a painting with its eight arms.\"",
+      "options": [
+        "create (correct answer)",
+        "colorful",
+        "near",
+        "but"
+      ]
+    },
+    {
+      "question": "\"My grandmother loves to _____ stories about her childhood.\"",
+      "options": [
+        "tell (correct answer)",
+        "old",
+        "in",
+        "or"
+      ]
+    },
+    {
+      "question": "\"The superhero managed to _____ the city from the villain's evil plan.\"",
+      "options": [
+        "save (correct answer)",
+        "brave",
+        "under",
+        "nor"
+      ]
+    },
+    {
+      "question": "\"The _____ turtle raced against the hare and won.\"",
+      "options": [
+        "slow (correct answer)",
+        "swim",
+        "after",
+        "if"
+      ]
+    },
+    {
+      "question": "\"The ice cream truck sells the most _____ popsicles in town.\"",
+      "options": [
+        "delicious (correct answer)",
+        "eat",
+        "during",
+        "so"
+      ]
+    },
+    {
+      "question": "\"She found a _____ kitten hiding under the car.\"",
+      "options": [
+        "frightened (correct answer)",
+        "meow",
+        "behind",
+        "yet"
+      ]
+    },
+    {
+      "question": "\"Everyone was amazed by the _____ colors of the sunset.\"",
+      "options": [
+        "vibrant (correct answer)",
+        "glow",
+        "between",
+        "for"
+      ]
+    },
+    {
+      "question": "\"The turtle moved _____ towards the finish line.\"",
+      "options": [
+        "steadily (correct answer)",
+        "race",
+        "in",
+        "and"
+      ]
+    },
+    {
+      "question": "\"The detective _____ solved the mystery.\"",
+      "options": [
+        "skillfully (correct answer)",
+        "investigate",
+        "on",
+        "or"
+      ]
+    },
+    {
+      "question": "\"During the storm, the wind howled _____ through the trees.\"",
+      "options": [
+        "eerily (correct answer)",
+        "blow",
+        "behind",
+        "yet"
+      ]
+    },
+    {
+      "question": "\"The little girl giggled _____ when she saw the puppy.\"",
+      "options": [
+        "excitedly (correct answer)",
+        "laugh",
+        "above",
+        "but"
+      ]
+    },
+    {
+      "question": "\"The book is hidden _____ the couch.\"",
+      "options": [
+        "behind (correct answer)",
+        "find",
+        "fast",
+        "so"
+      ]
+    },
+    {
+      "question": "\"The cat climbed _____ the tree to chase the squirrel.\"",
+      "options": [
+        "up (correct answer)",
+        "run",
+        "small",
+        "if"
+      ]
+    },
+    {
+      "question": "\"The treasure is buried _____ the old oak tree.\"",
+      "options": [
+        "beneath (correct answer)",
+        "dig",
+        "ancient",
+        "and"
+      ]
+    },
+    {
+      "question": "\"The airplane flew _____ the clouds.\"",
+      "options": [
+        "above (correct answer)",
+        "soar",
+        "fluffy",
+        "nor"
+      ]
+    },
+    {
+      "question": "\"I wanted to go to the beach, _____ it started raining.\"",
+      "options": [
+        "but (correct answer)",
+        "play",
+        "sandy",
+        "quickly"
+      ]
+    },
+    {
+      "question": "\"You can have pizza _____ tacos for dinner, not both.\"",
+      "options": [
+        "or (correct answer)",
+        "eat",
+        "cheesy",
+        "inside"
+      ]
+    },
+    {
+      "question": "\"She forgot her umbrella, _____ she got wet in the rain.\"",
+      "options": [
+        "so (correct answer)",
+        "walk",
+        "rainy",
+        "above"
+      ]
+    },
+    {
+      "question": "\"Neither the cat _____ the dog wanted to go outside in the cold.\"",
+      "options": [
+        "nor (correct answer)",
+        "refuse",
+        "chilly",
+        "under",
+        "Interjections:"
+      ]
+    },
+    {
+      "question": "\"_____! I forgot to turn off the oven before leaving the house.\"",
+      "options": [
+        "Oh no (correct answer)",
+        "bake",
+        "hot",
+        "behind"
+      ]
+    },
+    {
+      "question": "\"_____! That was an incredible performance!\"",
+      "options": [
+        "Bravo (correct answer)",
+        "watch",
+        "amazing",
+        "between"
+      ]
+    },
+    {
+      "question": "\"_____! Be careful with that glass vase.\"",
+      "options": [
+        "Watch out (correct answer)",
+        "hold",
+        "fragile",
+        "on"
+      ]
+    },
+    {
+      "question": "\"_____! You startled me when you came up behind me.\"",
+      "options": [
+        "Yikes (correct answer)",
+        "scare",
+        "surprised",
+        "after"
+      ]
+    },
+    {
+      "question": "\"Neither the teacher nor the students _____ excited about the surprise test.\"",
+      "options": [
+        "were (correct answer)",
+        "is",
+        "be",
+        "am"
+      ]
+    },
+    {
+      "question": "\"Each of the puppies _____ a new home.\"",
+      "options": [
+        "found (correct answer)",
+        "finds",
+        "finding",
+        "finded"
+      ]
+    },
+    {
+      "question": "\"Many people in the city _____ public transportation daily.\"",
+      "options": [
+        "use (correct answer)",
+        "uses",
+        "using",
+        "used"
+      ]
+    },
+    {
+      "question": "\"The news _____ often hard to predict.\"",
+      "options": [
+        "is (correct answer)",
+        "are",
+        "be",
+        "am"
+      ]
+    },
+    {
+      "question": "\"Yesterday, she _____ the laundry.\"",
+      "options": [
+        "did (correct answer)",
+        "do",
+        "doing",
+        "does"
+      ]
+    },
+    {
+      "question": "\"Right now, he _____ his favorite song on the guitar.\"",
+      "options": [
+        "is playing (correct answer)",
+        "plays",
+        "played",
+        "will play"
+      ]
+    },
+    {
+      "question": "\"They _____ a trip to Europe next summer.\"",
+      "options": [
+        "are planning (correct answer)",
+        "plan",
+        "planned",
+        "have planned"
+      ]
+    },
+    {
+      "question": "\"Last year, we _____ a huge snowstorm.\"",
+      "options": [
+        "had (correct answer)",
+        "have",
+        "has",
+        "having"
+      ]
+    },
+    {
+      "question": "\"The cake was _____ by the talented chef.\"",
+      "options": [
+        "baked (correct answer)",
+        "bakes",
+        "baking",
+        "will bake"
+      ]
+    },
+    {
+      "question": "\"Her bike was _____ in the garage.\"",
+      "options": [
+        "found (correct answer)",
+        "finds",
+        "finding",
+        "will find"
+      ]
+    },
+    {
+      "question": "\"The award was _____ to the best actor.\"",
+      "options": [
+        "given (correct answer)",
+        "gives",
+        "giving",
+        "will give"
+      ]
+    },
+    {
+      "question": "\"The package was _____ at the front door.\"",
+      "options": [
+        "left (correct answer)",
+        "leaves",
+        "leaving",
+        "will leave"
+      ]
+    },
+    {
+      "question": "\"The mechanic _____ the car.\"",
+      "options": [
+        "fixed (correct answer)",
+        "was fixed",
+        "fixing",
+        "will fix"
+      ]
+    },
+    {
+      "question": "\"The gardener _____ the plants every day.\"",
+      "options": [
+        "waters (correct answer)",
+        "watered",
+        "was watered",
+        "will water"
+      ]
+    },
+    {
+      "question": "\"The students _____ their homework on time.\"",
+      "options": [
+        "submitted (correct answer)",
+        "submit",
+        "was submitted",
+        "will submit"
+      ]
+    },
+    {
+      "question": "\"The chef _____ a delicious meal for the guests.\"",
+      "options": [
+        "prepared (correct answer)",
+        "prepares",
+        "was prepared",
+        "will prepare"
+      ]
+    },
+    {
+      "question": "\"I saw _____ elephant at the zoo.\"",
+      "options": [
+        "an (correct answer)",
+        "a",
+        "the",
+        "and"
+      ]
+    },
+    {
+      "question": "\"Please pass me _____ apple.\"",
+      "options": [
+        "an (correct answer)",
+        "a",
+        "the",
+        "or"
+      ]
+    },
+    {
+      "question": "\"He took _____ umbrella because it was raining.\"",
+      "options": [
+        "an",
+        "a (correct answer)",
+        "the",
+        "and"
+      ]
+    },
+    {
+      "question": "\"She's looking for _____ book she lost.\"",
+      "options": [
+        "an",
+        "a",
+        "the (correct answer)",
+        "but"
+      ]
+    },
+    {
+      "question": "\"Look at all those beautiful _____ in the sky.\"",
+      "options": [
+        "stars (correct answer)",
+        "star",
+        "starring",
+        "will star"
+      ]
+    },
+    {
+      "question": "\"She bought three _____ to share with her friends.\"",
+      "options": [
+        "pizzas (correct answer)",
+        "pizza",
+        "pizzing",
+        "will pizza"
+      ]
+    },
+    {
+      "question": "\"The farmer has a dozen _____ in the field.\"",
+      "options": [
+        "cows (correct answer)",
+        "cow",
+        "cowing",
+        "will cow"
+      ]
+    },
+    {
+      "question": "\"I have two _____ on my desk.\"",
+      "options": [
+        "pens (correct answer)",
+        "pen",
+        "penning",
+        "will pen"
+      ]
+    },
+    {
+      "question": "\"I _____ believe how fast the time went by.\"",
+      "options": [
+        "can't (correct answer)",
+        "cannot",
+        "can",
+        "will not"
+      ]
+    },
+    {
+      "question": "\"She _____ going to the store later.\"",
+      "options": [
+        "is (correct answer)",
+        "are",
+        "will",
+        "isn't"
+      ]
+    },
+    {
+      "question": "\"They _____ visited the museum before.\"",
+      "options": [
+        "haven't (correct answer)",
+        "has not",
+        "have",
+        "will not"
+      ]
+    },
+    {
+      "question": "\"We _____ wait to see the new movie.\"",
+      "options": [
+        "can't (correct answer)",
+        "cannot",
+        "can",
+        "will not"
+      ]
+    },
+    {
+      "question": "\"_____ is the capital of France.\"",
+      "options": [
+        "Paris (correct answer)",
+        "paris",
+        "PARIS",
+        "pARIS"
+      ]
+    },
+    {
+      "question": "\"My favorite book is '_____ of the Flies.'\"",
+      "options": [
+        "Lord (correct answer)",
+        "lord",
+        "LORD",
+        "lORD"
+      ]
+    },
+    {
+      "question": "\"We're going to the _____ on Saturday.\"",
+      "options": [
+        "zoo (correct answer)",
+        "Zoo",
+        "ZOO",
+        "zOO"
+      ]
+    },
+    {
+      "question": "\"His name is _____.\"",
+      "options": [
+        "John (correct answer)",
+        "john",
+        "JOHN",
+        "jOHN"
+      ]
+    },
+    {
+      "question": "\"_____ the store to buy some groceries.\"",
+      "options": [
+        "She went to (correct answer)",
+        "She going to",
+        "She goed to",
+        "She will went to"
+      ]
+    },
+    {
+      "question": "\"_____ his favorite toy under the bed.\"",
+      "options": [
+        "He found (correct answer)",
+        "He finding",
+        "He founded",
+        "He will finded"
+      ]
+    },
+    {
+      "question": "\"_____ the book before the movie comes out.\"",
+      "options": [
+        "I want to read (correct answer)",
+        "I wants to read",
+        "I reading",
+        "I will reads"
+      ]
+    },
+    {
+      "question": "\"_____ a great time at the party.\"",
+      "options": [
+        "They had (correct answer)",
+        "They having",
+        "They haved",
+        "They will had"
+      ]
+    },
+    {
+      "question": "\"He said, '_____ a beautiful day!'\"",
+      "options": [
+        "It's (correct answer)",
+        "Its",
+        "It",
+        "This"
+      ]
+    },
+    {
+      "question": "\"She said, '_____ your homework before watching TV.'\"",
+      "options": [
+        "Do (correct answer)",
+        "Doing",
+        "Did",
+        "Will do"
+      ]
+    },
+    {
+      "question": "\"They told him, '_____ more careful next time.'\"",
+      "options": [
+        "Be (correct answer)",
+        "Being",
+        "Been",
+        "Will be"
+      ]
+    },
+    {
+      "question": "\"I asked her, '_____ you seen my keys?'\"",
+      "options": [
+        "Have (correct answer)",
+        "Has",
+        "Had",
+        "Will have"
+      ]
+    },
+    {
+      "question": "\"The word 'swimming' is a(n) _____ in the sentence 'They are swimming in the pool.'\"",
+      "options": [
+        "verb (correct answer)",
+        "noun",
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "question": "\"'Quickly' is a(n) _____ in the sentence 'The dog ran quickly to fetch the ball.'\"",
+      "options": [
+        "adverb (correct answer)",
+        "verb",
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "question": "\"'Excited' is a(n) _____ in the sentence 'The excited children opened their presents.'\"",
+      "options": [
+        "adjective (correct answer)",
+        "noun",
+        "verb",
+        "adverb"
+      ]
+    },
+    {
+      "question": "\"'And' is a(n) _____ in the sentence 'She likes to read and write.'\"",
+      "options": [
+        "conjunction (correct answer)",
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "questions": [
+    {
+      "question": [
+        "So, if I can cut paper into fancy shapes, does that mean I can cut hair?"
+      ],
+      "options": [
+        "Haircutting Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use my kitchen scissors to give haircuts?"
+      ],
+      "options": [
+        "Haircutting Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I want to give my friend a bob cut, can I just chop it all off in one go?"
+      ],
+      "options": [
+        "Haircutting Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I tie my shoelaces, does that mean I can braid hair?"
+      ],
+      "options": [
+        "Hair Styling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use my vacuum cleaner to style hair?"
+      ],
+      "options": [
+        "Hair Styling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can make spaghetti, can I curl hair?"
+      ],
+      "options": [
+        "Hair Styling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I'm good at coloring books, does that mean I'd be good at hair coloring?"
+      ],
+      "options": [
+        "Hair Coloring (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use my highlighter to add some streaks to my hair?"
+      ],
+      "options": [
+        "Hair Coloring (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use my kitchen grater to add texture to my hair?"
+      ],
+      "options": [
+        "Texturizing Services (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can make waves in a pond, can I create waves in hair?",
+        "Well, the principle might be similar, but the methods are different. Creating waves in hair involves techniques",
+        "If I can paint a wall, can I paint nails?"
+      ],
+      "options": [
+        "Nail Care and Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use a marker to design my nails?"
+      ],
+      "options": [
+        "Nail Care and Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can grow a plant, can I grow nails?"
+      ],
+      "options": [
+        "Nail Care and Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can draw a stick figure, does that mean I can do makeup?"
+      ],
+      "options": [
+        "Makeup Application (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use my crayons to do makeup?"
+      ],
+      "options": [
+        "Makeup Application (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can frost a cake, can I apply",
+        "Can I apply makeup like I do finger painting in art class?"
+      ],
+      "options": [
+        "Makeup Application (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I'm good at playing dress-up, will I be good at makeup?"
+      ],
+      "options": [
+        "Makeup Application (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can make a smoothie, can I blend makeup?"
+      ],
+      "options": [
+        "Makeup Application (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can pull weeds from my garden, can I wax my own eyebrows?"
+      ],
+      "options": [
+        "Hair Removal Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use my pencil eraser to erase unwanted hair?"
+      ],
+      "options": [
+        "Hair Removal Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can shave my dog's fur, can I shave my own hair?"
+      ],
+      "options": [
+        "Hair Removal Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can manage to clean my room, can I manage a salon?"
+      ],
+      "options": [
+        "Salon Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just use my game strategies from \"SimCity\" to run a salon?"
+      ],
+      "options": [
+        "Salon Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can remember to wash my hands before dinner, can I handle salon hygiene?"
+      ],
+      "options": [
+        "Health and Safety Practices (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can dodge a water balloon, can I avoid safety hazards in a salon?"
+      ],
+      "options": [
+        "Health and Safety Practices (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I use my video game skills to stay safe in a salon?"
+      ],
+      "options": [
+        "Health and Safety Practices (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can map my way around a Minecraft world, can I understand the anatomy of the skin and hair?"
+      ],
+      "options": [
+        "Anatomy and Physiology of the Hair and Skin (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if skin is an organ, does that mean I'm a walking, talking organ playing music?"
+      ],
+      "options": [
+        "Anatomy and Physiology of the Hair and Skin (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I split ends from my hair, does that mean it's mathematically dividing?"
+      ],
+      "options": [
+        "Anatomy and Physiology of the Hair and Skin (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I get goosebumps when I'm cold, does that mean my skin is turning into a goose?"
+      ],
+      "options": [
+        "Anatomy and Physiology of the Hair and Skin (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, professionalism means I have to wear a suit and tie in the salon?"
+      ],
+      "options": [
+        "Professionalism and Ethics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I promise to not spill my friend's secrets, am I being ethical?"
+      ],
+      "options": [
+        "Professionalism and Ethics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I don't gossip about the customer's weird haircut request, am I being professional?"
+      ],
+      "options": [
+        "Professionalism and Ethics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So if a client asks for a mohawk, but I think they'd look better with a pixie cut, should I just do what I think is best?"
+      ],
+      "options": [
+        "Client Consultation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If a client wants to go from black hair to platinum blonde in one session, can I just say \"sure, let's do it!\"?"
+      ],
+      "options": [
+        "Client Consultation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if a client shows me a photo of a celebrity and asks for the exact same look, I should just go for it?"
+      ],
+      "options": [
+        "Client Consultation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So you're saying Cleopatra started the first spa with her milk baths?"
+      ],
+      "options": [
+        "History of Cosmetology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I invent a new hairstyle, will I go down in cosmetology history like Vidal Sassoon?"
+      ],
+      "options": [
+        "History of Cosmetology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, back in the day, they used to wear wigs full of powder and... pests?!"
+      ],
+      "options": [
+        "History of Cosmetology (correct answer)"
+      ]
+    }
+  ]
+}

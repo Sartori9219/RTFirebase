@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Real Property",
+        "Personal Property",
+        "Intellectual Property",
+        "Easements",
+        "Zoning Regulations",
+        "Adverse Possession",
+        "Trespassing",
+        "Nuisance",
+        "Lease Agreements",
+        "Eminent Domain",
+        "Landlord-Tenant Law",
+        "Property Taxes",
+        "Mortgages",
+        "Deeds",
+        "Title Insurance"
+    ],
+    "hints": {
+        "Real Property": "Refers to land and anything permanently attached to it, such as buildings or structures.",
+        "Personal Property": "Includes movable items not permanently attached to land, such as furniture, vehicles, and jewelry.",
+        "Intellectual Property": "Covers intangible creations like inventions, artistic works, and designs, protected through patents, copyrights, and trademarks.",
+        "Easements": "A right granted to a person or entity to use another's land for a specific purpose, such as access to a neighboring property.",
+        "Zoning Regulations": "Local rules that dictate how land can be used, such as residential, commercial, or industrial purposes.",
+        "Adverse Possession": "A legal principle that allows someone to claim ownership of another's property if they've occupied it without permission for a certain period.",
+        "Trespassing": "The act of entering someone else's property without permission or legal right.",
+        "Nuisance": "An activity or condition on one's property that interferes with a neighbor's enjoyment of their property, such as excessive noise or pollution.",
+        "Lease Agreements": "Contracts between landlords and tenants that establish the terms and conditions for renting a property.",
+        "Eminent Domain": "The power of the government to take private property for public use, with just compensation provided to the owner.",
+        "Landlord-Tenant Law": "The body of law governing the rights and responsibilities of landlords and tenants in rental relationships.",
+        "Property Taxes": "Taxes levied by local governments on real property to fund public services and infrastructure.",
+        "Mortgages": "Loans secured by real property, used to finance the purchase of that property.",
+        "Deeds": "Legal documents that transfer ownership of real property from one party to another.",
+        "Title Insurance": "A type of insurance policy that protects a property owner or lender against financial loss due to defects in the property's title or undiscovered liens."
+    }
+}

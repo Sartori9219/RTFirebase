@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Welding safety",
+        "Oxyfuel cutting (OFC)",
+        "Shielded Metal Arc Welding (SMAW)",
+        "Gas Metal Arc Welding (GMAW)",
+        "Gas Tungsten Arc Welding (GTAW)",
+        "Plasma Arc Cutting (PAC)",
+        "Flux-Cored Arc Welding (FCAW)",
+        "Welding joints",
+        "Welding positions",
+        "Welding symbols",
+        "Welding techniques",
+        "Welding metallurgy",
+        "Electrodes and filler metals",
+        "Welding equipment maintenance",
+        "Welding inspection and quality control"
+    ],
+    "hints": {
+        "Welding safety": "Essential precautions and guidelines for protecting welders from potential hazards such as heat, fumes, and electricity.",
+        "Oxyfuel cutting (OFC)": "A cutting process that uses a combination of fuel gases and oxygen to cut metals.",
+        "Shielded Metal Arc Welding (SMAW)": "A manual arc welding process that uses a consumable electrode coated with a flux to lay the weld.",
+        "Gas Metal Arc Welding (GMAW)": "Also known as MIG welding, this process uses a continuous wire feed as an electrode and an inert shielding gas to protect the weld from contamination.",
+        "Gas Tungsten Arc Welding (GTAW)": "Also called TIG welding, this process uses a non-consumable tungsten electrode and an inert shielding gas to create high-quality welds.",
+        "Plasma Arc Cutting (PAC)": "A cutting process that uses an electrically conductive gas (plasma) to transfer energy from an electrical power source to the workpiece.",
+        "Flux-Cored Arc Welding (FCAW)": "A variation of GMAW that uses a tubular wire filled with flux, providing additional shielding and eliminating the need for an external gas supply.",
+        "Welding joints": "Different types of connections between workpieces, such as butt, lap, corner, edge, and tee joints.",
+        "Welding positions": "The orientation of the welder and workpiece during welding, including flat, horizontal, vertical, and overhead positions.",
+        "Welding symbols": "Standardized symbols used on blueprints to communicate welding requirements, such as type, size, and location of welds.",
+        "Welding techniques": "Various methods used to manipulate the welding process, such as weaving, stringer beads, and whip motion.",
+        "Welding metallurgy": "The study of how metals react to heat and pressure during welding, including the effects on material properties, structure, and performance.",
+        "Electrodes and filler metals": "Materials used in welding processes to join workpieces, available in various types and sizes based on application requirements.",
+        "Welding equipment maintenance": "Proper care and maintenance of welding equipment to ensure safe operation, longevity, and optimal performance.",
+        "Welding inspection and quality control": "Methods for assessing the quality of welds, including visual inspection, destructive testing, and non-destructive testing techniques."
+    }
+}

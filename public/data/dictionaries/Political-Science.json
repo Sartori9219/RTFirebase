@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Data Collection",
+        "Data Cleaning",
+        "Data Types",
+        "Data Summarization",
+        "Data Exploration",
+        "Descriptive Statistics",
+        "Inferential Statistics",
+        "Hypothesis Testing",
+        "Correlation and Covariance",
+        "Regression Analysis",
+        "Time Series Analysis",
+        "Data Visualization Techniques",
+        "Dashboards and Reporting",
+        "Dimensionality Reduction",
+        "Machine Learning Basics"
+    ],
+    "hints": {
+        "Data Collection": "Gathering relevant data from various sources, such as surveys, databases, or web scraping.",
+        "Data Cleaning": "Preparing and organizing data by removing errors, inconsistencies, and duplicates.",
+        "Data Types": "Understanding the different types of data, such as categorical, numerical, and ordinal.",
+        "Data Summarization": "Condensing large datasets into smaller, more understandable representations.",
+        "Data Exploration": "Examining data to identify patterns, trends, and relationships.",
+        "Descriptive Statistics": "Using measures like mean, median, mode, and standard deviation to describe data.",
+        "Inferential Statistics": "Making predictions and generalizations about a population based on sample data.",
+        "Hypothesis Testing": "Evaluating the validity of a claim or hypothesis using statistical tests.",
+        "Correlation and Covariance": "Measuring the strength and direction of the relationship between two variables.",
+        "Regression Analysis": "Modeling the relationship between a dependent variable and one or more independent variables.",
+        "Time Series Analysis": "Analyzing data points collected over time to identify trends, seasonal patterns, or other temporal structures.",
+        "Data Visualization Techniques": "Representing data graphically, such as bar charts, line charts, pie charts, and scatter plots.",
+        "Dashboards and Reporting": "Creating interactive and dynamic visual displays to communicate insights and findings.",
+        "Dimensionality Reduction": "Reducing the number of variables in a dataset while preserving its essential information.",
+        "Machine Learning Basics": "Using algorithms to learn from data and make predictions or decisions based on new, unseen data."
+    }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "Project objective": "You're a detective hired by the International Earth Society. Your mission is to find the lost 'Climate Changer', a device that can alter the climate of a specific location, hidden somewhere in the world. Using the concepts below, crack the case and save the planet!",
+    "Steps": [
+      "Latitude and Longitude: Your first clue is a cryptic message with coordinates (please make up a realistic one). Use an online map tool to decipher latitude and longitude. Mark the location on a world map.",
+      "Physical Geography: Research this area's physical features like mountains, rivers, or plains. Use online tools like Google Earth and create a list of these features. They could be hiding places!",
+      "Human Geography: Look at the human aspects of the area \u2013 population, culture, and languages. Could these factors influence where the device is hidden? Write a short report on your findings.",
+      "Cartography: Using your findings, create a detailed map of the area using a drawing software. Include both physical features and human settlements.",
+      "Climate Zones: The lost device is said to be in a region sharing the same climate zone as your location. Identify your location's climate zone and match it with the one in the target area.",
+      "Latitude and Longitude (Part 2): The villain sent another clue, a second set of coordinates. Locate these on your map.",
+      "Physical Geography (Part 2): Investigate the physical geography of this new location. Are there any features that match your first location? Could this be a pattern?",
+      "Human Geography (Part 2): Compare the human geography of both locations. What similarities or differences do you find?",
+      "Cartography (Part 2): Update your map with the new location and its features. Can you see a path or connection?",
+      "Climate Zones (Part 2): Finally, review the climate zones of your locations. The device should ideally be in a place where it can cause the most change. Using your findings, predict the final location of the Climate Changer."
+    ]
+  },
+  {
+    "Project objective": "You're the newest member of the \"Earth Defenders Club,\" a group of savvy teens on a mission to build a utopian city for humans and animals alike. Your task is to develop a plan that respects the delicate balance of the planet's ecosystems, geography, and human society. Let's get started!",
+    "Steps": [
+      "Ecosystems/Biomes: Start by researching different ecosystems and biomes on Earth. Choose your favorite one and write a short description, noting its unique flora, fauna, and climate.",
+      "Continental Drift: Learn about the concept of continental drift. Use an online simulation to understand how the continents have moved over millions of years. Write a brief summary of how this movement has influenced your chosen biome.",
+      "Globalization: Explore how globalization has impacted ecosystems around the world, particularly your chosen biome. Create a digital presentation showing these effects, both positive and negative.",
+      "Urbanization: Study the process of urbanization. How has it affected your biome? Design a 'dream city' that could exist within your chosen biome without causing significant harm. Use a digital design tool to visualize your ideas.",
+      "Population Density: Research population density and its impact on urban areas and ecosystems. Determine an ideal population density for your dream city that would respect the balance of the ecosystem.",
+      "Ecosystems/Biomes (Part 2): Now, choose a second biome. Consider how you could incorporate aspects of this biome into your city, creating a diverse and inclusive environment for multiple species.",
+      "Continental Drift (Part 2): Ponder how continental drift might affect your city in the distant future. Prepare a contingency plan for your city's inhabitants, ensuring they could adapt to changes in the ecosystem.",
+      "Globalization (Part 2): As your city grows, so does its global influence. Discuss ways to use globalization to spread your city's eco-friendly principles to other areas of the world.",
+      "Urbanization (Part 2): As your city expands, how will you maintain balance with the surrounding biomes? Propose a plan for sustainable urban development.",
+      "Population Density (Part 2): Finally, reassess your city's population density as it grows. Design a digital infographic to show how your city can maintain its population balance while co-existing harmoniously with the biomes."
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Art Movements",
+        "Styles and Techniques",
+        "Iconography",
+        "Symbolism",
+        "Realism",
+        "Perspective",
+        "Composition",
+        "Cultural Influence",
+        "Modernism",
+        "Impressionism",
+        "Expressionism",
+        "Surrealism",
+        "Abstract Art",
+        "Pop Art",
+        "Feminist Art"
+    ],
+    "hints": {
+        "Art Movements": "A specific style or approach to art that is shared among a group of artists during a specific period of time, like the Renaissance or Impressionism.",
+        "Styles and Techniques": "The specific way an artist creates their work, including methods of painting or sculpting, and choices of color, line, and form.",
+        "Iconography": "The study of subject matter and symbolism in art. Iconography can reveal hidden meanings, stories, or values in an artwork.",
+        "Symbolism": "The use of symbols to represent ideas or qualities. Symbolism can be cultural, personal, or universally understood.",
+        "Realism": "An art movement that aims to represent subjects as they appear in everyday life, without embellishment or interpretation.",
+        "Perspective": "A technique used to represent three-dimensional space on a two-dimensional surface, providing depth and realism to the piece.",
+        "Composition": "The arrangement of elements within a work of art. Composition can guide the viewer's eye and influence the artwork's overall impact.",
+        "Cultural Influence": "How a society's culture, including its history, beliefs, and values, influence the art it produces.",
+        "Modernism": "A broad movement that developed in the late 19th and 20th centuries, characterized by a self-conscious break with traditional styles and a search for new forms of expression.",
+        "Impressionism": "An art movement characterized by small, thin, yet visible brush strokes, open composition, emphasis on accurate depiction of light, and capturing the fleeting moment.",
+        "Expressionism": "A style of art in which the artist seeks to depict not objective reality but rather the subjective emotions and responses.",
+        "Surrealism": "An art movement that sought to release the creative potential of the unconscious mind, for example by the irrational juxtaposition of images.",
+        "Abstract Art": "A style of art that does not attempt to represent an accurate depiction of visual reality. It instead uses shapes, colors, forms and gestural marks to achieve its effect.",
+        "Pop Art": "An art movement that emerged in the 1950s and flourished in the 1960s in America and Britain, drawing inspiration from sources in popular and commercial culture such as advertising, Hollywood movies and pop music.",
+        "Feminist Art": "Art by artists made consciously in the light of developments in feminist art theory in the early 1970s. It sought to reflect women's lives and experiences and instigate change."
+    }
+}

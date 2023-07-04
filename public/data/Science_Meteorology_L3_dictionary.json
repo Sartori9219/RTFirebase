@@ -1,0 +1,390 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Did you know, you're actually carrying around 14.7 pounds per square inch of air on your shoulders right now?",
+        "Really? And here I thought my backpack was heavy."
+      ],
+      "options": [
+        "Atmospheric Pressure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do potato chip bags puff up in the mountains?",
+        "Maybe they're just trying to get a better view?"
+      ],
+      "options": [
+        "Atmospheric Pressure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does this soda can crush when I take it out of the fridge?",
+        "It must be feeling the pressure."
+      ],
+      "options": [
+        "Atmospheric Pressure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my hat always fly off in this particular park?",
+        "Maybe it's trying to start a new fashion trend among the squirrels."
+      ],
+      "options": [
+        "Wind Patterns (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do my kites always fly towards the east here?",
+        "Maybe they've heard about the amazing sunrise?"
+      ],
+      "options": [
+        "Wind Patterns (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't believe my ice cream melted in just 2 minutes!",
+        "That's what happens when you try to enjoy a sundae on a sunny day."
+      ],
+      "options": [
+        "Temperature (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can fry an egg on my car's hood today!",
+        "That\u2019s one way to make a sunny side up!"
+      ],
+      "options": [
+        "Temperature (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the coffee from this vending machine always scald my tongue?",
+        "Maybe it\u2019s trying to give you a hot tip?"
+      ],
+      "options": [
+        "Temperature (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is my hair so frizzy today?",
+        "I guess the air decided to give you a 'humidity' hairstyle!"
+      ],
+      "options": [
+        "Humidity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are the windows all fogged up?",
+        "Maybe they're just sweating from the heat!"
+      ],
+      "options": [
+        "Humidity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I feel like I'm breathing soup, not air.",
+        "Welcome to the steamy world of high humidity!"
+      ],
+      "options": [
+        "Humidity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's not crying, it's just the clouds having a water balloon fight!"
+      ],
+      "options": [
+        "Precipitation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My car just got a free wash!",
+        "Mother Nature's car wash service at your service!"
+      ],
+      "options": [
+        "Precipitation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't need a shower, I'll just stand outside.",
+        "Nature's shower, coming right up!"
+      ],
+      "options": [
+        "Precipitation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do the skies suddenly become so gloomy when I'm in a good mood?",
+        "Must be a cold front coming through. They have a knack for dramatic entrances!"
+      ],
+      "options": [
+        "Weather Fronts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It feels like a warm hug outside.",
+        "That's just the warm front passing by. It's a friendly one!"
+      ],
+      "options": [
+        "Weather Fronts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the weather flip-flop more than a politician?",
+        "It must be the battle of the weather fronts!"
+      ],
+      "options": [
+        "Weather Fronts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the weather channel calling for rain, while my knee is calling for clear skies?",
+        "Ah, the grand clash between modern meteorology and traditional weather forecasting!"
+      ],
+      "options": [
+        "Weather Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Every time I plan a picnic, the weather becomes the villain!",
+        "It's not personal. It's just weather systems doing their thing!"
+      ],
+      "options": [
+        "Weather Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't the weather be as predictable as my alarm clock?",
+        "Because then meteorologists would be out of a job!"
+      ],
+      "options": [
+        "Weather Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm moving to the desert because I'm sick of this cold weather.",
+        "Don't forget your sunscreen and a bunch of water bottles!"
+      ],
+      "options": [
+        "Climate Zones (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to experience all four seasons in a day. Any suggestions?",
+        "Try living on a weather simulator, maybe?"
+      ],
+      "options": [
+        "Climate Zones (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is it always raining in the rainforest?",
+        "I guess the name is a bit of a giveaway, isn't it?"
+      ],
+      "options": [
+        "Climate Zones (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been riding this jet ski for an hour, but I still can't find the jet stream.",
+        "Maybe try looking up in the sky next time."
+      ],
+      "options": [
+        "Jet Streams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think a kite could ride the jet stream?",
+        "Only if it's a super-kite with aspirations of being an airplane!"
+      ],
+      "options": [
+        "Jet Streams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is my flight to Europe quicker than my flight back to the US?",
+        "Must be the invisible highway in the sky giving you a push!"
+      ],
+      "options": [
+        "Jet Streams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been boiling this kettle for ages, but I still can't make a cumulus cloud.",
+        "Well, you may need to supersize your kettle and add a dash of atmospheric pressure!"
+      ],
+      "options": [
+        "Cloud Formation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think if I yell loud enough, a cloud would form from my breath?",
+        "Only if your words are hot and humid enough!"
+      ],
+      "options": [
+        "Cloud Formation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do clouds always appear when I hang my laundry to dry?",
+        "They must be big fans of your fashion sense!"
+      ],
+      "options": [
+        "Cloud Formation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I predict that it's going to rain cats and dogs later.",
+        "Are you a meteorologist or a pet store owner?"
+      ],
+      "options": [
+        "*Weather Forecasting (correct answer)*"
+      ]
+    },
+    {
+      "question": [
+        "Do you think if I hold this wet finger up, I can predict the weather?",
+        "Only if your finger is connected to a supercomputer!"
+      ],
+      "options": [
+        "*Weather Forecasting (correct answer)*"
+      ]
+    },
+    {
+      "question": [
+        "I told my boss I couldn't come in because the forecast said heavy snow.",
+        "Well, you can never trust the weather forecast, can you?"
+      ],
+      "options": [
+        "*Weather Forecasting (correct answer)*"
+      ]
+    },
+    {
+      "question": [
+        "Do you think a hurricane could blow away my bad hair day?",
+        "Maybe, but it might also blow away your whole house!"
+      ],
+      "options": [
+        "Hurricanes and Typhoons (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I told my friend I felt like a typhoon, powerful and spinny.",
+        "Maybe you should lay off the coffee?"
+      ],
+      "options": [
+        "Hurricanes and Typhoons (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My kid asked if we could have a pet hurricane. He promised to take care of it.",
+        "Hmm. The walkies could be a bit breezy."
+      ],
+      "options": [
+        "Hurricanes and Typhoons (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I told my boss my ideas are like tornadoes. They're powerful and can change landscapes.",
+        "And they leave a path of destruction?"
+      ],
+      "options": [
+        "Tornadoes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish I could harness the energy of a tornado to power my house.",
+        "I'd settle for harnessing the energy of my toddler."
+      ],
+      "options": [
+        "Tornadoes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My mood swings are like El Nino and La Nina, unpredictable and impactful.",
+        "Oh, so that's why our office weather is always unsettled."
+      ],
+      "options": [
+        "El Nino and La Nina Phenomena (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ever notice how salsa dancing is like El Nino and La Nina? Hot, cool, and rhythmically cyclical.",
+        "I guess that's one way to spice up climate discussions."
+      ],
+      "options": [
+        "El Nino and La Nina Phenomena (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I told my kids that El Nino and La Nina were weather superheroes.",
+        "Do they have the power to cancel school on snow days?"
+      ],
+      "options": [
+        "El Nino and La Nina Phenomena (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I was trying to explain global warming to my plants. They asked me to leaf them out of it.",
+        "Guess they're more about growth than climate change."
+      ],
+      "options": [
+        "Global Warming and Climate Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we treated climate change like a diet? You know, cut back on the greenhouse gasses, exercise more sustainable practices...",
+        "Well, then I guess we're in need of a global lifestyle change."
+      ],
+      "options": [
+        "Global Warming and Climate Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't think my freezer understands the concept of global warming.",
+        "Because it refuses to defrost."
+      ],
+      "options": [
+        "Global Warming and Climate Change (correct answer)"
+      ]
+    }
+  ]
+}

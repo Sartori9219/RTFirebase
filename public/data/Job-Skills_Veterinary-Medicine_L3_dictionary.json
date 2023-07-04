@@ -1,0 +1,393 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Did you know that a cow has one big stomach with four compartments? It's like a mega food processor!",
+        "Wow, that's udderly fascinating! I guess it helps them digest all that grass they eat."
+      ],
+      "options": [
+        "Animal Anatomy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, do you know why flamingos stand on one leg? It's so weird and funny!",
+        "Actually, it's a cool anatomical adaptation! They do it to conserve body heat, as standing on one leg reduces the amount of heat lost through their legs."
+      ],
+      "options": [
+        "Animal Anatomy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that an octopus has three hearts! Can you imagine having that many Valentines?",
+        "Haha, yeah! Two of those hearts pump blood through their gills, while the third one pumps blood through their body. Talk about having a lot of heart!"
+      ],
+      "options": [
+        "Animal Anatomy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that a chameleon can move its eyes in different directions at the same time? It's like having built-in security cameras!",
+        "That's so cool! Their unique eye movement helps them keep an eye out for predators and prey without even moving their head."
+      ],
+      "options": [
+        "Animal Physiology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that sloths have a super slow metabolism. They're like the ultimate couch potatoes of the animal kingdom!",
+        "Haha, true! Their slow metabolism allows them to survive on very little food, so they can just hang out in trees all day without worrying about finding their next meal."
+      ],
+      "options": [
+        "Animal Physiology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you ever wondered how geckos can stick to walls and ceilings? It's like they have magical powers!",
+        "It's actually their amazing physiology! They have tiny hair-like structures on their feet that create a strong adhesive force, allowing them to cling to surfaces like a superhero."
+      ],
+      "options": [
+        "Animal Physiology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I read that pandas eat bamboo all day long. It's like they're on an eternal salad diet!",
+        "Haha, yeah! Bamboo is low in nutrients, so they have to eat a lot of it to get the energy they need. Talk about dedication to a plant-based diet!"
+      ],
+      "options": [
+        "Animal Nutrition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that hummingbirds drink nectar like it's their own personal energy drink?",
+        "That's right! Nectar provides them with the sugar they need for their high-energy lifestyle. They're like tiny, feathery athletes!"
+      ],
+      "options": [
+        "Animal Nutrition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that some snakes only eat once every few weeks. I can't imagine going that long without a snack!",
+        "It's because they have a slow metabolism and can digest their food over a long period of time. I guess they're the masters of portion control!"
+      ],
+      "options": [
+        "Animal Nutrition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you ever seen a group of crows solving a puzzle? It's like they're having a bird-brain competition!",
+        "Haha, yeah! Crows are actually very intelligent and can use tools to solve problems. They're the Einsteins of the bird world!"
+      ],
+      "options": [
+        "Animal Behavior (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I find it funny how dogs tilt their heads when they're curious about something. It's like they're trying to get a new perspective on life!",
+        "It's adorable, right? They might be doing it to adjust their ears and better locate the source of a sound. Talk about being all ears!"
+      ],
+      "options": [
+        "Animal Behavior (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that some fish swim in schools to confuse predators. It's like they're playing an underwater game of hide-and-seek!",
+        "That's true! Swimming in a group helps them appear larger and more intimidating, making it harder for predators to single out individual fish. Safety in numbers!"
+      ],
+      "options": [
+        "Animal Behavior (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that some parasites can control the minds of their hosts? It's like a real-life zombie apocalypse!",
+        "Haha, yeah! Some parasites manipulate their host's behavior to increase their own chances of survival and reproduction. Talk about creepy mind control powers!"
+      ],
+      "options": [
+        "Parasitology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I read that fleas can jump over 100 times their body length. If I could do that, I'd be an Olympic long jump champion!",
+        "That's an impressive feat for such tiny creatures! Their incredible jumping ability helps them find new hosts and avoid danger. Flea-lympians in action!"
+      ],
+      "options": [
+        "Parasitology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard of ticks that can make you allergic to red meat after they bite you? It's like they're forcing you to become vegetarian!",
+        "Yeah, it's crazy! Some ticks carry a molecule that can trigger a meat allergy in humans. Nature's way of imposing a diet plan, I guess!"
+      ],
+      "options": [
+        "Parasitology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you hear about that guy who got bitten by a tick and now he's turning into a werewolf?",
+        "Well, not exactly a werewolf. He probably contracted Lyme disease from the tick, which is a Zoonotic Disease."
+      ],
+      "options": [
+        "Zoonotic Diseases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cat sneezed on me yesterday, and now I can't stop sneezing! Am I turning into a cat?",
+        "Haha, no, you're not turning into a cat. But it's possible that you caught a Zoonotic Disease from your cat, like Cat Scratch Fever or Toxoplasmosis. Better see a doctor!"
+      ],
+      "options": [
+        "Zoonotic Diseases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, my friend told me that if I kiss a frog, I'll turn into a beautiful princess. Should I try it?",
+        "That's just a fairy tale! Kissing a frog won't turn you into a princess, but it might give you a Zoonotic Disease like Salmonella. Better to admire frogs from a distance."
+      ],
+      "options": [
+        "Zoonotic Diseases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, I heard that if you get stung by a bee, your body turns into a superhero and fights off the evil invaders!",
+        "A superhero? Well, not quite. But your immune system does jump into action to protect you from potential harm, just like in Immunology!"
+      ],
+      "options": [
+        "Immunology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I eat dirt, will my immune system become stronger and help me defeat all the germs?",
+        "Eating dirt is not recommended! While exposure to some germs can help build immunity, it's better to practice good hygiene and stay healthy. That's what Immunology teaches us."
+      ],
+      "options": [
+        "Immunology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm pretty sure my dog has superpowers because he never gets sick! Is he secretly an immune system superhero?",
+        "Haha, dogs have their own unique immune systems, just like humans. Immunology helps us understand how our bodies defend against diseases, whether we're humans or dogs!"
+      ],
+      "options": [
+        "Immunology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that if you eat a whole bottle of gummy vitamins, you'll gain superpowers and never get sick again!",
+        "Oh no, that's not true! Taking too many vitamins can be harmful. Pharmacology teaches us about the proper use of medications and supplements to maintain good health."
+      ],
+      "options": [
+        "Pharmacology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that if you mix all your medicines together, you create a magical potion that can cure any disease?",
+        "Mixing medications can be dangerous! Pharmacology helps us understand how different drugs interact and the safest way to use them for our benefit."
+      ],
+      "options": [
+        "Pharmacology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend told me that if you rub a magic lamp, a genie will appear and give you the perfect medicine for any ailment!",
+        "Haha, that's a fun thought, but finding the right medicine requires study and research. Pharmacology is the science that explores how drugs work and how they can be used to treat various conditions."
+      ],
+      "options": [
+        "Pharmacology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that if you swallow a watermelon seed, a surgical team will have to remove the watermelon that grows inside your stomach!",
+        "Haha, no, that's just a myth! But it's true that Surgical Procedures are performed to treat various conditions, including removing objects from the body."
+      ],
+      "options": [
+        "Surgical Procedures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend told me that surgeons use laser swords to perform surgeries. Is that true?",
+        "Not exactly laser swords, but some Surgical Procedures do involve using advanced technology like lasers to make precise cuts and treat specific conditions."
+      ],
+      "options": [
+        "Surgical Procedures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that if you break a bone, surgeons can just use super glue to fix it?",
+        "Super glue? No, but surgeons do have techniques for repairing broken bones during Surgical Procedures, like using metal plates or screws to hold the bones together while they heal."
+      ],
+      "options": [
+        "Surgical Procedures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that if you take a selfie with a special filter, you can see all your bones and organs!",
+        "Haha, not quite! But Diagnostic Imaging techniques like X-rays and MRIs do allow doctors to see inside our bodies to diagnose and treat various conditions."
+      ],
+      "options": [
+        "Diagnostic Imaging (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, my friend told me that if I eat a bunch of glow-in-the-dark candy, I'll light up like a Christmas tree during an X-ray!",
+        "That's a funny thought, but it's not true. In Diagnostic Imaging, special equipment is used to create images of the body without the need for glow-in-the-dark candy!"
+      ],
+      "options": [
+        "Diagnostic Imaging (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've always wondered, can doctors use their x-ray vision to see what's inside my body or do they need special glasses?",
+        "Doctors don't have x-ray vision, but they do use Diagnostic Imaging techniques like X-rays, ultrasounds, and CT scans to get a clear picture of what's happening inside our bodies."
+      ],
+      "options": [
+        "Diagnostic Imaging (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that if you wrap yourself in bubble wrap and never leave your house, you'll never get sick!",
+        "Haha, that might be a bit extreme! Preventive Medicine is about taking steps to maintain good health and prevent diseases, like eating well, exercising, and getting regular checkups."
+      ],
+      "options": [
+        "Preventive Medicine (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I eat an apple a day, will it really keep the doctor away?",
+        "Eating fruits like apples is part of a healthy diet, but Preventive Medicine involves more than just apples. It's about making lifestyle choices that promote overall health and prevent illness."
+      ],
+      "options": [
+        "Preventive Medicine (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend told me that if I wear garlic around my neck, it'll protect me from all illnesses. Is that true?",
+        "Wearing garlic might not be the most effective way to stay healthy. Preventive Medicine focuses on practices like vaccinations, regular screenings, and maintaining a healthy lifestyle to reduce the risk of illness."
+      ],
+      "options": [
+        "Preventive Medicine (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that if you can solve a Rubik's Cube really fast, you can predict and prevent diseases from spreading!",
+        "Haha, solving a Rubik's Cube won't help with that, but Epidemiology is the study of how diseases spread and how we can control them to protect public health."
+      ],
+      "options": [
+        "Epidemiology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, my friend said that if I can catch all the Pok\u00e9mon in my neighborhood, I'll become an expert in disease prevention. Is that true?",
+        "Catching Pok\u00e9mon might be fun, but it's not related to disease prevention. Epidemiology is the field that investigates the patterns and causes of diseases to develop strategies for their prevention and control."
+      ],
+      "options": [
+        "Epidemiology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that if you dance under a full moon, you can stop a disease outbreak?",
+        "Dancing under a full moon might be enjoyable, but it won't stop a disease outbreak. Epidemiologists use scientific methods to study and control the spread of diseases in populations."
+      ],
+      "options": [
+        "Epidemiology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that if you throw a party for your pets, they'll gain the ability to speak and thank you for treating them so well!",
+        "Haha, that's a fun thought, but animals won't start talking. Animal Welfare and Ethics are about ensuring the proper treatment and care of animals, even without a thank you."
+      ],
+      "options": [
+        "Animal Welfare and Ethics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend told me that if I sing lullabies to my plants, it helps promote Animal Welfare and Ethics. Is that true?",
+        "Singing to your plants might make you feel good, but Animal Welfare and Ethics focus on the well-being of animals, not plants. It's about treating animals with respect and compassion."
+      ],
+      "options": [
+        "Animal Welfare and Ethics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I build a tiny amusement park for ants in my backyard, am I contributing to Animal Welfare",
+        "I heard that if you throw a party for your pets, they'll gain the ability to speak and thank you for treating them so well!",
+        "Haha, that's a fun thought, but animals won't start talking. Animal Welfare and Ethics are about ensuring the proper treatment and care of animals, even without a thank you."
+      ],
+      "options": [
+        "Animal Welfare and Ethics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend told me that if I sing lullabies to my plants, it helps promote Animal Welfare and Ethics. Is that true?",
+        "Singing to your plants might make you feel good, but Animal Welfare and Ethics focus on the well-being of animals, not plants. It's about treating animals with respect and compassion."
+      ],
+      "options": [
+        "Animal Welfare and Ethics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I build a tiny amusement park for ants in my backyard, am I contributing to Animal Welfare",
+        "I heard that if you feed a unicorn rainbow-colored popcorn, it'll grant you three wishes! Is that true?",
+        "Haha, unicorns might be mythical creatures, but Exotic Animal Medicine is about providing care for real-life unusual animals like reptiles, birds, and small mammals."
+      ],
+      "options": [
+        "Exotic Animal Medicine (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend told me that if I give my pet tarantula a tiny cowboy hat, it'll become the fastest spider in the West. Is that accurate?",
+        "That's a funny image, but Exotic Animal Medicine focuses on the health and well-being of unique pets like tarantulas, rather than their fashion choices or speed!"
+      ],
+      "options": [
+        "Exotic Animal Medicine (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I play Mozart for my pet iguana, will it become a musical genius and start composing symphonies?",
+        "While playing music for your pet iguana might be entertaining, Exotic Animal Medicine is more concerned with understanding the specific needs and care required for such unique pets to keep them healthy."
+      ],
+      "options": [
+        "Exotic Animal Medicine (correct answer)"
+      ]
+    }
+  ]
+}

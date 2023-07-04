@@ -1,0 +1,389 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why am I always hungry after eating my favorite candy bar?",
+        "You need more than just sugar for energy! Try a turkey sandwich. It's got protein, carbs, and fats, the 'Big Three' your body needs to stay fueled!"
+      ],
+      "options": [
+        "Macronutrients (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't believe I lost the race. I ate loads of pasta last night for energy!"
+      ],
+      "options": [
+        "Macronutrients (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, why are avocados, chicken, and bread all good for me? They're so different!"
+      ],
+      "options": [
+        "Macronutrients (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm a steak and potatoes kind of guy. Why bother with those tiny peas and carrots?",
+        "Think of them as the special forces of your meal! Tiny but packed with vital vitamins and minerals. They're the Micronutrient Masters!"
+      ],
+      "options": [
+        "Micronutrients (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just don't understand why I should care about these tiny vitamins and minerals.",
+        "Well, imagine building a house without nails. Sure, they're small, but no nails, no house! That's how your body feels about micronutrients."
+      ],
+      "options": [
+        "Micronutrients (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just have a mega milkshake for breakfast, lunch, and dinner?"
+      ],
+      "options": [
+        "Micronutrients (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just eat burgers all day? They're delicious!"
+      ],
+      "options": [
+        "Dietary Reference Intakes (DRIs) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've heard of DIY, but what's this DRI thing?",
+        "Well, if DIY is 'Do It Yourself,' then DRI is 'Diet Right, Individual!' It's a guide to how much of each nutrient you need daily."
+      ],
+      "options": [
+        "Dietary Reference Intakes (DRIs) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just eat what I feel like? Why should I follow these DRIs?",
+        "Imagine you're a rock star and your body is the band. DRIs are like sheet music, helping every part play in harmony for a hit performance!"
+      ],
+      "options": [
+        "Dietary Reference Intakes (DRIs) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I eat a whole pizza, that's balanced, right? It's a circle after all!",
+        "Balanced diet isn't about geometry, it's about variety! Try mixing in some veggies, lean proteins, and whole grains with that cheesy goodness."
+      ],
+      "options": [
+        "Balanced Diet (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I'm balancing my diet, does that mean I can't ever eat ice cream?",
+        "No way! It's like a party \u2013 veggies, fruits, proteins, and grains are your best pals, but every now and then, you invite the wild friend \u2013 ice cream!"
+      ],
+      "options": [
+        "Balanced Diet (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just eat all fruits and call it a day?",
+        "Well, if you were a fruit bat, that'd be perfect. But humans need a mix of foods \u2013 think of it as your meal's very own super team!"
+      ],
+      "options": [
+        "Balanced Diet (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't my food group just be 'delicious things'?"
+      ],
+      "options": [
+        "Food Groups (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do I need to eat vegetables if I'm not a rabbit?",
+        "Just like superheroes team up to save the day, food groups team up to save your health. Each group has unique powers, even those stealthy veggies!"
+      ],
+      "options": [
+        "Food Groups (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm more of a 'meat and potatoes' person. Do I really need the other stuff?",
+        "Sure, if you want to drive with only two wheels! A balanced diet is like a car, all food groups are needed to keep it running smoothly."
+      ],
+      "options": [
+        "Food Groups (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just eat all the cupcakes I want? They're so small!",
+        "Imagine your body is a car. You wouldn't overfill the tank, right? Same with calories \u2013 too much and you might start to overflow!"
+      ],
+      "options": [
+        "Caloric Intake (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just don't get why I can't have five cheeseburgers for lunch.",
+        "Think of calories as currency. You've got a daily budget to spend on food. Five cheeseburgers might leave you broke for the day!"
+      ],
+      "options": [
+        "Caloric Intake (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I run a lot, can I eat a whole pizza?",
+        "Running a marathon? Maybe! It's all about balance. You burn calories when you're active, but even Usain Bolt can't outrun a pizza every day!"
+      ],
+      "options": [
+        "Caloric Intake (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why should I bother reading food labels? I know what I like!",
+        "Sure, but imagine buying a book based only on the cover. Reading food labels is like reading the plot summary, it tells you what's really inside!"
+      ],
+      "options": [
+        "Reading Food Labels (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just eat what tastes good? Why bother with all the small print?",
+        "Think of it as a treasure map! Food labels guide you to the nutritious gold and help you avoid the junk food traps!"
+      ],
+      "options": [
+        "Reading Food Labels (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Food labels are so boring. Why can't I just enjoy my snack?"
+      ],
+      "options": [
+        "Reading Food Labels (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do I need to eat vegetables? Can't I just have more pizza?"
+      ],
+      "options": [
+        "Nutritional Deficiencies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So what if I don't eat enough fruits and nuts? They're not that tasty anyway."
+      ],
+      "options": [
+        "Nutritional Deficiencies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't like fish. Can I just eat chicken instead?",
+        "You could, but it's like replacing all the singers in a band with drummers. You'll miss out on some key notes \u2013 like omega-3 fatty acids from fish!"
+      ],
+      "options": [
+        "Nutritional Deficiencies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just eat junk food all day and exercise it off later?"
+      ],
+      "options": [
+        "Obesity and Weight Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I just skip meals, I won't have to worry about gaining weight, right?"
+      ],
+      "options": [
+        "Obesity and Weight Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does everyone make a big deal about obesity? Can't I just be happy and eat what I want?"
+      ],
+      "options": [
+        "Obesity and Weight Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just eat what my body craves? Isn't it telling me what it needs?"
+      ],
+      "options": [
+        "Dietary Guidelines (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Dietary guidelines seem so boring. Why can't I just have fun with my food?",
+        "Think of them as a treasure map, not a rulebook. They're designed to guide you towards the nutritional 'gold' and help you dodge the 'junk' food traps!"
+      ],
+      "options": [
+        "Dietary Guidelines (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why I should follow dietary guidelines. Why can't I just eat what I want?"
+      ],
+      "options": [
+        "Dietary Guidelines (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just eat whatever I feel like? Why do I have to plan my meals?",
+        "Imagine setting off on a road trip with no map! Meal planning is like your GPS, guiding you to a balanced diet."
+      ],
+      "options": [
+        "Meal Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Meal planning sounds like too much work. Can't I just wing it?"
+      ],
+      "options": [
+        "Meal Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just don't see the point of meal planning. It feels too restrictive.",
+        "Think of it as a food festival! You get to pick and choose what you want to eat, ensuring variety and fun. It's your personal menu for the week!"
+      ],
+      "options": [
+        "Meal Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just drink soda all day? It's liquid too, right?",
+        "Sure, and a cactus is a plant, but I wouldn't recommend hugging one! Water is your body's favorite drink, helping keep everything running smoothly."
+      ],
+      "options": [
+        "Hydration and Water Intake (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Water is so boring. Why can't I just have juice instead?",
+        "Imagine you're a fish. Would you want to swim in juice? No way! Water is the best way to keep your inner 'fish' happy and hydrated."
+      ],
+      "options": [
+        "Hydration and Water Intake (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why I have to drink so much water. Can't I just have a coffee?"
+      ],
+      "options": [
+        "Hydration and Water Intake (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just eat the same thing as my friends? Why do I have to follow a special diet?",
+        "Think of it as your personal superhero suit. Just like superheroes need special gear, some bodies need special diets to feel their best."
+      ],
+      "options": [
+        "Special Dietary Requirements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why I can't just eat regular food. Why do I have to eat gluten-free?"
+      ],
+      "options": [
+        "Special Dietary Requirements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm a vegetarian. Why can't I just eat loads of cheese and pasta?"
+      ],
+      "options": [
+        "Special Dietary Requirements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just eat all the candy I want? It's so good!"
+      ],
+      "options": [
+        "Digestion and Absorption (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just eat a whole pizza? It's so yummy!"
+      ],
+      "options": [
+        "Digestion and Absorption (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just don't get why I can't just eat what I want. Why does digestion matter?",
+        "Imagine you're a car. Eating is like filling up your gas tank, but digestion and absorption are what actually powers your engine."
+      ],
+      "options": [
+        "Digestion and Absorption (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just eat burgers and fries all day? They're so tasty!"
+      ],
+      "options": [
+        "Role of Diet in Disease Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why should I eat fruits and veggies? Can't I just have more meat?",
+        "Think of your body as a superhero. Fruits and veggies are like your power crystals, and too much meat might be your kryptonite!"
+      ],
+      "options": [
+        "Role of Diet in Disease Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why I should eat healthy. What's the big deal?",
+        "Imagine you're a knight fighting dragons. Eating healthy is like upgrading your armor, helping protect you from the fiery breath of disease."
+      ],
+      "options": [
+        "Role of Diet in Disease Prevention (correct answer)"
+      ]
+    }
+  ]
+}

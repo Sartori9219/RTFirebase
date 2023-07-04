@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "So, you're telling me that you ate a whole pizza, ran 5 miles, and then fell into a pond... All before breakfast?",
+        "Exactly! I'm glad you're really hearing me out. It's been a wild morning!"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait a sec, you're telling me your cat, Mr. Whiskers, can juggle apples, and he broke the chandelier doing it?",
+        "Yes, that's right! It's good to see you're not just nodding along. Mr. Whiskers is quite the character."
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you found a treasure map in your grandma's attic, and it leads to a secret stash of cookies?",
+        "Exactly! You've really got the knack of this listening thing. Fancy a cookie hunt?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're telling me you accidentally glued your phone to your hand? That's gotta be tricky!",
+        "Tricky? I can't even pick my nose! But it's nice to see you understand my sticky situation."
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, your dog ate your homework, your cat shredded your notes, and your parrot keeps squawking algebra equations?",
+        "Exactly! It's a zoo at my place during finals. Thanks for getting it!"
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hold on, you tried to make a souffl\u00e9, and it exploded, covering your kitchen in goo?",
+        "Yes! I'm stuck in a culinary nightmare. I appreciate your sympathy, chef to chef."
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying your computer caught a 'virus' and now it only plays polka music?",
+        "Exactly! Your quick reply gives me hope that I won't be stuck listening to accordion tunes all day."
+      ],
+      "options": [
+        "Responsiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you ordered a pizza, and they delivered a pineapple instead?",
+        "Yes, and I'm allergic to pineapples! Your swift response makes me feel less alone in my pineapple predicament."
+      ],
+      "options": [
+        "Responsiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, your pet turtle raced off and you can't find him?",
+        "Yes, that's right! Your speedy response is comforting in my hour of slow-paced crisis."
+      ],
+      "options": [
+        "Responsiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you'll stick with our cheese of the month club, even after the 'stinky sock' variety?",
+        "That's right! Your commitment to unique cheese experiences is just too good to leave!"
+      ],
+      "options": [
+        "Customer Retention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're still ordering our 'mystery book' box, even after getting 'The History of Paint Drying' last month?",
+        "Absolutely! Who knows what exciting page-turner I might get next?"
+      ],
+      "options": [
+        "Customer Retention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're staying with our gym even after the 'dawn rooster' 5 am wake-up calls?",
+        "Yes, indeed! Your motivational rooster crows are a unique touch that I've grown to appreciate."
+      ],
+      "options": [
+        "Customer Retention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you loved our 'Surprise Sock Subscription', even when you got a pair with individual toes?",
+        "Yes! My feet have never felt so individually hugged. You're really nailing this!"
+      ],
+      "options": [
+        "Customer Satisfaction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're still a fan of our 'Random Fact of the Day' service, even after learning about the mating habits of snails?",
+        "Absolutely! Who knew snails were so fascinating? You've made my day!"
+      ],
+      "options": [
+        "Customer Satisfaction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you enjoyed our 'Mystery Cake Mix', even when it turned out to be beetroot flavored?",
+        "Yes, indeed! I never knew I needed beetroot cake until now. You folks are culinary pioneers!"
+      ],
+      "options": [
+        "Customer Satisfaction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying we accidentally sent you a clown wig instead of the running shoes you ordered?",
+        "Yes, but your offer to rush deliver the right item and let me keep the wig is a hilarious win-win!"
+      ],
+      "options": [
+        "Service Recovery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you say you got a bag of marbles instead of the smartphone case you ordered?",
+        "That's right! But your prompt apology and immediate dispatch of the right product make me feel valued, plus I've taken up marble racing!"
+      ],
+      "options": [
+        "Service Recovery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, we delivered a dozen donuts to your door instead of the diet cookbook you ordered?",
+        "Yes, but your swift action to correct the mistake while letting me keep the donuts really takes the cake...or should I say donut?"
+      ],
+      "options": [
+        "Service Recovery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying our 'screaming' alarm clock is too loud and also, strangely, a great opera singer?",
+        "Yes! The Pavarotti at dawn is a bit much, but it definitely gets me out of bed!"
+      ],
+      "options": [
+        "Customer Feedback (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying our 'random surprise' meal box is exciting but you'd prefer less broccoli?",
+        "That's right! I mean, broccoli is cool, but not when it's in the ice cream. Just a small feedback."
+      ],
+      "options": [
+        "Customer Feedback (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you think our 'mystery' movie box has too many rom-coms and not enough action?",
+        "Yes, indeed! If I see one more love triangle, I might start making my own action movie!"
+      ],
+      "options": [
+        "Customer Feedback (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you expected our 'pocket-sized' encyclopedia to actually fit in your pocket, not be a mini-library?",
+        "Yes! I mean, I love the knowledge, but my pockets are struggling to carry all 100 volumes!"
+      ],
+      "options": [
+        "Customer Expectations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you thought our 'one-size-fits-all' hat would adjust to any head size, not be a giant sombrero?",
+        "That's right! I mean, I'm getting some serious shade, but I was hoping for a more subtle look."
+      ],
+      "options": [
+        "Customer Expectations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you assumed our 'easy-to-assemble' furniture wouldn't require an engineering degree?",
+        "Yes, indeed! I appreciate the challenge, but I didn't expect to build a rocket ship instead of a bookshelf!"
+      ],
+      "options": [
+        "Customer Expectations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're sticking with our 'Unicorn Sneeze' brand tissues even after we accidentally shipped you dragon breath scented ones?",
+        "Yes! I mean, dragon breath isn't the best, but your commitment to mythical creature novelty is too unique to pass up!"
+      ],
+      "options": [
+        "Customer Loyalty (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're still committed to our 'Wonky Widget' company, even after the Great Spinning Top Mishap of 2023?",
+        "That's right! Every company has its ups and downs, but you guys always make it right in the end."
+      ],
+      "options": [
+        "Customer Loyalty (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're still a fan of our 'Crazy Crust' pizza place, even after we mistakenly made a pineapple and sardine special?",
+        "Yes, indeed! Your willingness to experiment is part of your charm, even if some experiments are more successful than others."
+      ],
+      "options": [
+        "Customer Loyalty (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you loved our 'Personal Pajama' service, where we custom-print your dog's face on the PJs?",
+        "Yes! I've always wanted to sleep in a pile of my dog's faces. It's oddly comforting!"
+      ],
+      "options": [
+        "Personalization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying you enjoyed our 'Individual Ice Cream', where we shaped the ice cream like your face?",
+        "That's right! Eating my own face was a surreal experience, but I appreciate the effort you guys put into it."
+      ],
+      "options": [
+        "Personalization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're a fan of our 'Selfie Soap', where we carve your selfie into a bar of soap?",
+        "Yes, indeed! Washing my hands with my own face is something I never knew I needed. You guys are next level!"
+      ],
+      "options": [
+        "Personalization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you liked our 'Everywhere Help' system, where you can reach us via email, phone, social media, and even carrier pigeon?",
+        "Yes! I mean, the carrier pigeon was a bit of a surprise, but it's nice to know I have options!"
+      ],
+      "options": [
+        "Multichannel Support (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying you appreciate our '360 Support', where you can ask for help through a chatbot, a phone call, a smoke signal, or even a message in a bottle?",
+        "That's right! I mean, I haven't used the smoke signal option yet, but I love that it's there just in case."
+      ],
+      "options": [
+        "Multichannel Support (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you liked our 'Omnipresent Assistance', where we offer support via email, hotline, skywriting, and interpretive dance?",
+        "Yes, indeed! Your interpretive dance really clarified my question about the product. You guys are truly unique!"
+      ],
+      "options": [
+        "Multichannel Support (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you enjoyed our 'Adventure Shopping' experience, where we turned grocery shopping into a scavenger hunt?",
+        "Yes! I've never had so much fun buying milk and bread before. Your in-store DJ really added to the excitement!"
+      ],
+      "options": [
+        "Customer Experience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying you loved our 'Cinema Salon' concept, where we screen old movies while you get your hair done?",
+        "Absolutely! Getting a trim while watching 'Casablanca' was a surreal experience. Your popcorn conditioner is the bomb!"
+      ],
+      "options": [
+        "Customer Experience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're a fan of our 'Spooky Bank' idea, where we have Halloween themed banking year-round?",
+        "Yes, indeed! Who knew that making a deposit could be so thrilling? Your zombie tellers really keep me on my toes!"
+      ],
+      "options": [
+        "Customer Experience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you appreciated our 'Peaceful Pizza' policy, where we offered you a free pizza when we accidentally delivered you a calzone instead?",
+        "Yes! The calzone was a surprise, but the free pizza really smoothed things over. Your 'No Calzone Left Behind' policy is ingenious!"
+      ],
+      "options": [
+        "Conflict Resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying you loved our 'Balloon Bumper' solution, where we sent you a bunch of balloons to apologize for the mix-up in your party decoration order?",
+        "Absolutely! The original order was for a birthday party, but the extra balloons made for an impromptu, fun-filled balloon party!"
+      ],
+      "options": [
+        "Conflict Resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're a fan of our 'Sweet Apology' method, where we send a box of chocolates whenever we make a mistake on an order?",
+        "Yes, indeed! The wrong book arrived, but the chocolates were so good, I almost forgot about it. Plus, you sent the right book immediately after!"
+      ],
+      "options": [
+        "Conflict Resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you enjoyed our 'Safari Shopping' experience, where we guided you from discovery to purchase like a tour guide in the wild?",
+        "Yes! I've never had so much fun buying a pair of shoes. Your 'Lion Tracker' sales associate was super helpful!"
+      ],
+      "options": [
+        "Customer Journey (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying you loved our 'Mountain Trail' customer journey, where we guided you from product inquiry to after-sales service like a mountain guide?",
+        "Absolutely! It felt like a fun and adventurous hike, but instead of reaching a peak, I got a fantastic new laptop!"
+      ],
+      "options": [
+        "Customer Journey (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're a fan of our 'Space Odyssey' customer experience, where we navigate you from interest to ownership like an astronaut in space?",
+        "Yes, indeed! Your 'Rocket Guide' was so patient and helpful, it really made buying my first car an out-of-this-world experience!"
+      ],
+      "options": [
+        "Customer Journey (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you enjoyed our 'Golden Glove' service, where we handle each product with utmost care and deliver it to you in mint condition?",
+        "Yes! My action figures arrived in perfect shape. It's like they were delivered by a museum curator!"
+      ],
+      "options": [
+        "Service Quality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you're saying you appreciated our 'Turbo Turtle' delivery service, where we promise slow but steady and reliable delivery?",
+        "Absolutely! Your turtle mascot may be slow, but my packages always arrive right on time. No hares in this race!"
+      ],
+      "options": [
+        "Service Quality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me get this straight, you're a fan of our 'Spotless Sparrow' cleaning service, where we leave your house as clean as a sparrow's nest?",
+        "Yes, indeed! Your cleaning crew may have been dressed as sparrows, but they left my house as clean as an operating room!"
+      ],
+      "options": [
+        "Service Quality (correct answer)"
+      ]
+    }
+  ]
+}

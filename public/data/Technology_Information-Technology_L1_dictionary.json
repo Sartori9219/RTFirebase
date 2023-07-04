@@ -1,0 +1,339 @@
+{
+  "questions": [
+    {
+      "question": [
+        "If my computer was a sandwich, what part would be the lettuce? \ud83e\udd6a",
+        "Haha, I'd say the CPU cooler! It keeps things fresh and prevents your computer from overheating, just like lettuce keeps a sandwich cool and crispy! \ud83d\ude04"
+      ],
+      "options": [
+        "Hardware (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My computer is like an orchestra, but who's the conductor? \ud83c\udfbb",
+        "That's a fun analogy! The conductor would be the motherboard since it connects all the hardware components and ensures they work in harmony. \ud83c\udfb6"
+      ],
+      "options": [
+        "Hardware (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If my computer were an animal, what part would be the brain? \ud83e\udde0"
+      ],
+      "options": [
+        "Hardware (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If software were a superhero, what would be its superpower? \ud83e\uddb8\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Software (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If my computer was a pizza, what ingredient would represent the software? \ud83c\udf55"
+      ],
+      "options": [
+        "Software (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if software could go on vacation? Where would it want to go? \ud83c\udfd6\ufe0f"
+      ],
+      "options": [
+        "Software (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If operating systems were a type of dance, what dance style would they be? \ud83d\udc83"
+      ],
+      "options": [
+        "Operating Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if operating systems were in a beauty pageant? Who would win the crown? \ud83d\udc51"
+      ],
+      "options": [
+        "Operating Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If operating systems were a type of cuisine, which one would they be? \ud83c\udf72"
+      ],
+      "options": [
+        "Operating Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If networking were a sport, which one would it be? \u26bd",
+        "Haha, I'd say it's like a relay race! In networking, devices pass data packets to each other, just like runners pass the baton in a relay. \ud83c\udfc3\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Networking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if computer networks were like speed dating events! How would that work? \ud83d\udc95"
+      ],
+      "options": [
+        "Networking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If computer networks were a type of dessert, what would they be? \ud83c\udf70"
+      ],
+      "options": [
+        "Networking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If databases were a type of building, what would they be? \ud83c\udfe2",
+        "Haha, databases would be like massive libraries! They store and organize vast amounts of information, just like libraries house countless books. \ud83d\udcda"
+      ],
+      "options": [
+        "Databases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if databases were a fashion accessory? What would they look like? \ud83d\udc5c"
+      ],
+      "options": [
+        "Databases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If databases were a game show, which one would they be? \ud83c\udfb2"
+      ],
+      "options": [
+        "Databases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If cloud computing were a type of weather, what would it be? \u2601\ufe0f",
+        "Haha, it would be like a gentle breeze that carries data from one place to another, making everything feel lighter and more accessible! \ud83c\udf2c\ufe0f"
+      ],
+      "options": [
+        "Cloud Computing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if cloud computing was a magical creature? Which one would it be? \ud83e\udd84"
+      ],
+      "options": [
+        "Cloud Computing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If cloud computing were a type of transportation, what would it be? \ud83d\ude86"
+      ],
+      "options": [
+        "Cloud Computing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If cybersecurity were a superhero, what would be its arch-nemesis? \ud83e\uddb8\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Cybersecurity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if cybersecurity was a type of dance? What moves would it have? \ud83d\udc83"
+      ],
+      "options": [
+        "Cybersecurity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If cybersecurity were an animal, which one would it be? \ud83d\udc05"
+      ],
+      "options": [
+        "Cybersecurity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If web development were an ice cream flavor, what would it be? \ud83c\udf66"
+      ],
+      "options": [
+        "Web Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if web development was a type of sport? Which one would it be? \ud83c\udfc0"
+      ],
+      "options": [
+        "Web Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If web development were a musical instrument, which one would it be? \ud83c\udfb8"
+      ],
+      "options": [
+        "Web Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If mobile app development was a type of dance, what style would it be? \ud83d\udc83"
+      ],
+      "options": [
+        "Mobile App Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if mobile app development was a type of cuisine? Which one would it be? \ud83c\udf5b"
+      ],
+      "options": [
+        "Mobile App Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If mobile app development were a sport, which one would it be? \u26bd"
+      ],
+      "options": [
+        "Mobile App Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If data analytics were a type of detective, what would they be? \ud83d\udd75\ufe0f\u200d\u2640\ufe0f"
+      ],
+      "options": [
+        "Data Analytics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if data analytics was a type of dessert? What would it be? \ud83c\udf70",
+        "That's a fun idea! Data analytics might be like a layered cake, revealing more delicious details and insights as you dig deeper into the data. Yum! \ud83d\ude0b"
+      ],
+      "options": [
+        "Data Analytics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If data analytics were a superpower, which one would it be? \ud83d\udca5",
+        "If artificial intelligence were a type of music genre, what would it be? \ud83c\udfb5"
+      ],
+      "options": [
+        "Artificial Intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if artificial intelligence was a type of vacation destination? Where would it be? \ud83c\udfd6\ufe0f"
+      ],
+      "options": [
+        "Artificial Intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If artificial intelligence were a type of beverage, what would it be? \ud83c\udf79"
+      ],
+      "options": [
+        "Artificial Intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If machine learning were a type of dance, what would it be? \ud83d\udc83"
+      ],
+      "options": [
+        "Machine Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if machine learning was a type of plant? What would it be? \ud83c\udf3f"
+      ],
+      "options": [
+        "Machine Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If machine learning were a type of sport, which one would it be? \u26be"
+      ],
+      "options": [
+        "Machine Learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If virtual reality were a type of amusement park ride, what would it be? \ud83c\udfa2"
+      ],
+      "options": [
+        "Virtual Reality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if virtual reality was a type of dessert? What would it be? \ud83c\udf68"
+      ],
+      "options": [
+        "Virtual Reality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If virtual reality were a type of fashion accessory, what would it be? \ud83d\udc53"
+      ],
+      "options": [
+        "Virtual Reality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If the Internet of Things were a type of party, what kind of party would it be? \ud83c\udf89"
+      ],
+      "options": [
+        "Internet of Things (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if the Internet of Things was a type of music band? What would it be called? \ud83c\udfb8"
+      ],
+      "options": [
+        "Internet of Things (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If the Internet of Things were a type of garden, what would it look like? \ud83c\udf33"
+      ],
+      "options": [
+        "Internet of Things (correct answer)"
+      ]
+    }
+  ]
+}

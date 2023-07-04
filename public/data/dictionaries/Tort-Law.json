@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Negligence",
+        "Duty of care",
+        "Breach of duty",
+        "Causation",
+        "Damages",
+        "Strict liability",
+        "Intentional torts",
+        "Assault",
+        "Battery",
+        "False imprisonment",
+        "Trespass to land",
+        "Trespass to chattels",
+        "Conversion",
+        "Defamation",
+        "Nuisance"
+    ],
+    "hints": {
+        "Negligence": "A failure to exercise the care that a reasonable person would in a similar situation, leading to harm or injury.",
+        "Duty of care": "The legal obligation to act in a manner that does not cause harm or injury to others.",
+        "Breach of duty": "When someone fails to fulfill their duty of care, potentially resulting in harm to others.",
+        "Causation": "The action or inaction that directly leads to harm or injury in a tort claim.",
+        "Damages": "Monetary compensation awarded to the injured party in a tort case.",
+        "Strict liability": "Liability without fault, where a person is held responsible for damages regardless of intent or negligence.",
+        "Intentional torts": "Deliberate acts that cause harm or injury to another person, such as assault or battery.",
+        "Assault": "An intentional act that causes someone to fear imminent bodily harm.",
+        "Battery": "Intentional, unwanted physical contact with another person, causing harm or offense.",
+        "False imprisonment": "Unlawfully restricting someone's freedom of movement without their consent.",
+        "Trespass to land": "Unauthorized entry onto another person's property, causing harm or interference.",
+        "Trespass to chattels": "Unlawful interference with someone else's personal property, causing damage or loss.",
+        "Conversion": "Wrongfully taking, using, or destroying someone else's property, effectively denying the owner their rights.",
+        "Defamation": "Making false and harmful statements about someone, resulting in damage to their reputation.",
+        "Nuisance": "An act or omission that unreasonably interferes with someone's use or enjoyment of their property."
+    }
+}

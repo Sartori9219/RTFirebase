@@ -1,0 +1,38 @@
+[
+  {
+    "Project objective": "Using design software (such as a free version of SketchUp or TinkerCAD), design the airframe (skeleton) of your rescue aircraft, keeping in mind the strength-to-weight ratio of your chosen materials.",
+    "Steps": [
+      "Research the difference between turbine and piston engines. Considering the pros and cons of each, decide where and why you would use each type in your aircraft.",
+      "Update your 3D model to include your chosen engines. Consider the placement and how this might affect the balance and performance of your aircraft.",
+      "Research various types of aircraft fuel systems and design one for your aircraft. Your system should be efficient, safe, and suitable for a long-duration space mission. Update your 3D model to include this system.",
+      "Incorporate your chosen avionics systems into your 3D model. Consider how these systems will interact with the pilots, the engines, and other onboard systems.",
+      "Review your complete aircraft design. Look for any potential issues with the structure, materials, engines, fuel system, or avionics.",
+      "Using flight simulation software (like the free FlightGear), if you can, create a simple simulation of your aircraft flying. See if you can detect any potential problems in the design.",
+      "Prepare a presentation outlining your design process, your choices, and your results. You may use PowerPoint, Google Slides, or a video presentation. Include pictures of your aircraft and the reasons behind your design choices. Make sure to highlight any unique or innovative solutions you came up with."
+    ]
+  },
+  {
+    "Project objective": "Using free online software like CircuitLab, design an aircraft electrical system that can withstand supernatural interference. Ensure it has backups and fail-safes to maintain power in case of unexpected Triangle phenomena.",
+    "Steps": [
+      "Research the five key systems (electrical, hydraulic, landing gear, propeller, navigation) in an aircraft. Come up with an initial list of necessary components and their ideal specifications for your Bermuda-proof aircraft.",
+      "Research the types and mechanisms of landing gear systems. Design a landing gear system that can withstand harsh and possibly uneven terrain \u2013 who knows what you'll find in the Triangle!",
+      "Research how propeller systems contribute to an aircraft's propulsion. Design a propeller system that offers maximum power and efficiency, to escape any mysterious Triangle forces pulling your aircraft off course.",
+      "Investigate different types of aircraft navigation systems. You need to design a system that can navigate even when traditional compasses and GPS might fail \u2013 remember, this is the Bermuda Triangle!",
+      "Draw or use any 3D modeling software (like TinkerCAD or SketchUp) to visually put together your aircraft design, incorporating all the systems you've developed.",
+      "Imagine potential supernatural scenarios that might occur in the Bermuda Triangle (like electrical failure, sudden increase in gravity, time vortexes) and write down how your designed systems would handle them.",
+      "Using your imagination (or flight simulation software like FlightGear if you're feeling advanced), perform a virtual test flight of your aircraft through the Bermuda Triangle. Make any necessary adjustments to your design based on this test.",
+      "Prepare a digital presentation of your aircraft. Include your design process, choices, and the reasons behind them. Highlight how your aircraft could withstand the challenges of the Bermuda Triangle."
+    ]
+  },
+  {
+    "Project objective": "Based on the variety of animals to be transported, design heating and cooling systems that can be adjusted to mimic the animals' natural habitats. Use a software like HVAC Solution Pro for designing.",
+    "Steps": [
+      "Research different types of aircraft communication systems. Design a robust and fail-safe communication system that ensures constant contact with air traffic control and between the pilot and ground crew.",
+      "Research about the safety and emergency procedures common in aircrafts. Then, design some specific safety procedures keeping the special needs of wild animals in mind. Think about how you would handle a power failure or a medical emergency for one of the animals.",
+      "Using a 3D modeling software like TinkerCAD or SketchUp, assemble your aircraft design with all its specific systems.",
+      "Look at your design critically. How can you improve it? Does it meet all necessary safety and comfort requirements for both animals and humans? Make any necessary refinements.",
+      "Create a hypothetical situation where you take a group of diverse animals on a flight. Go through the entire process using your designs and procedures. Identify any areas that may need further improvements.",
+      "Create a presentation or a video explaining your aircraft design, the rationale behind it, and how it would operate during a flight. Use software like PowerPoint, Google Slides, or a video editor of your choice to bring your ideas to life."
+    ]
+  }
+]

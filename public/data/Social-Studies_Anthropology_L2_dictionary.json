@@ -1,0 +1,537 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why do people in Spain take a siesta in the afternoon?",
+        "It's part of their culture, they enjoy a little rest after lunch to recharge!"
+      ],
+      "options": [
+        "Culture (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that in Japan, people bow to greet each other instead of shaking hands?",
+        "Yeah! It's a cool part of their culture, showing respect and politeness!"
+      ],
+      "options": [
+        "Culture (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come people in Mexico celebrate the Day of the Dead with colorful decorations and food?",
+        "It's a unique aspect of their culture, honoring their ancestors with joy and festivities!"
+      ],
+      "options": [
+        "Culture (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do ants work so well together in a group?",
+        "They have a highly organized society that helps them cooperate and get things done!"
+      ],
+      "options": [
+        "Society (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come bees always seem to know what to do?",
+        "They live in a complex society with different roles for each bee, making their hive run smoothly!"
+      ],
+      "options": [
+        "Society (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What did the curious explorer do to learn about the mysterious island tribe?",
+        "They conducted an ethnography, living with the tribe and observing their customs and ways of life!"
+      ],
+      "options": [
+        "Ethnography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do anthropologists really understand a culture?",
+        "They often use ethnography to immerse themselves in the culture and learn from the inside!"
+      ],
+      "options": [
+        "Ethnography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do we know what life was like for ancient civilizations?",
+        "Thanks to archaeology, we can study the artifacts and structures they left behind!"
+      ],
+      "options": [
+        "Archaeology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a dinosaur that digs for ancient treasures?",
+        "An \"archaeologisaurus\"! But seriously, archaeologists uncover the secrets of the past!"
+      ],
+      "options": [
+        "Archaeology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How can we study the way people from different cultures communicate?",
+        "Linguistic anthropology helps us understand how language shapes our world and relationships!"
+      ],
+      "options": [
+        "Linguistic anthropology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do people in different parts of the world have such unique languages?",
+        "Linguistic anthropology helps us explore the fascinating diversity of human languages and communication!"
+      ],
+      "options": [
+        "Linguistic anthropology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why shouldn't we judge other cultures based on our own?",
+        "Cultural relativism teaches us to appreciate each culture's uniqueness and value without bias!"
+      ],
+      "options": [
+        "Cultural relativism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How can we better understand people from different backgrounds?",
+        "By practicing cultural relativism, we can learn to see the world through their eyes and appreciate their perspectives!"
+      ],
+      "options": [
+        "Cultural relativism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is it not cool to think that your own culture is the best?",
+        "That's ethnocentrism, and it can lead to misunderstanding and unfair judgments about other cultures!"
+      ],
+      "options": [
+        "Ethnocentrism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the opposite of being open-minded about other cultures?",
+        "Ethnocentrism, when you think your own culture is the best and judge others based on your own standards."
+      ],
+      "options": [
+        "Ethnocentrism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How are families organized in different cultures?",
+        "Kinship systems help define family structures, relationships, and responsibilities within a culture!"
+      ],
+      "options": [
+        "Kinship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some societies have big extended families while others have small nuclear families?",
+        "Different kinship systems create unique family structures and dynamics in each culture!"
+      ],
+      "options": [
+        "Kinship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do different societies decide who's in charge or who gets what job?",
+        "Social structure organizes relationships and roles within a society, creating order and stability!"
+      ],
+      "options": [
+        "Social structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some animals, like wolves, have a clear leader and others, like birds, work in groups?",
+        "Just like human societies, animal groups have their own social structures that define roles and responsibilities!"
+      ],
+      "options": [
+        "Social structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some people expect boys to play with trucks and girls to play with dolls?",
+        "It's because of gender roles, which are cultural expectations about how boys and girls should behave."
+      ],
+      "options": [
+        "Gender roles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do certain cultures have different expectations for men and women?",
+        "Gender roles vary across cultures, shaping what's considered appropriate behavior for each gender."
+      ],
+      "options": [
+        "Gender roles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do people in different parts of the world get their food?",
+        "They use different subsistence strategies, like hunting, farming, or fishing, depending on their environment and resources!"
+      ],
+      "options": [
+        "Subsistence strategies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some societies rely on farming while others live by hunting and gathering?",
+        "Each society has unique subsistence strategies based on their environment and cultural traditions!"
+      ],
+      "options": [
+        "Subsistence strategies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are there so many different religions around the world?",
+        "Each culture has its own religion or belief system that helps people make sense of the world and find meaning in their lives!"
+      ],
+      "options": [
+        "Religion and belief systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come people in different cultures have their own stories about how the world was created?",
+        "Religion and belief systems provide unique explanations for life's mysteries, reflecting each culture's values and experiences!"
+      ],
+      "options": [
+        "Religion and belief systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do we have so many stories about mythical creatures and heroes from different cultures?",
+        "Mythology and folklore help teach important lessons and share the values of a culture through entertaining stories!"
+      ],
+      "options": [
+        "Mythology and folklore (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come some cultures believe in dragons while others have stories about giant birds?",
+        "Each culture has its own mythology and folklore, reflecting their unique history, beliefs, and imagination!"
+      ],
+      "options": [
+        "Mythology and folklore (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do we see the same fast food chains and brands all around the world?",
+        "That's because of globalization! It connects people, businesses, and cultures, making the world feel smaller."
+      ],
+      "options": [
+        "Globalization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come people from different countries can watch the same movies and listen to the same music?",
+        "Globalization brings cultures together, sharing entertainment and ideas across borders!"
+      ],
+      "options": [
+        "Globalization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How did humans go from living in caves to building skyscrapers?",
+        "Human evolution, both biologically and culturally, has shaped our development and progress over time!"
+      ],
+      "options": [
+        "Human evolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do we walk on two legs and have big brains compared to other animals?",
+        "Human evolution has led to unique adaptations that set us apart and helped us survive and thrive!"
+      ],
+      "options": [
+        "Human evolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do people all over the world celebrate holidays like Halloween or Valentine's Day?",
+        "Cultural diffusion helps spread ideas and customs from one culture to another, making them popular worldwide!"
+      ],
+      "options": [
+        "Cultural diffusion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come we can find similar foods, like pizza, in different countries?",
+        "That's because of cultural diffusion! It's when ideas, recipes, and traditions travel and mix between cultures."
+      ],
+      "options": [
+        "Cultural diffusion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do people move from one country to another?",
+        "Migration can happen for many reasons, like seeking better opportunities, escaping conflict, or joining family members."
+      ],
+      "options": [
+        "Migration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come we can find people from different cultures living in the same city?",
+        "Migration brings people from different backgrounds together, creating diverse and vibrant communities!"
+      ],
+      "options": [
+        "Migration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some people have more money and power than others?",
+        "Social inequality exists in many societies, leading to an unequal distribution of resources, opportunities, and influence."
+      ],
+      "options": [
+        "Social inequality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come not everyone has the same access to education, healthcare, or a good job?",
+        "Social inequality can create barriers for certain groups, making it harder for them to achieve their goals."
+      ],
+      "options": [
+        "Social inequality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I apologize for the confusion. I provided two exchanges for each concept in your list. If you'd like, I can create additional exchanges for each concept to reach a total of four exchanges for each. Just let me know!",
+        "Do you think aliens have their own societies like we do on Earth?",
+        "They might! If there's intelligent life out there, they could have their own unique ways of living and organizing!"
+      ],
+      "options": [
+        "Society (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How does living in a society help us survive?",
+        "Being part of a society means we can work together, share resources, and support each other in times of need!"
+      ],
+      "options": [
+        "Society (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How can I learn more about my own family's cultural heritage?",
+        "You could do your own mini-ethnography by interviewing family members, researching customs, and participating in traditions!"
+      ],
+      "options": [
+        "Ethnography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do anthropologists ever write about their own culture?",
+        "Yes, they can use ethnography to study their own society, providing an insider's perspective on cultural practices and beliefs!"
+      ],
+      "options": [
+        "Ethnography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do archaeologists love digging so much?",
+        "Digging helps archaeologists uncover the hidden treasures of the past, like ancient artifacts and buildings!"
+      ],
+      "options": [
+        "Archaeology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you think future archaeologists will find when they dig up our time?",
+        "They'll probably discover our technology, art, and everyday objects that will give them clues about how we lived!"
+      ],
+      "options": [
+        "Archaeology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can linguistic anthropology help us understand why some words are similar in different languages?",
+        "Absolutely! It can reveal how languages have evolved and borrowed from each other over time."
+      ],
+      "options": [
+        "Linguistic anthropology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do people in the same country sometimes speak with different accents?",
+        "Linguistic anthropology can help us understand how regional accents develop due to social, historical, and geographical factors!"
+      ],
+      "options": [
+        "Linguistic anthropology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How can I learn to be more open-minded about other cultures?",
+        "Embrace cultural relativism! Try to learn and appreciate other cultures without comparing them to your own."
+      ],
+      "options": [
+        "Cultural relativism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is it important to practice cultural relativism when we travel?",
+        "It helps us respect and appreciate the diversity of the world, making our travel experiences richer and more meaningful!"
+      ],
+      "options": [
+        "Cultural relativism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can ethnocentrism cause conflicts between different cultures?",
+        "Yes, ethnocentrism can lead to misunderstandings, tensions, and even hostility between cultural groups."
+      ],
+      "options": [
+        "Ethnocentrism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How can we overcome ethnocentrism and promote understanding between cultures?",
+        "By learning about other cultures, practicing empathy, and challenging our own biases, we can become more open-minded and accepting!"
+      ],
+      "options": [
+        "Ethnocentrism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some people consider their friends as family?",
+        "Kinship isn't always just about blood relations; people can form strong bonds and consider their friends as part of their chosen family!"
+      ],
+      "options": [
+        "Kinship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the most interesting kinship system you've heard of?",
+        "In some cultures, people trace their ancestry through their mothers instead of their fathers, which is called a matrilineal system!"
+      ],
+      "options": [
+        "Kinship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can social structure change",
+        "Can social structure change over time?",
+        "Definitely! Social structures can evolve as societies grow and adapt to new challenges, ideas, or environments."
+      ],
+      "options": [
+        "Social structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are there any societies without social structures?",
+        "Not really! Social structures help organize and maintain order in societies, so even small groups have some form of structure."
+      ],
+      "options": [
+        "Social structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How have gender roles changed throughout history?",
+        "Gender roles have evolved as societies have become more open to questioning and redefining traditional expectations for men and women."
+      ],
+      "options": [
+        "Gender roles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can gender roles be different for different animals?",
+        "Yes! In the animal kingdom, gender roles can vary greatly, with some species even having females as the dominant sex!"
+      ],
+      "options": [
+        "Gender roles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the coolest subsistence strategy you can think of?",
+        "Some nomadic societies use a strategy called pastoralism, where they raise herds of animals and move with them to find fresh grazing land!"
+      ],
+      "options": [
+        "Subsistence strategies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do people living in the Arctic find food?",
+        "They use a subsistence strategy called hunting and gathering, where they rely on hunting animals like seals and fishing for their food!"
+      ],
+      "options": [
+        "Subsistence strategies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are all belief systems religious?",
+        "Not necessarily! Belief systems can include non-religious worldviews, like secular humanism or atheism, that help people make sense of the world."
+      ],
+      "options": [
+        "Religion and belief systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can someone belong to more than one religion or belief system?",
+        "It's possible! Some people might blend elements from different religions or belief systems to create their own unique spiritual path."
+      ],
+      "options": [
+        "Religion and belief systems (correct answer)"
+      ]
+    }
+  ]
+}

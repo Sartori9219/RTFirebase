@@ -1,0 +1,217 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, do you know why the cafeteria food always tastes so strange?",
+        "You know what's even stranger? I saw a squirrel carrying a whole slice of pizza across the quad today!"
+      ],
+      "options": [
+        "Deflect tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can you explain to me how you managed to get an A+ on that exam without studying?",
+        "Speaking of exams, did you hear about the professor who accidentally sent out the answer key instead of the review materials?"
+      ],
+      "options": [
+        "Deflect tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you think our football team keeps losing every game this season?",
+        "Losing games reminds me of that time I lost my keys in the library and found them in the refrigerator in the break room!"
+      ],
+      "options": [
+        "Deflect tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you think our biology professor always wears those colorful bow ties?"
+      ],
+      "options": [
+        "Redirect tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come you never seem to run out of snacks during our study sessions?",
+        "Speaking of snacks, have you tried the new bakery that just opened up nearby? Their pastries are incredible!"
+      ],
+      "options": [
+        "Redirect tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you know why our campus Wi-Fi is always so slow?",
+        "Slow Wi-Fi can be annoying, but have you checked out the computer lab's internet speeds? They have an impressive gaming setup there too!"
+      ],
+      "options": [
+        "Redirect tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you think our campus squirrels are so fearless around people?",
+        "That's an interesting question! What do you think makes them so comfortable around humans?"
+      ],
+      "options": [
+        "Socratic tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come everyone seems to love that new superhero movie?",
+        "Hmm, what do you think makes a movie universally appealing to people?"
+      ],
+      "options": [
+        "Socratic tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does it always rain when I forget my umbrella?",
+        "Funny how that happens, isn't it? What do you think the odds are of forgetting your umbrella on a rainy day?"
+      ],
+      "options": [
+        "Socratic tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the pizza place on campus always have such long lines?",
+        "You know, that's a great observation! Their pizza must be incredibly popular. Have you tried the new sushi place instead?"
+      ],
+      "options": [
+        "Compliment tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you have any idea why it's so hard to find parking around here?"
+      ],
+      "options": [
+        "Compliment tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you think our professor assigns so much reading every week?",
+        "Wow, you're really observant! I suppose they want us to be well-prepared for class. Did you catch the latest episode of that new TV show last night?"
+      ],
+      "options": [
+        "Compliment tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you think the coffee from the campus cafe is always so strong?"
+      ],
+      "options": [
+        "Anecdote tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come our university mascot is a platypus?",
+        "A platypus mascot? That makes me think of when I visited Australia and saw a real platypus for the first time. They're such fascinating creatures!"
+      ],
+      "options": [
+        "Anecdote tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do people always seem to wear flip-flops to class, even when it's cold outside?"
+      ],
+      "options": [
+        "Anecdote tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you think our chemistry professor always uses so many puns during lectures?",
+        "Well, I guess it's because they have great chemistry with their jokes! Have you heard the one about the neutron who walked into a bar?"
+      ],
+      "options": [
+        "Humor tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come the campus library is always so cold?"
+      ],
+      "options": [
+        "Humor tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you think our chemistry professor always uses so many puns during lectures?",
+        "Well, I guess it's because they have great chemistry with their jokes! Have you heard the one about the neutron who walked into a bar?"
+      ],
+      "options": [
+        "Humor tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come the campus library is always so cold?"
+      ],
+      "options": [
+        "Humor tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you know why the campus Wi-Fi is always so slow?"
+      ],
+      "options": [
+        "Time constraint tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can you explain the entire history of our university's sports teams?"
+      ],
+      "options": [
+        "Time constraint tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the secret to making the perfect cup of coffee?"
+      ],
+      "options": [
+        "Time constraint tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you think everyone's so obsessed with that new TV show?"
+      ],
+      "options": [
+        "Common ground tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come our campus gym is always so crowded in the evenings?"
+      ],
+      "options": [
+        "Common ground tactic (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come our campus gym is always so crowded in the evenings?"
+      ],
+      "options": [
+        "Common ground tactic (correct answer)"
+      ]
+    }
+  ]
+}

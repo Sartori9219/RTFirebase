@@ -1,0 +1,844 @@
+{
+  "questions": [
+    {
+      "question": "If x = 3 and y = 2, what is the value of 2x + 3y?",
+      "options": [
+        "13",
+        "12",
+        "15 (Correct answer)",
+        "14"
+      ],
+      "hints": [
+        "Use a calculator if necessary.",
+        "Don't forget the order of operations.",
+        "Remember to substitute the given values into the equation."
+      ]
+    },
+    {
+      "question": "Which of the following equations represents a line with a slope of 2 and a y-intercept of -3?",
+      "options": [
+        "y = 2x - 3 (Correct answer)",
+        "y = -3x + 2",
+        "y = -2x - 3",
+        "y = 3x + 2"
+      ],
+      "hints": [
+        "The slope-intercept form of a line is y = mx + b.",
+        "In this form, m represents the slope and b represents the y-intercept.",
+        "Remember that the slope is the coefficient of x."
+      ]
+    },
+    {
+      "question": "Solve for x: 4x = 20",
+      "options": [
+        "x = 8",
+        "x = 6",
+        "x = 4",
+        "x = 5 (Correct answer)"
+      ],
+      "hints": [
+        "The equation is asking for you to find the value of x that makes the equation true.",
+        "To isolate x, you need to perform the opposite operation.",
+        "Remember that division is the opposite of multiplication."
+      ]
+    },
+    {
+      "question": "The function f(x) = 2x + 5. What is f(3)?",
+      "options": [
+        "9",
+        "11 (Correct answer)",
+        "10",
+        "8"
+      ],
+      "hints": [
+        "The function notation f(x) = 2x + 5 means for every x you input, you get 2x + 5 out.",
+        "Substitute x = 3 into the function.",
+        "Use your basic arithmetic skills."
+      ]
+    },
+    {
+      "question": "Solve the following inequality: 2x - 3 > 7",
+      "options": [
+        "x > 2",
+        "x < 5",
+        "x > 5 (Correct answer)",
+        "x < 2"
+      ],
+      "hints": [
+        "Treat the inequality just like an equation when you're solving for x.",
+        "Remember to flip the inequality if you multiply or divide by a negative number.",
+        "Don't forget to include the original inequality when you write your final answer."
+      ]
+    },
+    {
+      "question": "What is the sum of the interior angles of a triangle?",
+      "options": [
+        "90 degrees",
+        "180 degrees (Correct answer)",
+        "270 degrees",
+        "360 degrees"
+      ],
+      "hints": [
+        "Recall the formula for the sum of interior angles of a polygon.",
+        "A triangle is a polygon with 3 sides.",
+        "The sum of interior angles of a triangle does not depend on the size of the triangle."
+      ]
+    },
+    {
+      "question": "A square has a side length of 5 units. What is the area of the square?",
+      "options": [
+        "10 square units",
+        "15 square units",
+        "20 square units",
+        "25 square units (Correct answer)"
+      ],
+      "hints": [
+        "Remember the formula for the area of a square.",
+        "A square has all sides equal.",
+        "The area is always expressed in square units."
+      ]
+    },
+    {
+      "question": "A circle has a radius of 4 units. What is the circumference of the circle?",
+      "options": [
+        "8\u03c0 units (Correct answer)",
+        "16\u03c0 units",
+        "4\u03c0 units",
+        "12\u03c0 units"
+      ],
+      "hints": [
+        "The formula for the circumference of a circle is 2\u03c0r.",
+        "r is the radius of the circle.",
+        "The radius is half of the diameter."
+      ]
+    },
+    {
+      "question": "In a right-angled triangle, if one angle measures 30 degrees, what is the other angle (excluding the right angle)?",
+      "options": [
+        "30 degrees",
+        "45 degrees",
+        "60 degrees (Correct answer)",
+        "90 degrees"
+      ],
+      "hints": [
+        "The sum of the angles in a triangle is always 180 degrees.",
+        "One of the angles is 90 degrees in a right-angled triangle.",
+        "Subtract the known angles from 180 to find the unknown angle."
+      ]
+    },
+    {
+      "question": "A rectangle has a length of 8 units and a width of 3 units. What is the perimeter of the rectangle?",
+      "options": [
+        "22 units (Correct answer)",
+        "24 units",
+        "26 units",
+        "28 units"
+      ],
+      "hints": [
+        "The formula for the perimeter of a rectangle is 2(l+w).",
+        "l represents length and w represents width.",
+        "Make sure to add all the sides for the perimeter."
+      ]
+    },
+    {
+      "question": "What is 40% of 50?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20 (Correct answer)"
+      ],
+      "hints": [
+        "Remember, percentage means per hundred.",
+        "The word of in math often means multiplication.",
+        "Use a calculator if you're not sure."
+      ]
+    },
+    {
+      "question": "If 3x = 12, what is x?",
+      "options": [
+        "2",
+        "3",
+        "4 (Correct answer)",
+        "5"
+      ],
+      "hints": [
+        "Solve for x by performing the inverse operation.",
+        "The inverse operation of multiplication is division.",
+        "Think about what number times 3 equals 12."
+      ]
+    },
+    {
+      "question": "Which of the following is not a prime number?",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "9 (Correct answer)"
+      ],
+      "hints": [
+        "A prime number is a number greater than 1 that has no positive divisors other than 1 and itself.",
+        "If a number can be divided evenly by any number other than 1 and itself, it is not prime.",
+        "Consider the factors of each number."
+      ]
+    },
+    {
+      "question": "What is the square root of 16?",
+      "options": [
+        "2",
+        "3",
+        "4 (Correct answer)",
+        "5"
+      ],
+      "hints": [
+        "The square root of a number is a value that, when multiplied by itself, gives the original number.",
+        "Consider which of these options when squared gives 16.",
+        "Try multiplying each answer choice by itself to see which equals 16."
+      ]
+    },
+    {
+      "question": "Which of the following fractions is the smallest?",
+      "options": [
+        "1/2",
+        "1/3 (Correct answer)",
+        "1/4",
+        "1/5"
+      ],
+      "hints": [
+        "The larger the denominator, the smaller the fraction (assuming the numerator is the same).",
+        "The number 1 divided by a larger number will be smaller.",
+        "You could draw a number line or visualize these fractions as pieces of a whole."
+      ]
+    },
+    {
+      "question": "In a bag of 10 marbles, 4 are red and 6 are blue. What is the probability of picking a red marble at random?",
+      "options": [
+        "1/4",
+        "2/5",
+        "4/10 (Correct answer)",
+        "1/2"
+      ],
+      "hints": [
+        "Probability is defined as the favorable outcomes divided by the total outcomes.",
+        "In this case, the favorable outcomes are picking a red marble.",
+        "Remember to simplify the fraction, if possible."
+      ]
+    },
+    {
+      "question": "The mean (average) of the numbers 3, 5, and 7 is:",
+      "options": [
+        "3",
+        "5 (Correct answer)",
+        "7",
+        "9"
+      ],
+      "hints": [
+        "The mean is the sum of the numbers divided by the count of numbers.",
+        "Don't forget to add all the numbers first.",
+        "There are three numbers to divide by once you have the sum."
+      ]
+    },
+    {
+      "question": "Which of the following is the mode in the set {3, 3, 5, 6, 7, 7, 7}?",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "7 (Correct answer)"
+      ],
+      "hints": [
+        "The mode in a data set is the number that appears most frequently.",
+        "It's possible for a data set to have more than one mode, or no mode at all.",
+        "Count the frequency of each number in the set."
+      ]
+    },
+    {
+      "question": "A six-sided die is rolled once. What is the probability of rolling a number greater than 4?",
+      "options": [
+        "1/6",
+        "1/3 (Correct answer)",
+        "1/2",
+        "2/3"
+      ],
+      "hints": [
+        "There are 6 possible outcomes when rolling a six-sided die.",
+        "Only two numbers on the die are greater than 4.",
+        "The probability is the number of favorable outcomes (rolling a 5 or 6) divided by total outcomes (6)."
+      ]
+    },
+    {
+      "question": "If the median of the set {4, x, 5, 7, 9} is 6, what is the value of x?",
+      "options": [
+        "5",
+        "6 (Correct answer)",
+        "7",
+        "8"
+      ],
+      "hints": [
+        "The median is the middle number in a sorted list of numbers.",
+        "The list must be arranged in numerical order to find the median.",
+        "If the median is 6, x must be 6 because the numbers need to be in ascending order."
+      ]
+    },
+    {
+      "question": "John bought 5 apples and 3 oranges for a total of $12. If each apple costs $2, how much does each orange cost?",
+      "options": [
+        "$1",
+        "$2",
+        "$3 (Correct answer)",
+        "$4"
+      ],
+      "hints": [
+        "Subtract the total cost of the apples from the total amount to find the cost of the oranges.",
+        "Once you have the total cost of the oranges, divide it by the number of oranges to find the cost per orange.",
+        "Check that the total cost of apples and oranges adds up to $12."
+      ]
+    },
+    {
+      "question": "If a car travels at a constant speed of 60 miles per hour, how far will it travel in 2 hours?",
+      "options": [
+        "30 miles",
+        "60 miles",
+        "120 miles (Correct answer)",
+        "240 miles"
+      ],
+      "hints": [
+        "Distance equals speed times time.",
+        "The car travels 60 miles in one hour.",
+        "Multiply the speed of the car by the number of hours to find the total distance."
+      ]
+    },
+    {
+      "question": "A rectangular garden has a length of 10 meters and a width of 2 meters. What is the area of the garden?",
+      "options": [
+        "8 square meters",
+        "12 square meters",
+        "20 square meters (Correct answer)",
+        "30 square meters"
+      ],
+      "hints": [
+        "The area of a rectangle is calculated by multiplying the length by the width.",
+        "Remember that area is measured in square units.",
+        "Multiply 10 meters by 2 meters to find the area."
+      ]
+    },
+    {
+      "question": "If a jacket costs $60 and is discounted by 20%, what is the sale price?",
+      "options": [
+        "$12",
+        "$48 (Correct answer)",
+        "$50",
+        "$52"
+      ],
+      "hints": [
+        "Find the discount amount first by multiplying the original price by the discount rate.",
+        "The discount is subtracted from the original price.",
+        "20% of $60 is $12, so subtract this from the original price."
+      ]
+    },
+    {
+      "question": "A pool has 1500 liters of water. It loses 5% of its water every day due to evaporation. How much water is left after one day?",
+      "options": [
+        "750 liters",
+        "1425 liters (Correct answer)",
+        "1450 liters",
+        "1500 liters"
+      ],
+      "hints": [
+        "Find the amount of water lost by multiplying the total volume by the percentage lost.",
+        "The percentage loss is subtracted from the original amount.",
+        "5% of 1500 liters is 75 liters, so subtract this from the original amount."
+      ]
+    },
+    {
+      "question": "Identify the correct sentence:",
+      "options": [
+        "Me and my friend is going to the park.",
+        "My friend and I is going to the park.",
+        "My friend and I are going to the park. (Correct answer)",
+        "I and my friend are going to the park."
+      ],
+      "hints": [
+        "Use the correct pronoun (I not me) when it's the subject.",
+        "When there's more than one subject, use are not is.",
+        "My friend and I is the standard order."
+      ]
+    },
+    {
+      "question": "Which of the following sentences is punctuated correctly?",
+      "options": [
+        "The woman, that just left the room, is my aunt.",
+        "The woman that just left the room is my aunt. (Correct answer)",
+        "The woman, that just left the room is my aunt.",
+        "The woman that just left the room, is my aunt."
+      ],
+      "hints": [
+        "Non-essential information is set off by commas.",
+        "That just left the room is essential to identifying the woman, so it doesn't need commas.",
+        "In choice B, that is correctly used without commas."
+      ]
+    },
+    {
+      "question": "Choose the sentence with correct verb tense:",
+      "options": [
+        "I seen the movie yesterday.",
+        "I saw the movie yesterday. (Correct answer)",
+        "I have see the movie yesterday.",
+        "I sees the movie yesterday."
+      ],
+      "hints": [
+        "The correct past tense of see is saw.",
+        "Seen requires the auxiliary verb have.",
+        "Use the simple past tense for actions completed in the past."
+      ]
+    },
+    {
+      "question": "Which sentence correctly uses its and it's?",
+      "options": [
+        "Its raining outside, I forgot my umbrella.",
+        "It's raining outside, I forgot my umbrella. (Correct answer)",
+        "Its' raining outside, I forgot my umbrella.",
+        "It's raining outside I forgot, my umbrella."
+      ],
+      "hints": [
+        "It's is a contraction of it is or it has.",
+        "Its is a possessive pronoun, meaning something belongs to it.",
+        "In this context, we are saying it is raining, so it's is correct."
+      ]
+    },
+    {
+      "question": "Choose the sentence with the correct use of who and whom:",
+      "options": [
+        "Who did you say that was?",
+        "Whom did you say that was? (Correct answer)",
+        "Who did you said that was?",
+        "Whom did you said that was?"
+      ],
+      "hints": [
+        "Whom is used as the object of a verb or preposition.",
+        "Who is used as the subject of a sentence.",
+        "In this case, whom is the object of did say, so it's the correct choice."
+      ]
+    },
+    {
+      "question": "According to the passage, which of the following is true about the main character?",
+      "options": [
+        "She enjoys taking risks.",
+        "She is introverted and prefers to stay at home.",
+        "She has a large group of friends.",
+        "She is an accomplished musician. (Correct answer)"
+      ],
+      "hints": [
+        "Look for details in the passage about the main character's interests.",
+        "The passage mentions the main character playing an instrument.",
+        "The main character wins a music competition."
+      ]
+    },
+    {
+      "question": "What is the main theme of the passage?",
+      "options": [
+        "The importance of friendship.",
+        "Overcoming adversity. (Correct answer)",
+        "The benefits of a healthy diet.",
+        "The history of rock and roll music."
+      ],
+      "hints": [
+        "Look for repeated ideas or concepts in the passage.",
+        "The main character faces and overcomes a significant challenge.",
+        "The passage doesn't focus on diet, music history, or friendship."
+      ]
+    },
+    {
+      "question": "Based on the passage, what can be inferred about the setting?",
+      "options": [
+        "It takes place in a bustling city.",
+        "It is set in a quiet, rural town. (Correct answer)",
+        "The story happens in the middle of a desert.",
+        "It is set in a futuristic space station."
+      ],
+      "hints": [
+        "Look for descriptions of the environment in the passage.",
+        "There are references to natural features like forests and fields.",
+        "The passage mentions that the nearest neighbors are far away."
+      ]
+    },
+    {
+      "question": "How does the author develop tension in the story?",
+      "options": [
+        "By using vivid descriptions of the setting.",
+        "Through the use of dialogue between characters.",
+        "By describing a series of fast-paced action sequences.",
+        "Through the inner thoughts and worries of the protagonist. (Correct answer)"
+      ],
+      "hints": [
+        "Tension can be created in many ways in a story.",
+        "The protagonist's fears and anxieties are often mentioned.",
+        "The pace of the story is relatively slow."
+      ]
+    },
+    {
+      "question": "What is the author's attitude towards the protagonist?",
+      "options": [
+        "Disdainful.",
+        "Sympathetic. (Correct answer)",
+        "Indifferent.",
+        "Admiring."
+      ],
+      "hints": [
+        "The author's attitude can be inferred from the tone of the passage.",
+        "The protagonist's struggles are described with understanding and compassion.",
+        "The author does not criticize or belittle the protagonist."
+      ]
+    },
+    {
+      "question": "A new study claims that drinking 8 cups of water a day can significantly improve your memory. Which of the following, if true, would most weaken this claim?",
+      "options": [
+        "The study was funded by a major bottled water company.",
+        "Many people find it difficult to drink 8 cups of water a day.",
+        "The study did not have a control group. (Correct answer)",
+        "Drinking too much water can lead to hyponatremia."
+      ],
+      "hints": [
+        "Look for a choice that raises doubts about the methodology of the study.",
+        "Funding sources and possible health risks do not directly challenge the validity of the study's findings.",
+        "Without a control group, it's hard to establish cause and effect."
+      ]
+    },
+    {
+      "question": "Which of the following is an assumption underlying the argument that stricter gun laws will lead to a decrease in gun violence?",
+      "options": [
+        "Gun owners are more likely to commit violent crimes.",
+        "Stricter gun laws will be enforced effectively. (Correct answer)",
+        "The majority of the public supports stricter gun laws.",
+        "Gun violence is the leading cause of death in the country."
+      ],
+      "hints": [
+        "The argument requires an assumption that connects stricter laws with a decrease in violence.",
+        "Even with stricter laws, if they are not enforced, they can't affect violence rates.",
+        "Public support and the prevalence of gun violence don't necessarily influence the argument's outcome."
+      ]
+    },
+    {
+      "question": "Company X claims their new software will increase worker productivity by 50%. Which of the following, if true, would most strengthen this claim?",
+      "options": [
+        "The CEO of Company X is a well-known and respected figure in the tech industry.",
+        "The software was tested in a trial run and resulted in a 55% increase in productivity. (Correct answer)",
+        "The software is compatible with most existing computer systems.",
+        "Company X's previous software also claimed to increase productivity."
+      ],
+      "hints": [
+        "Look for a choice that provides direct evidence supporting the claim.",
+        "Compatibility and the reputation of the CEO don't directly relate to productivity.",
+        "Past performance can indicate potential success, but concrete results from a trial run are more persuasive."
+      ]
+    },
+    {
+      "question": "It is argued that because humans share 98% of their DNA with chimpanzees, human behavior can be predicted by studying the behavior of chimpanzees. What is a major flaw in this argument?",
+      "options": [
+        "There are ethical concerns about studying chimpanzees.",
+        "The 2% difference in DNA can account for significant differences in behavior. (Correct answer)",
+        "Chimpanzees do not live in the same environments as humans.",
+        "Humans have complex social structures that chimpanzees do not."
+      ],
+      "hints": [
+        "The argument is based on a comparison of DNA.",
+        "Small differences in DNA can lead to big differences in species.",
+        "Environmental factors and social structures, while important, don't directly challenge the DNA-based argument."
+      ]
+    },
+    {
+      "question": "Is integer x greater than integer y?",
+      "options": [
+        "(1) x + y = 3",
+        "(2) x - y = 2",
+        "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked.",
+        "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked. (Correct answer)",
+        "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked; but NEITHER statement ALONE is sufficient.",
+        "EACH statement ALONE is sufficient to answer the question asked."
+      ],
+      "hints": [
+        "Analyze each statement separately first.",
+        "Think about what you can deduce from each statement.",
+        "Is there a statement that allows you to definitely say whether x is greater than y?"
+      ]
+    },
+    {
+      "question": "Which of the following best illustrates the logical flaw known as circular reasoning?",
+      "options": [
+        "Everyone loves the new restaurant because it's so popular.",
+        "The medicine is effective because it makes people feel better.",
+        "The sky is blue because it reflects the color of the ocean.",
+        "Everyone loves the new restaurant because it's the best. (Correct answer)"
+      ],
+      "hints": [
+        "Circular reasoning uses its conclusion as its own premise.",
+        "Choices A, B and C provide some sort of explanation or reasoning.",
+        "In choice D, the reason given is essentially a restatement of the claim."
+      ]
+    },
+    {
+      "question": "Which of the following best represents the logical fallacy of hasty generalization?",
+      "options": [
+        "All cats are mammals because they give birth to live young.",
+        "My dog barks at the mailman, so all dogs must bark at mailmen. (Correct answer)",
+        "If it rains, the ground gets wet.",
+        "Everyone must eat food to survive."
+      ],
+      "hints": [
+        "Hasty generalization occurs when a conclusion is drawn from insufficient evidence.",
+        "Choices A, C, and D provide valid reasoning or factual statements.",
+        "In choice B, a general conclusion is drawn from a single example."
+      ]
+    },
+    {
+      "question": "Which of the following best illustrates the logical fallacy of false dilemma?",
+      "options": [
+        "You're either with us or against us. (Correct answer)",
+        "If you study hard, you will do well on the exam.",
+        "All swans are white because every swan I've seen is white.",
+        "The sky is blue because it reflects the color of the ocean."
+      ],
+      "hints": [
+        "A false dilemma is a fallacy of thinking that there are only two possibilities when there may be more.",
+        "Choices B, C, and D don't force a binary choice.",
+        "In choice A, two extreme positions are presented as the only options."
+      ]
+    },
+    {
+      "question": "Which of the following is an example of ad hominem fallacy?",
+      "options": [
+        "The new city council member's plan won't work because she has no experience. (Correct answer)",
+        "All cats are mammals because they give birth to live young.",
+        "Everyone loves the new restaurant because it's so popular.",
+        "If it rains, the ground gets wet."
+      ],
+      "hints": [
+        "An ad hominem fallacy occurs when a person's character is attacked instead of their argument.",
+        "Choices B, C, and D provide some sort of reasoning or factual statement.",
+        "In choice A, the criticism is aimed at the person, not the plan itself."
+      ]
+    },
+    {
+      "question": "Which of the following best represents the logical fallacy of post hoc ergo propter hoc?",
+      "options": [
+        "I got sick after eating at that restaurant, so the food there must be bad. (Correct answer)",
+        "All swans are white because every swan I've seen is white.",
+        "You're either with us or against us.",
+        "The medicine is effective because it makes people feel better."
+      ],
+      "hints": [
+        "This fallacy involves assuming that because one thing happened after another, it must have occurred as a result of it."
+      ]
+    },
+    {
+      "question": "If x is an integer, which of the following must be an even integer?",
+      "options": [
+        "x^2",
+        "x + 1",
+        "2x (Correct answer)",
+        "x / 2"
+      ],
+      "hints": [
+        "An even integer is a multiple of 2.",
+        "Multiplying an integer by 2 always results in an even number.",
+        "The other options can result in odd or fractional numbers."
+      ]
+    },
+    {
+      "question": "What is the remainder when 2^200 is divided by 3?",
+      "options": [
+        "0",
+        "1 (Correct answer)",
+        "2",
+        "None of the above"
+      ],
+      "hints": [
+        "You can simplify the problem by considering a pattern of remainders for smaller powers of 2.",
+        "Notice that 2^1, 2^2, and 2^3 have the remainders of 2, 1, and 2 respectively when divided by 3.",
+        "Based on this pattern, powers of 2 that are multiples of 2 have a remainder of 1 when divided by 3."
+      ]
+    },
+    {
+      "question": "Which of the following is a factor of every odd integer?",
+      "options": [
+        "2",
+        "3",
+        "1 (Correct answer)",
+        "None of the above"
+      ],
+      "hints": [
+        "A factor is an integer that can divide another integer without leaving a remainder.",
+        "Every integer is divisible by 1.",
+        "Not all odd integers are divisible by 2 or 3."
+      ]
+    },
+    {
+      "question": "If a and b are integers, and ab = 0, which of the following must be true?",
+      "options": [
+        "a = 0 and b = 0",
+        "a = 0 or b = 0 (Correct answer)",
+        "a \u2260 0 and b \u2260 0",
+        "None of the above"
+      ],
+      "hints": [
+        "Consider the properties of multiplication.",
+        "The product of an integer and 0 is 0.",
+        "It's not necessary for both a and b to be 0."
+      ]
+    },
+    {
+      "question": "Which of the following expressions is always an odd integer for all integers x?",
+      "options": [
+        "2x",
+        "2x + 1 (Correct answer)",
+        "x^2",
+        "x / 2"
+      ],
+      "hints": [
+        "An odd number can be expressed as 2n + 1, where n is an integer.",
+        "An even number multiplied by an integer is always an even number.",
+        "Adding 1 to an even number always results in an odd number."
+      ]
+    },
+    {
+      "question": "The ratio of cats to dogs in a park is 3:7. If there are 40 more dogs than cats in the park, how many cats are there?",
+      "options": [
+        "30",
+        "40",
+        "60 (Correct answer)",
+        "70"
+      ],
+      "hints": [
+        "Remember that in a ratio a:b, 'a' does not represent the actual number of 'a'.",
+        "Consider the difference in the ratio units.",
+        "You can set up a proportion to solve the problem."
+      ]
+    },
+    {
+      "question": "In a fruit salad, the ratio of apples to oranges to bananas is 3:2:5. If there are 10 oranges, how many pieces of fruit are there in total?",
+      "options": [
+        "30",
+        "50 (Correct answer)",
+        "60",
+        "90"
+      ],
+      "hints": [
+        "Find the total number of ratio units first.",
+        "A single unit in the ratio corresponds to a certain number of fruits.",
+        "Multiply the total number of units by the number corresponding to a single unit."
+      ]
+    },
+    {
+      "question": "A recipe requires flour and sugar in the ratio 4:1. If you use 12 cups of flour, how many cups of sugar do you need?",
+      "options": [
+        "3 (Correct answer)",
+        "4",
+        "8",
+        "16"
+      ],
+      "hints": [
+        "The numbers in the ratio correspond to the quantities of the ingredients.",
+        "For every 4 cups of flour, you need 1 cup of sugar.",
+        "Find out how many sets of '4 cups of flour' you have in 12 cups."
+      ]
+    },
+    {
+      "question": "The ratio of boys to girls in a class is 3:4. If there are 28 students in the class, how many are girls?",
+      "options": [
+        "12",
+        "14 (Correct answer)",
+        "16",
+        "18"
+      ],
+      "hints": [
+        "First, find the total number of ratio units.",
+        "Each ratio unit corresponds to a certain number of students.",
+        "Multiply the number of girl units by the number corresponding to one unit."
+      ]
+    },
+    {
+      "question": "The lengths of the sides of a rectangle are in the ratio 2:3. If the shorter side is 8 cm, what is the length of the longer side?",
+      "options": [
+        "10 cm",
+        "12 cm (Correct answer)",
+        "16 cm",
+        "24 cm"
+      ],
+      "hints": [
+        "Each ratio unit corresponds to a certain number of centimeters.",
+        "If 2 units correspond to 8 cm, find out what 1 unit corresponds to.",
+        "Once you find out what 1 unit corresponds to, you can find the length corresponding to 3 units."
+      ]
+    },
+    {
+      "question": "What is the average of the following set of numbers? 5, 10, 15, 20, 25.",
+      "options": [
+        "10",
+        "15 (Correct answer)",
+        "20",
+        "25"
+      ],
+      "hints": [
+        "Average is the sum of all numbers divided by the count of numbers.",
+        "There are 5 numbers in this set.",
+        "Don't forget to divide the total by 5."
+      ]
+    },
+    {
+      "question": "A shirt originally priced at $50 is on sale for 20% off. What is the sale price?",
+      "options": [
+        "$30",
+        "$40 (Correct answer)",
+        "$45",
+        "$50"
+      ],
+      "hints": [
+        "The discount is a percentage of the original price.",
+        "20% of $50 is $10.",
+        "Subtract the discount from the original price to get the sale price."
+      ]
+    },
+    {
+      "question": "What is 15% of 200?",
+      "options": [
+        "10",
+        "20",
+        "30 (Correct answer)",
+        "40"
+      ],
+      "hints": [
+        "Of in percent problems usually means multiplication.",
+        "Convert the percent to a decimal before multiplying.",
+        "15% is equivalent to 0.15."
+      ]
+    },
+    {
+      "question": "The average (arithmetic mean) of three different numbers is 20. If two of the numbers are 15 and 25, what is the third number?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30 (Correct answer)"
+      ],
+      "hints": [
+        "The average is the sum of the numbers divided by the quantity of numbers.",
+        "You know the average and two of the numbers.",
+        "Multiply the average by 3, then subtract the known numbers to find the third."
+      ]
+    },
+    {
+      "question": "In a class of 40 students, 30% of the students play basketball. How many students play basketball?",
+      "options": [
+        "10",
+        "12 (Correct answer)",
+        "15",
+        "18"
+      ],
+      "hints": [
+        "Convert the percentage to a decimal.",
+        "30% is equivalent to 0.30.",
+        "Multiply the total number of students by 0.30."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Did you know that diesel engines work by compressing air instead of using a spark to ignite fuel?",
+        "So, instead of a flame, they use a BOOM to get things moving! \ud83d\ude02"
+      ],
+      "options": [
+        "Diesel Engine Basics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Diesel engines are known for their efficiency and power.",
+        "Yeah, they're like the superheroes of the engine world - able to do more, using less! \ud83d\udcaa"
+      ],
+      "options": [
+        "Diesel Engine Basics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Diesel engines have a higher compression ratio than gasoline engines.",
+        "That's like the difference between giving someone a friendly hug and squeezing them in a bear hug \ud83d\ude06"
+      ],
+      "options": [
+        "Diesel Engine Basics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Engine lubrication systems are designed to reduce friction between engine components by providing a layer of oil.",
+        "It's like giving your engine a massage! Just a little bit of oil can go a long way in terms of reducing wear and tear. \ud83d\udc86\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Engine Lubrication Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Engine oil is filtered to remove contaminants that can cause damage to the engine.",
+        "It's like playing whack-a-mole with engine gunk, taking out those pesky contaminants one at a time! \ud83d\ude02"
+      ],
+      "options": [
+        "Engine Lubrication Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Lubrication systems use oil pumps to circulate the oil throughout the engine.",
+        "It's like having a personal oil delivery system for your engine - always there to keep things running smoothly. \ud83d\ude9b\ud83d\udee2\ufe0f"
+      ],
+      "options": [
+        "Engine Lubrication Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Cooling systems are critical in preventing engines from overheating and causing damage.",
+        "It's like being at the beach on a hot day and having an ice-cold drink to keep you cool. Engines need their own personal cool drink too! \ud83e\udd64"
+      ],
+      "options": [
+        "Cooling Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The radiator is a key component of the cooling system, using a liquid coolant to absorb heat from the engine.",
+        "It's like your engine is a hot potato and the radiator is there to cool it down - but without any spoons involved! \ud83e\udd44"
+      ],
+      "options": [
+        "Cooling Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The water pump circulates the coolant throughout the engine, helping to regulate the engine temperature.",
+        "It's like having a personal temperature control system for your car - keeping things just right for an enjoyable ride. \ud83c\udf21\ufe0f"
+      ],
+      "options": [
+        "Cooling Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Engine electrical systems consist of various components, including the battery, starter, and alternator.",
+        "It's like a power trio, working together to light up the engine and get it roaring like a rockstar! \ud83c\udfb8"
+      ],
+      "options": [
+        "Engine Electrical Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The battery is responsible for providing the electrical power needed to start the engine.",
+        "It's like a shot of espresso for your engine - just the energy boost it needs to get going! \u2615"
+      ],
+      "options": [
+        "Engine Electrical Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The alternator generates electricity to recharge the battery and power electrical components while the engine is running.",
+        "It's like having a personal generator in your car, ensuring that your electrical components never run out of juice. \ud83d\udd0b"
+      ],
+      "options": [
+        "Engine Electrical Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Fuel systems and injection systems are responsible for delivering fuel to the engine.",
+        "It's like a food delivery service for your engine, making sure it always has plenty of energy to keep on truckin'! \ud83c\udf54"
+      ],
+      "options": [
+        "Fuel Systems and Injection Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Direct injection systems are increasingly popular in diesel engines because they are more fuel-efficient.",
+        "It's like the eco-conscious choice, making sure your engine sips fuel instead of guzzling it down like a thirsty elephant. \ud83d\udc18"
+      ],
+      "options": [
+        "Fuel Systems and Injection Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Glow plugs are important in diesel engines to help heat up the engine for easier starting.",
+        "It's like a warm blanket for your engine on cold mornings - making sure it's cozy and ready to go! \ud83e\udde3"
+      ],
+      "options": [
+        "Fuel Systems and Injection Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Emissions control systems are designed to reduce the amount of pollutants released into the air from diesel engines.",
+        "It's like a superhero cape for your car - fighting off the bad guys to keep the planet safe! \ud83c\udf0d\ud83e\uddb8\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Emissions Control Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Diesel particulate filters are a key component of emissions control systems, capturing harmful particulates before they are released into the air.",
+        "It's like a particulate hairnet for your engine - making sure no little bits get through and mess up the environment's hairdo! \ud83d\udc87\u200d\u2640\ufe0f"
+      ],
+      "options": [
+        "Emissions Control Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Exhaust gas recirculation systems help to reduce emissions by recirculating some of the exhaust gases back into the engine for combustion.",
+        "It's like a recycling program for your engine's emissions - reducing waste and keeping the environment healthy! \ud83c\udf31"
+      ],
+      "options": [
+        "Emissions Control Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Engine rebuilding and overhaul is a process to restore an engine to its original condition.",
+        "It's like fixing up an old car in a classic car restoration project, except for engines! \ud83d\ude0e"
+      ],
+      "options": [
+        "Engine Rebuilding and Overhaul (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "During an engine rebuild, the engine is disassembled and inspected for damage and wear.",
+        "It's like sending your engine to a doctor for a checkup, making sure it's healthy and ready to get back on the road! \ud83d\ude97"
+      ],
+      "options": [
+        "Engine Rebuilding and Overhaul (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Engine overhaul may include replacing worn or damaged parts, cleaning and reassembling the engine.",
+        "It's like giving your engine a good bath, a haircut, and a new outfit - making sure it looks good and runs even better! \ud83d\udc87\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Engine Rebuilding and Overhaul (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Shop safety is critical in preventing accidents and injuries in the diesel shop.",
+        "It's like the golden rule of shop class - stay safe so you can live to see another day of tinkering with cool machinery! \ud83d\udee1\ufe0f"
+      ],
+      "options": [
+        "Shop Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wearing protective gear, such as safety glasses and gloves, is an important aspect of shop safety.",
+        "It's like being a superhero with a costume, complete with goggles and gloves to protect you while fighting the villainous machinery! \ud83e\uddb8\u200d\u2640\ufe0f"
+      ],
+      "options": [
+        "Shop Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Proper tool use and maintenance is key to shop safety.",
+        "It's like taking care of your loyal sidekick - aka your toolbox - to ensure it's always ready to help you defeat evil machinery! \ud83d\udd27"
+      ],
+      "options": [
+        "Shop Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Preventive maintenance is the practice of performing regular maintenance on a vehicle to prevent potential issues before they become major problems."
+      ],
+      "options": [
+        "Preventive Maintenance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Key preventive maintenance tasks include oil changes, tire rotations, and brake inspections."
+      ],
+      "options": [
+        "Preventive Maintenance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "By practicing preventive maintenance, you can save yourself money in the long run by avoiding costly repairs."
+      ],
+      "options": [
+        "Preventive Maintenance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wheel alignments are important in ensuring proper tire wear and vehicle handling.",
+        "It's like going to the dentist to make sure your teeth are healthy and your bite feels just right! \ud83e\uddb7"
+      ],
+      "options": [
+        "Wheel Alignments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Improper wheel alignment can cause your tires to wear down unevenly, leading to a shorter lifespan and the need for replacement.",
+        "It's like buying new shoes every month because you drag your feet - good wheel alignment helps your tires keep their cool! \ud83d\udc5f"
+      ],
+      "options": [
+        "Wheel Alignments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wheel alignment adjustments can include adjusting camber, caster, and toe.",
+        "It's like adjusting your hairstyle - one little tweak can make a big difference in your overall look and feel! \ud83d\udc87\u200d\u2640\ufe0f"
+      ],
+      "options": [
+        "Wheel Alignments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Tires and wheels are essential components of any vehicle and need to be maintained properly.",
+        "It's like taking care of your own feet - you don't want to be walking around on bald tires and rusty wheels! \ud83d\udc5e"
+      ],
+      "options": [
+        "Tires and Wheels (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Proper tire pressure is important for safety and fuel efficiency.",
+        "It's like trying to run a marathon with only half your lung capacity - proper tire pressure helps your vehicle breathe easy and go the distance! \ud83c\udfc3\u200d\u2640\ufe0f"
+      ],
+      "options": [
+        "Tires and Wheels (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wheel balancing is important to counteract uneven wear and vibrations while driving."
+      ],
+      "options": [
+        "Tires and Wheels (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Suspension systems are responsible for providing a smooth ride and keeping the vehicle stable on the road.",
+        "It's like the backbone of your vehicle - keeping everything in place and taking the bumps and hurdles as they come! \ud83d\udcaa"
+      ],
+      "options": [
+        "Suspension Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Key components of suspension systems include springs, shocks, and struts.",
+        "It's like the ultimate trio - springs are the backbone, shocks are the cushion, and struts are the superhero cape that holds everything together! \ud83e\uddb8\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Suspension Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Suspension systems can be adjusted to improve handling, such as by lowering the vehicle for better performance."
+      ],
+      "options": [
+        "Suspension Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Brake and clutch systems are important in vehicle control and safety.",
+        "It's like having a superhero team that fights against accidents and keeps you in control of the road! \ud83e\uddb8\u200d\u2640\ufe0f"
+      ],
+      "options": [
+        "Brake and Clutch Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Brake pads and rotors need to be replaced periodically to ensure proper braking performance.",
+        "It's like replacing your shoes when they're worn out from running - you don't want to slip and slide on the road when you're trying to stop! \ud83d\udc5f"
+      ],
+      "options": [
+        "Brake and Clutch Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A clutch allows the driver to switch gears and transfer power from the engine to the wheels.",
+        "It's like a magic wand - you say the words (or in this case, shift gears) and the car does your bidding! \ud83e\uddd9\u200d\u2640\ufe0f"
+      ],
+      "options": [
+        "Brake and Clutch Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Drive train systems are responsible for transferring power from the engine to the wheels.",
+        "It's like the muscles of a car - transferring all that power to the wheels to make your ride a beast on the road! \ud83d\udcaa"
+      ],
+      "options": [
+        "Drive Train Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A differential is a key component of a drive train system, allowing the wheels to rotate at different speeds while turning.",
+        "It's like allowing your eyes to move independently - so they can read different billboards at the same time! \ud83c\udf03"
+      ],
+      "options": [
+        "Drive Train Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Drive shafts, axles, and u-joints are also important components of drive train systems.",
+        "It's like the superhero squad that moves your car forward and gives it that extra boost - ready to take on any challenge! \ud83e\uddbe"
+      ],
+      "options": [
+        "Drive Train Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Diesel engines require special tools and equipment for maintenance and repair.",
+        "It's like being a magician - you need a specific wand for each spell to make the magic happen! \ud83e\uddd9\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Special Tools and Equipment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Examples of special tools and equipment include torque wrenches, engine hoists, and diagnostic equipment.",
+        "It's like having your own secret lab where you conduct experiments on your car, with all the special tools and equipment you need to make it happen! \ud83d\udd2c"
+      ],
+      "options": [
+        "Special Tools and Equipment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Special tools and equipment can save time and make maintenance and repair tasks easier."
+      ],
+      "options": [
+        "Special Tools and Equipment (correct answer)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Set a budget",
+        "Prioritize location",
+        "Inspect thoroughly",
+        "Save for down payment",
+        "Get pre-approved",
+        "Research neighborhoods",
+        "Be patient",
+        "List your needs and wants",
+        "Hire a realtor",
+        "Know your credit score",
+        "Consider resale value",
+        "Negotiate wisely",
+        "Check for incentive.",
+        "Plan for closing costs",
+        "Think long-term"
+    ],
+    "hints": {
+        "Set a budget": "Determine how much you can afford, taking into account your monthly expenses, debt, and future financial goals. Stick to your budget when searching for a home.",
+        "Prioritize location": "Choose a location that aligns with your lifestyle, work, and family needs. The right location can significantly impact the value and resale potential of your home.",
+        "Inspect thoroughly": "Hire a professional home inspector to evaluate the property's condition. This can help uncover potential issues and save you money in the long run.",
+        "Save for down payment": "Aim to save at least 20% of the home's purchase price as a down payment to avoid private mortgage insurance (PMI) and secure better loan terms.",
+        "Get pre-approved": "Obtain a mortgage pre-approval from a lender to demonstrate your financial readiness and make your offer more attractive to sellers.",
+        "Research neighborhoods": "Investigate local amenities, schools, crime rates, and property taxes to ensure the area meets your needs and preferences.",
+        "Be patient": "Don't rush the home buying process. Take your time to find the right property that meets your needs and budget.",
+        "List your needs and wants": "Identify the must-haves and nice-to-haves for your future home. This will help you focus on properties that match your criteria.",
+        "Hire a realtor": "A knowledgeable and experienced real estate agent can help you navigate the home buying process, negotiate on your behalf, and provide valuable insights.",
+        "Know your credit score": "A good credit score can help you secure better mortgage terms. Check your credit report, and address any issues before applying for a mortgage.",
+        "Consider resale value": "Think about the potential resale value of the property, considering factors like local market trends and future development plans in the area.",
+        "Negotiate wisely": "Use your realtor's expertise to negotiate a fair price, contingencies, and other terms that protect your interests.",
+        "Check for incentives": "Look for government-backed programs, grants, or other incentives that can help you save money on your home purchase.",
+        "Plan for closing costs": "Be prepared to cover closing costs, which may include appraisal fees, title insurance, and loan origination fees, typically ranging from 2-5% of the purchase price.",
+        "Think long-term": "Evaluate your long-term plans and how the property will fit your needs over time. Consider factors such as potential family growth, job stability, and lifestyle changes."
+    }
+}

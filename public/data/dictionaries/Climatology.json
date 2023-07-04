@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Weather vs Climate",
+        "Earth's Energy Balance",
+        "Climate Zones",
+        "Greenhouse Effect",
+        "Global Warming",
+        "Climate Change",
+        "Paleoclimatology",
+        "Hydrological Cycle",
+        "Atmospheric Layers",
+        "Ocean-Atmosphere Interaction",
+        "Clouds and Precipitation",
+        "Climatic Feedback Mechanisms",
+        "Climate Models",
+        "El Ni\u00f1o and La Ni\u00f1a",
+        "Climatology of Extreme Events"
+    ],
+    "hints": {
+        "Weather vs Climate": "Weather refers to short-term atmospheric conditions, while climate is the average weather patterns over a longer period.",
+        "Earth's Energy Balance": "This is about how the Earth balances the energy it receives from the Sun with the energy it radiates back into outer space.",
+        "Climate Zones": "Different parts of the Earth have different climates. These are divided into zones like tropical, temperate, and polar.",
+        "Greenhouse Effect": "This describes how certain gases in our atmosphere trap heat, warming the Earth.",
+        "Global Warming": "This is the long-term increase in Earth's average temperature.",
+        "Climate Change": "This term covers all the various changes in global weather patterns, including temperature, precipitation, and wind.",
+        "Paleoclimatology": "The study of past climates, often using data from ice cores, tree rings, and other natural records.",
+        "Hydrological Cycle": "This is the cycle of water movement on, above, and below the surface of the Earth.",
+        "Atmospheric Layers": "The atmosphere is divided into layers based on temperature. These layers are the troposphere, stratosphere, mesosphere, and thermosphere.",
+        "Ocean-Atmosphere Interaction": "The oceans and atmosphere interact in complex ways, exchanging heat, moisture, and momentum.",
+        "Clouds and Precipitation": "How clouds form, their types, and how they lead to different kinds of precipitation.",
+        "Climatic Feedback Mechanisms": "These are processes that can either amplify (positive feedback) or diminish (negative feedback) the effects of climate change.",
+        "Climate Models": "These are complex mathematical models used to predict future climate by simulating the interactions of the atmosphere, oceans, land surface, and ice.",
+        "El Ni\u00f1o and La Ni\u00f1a": "These are climate patterns resulting from interactions between the ocean surface and the atmosphere in the Pacific.",
+        "Climatology of Extreme Events": "The study of unusual weather phenomena like tornadoes, hurricanes, and heatwaves, and how they may be affected by climate change."
+    }
+}

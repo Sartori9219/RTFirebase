@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, I heard someone say \"tort\" in class today. Are we learning about desserts?",
+        "Haha, not quite! In legal terms, a \"tort\" is a civil wrong that causes harm to someone, and the harmed person can seek compensation through a lawsuit."
+      ],
+      "options": [
+        "Legal Terminology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My professor mentioned \"habeas corpus\" in class. Is that some kind of ancient spell?",
+        "That's a funny thought! Actually, \"habeas corpus\" is a legal term meaning \"produce the body.\" It's a fundamental right that protects individuals from unlawful imprisonment."
+      ],
+      "options": [
+        "Legal Terminology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I came across the word \"estoppel\" while studying. Is that a new dance move?",
+        "Haha, not quite! \"Estoppel\" is a legal principle that prevents someone from asserting a claim or right that contradicts their previous actions or statements."
+      ],
+      "options": [
+        "Legal Terminology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that flamingos can only eat when their heads are upside down?",
+        "Really? That's so weird! I wonder if there's a law about feeding flamingos in public parks."
+      ],
+      "options": [
+        "Legal Research (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in some places it's illegal to tie your alligator to a fire hydrant.",
+        "Haha, seriously? I'd love to see the case where that law was first enforced!"
+      ],
+      "options": [
+        "Legal Research (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If a tree falls in the forest and no one is around to hear it, does it make a sound?",
+        "I don't know, but if it falls on someone's property, who's responsible for the damages?"
+      ],
+      "options": [
+        "Legal Research (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, I'm writing this legal memo, and I just have to start with \"Once upon a time in a land far, far away...\"",
+        "Haha, as long as you follow it up with a clear statement of the issue and some solid legal analysis, I think you're golden!"
+      ],
+      "options": [
+        "Legal Writing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to make my legal brief more exciting. What if I throw in a plot twist, like \"The defendant was actually... the plaintiff's long-lost twin!\"",
+        "Sounds fun, but don't forget to back it up with actual evidence and legal arguments. And maybe leave the soap opera drama for your creative writing class."
+      ],
+      "options": [
+        "Legal Writing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My legal writing professor said my writing was too dry, so I added a joke - \"Why did the lawyer go to law school? To learn how to pass the bar exam... get it?\"",
+        "Nice pun! Just make sure it doesn't distract from your main points and that the rest of your writing is clear, concise, and persuasive."
+      ],
+      "options": [
+        "Legal Writing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've got a great idea for a new TV show - \"Civil Procedure Idol!\" Contestants compete to see who can serve the most subpoenas in the shortest amount of time.",
+        "Haha, I'd watch that! Just make sure they follow the proper service rules and don't trample over any constitutional rights."
+      ],
+      "options": [
+        "Civil Procedure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If a mime is sued, do they have to perform their deposition entirely in pantomime?",
+        "That would be entertaining, but I think they'd still need to verbally answer questions. Maybe they could incorporate some interpretive gestures for added flair!"
+      ],
+      "options": [
+        "Civil Procedure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we replaced all civil procedure rules with a giant game of rock-paper-scissors? It would save so much time and paperwork!",
+        "It might be more fun, but I think we'd lose some important aspects like due process and fairness. Plus, imagine the appeals based on \"best two out of three!\""
+      ],
+      "options": [
+        "Civil Procedure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that to become a criminal procedure expert, you have to master the art of \"arresting\" people's attention.",
+        "Haha, well, it's definitely important to know how to present a compelling case and understand the rights of the accused!"
+      ],
+      "options": [
+        "Criminal Procedure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If a detective accidentally leaves their badge at a crime scene, does that count as a \"search and seizure\" violation?",
+        "It might not be a textbook example, but it's still crucial to follow proper procedures to protect everyone's rights and avoid jeopardizing the investigation."
+      ],
+      "options": [
+        "Criminal Procedure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we replaced jury trials with a game show where contestants have to guess the verdict based on emojis? \ud83d\ude07\ud83d\ude94\ud83d\udd0d\ud83d\udc69\u200d\u2696\ufe0f",
+        "That would definitely be a unique approach, but we'd probably risk undermining the whole concept of a fair trial and due process. Plus, imagine the confusion over \ud83c\udf46!"
+      ],
+      "options": [
+        "Criminal Procedure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just signed a contract to only eat pizza for the rest of my life. Best. Decision. Ever.",
+        "Haha, I hope there's a clause in there about being able to try different toppings! Just remember, a contract is legally binding, so choose your pizza wisely."
+      ],
+      "options": [
+        "Contract Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we replaced all contracts with secret handshakes? No more paperwork and way cooler!",
+        "As fun as that sounds, it might make proving the terms of the agreement a bit tricky. Plus, imagine trying to enforce an NDA with a high-five!"
+      ],
+      "options": [
+        "Contract Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking of starting a business where people can pay me to write their contracts in rhyming couplets. Catchy, right?",
+        "It would definitely make reading contracts more entertaining! Just make sure the terms are still clear and legally enforceable, or you might end up in poetic justice."
+      ],
+      "options": [
+        "Contract Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've heard that in family law, sometimes the best way to settle a dispute is with a good old-fashioned game of \"Rock, Paper, Scissors, Lizard, Spock.\"",
+        "Haha, while that might be a fun way to make decisions, it's essential to ensure fairness and the best interests of all parties involved, especially the children."
+      ],
+      "options": [
+        "Family Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If two people get divorced in a forest and no one else is around, do they still need a family lawyer?",
+        "Even if it's just the trees as witnesses, it's always a good idea to consult with a family lawyer to protect everyone's rights and make sure the process goes smoothly."
+      ],
+      "options": [
+        "Family Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking of starting a reality show called \"Family Law Island,\" where estranged couples have to work together to survive on a deserted island.",
+        "That would be quite the test of cooperation! But let's leave the actual family law matters to the professionals who can navigate the complexities and emotions involved."
+      ],
+      "options": [
+        "Family Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just learned about tort law, and now I'm really craving a dessert torte. Coincidence?",
+        "Haha, maybe your sweet tooth is trying to tell you something! Just don't confuse the two, or you might end up suing someone for a bad cake recipe."
+      ],
+      "options": [
+        "Tort Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think I found the perfect solution for reducing tort lawsuits \u2013 bubble wrap suits for everyone!",
+        "It might prevent some injuries, but there's more to tort law than just slips and falls. Plus, imagine the fashion statements we'd be making!"
+      ],
+      "options": [
+        "Tort Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we replaced all tort law cases with dance battles? Winner takes all, and it would be way more entertaining!",
+        "As fun as that sounds, we still need a legal framework to ensure fairness and compensation for those who have been wronged. But hey, maybe we can start a new reality show!"
+      ],
+      "options": [
+        "Tort Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just patented my new invention - a time machine that only goes forward at the regular speed of time. Revolutionary, right?",
+        "Haha, well, it might not be the most groundbreaking invention, but it's always good to know how to protect your intellectual property!"
+      ],
+      "options": [
+        "Intellectual Property Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we replaced copyrights with a game of musical chairs? Once the music stops, whoever's sitting on the chair gets to keep the rights!",
+        "That would certainly make things more exciting, but it wouldn't be the most effective way to protect creators' rights and encourage innovation."
+      ],
+      "options": [
+        "Intellectual Property Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that if you say \"patent pending\" three times fast, your idea becomes automatically protected by IP law. Magic, right?",
+        "Haha, if only it were that easy! In reality, you'll need to go through the proper channels to secure your intellectual property rights, but it's worth the effort."
+      ],
+      "options": [
+        "Intellectual Property Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just started a new company called \"Procrastinators United.\" We were going to have our first board meeting yesterday, but we decided to postpone it indefinitely.",
+        "Haha, well, as long as you follow corporate law guidelines and keep proper records, you should be good. Just make sure not to put off those annual filings too!"
+      ],
+      "options": [
+        "Corporate Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if corporate mergers were decided by arm wrestling matches? Winner gets to be the CEO of the new company!",
+        "That would definitely make business news more entertaining, but corporate law exists to ensure fairness, transparency, and protection for all stakeholders involved."
+      ],
+      "options": [
+        "Corporate Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've got a great idea for a new business - Rent-a-Friend! You can hire someone to be your buddy for a day. Do you think I need a corporate lawyer to set it up?",
+        "It's a unique concept, and yes, consulting a corporate lawyer is always a good idea to make sure your business is structured correctly and follows all legal requirements."
+      ],
+      "options": [
+        "Corporate Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just bought a piece of property on the moon! Can't wait to build my lunar vacation home.",
+        "Haha, that's out of this world! But you might want to consult a real estate lawyer to see if Earthly property laws apply to extraterrestrial land purchases."
+      ],
+      "options": [
+        "Real Estate Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we replaced property deeds with treasure maps? You'd have to follow the clues to claim your new home!",
+        "As fun as that sounds, real estate law is there to ensure clear ownership rights and protect buyers and sellers during transactions. But maybe you've got a future in designing escape rooms!"
+      ],
+      "options": [
+        "Real Estate Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking about starting a business where I rent out treehouses. Do you think I need a real estate lawyer for that?",
+        "It's definitely a unique idea! Consulting a real estate lawyer would be helpful to ensure you're following zoning regulations and properly drafting rental agreements."
+      ],
+      "options": [
+        "Real Estate Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just took an ethics exam, and one of the questions was, \"If a lawyer falls in a forest and no one is around to hear it, does it make a sound?\"",
+        "Haha, that's a unique way to approach the topic! But seriously, ethics and professional responsibility are crucial for maintaining trust in the legal profession."
+      ],
+      "options": [
+        "Ethics and Professional Responsibility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if ethical dilemmas were settled with a game of \"Would You Rather?\" It would definitely make things more interesting!",
+        "As entertaining as that sounds, it's important to have a solid understanding of ethics and professional responsibility to ensure we make the right decisions in our legal careers."
+      ],
+      "options": [
+        "Ethics and Professional Responsibility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If a lawyer has a guilty conscience, can they plead the Fifth when it comes to their own ethical dilemmas?",
+        "Nice try, but lawyers still need to uphold ethical standards and be accountable for their actions. It's all about maintaining integrity in the profession!"
+      ],
+      "options": [
+        "Ethics and Professional Responsibility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that the best way to provide litigation support is to show up to court with a giant foam finger that says \"Go Team!\"",
+        "Haha, well, enthusiasm is great, but effective litigation support involves research, organization, and strong communication skills to help build a winning case."
+      ],
+      "options": [
+        "Litigation Support (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we replaced expert witnesses with fortune tellers? They could predict the outcome of the case right there in the courtroom!",
+        "As intriguing as that sounds, litigation support relies on credible and reliable experts who can provide evidence-based opinions to help the judge or jury make informed decisions."
+      ],
+      "options": [
+        "Litigation Support (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking about starting a new reality show called \"America's Next Top Litigation Support Specialist!\" Contestants will compete in challenges like speed-document-review and deposition prep.",
+        "That would definitely put a fun spin on the profession! Just remember that real-world litigation support requires attention to detail, legal knowledge, and collaboration with the legal team."
+      ],
+      "options": [
+        "Litigation Support (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just prepared a legal document using nothing but emojis! \ud83d\udcdd\ud83d\udc69\u200d\u2696\ufe0f\ud83d\udd12",
+        "Haha, that's creative! Just make sure your documents are still clear, accurate, and professional to ensure they're legally enforceable and easy to understand."
+      ],
+      "options": [
+        "Legal Document Preparation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we replaced all legal documents with interpretive dance routines? It would make the process much more artistic and expressive!",
+        "As entertaining as that would be, it's essential to have well-drafted, written legal documents to protect everyone's rights and clearly outline the terms of agreements."
+      ],
+      "options": [
+        "Legal Document Preparation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking about starting a business where I prepare legal documents in invisible ink. It'll add an extra layer of confidentiality!",
+        "While that might sound like a fun idea, ensuring that legal documents are readable, accessible, and properly formatted is crucial for their validity and effectiveness."
+      ],
+      "options": [
+        "Legal Document Preparation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just sent a singing telegram to a client to explain their legal rights. They'll never forget the tune \u2013 or their rights!",
+        "Haha, that's certainly memorable! Just make sure your client communication is still clear, professional, and informative to help them understand their legal situation."
+      ],
+      "options": [
+        "Client Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we replaced all client meetings with epic rap battles? It would make discussing legal matters way more entertaining!",
+        "As fun as that sounds, effective client communication requires active listening, empathy, and a clear explanation of legal issues to ensure clients feel supported and informed."
+      ],
+      "options": [
+        "Client Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've decided to communicate with my clients exclusively through interpretive dance. It's time to revolutionize the practice of law!",
+        "While that might be an artistic approach, clear and concise verbal or written communication is essential to ensure clients fully understand their legal options and any potential outcomes."
+      ],
+      "options": [
+        "Client Communication (correct answer)"
+      ]
+    }
+  ]
+}

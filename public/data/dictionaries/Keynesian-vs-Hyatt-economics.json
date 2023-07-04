@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Demand-Side Economics",
+        "Government Spending",
+        "The Multiplier Effect",
+        "Full Employment",
+        "Liquidity Preference",
+        "Say's Law",
+        "Business Cycle Theory",
+        "Monetary Policy",
+        "Fiscal Policy",
+        "Price and Wage Rigidity",
+        "Interest Rates",
+        "Role of Savings",
+        "Inflation",
+        "Economic Equilibrium",
+        "Free Market Capitalism"
+    ],
+    "hints": {
+        "Demand-Side Economics": "Keynesian economics focuses on using demand-side policies to stimulate or slow down the economy, while Hayek economics places more emphasis on the supply-side and the role of business investment.",
+        "Government Spending": "Keynesians believe that government spending can be used to \"jump start\" economic growth during recessions. Hayek, however, believed that government interventions often lead to inefficiencies and disruptions in the market.",
+        "The Multiplier Effect": "Keynes argued that one person's spending goes towards another's earnings, and their spending and so on, leading to a multiplied effect on income. Hayek was more skeptical of the multiplier effect.",
+        "Full Employment": "Keynesians seek to achieve full employment through government intervention, whereas Hayek believed that the market would naturally correct itself over time.",
+        "Liquidity Preference": "Keynesians believe people prefer liquidity and thus hold back spending, potentially causing recessions. Hayek's theory doesn't focus much on liquidity preference.",
+        "Say's Law": "Hayek leans towards Say's law, the idea that supply creates its own demand, while Keynes argued against Say's law.",
+        "Business Cycle Theory": "Keynesians believe government can smooth out the business cycles, while Hayek thought that government intervention often causes the business cycles.",
+        "Monetary Policy": "Keynesians believe in active monetary policy to counteract economic downturns. Hayek, however, was skeptical of the ability of central banks to positively influence economic conditions.",
+        "Fiscal Policy": "Keynesians believe in using fiscal policy (government spending and taxes) to influence the economy, while Hayek believed that this often leads to distortions and inefficiencies.",
+        "Price and Wage Rigidity": "Keynesians argue that prices and wages can be \"sticky\", justifying government intervention, while Hayek believed that prices and wages are flexible and will adjust naturally over time.",
+        "Interest Rates": "Keynesians believe that lowering interest rates is effective in stimulating demand during a recession. Hayek, however, believed that artificially low interest rates could lead to an unsustainable boom and subsequent bust.",
+        "Role of Savings": "Keynes saw high levels of saving as potentially leading to economic slumps unless offset by investment. Hayek saw saving and capital accumulation as central to economic growth.",
+        "Inflation": "While both Keynesians and Hayekians view inflation as problematic, Keynesians see it as something that can be managed through monetary policy, while Hayekians view inflation as largely stemming from excessive growth in the money supply.",
+        "Economic Equilibrium": "Keynesians believe that an economy can be in equilibrium at less than full employment and needs government intervention to achieve full employment. Hayek, on the other hand, believed that the economy tends towards a natural equilibrium and that attempts to artificially create full employment can be counterproductive.",
+        "Free Market Capitalism": "Hayek was a staunch advocate of free-market capitalism, believing it to be the most efficient way to allocate resources. Keynes, while not against markets, believed that government intervention was necessary to stabilize output and prevent recessions."
+    }
+}

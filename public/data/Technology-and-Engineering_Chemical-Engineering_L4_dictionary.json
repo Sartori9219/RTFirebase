@@ -1,0 +1,293 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, did you know that a dog food factory uses the same principles as a power plant?",
+        "They both have to make sure that the amount of stuff going in equals the amount coming out, plus any leftovers or waste!"
+      ],
+      "options": []
+    },
+    {
+      "question": [
+        "I've got a pet hamster that runs on a wheel, generating electricity for my phone charger!",
+        "That's an impressive energy conversion! Just make sure the hamster's food input balances with the energy output."
+      ],
+      "options": [
+        "Mass and energy balances (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I made a cake, but I forgot the eggs. Now it's just a gooey mess!",
+        "Seems like your mass balance was off, better luck next time!"
+      ],
+      "options": [
+        "Mass and energy balances (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My water bottle has a leak, and now I'm all wet!",
+        "more water is leaving the bottle than should be!"
+      ],
+      "options": [
+        "Mass and energy balances (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the ice cube say to the hot coffee, 'I can't handle the heat!'?",
+        "Ah, classic case of energy transfer between two systems with different temperatures!"
+      ],
+      "options": [
+        "Thermodynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried cooking dinner last night, but I accidentally turned the stove off and the food didn't cook!",
+        "Seems like a thermodynamics mishap.  Without heat, there's no energy to drive the cooking process!"
+      ],
+      "options": [
+        "Thermodynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do my homemade fireworks go 'fizzle' instead of 'boom'?",
+        "Sounds like a slow reaction rate. Maybe you need to tweak the ingredients to speed up the chemical kinetics!"
+      ],
+      "options": [
+        "Chemical kinetics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I left my soda out in the sun, and now it's flat and warm. What a bummer!",
+        "Oh no! High temperatures can speed up chemical reactions, causing the carbonation to escape faster."
+      ],
+      "options": [
+        "Chemical kinetics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the tomato turn red?",
+        "Because it saw the salad dressing! But seriously, it's all about the flow of fluids in the tomato as it ripens."
+      ],
+      "options": [
+        "Fluid mechanics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My chocolate milkshake is so thick, I can't get any through the straw!",
+        "Sounds like a high viscosity fluid! Try stirring it to make the fluid mechanics work in your favor."
+      ],
+      "options": [
+        "Fluid mechanics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I microwaved my pizza, and now the cheese is melted, but the crust is still cold!",
+        "Ah, uneven heat transfer strikes again! Maybe try heating it in the oven for a more uniform temperature."
+      ],
+      "options": [
+        "Heat and mass transfer (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I spilled my coffee, and now there's a huge stain on the tablecloth!",
+        "Bummer! That's mass transfer in action, as the liquid moves from one medium to another."
+      ],
+      "options": [
+        "Heat and mass transfer (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried to make caramel, but I accidentally set off the fire alarm!",
+        "Sounds like you needed better process control to keep the temperature in check!"
+      ],
+      "options": [
+        "Process control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the robot that was programmed to keep plants watered?",
+        "maintaining the perfect balance of water for optimal plant growth!"
+      ],
+      "options": [
+        "Process control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a magic lamp, but it's all covered in dirt! How can I clean it?",
+        "Try using a separation process like filtration to remove the dirt and reveal the shiny lamp!"
+      ],
+      "options": [
+        "Separation processes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I mixed salt in water, but now I want the salt back. What do I do?",
+        "You can use a separation process like evaporation to remove the water and get your salt back!"
+      ],
+      "options": [
+        "Separation processes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I designed a giant popcorn machine, could I make enough popcorn for the whole city?",
+        "Sure, just make sure you have a well-optimized reactor design for maximum popcorn production efficiency!"
+      ],
+      "options": [
+        "Reactor design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that superheroes have superpowered reactors in their secret lairs!",
+        "That's right! With a cutting-edge reactor design, they can generate tons of energy for all their gadgets and gizmos."
+      ],
+      "options": [
+        "Reactor design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do scientists wear goggles and lab coats when working with chemicals?",
+        "It's all about process safety! Protecting themselves and their surroundings from potential hazards is a top priority."
+      ],
+      "options": [
+        "Process safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to bake a cake in a chemistry lab. Do you think it's a good idea?",
+        "That doesn't sound very safe! Process safety is crucial in a lab environment. Better stick to the kitchen for baking!"
+      ],
+      "options": [
+        "Process safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried to build a perpetual motion machine, but it never seems to work!",
+        "That's because material and energy balances always need to be maintained. You can't create energy out of nothing!"
+      ],
+      "options": [
+        "Material and energy balances (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my car run out of gas even though I keep the air conditioning on full blast?",
+        "Well, using the AC consumes energy, and the car needs to maintain its material and energy balances. So, it'll use more gas!"
+      ],
+      "options": [
+        "Material and energy balances (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do I always get brain freeze when I eat ice cream too fast?",
+        "It's due to the rapid transport of cold temperatures from the ice cream to the roof of your mouth. Slow down to avoid the freeze!"
+      ],
+      "options": [
+        "Transport phenomena (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my coffee get cold so quickly when I pour it into my cup?",
+        "Blame it on the transport phenomena! Heat moves from your hot coffee to the cooler environment, causing it to cool down."
+      ],
+      "options": [
+        "Transport phenomena (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the chemist who won the video game championship?",
+        "Yeah! They aced it using their skills in chemical process simulation to strategize and optimize their gameplay!"
+      ],
+      "options": [
+        "Chemical process simulation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to build a miniature volcano for my science project, but I'm not sure how it will turn out.",
+        "Why not use chemical process simulation to model the reaction and predict the outcome? It's like having a virtual volcano!"
+      ],
+      "options": [
+        "Chemical process simulation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I started a lemonade stand, but I'm not making any profit. What's going wrong?",
+        "Sounds like you need to analyze your process economics. Check your costs and pricing to find a better balance!"
+      ],
+      "options": [
+        "Process economics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the chemist invest in a goldmine?",
+        "They must have done their process economics homework and found it to be a profitable venture!",
+        "User",
+        "Materials science",
+        "Catalysis"
+      ],
+      "options": [
+        "Process economics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the scientist take their pencil to the gym?",
+        "To work on their materials science, of course! Understanding how materials like graphite respond to stress is key."
+      ],
+      "options": [
+        "Materials science (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard they're making clothes out of spider silk now. What's next?",
+        "Materials science is always evolving! Who knows, maybe we'll be wearing clothes made from moon rocks soon!"
+      ],
+      "options": [
+        "Materials science (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a chemist who helps others get things done faster?",
+        "A catalyst! Just like in chemical reactions, they speed things up without getting used up themselves."
+      ],
+      "options": [
+        "Catalysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the enzyme go to the party?",
+        "To be the life of the party and catalyze some fun reactions among the guests!"
+      ],
+      "options": [
+        "Catalysis (correct answer)"
+      ]
+    }
+  ]
+}

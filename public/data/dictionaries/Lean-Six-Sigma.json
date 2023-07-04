@@ -1,0 +1,36 @@
+{
+    "options": [
+        "DMAIC",
+        "Continuous Improvement",
+        "Value Stream Mapping",
+        "5S Methodology",
+        "Waste Reduction",
+        "Root Cause Analysis",
+        "Process Mapping",
+        "Standard Work",
+        "Visual Management",
+        "Statistical Process Control",
+        "Control Charts",
+        "Six Sigma",
+        "SIPOC",
+        "Gemba Walk",
+        "Kanban"
+    ],
+    "hints": {
+        "DMAIC": "Define, Measure, Analyze, Improve, and Control - a structured problem-solving methodology for process improvement.",
+        "Continuous Improvement": "An ongoing effort to improve products, services, or processes by making incremental enhancements.",
+        "Value Stream Mapping": "A visualization tool used to analyze and optimize the flow of materials and information through a process.",
+        "5S Methodology": "A workplace organization system (Sort, Set in Order, Shine, Standardize, and Sustain) that promotes efficiency and reduces waste.",
+        "Waste Reduction": "Identifying and eliminating non-value-adding activities in a process to optimize resources and minimize costs.",
+        "Root Cause Analysis": "A method for identifying the underlying cause of a problem or defect and preventing its recurrence.",
+        "Process Mapping": "A visual representation of the steps, inputs, and outputs in a process to understand and improve its performance.",
+        "Standard Work": "A set of documented, best-practice procedures that ensures consistent and efficient task execution.",
+        "Visual Management": "The use of visual cues and displays to communicate essential information and facilitate process control.",
+        "Statistical Process Control": "A statistical technique for monitoring and controlling process quality using data analysis and control charts.",
+        "Control Charts": "A graphical tool for tracking process performance over time and identifying variations that may require corrective action.",
+        "Six Sigma": "A disciplined, data-driven approach to process improvement that aims to reduce defects and variation.",
+        "SIPOC": "A high-level process map that identifies Suppliers, Inputs, Process, Outputs, and Customers to establish a process baseline.",
+        "Gemba Walk": "A management practice where leaders visit the actual workplace (Gemba) to observe and understand work processes and identify improvement opportunities.",
+        "Kanban": "A visual workflow management system that optimizes the flow of work by limiting work-in-progress and identifying bottlenecks."
+    }
+}

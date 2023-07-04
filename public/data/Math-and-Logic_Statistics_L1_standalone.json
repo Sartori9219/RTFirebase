@@ -1,0 +1,1084 @@
+{
+  "questions": [
+    {
+      "question": "Which of these sets of numbers has a mean of 4?",
+      "options": [
+        "A group of four-legged puppies (correct answer)",
+        "A collection of two scoops of ice cream and two slices of pizza",
+        "A trio of three-leaf clovers",
+        "A pair of shoes with eight laces"
+      ]
+    },
+    {
+      "question": "What would a superhero named \"Mean Master\" do to save the day?",
+      "options": [
+        "Calculate the average height of all citizens (correct answer)",
+        "Find the middle value of a list of ages",
+        "Discover the most common superpower",
+        "Look for the tallest building in town"
+      ]
+    },
+    {
+      "question": "What does a \"Mean\" chef do when they're preparing a meal?",
+      "options": [
+        "Calculate the average number of ingredients in each dish (correct answer)",
+        "Find the spiciest ingredient in the kitchen",
+        "Count the total number of dishes they can make",
+        "Discover the most popular dish on the menu"
+      ]
+    },
+    {
+      "question": "If a group of chickens and pigs had a mean of 3 legs, what could you infer?",
+      "options": [
+        "Some chickens might be wearing piggy slippers (correct answer)",
+        "Chickens and pigs formed a new animal species",
+        "The chickens and pigs all have the same number of legs",
+        "They are in a leg-sharing program"
+      ]
+    },
+    {
+      "question": "A team of aliens and humans play a game together. If the mean number of arms per player is 1.8, what could be happening?",
+      "options": [
+        "Some aliens might have 3 arms (correct answer)",
+        "Humans suddenly grew extra arms",
+        "Aliens have fewer arms than humans",
+        "The game requires players to use only one arm"
+      ]
+    },
+    {
+      "question": "In a donut eating contest, participants ate these numbers of donuts: 3, 4, 5, 7, 9. What is the median number of donuts eaten?",
+      "options": [
+        "3 donuts",
+        "5 donuts (correct answer)",
+        "7 donuts",
+        "9 donuts"
+      ]
+    },
+    {
+      "question": "What could a \"Median Magician\" do as a party trick?",
+      "options": [
+        "Make the middle card in a deck disappear (correct answer)",
+        "Calculate the average age of the guests",
+        "Double the size of the largest cake",
+        "Guess the most common birthday month"
+      ]
+    },
+    {
+      "question": "In a room full of 5, 7, and 9-legged aliens, which alien has the median number of legs?",
+      "options": [
+        "5-legged alien (correct answer)",
+        "7-legged alien",
+        "9-legged alien",
+        "All aliens have the same number of legs"
+      ]
+    },
+    {
+      "question": "If a box of cookies has 1, 3, 5, 6, and 8 cookies inside, which box has the median number of cookies?",
+      "options": [
+        "Box with 1 cookie",
+        "Box with 3 cookies",
+        "Box with 5 cookies (correct answer)",
+        "Box with 6 cookies"
+      ]
+    },
+    {
+      "question": "In a group of animals, there are 2 cats, 4 dogs, and 6 hamsters. What is the median number of pets in the group?",
+      "options": [
+        "2 cats",
+        "4 dogs (correct answer)",
+        "6 hamsters",
+        "None of the above",
+        "Mode:"
+      ]
+    },
+    {
+      "question": "In a class of students, most kids have 2 pencils, but some have 1, 3, or 4. What is the mode for the number of pencils?",
+      "options": [
+        "1 pencil",
+        "2 pencils (correct answer)",
+        "3 pencils",
+        "4 pencils"
+      ]
+    },
+    {
+      "question": "If \"Mode Marvel\" were a superhero, what would be their unique ability?",
+      "options": [
+        "Find the most popular flavor at an ice cream shop (correct answer)",
+        "Calculate the average speed of cars on a road",
+        "Determine the exact middle temperature during a week",
+        "Instantly know the highest and lowest movie ratings"
+      ]
+    },
+    {
+      "question": "What is the mode in a shoe store that sells 5 pairs of sneakers, 8 pairs of boots, and 8 pairs of sandals?",
+      "options": [
+        "Sneakers",
+        "Boots and sandals (correct answer)",
+        "Sandals",
+        "None of the above"
+      ]
+    },
+    {
+      "question": "In a fruit basket with 3 apples, 5 oranges, 5 bananas, and 2 grapes, which fruit is the mode?",
+      "options": [
+        "Apples",
+        "Oranges and bananas (correct answer)",
+        "Bananas",
+        "Grapes"
+      ]
+    },
+    {
+      "question": "In a bag of 4 red, 6 green, and 6 blue marbles, what is the mode of the marble colors?",
+      "options": [
+        "Red",
+        "Green and blue (correct answer)",
+        "Blue",
+        "None of the above"
+      ]
+    },
+    {
+      "question": "In a race, the fastest snail traveled 10 inches, while the slowest snail traveled 2 inches. What is the range of their distances?",
+      "options": [
+        "2 inches",
+        "8 inches (correct answer)",
+        "10 inches",
+        "12 inches"
+      ]
+    },
+    {
+      "question": "A \"Range Ranger\" is a detective who specializes in finding what?",
+      "options": [
+        "The difference between the highest and lowest values in a dataset (correct answer)",
+        "The middle value in a list of numbers",
+        "The total number of items in a collection",
+        "The most common value in a group of data"
+      ]
+    },
+    {
+      "question": "In a garden, the tallest sunflower is 7 feet tall, and the shortest is 3 feet tall. What is the range of their heights?",
+      "options": [
+        "2 feet",
+        "4 feet (correct answer)",
+        "5 feet",
+        "7 feet"
+      ]
+    },
+    {
+      "question": "If a group of students scored between 50 and 100 points on a test, what is the range of their scores?",
+      "options": [
+        "30 points",
+        "50 points (correct answer)",
+        "100 points",
+        "150 points"
+      ]
+    },
+    {
+      "question": "In a box of chocolates, the heaviest chocolate weighs 25 grams, and the lightest weighs 10 grams. What is the range of chocolate weights?",
+      "options": [
+        "5 grams",
+        "10 grams",
+        "15 grams (correct answer)",
+        "25 grams"
+      ]
+    },
+    {
+      "question": "A baker measures the weight of different loaves of bread. What would the \"Variance Virtuoso\" do with this data?",
+      "options": [
+        "Calculate how much the loaves' weights differ from the average weight (correct answer)",
+        "Find the heaviest and lightest loaves",
+        "Determine the most popular type of bread",
+        "Guess the exact middle weight of all the loaves"
+      ]
+    },
+    {
+      "question": "A group of penguins are having a swimming race. What would a \"Variance Voyager\" measure?",
+      "options": [
+        "How differently the penguins swim from the average penguin (correct answer)",
+        "The fastest and slowest swimming penguins",
+        "The most common swimming technique",
+        "The total number of penguins in the race"
+      ]
+    },
+    {
+      "question": "In a bag of differently-sized candies, what would a \"Variance Adventurer\" be interested in discovering?",
+      "options": [
+        "How much the candies' sizes differ from the average size (correct answer)",
+        "The largest and smallest candies",
+        "The most common candy size",
+        "The total number of candies in the bag"
+      ]
+    },
+    {
+      "question": "A \"Variance Detective\" investigates the daily temperatures in a city. What would they focus on?",
+      "options": [
+        "How much the daily temperatures differ from the average temperature (correct answer)",
+        "The highest and lowest temperatures",
+        "The most common temperature during the day",
+        "The exact middle temperature during a week"
+      ]
+    },
+    {
+      "question": "In a contest of various pumpkin weights, what would the \"Variance Visionary\" analyze?",
+      "options": [
+        "How much the pumpkin weights differ from the average weight (correct answer)",
+        "The heaviest and lightest pumpkins",
+        "The most popular pumpkin size",
+        "The total number of pumpkins in the contest"
+      ]
+    },
+    {
+      "question": "If \"Standard Deviation Diva\" were a superhero, what would be their special power?",
+      "options": [
+        "Measure how spread out numbers are from their average (correct answer)",
+        "Find the middle number in a list",
+        "Determine the most common value in a dataset",
+        "Calculate the difference between the highest and lowest values"
+      ]
+    },
+    {
+      "question": "What would a \"Standard Deviation Scientist\" study in a group of differently sized rubber ducks?",
+      "options": [
+        "How much the ducks' sizes vary from the average size (correct answer)",
+        "The tallest and shortest rubber ducks",
+        "The most common rubber duck size",
+        "The total number of rubber ducks in the group"
+      ]
+    },
+    {
+      "question": "A \"Probability Pirate\" is searching for treasure. What would they be most interested in calculating?",
+      "options": [
+        "The chance of finding treasure on an island (correct answer)",
+        "The average weight of the treasure chests",
+        "The total number of treasure chests found",
+        "The most popular type of treasure"
+      ]
+    },
+    {
+      "question": "In a deck of cards, what is the probability of drawing a card with a picture of a unicorn on it?",
+      "options": [
+        "0% (correct answer)",
+        "25%",
+        "50%",
+        "100%"
+      ]
+    },
+    {
+      "question": "What would a \"Sample Surfer\" do at a music festival?",
+      "options": [
+        "Listen to a small portion of different songs to get a feel for the overall music (correct answer)",
+        "Stay for the entire duration of each concert",
+        "Find the most popular band at the festival",
+        "Calculate the average number of attendees per concert"
+      ]
+    },
+    {
+      "question": "A \"Population Pioneer\" is exploring a new planet. What are they most interested in discovering?",
+      "options": [
+        "The total number of beings living on the planet (correct answer)",
+        "The average age of the beings",
+        "The most common type of being",
+        "The exact middle population of the planet"
+      ]
+    },
+    {
+      "question": "If \"Confidence Interval Captain\" were a superhero, what would be their unique ability?",
+      "options": [
+        "Estimate a range of values likely to include an unknown population parameter (correct answer)",
+        "Calculate the average of any dataset instantly",
+        "Determine the most common value in a group of data",
+        "Discover the exact middle value in a list of numbers"
+      ]
+    },
+    {
+      "question": "A \"Confidence Interval Connoisseur\" is studying the heights of trees in a forest. What would they be most interested in estimating?",
+      "options": [
+        "A range of heights that likely contains the true average height of the trees (correct answer)",
+        "The tallest and shortest trees",
+        "The most common tree height",
+        "The total number of trees in the forest"
+      ]
+    },
+    {
+      "question": "In a class with students of varying heights, what would a \"Standard Deviation Detective\" investigate?",
+      "options": [
+        "How much the students' heights differ from the average height (correct answer)",
+        "The tallest and shortest students",
+        "The most common height among the students",
+        "The total number of students in the class"
+      ]
+    },
+    {
+      "question": "If a \"Standard Deviation Dancer\" were to perform at a talent show, what could their unique dance routine involve?",
+      "options": [
+        "Moving in a pattern representing the spread of numbers from their average (correct answer)",
+        "Dancing only in the middle of the stage",
+        "Repeating the most popular dance move",
+        "Dancing between the highest and lowest points on the stage"
+      ]
+    },
+    {
+      "question": "What would a \"Probability Prodigy\" do at a carnival?",
+      "options": [
+        "Calculate the chances of winning various games (correct answer)",
+        "Determine the average number of players per game",
+        "Find the most popular game at the carnival",
+        "Measure the distance between the highest and lowest games"
+      ]
+    },
+    {
+      "question": "In a cookie jar with 5 chocolate chip cookies and 3 oatmeal cookies, what is the probability of picking an oatmeal cookie?",
+      "options": [
+        "25%",
+        "37.5% (correct answer)",
+        "50%",
+        "75%"
+      ]
+    },
+    {
+      "question": "If a \"Sample Sleuth\" were investigating the favorite colors of people in a city, what would they do?",
+      "options": [
+        "Survey a small portion of the city's residents to get an idea of the overall favorite colors (correct answer)",
+        "Ask every single resident about their favorite color",
+        "Determine the most common color of clothing in the city",
+        "Calculate the average shade of color in the city"
+      ]
+    },
+    {
+      "question": "A \"Population Astronaut\" is sent to explore a moon inhabited by various creatures. What would be their primary mission?",
+      "options": [
+        "Determine the total number of creatures living on the moon (correct answer)",
+        "Calculate the average age of the creatures",
+        "Discover the most common type of creature",
+        "Find the exact middle population of creatures on the moon",
+        "Confidence Interval:"
+      ]
+    },
+    {
+      "question": "A \"Confidence Interval Chef\" is estimating the amount of sugar needed for a recipe. What would they do?",
+      "options": [
+        "Provide a range of sugar amounts that likely contains the true ideal amount (correct answer)",
+        "Use the same amount of sugar for every recipe",
+        "Choose the most common amount of sugar used in recipes",
+        "Calculate the average amount of sugar used in all recipes"
+      ]
+    },
+    {
+      "question": "What would a \"Confidence Interval Cyclist\" be interested in estimating during a bike race?",
+      "options": [
+        "A range of times likely containing the true average time to complete the race (correct answer)",
+        "The fastest and slowest cyclists",
+        "The most common cycling speed",
+        "The total number of cyclists in the race"
+      ]
+    },
+    {
+      "question": "In a bowling competition with varying scores, what would a \"Standard Deviation Bowler\" be interested in finding?",
+      "options": [
+        "How much the scores differ from the average score (correct answer)",
+        "The highest and lowest scores",
+        "The most common bowling score",
+        "The total number of participants in the competition"
+      ]
+    },
+    {
+      "question": "What would a \"Standard Deviation Disc Jockey\" analyze in a collection of different music volumes?",
+      "options": [
+        "How much the volumes vary from the average volume (correct answer)",
+        "The loudest and quietest tracks",
+        "The most common music volume",
+        "The total number of tracks in the collection"
+      ]
+    },
+    {
+      "question": "At a petting zoo, what would a \"Probability Zookeeper\" be most curious about?",
+      "options": [
+        "The chances of encountering different types of animals (correct answer)",
+        "The average age of the animals",
+        "The most popular animal at the zoo",
+        "The total number of animals in the zoo"
+      ]
+    },
+    {
+      "question": "In a bag of 6 red balls and 4 blue balls, what is the probability of picking a blue ball?",
+      "options": [
+        "25%",
+        "40% (correct answer)",
+        "50%",
+        "75%"
+      ]
+    },
+    {
+      "question": "A \"Sample Botanist\" wants to study the types of flowers in a large meadow. What would they do?",
+      "options": [
+        "Examine a small portion of flowers to get an idea of the overall flower types (correct answer)",
+        "Count every single flower in the meadow",
+        "Determine the most common flower in the meadow",
+        "Calculate the average size of flowers in the meadow"
+      ]
+    },
+    {
+      "question": "A \"Population Geologist\" is researching the number of rocks in a vast desert. What is their main goal?",
+      "options": [
+        "Determine the total number of rocks in the desert (correct answer)",
+        "Calculate the average size of the rocks",
+        "Discover the most common type of rock",
+        "Find the exact middle population of rocks in the desert"
+      ]
+    },
+    {
+      "question": "A \"Confidence Interval Athlete\" is predicting the outcome of a sports game. What would they do?",
+      "options": [
+        "Estimate a range of scores likely containing the true final score (correct answer)",
+        "Predict the exact final score",
+        "Determine the most common score in previous games",
+        "Calculate the average score of all games in the season"
+      ]
+    },
+    {
+      "question": "A \"Confidence Interval Meteorologist\" is estimating the rainfall in a region. What would they focus on?",
+      "options": [
+        "Provide a range of rainfall amounts likely containing the true average rainfall (correct answer)",
+        "Predict the exact amount of rainfall",
+        "Determine the most common rainfall amount in the region",
+        "Calculate the average amount of rainfall for all regions"
+      ]
+    },
+    {
+      "question": "If \"Hypothesis Testing Harry\" were a detective, what would he do to solve mysteries?",
+      "options": [
+        "Test assumptions to see if the evidence supports or rejects them (correct answer)",
+        "Always assume the most likely suspect is guilty",
+        "Only look for evidence that supports his favorite suspect",
+        "Randomly choose a suspect and hope for the best"
+      ]
+    },
+    {
+      "question": "What would a \"Hypothesis Testing Hippo\" do when trying to find the best food in the jungle?",
+      "options": [
+        "Test different foods to see if they are better or worse than the current favorite (correct answer)",
+        "Only eat the first food they find",
+        "Determine the most common food in the jungle",
+        "Calculate the average taste of all foods in the jungle"
+      ]
+    },
+    {
+      "question": "A \"Correlation Chameleon\" wants to know if wearing certain colors helps it blend in better. What would it investigate?",
+      "options": [
+        "The relationship between the color worn and how well it blends in (correct answer)",
+        "The most popular color among chameleons",
+        "The average color of the surroundings",
+        "The difference between the lightest and darkest colors"
+      ]
+    },
+    {
+      "question": "If a \"Correlation Conductor\" were leading an orchestra, what would they be interested in discovering?",
+      "options": [
+        "The relationship between the number of practice hours and the quality of the performance (correct answer)",
+        "The most common instrument in the orchestra",
+        "The average age of the orchestra members",
+        "The total number of musicians in the orchestra"
+      ]
+    },
+    {
+      "question": "A \"Regression Runner\" is trying to predict their future race times based on their past performances. What would they do?",
+      "options": [
+        "Use previous race times to estimate future race times (correct answer)",
+        "Assume they will run at the same speed in every race",
+        "Calculate the average speed of all their races",
+        "Only focus on their fastest and slowest race times"
+      ]
+    },
+    {
+      "question": "In a group of students with different test scores, a \"Normal Distribution Ninja\" would notice that most scores are:",
+      "options": [
+        "Around the average, with fewer scores at the extremes (correct answer)",
+        "The same as the highest score",
+        "The same as the lowest score",
+        "Completely random with no pattern"
+      ]
+    },
+    {
+      "question": "If a \"Outlier Owl\" were studying the flight patterns of birds, it would be most intrigued by:",
+      "options": [
+        "A bird that flies at an unusually high altitude compared to the others (correct answer)",
+        "The bird that flies at the average altitude",
+        "The most common altitude among the birds",
+        "The total number of birds flying at different altitudes"
+      ]
+    },
+    {
+      "question": "What would a \"Hypothesis Testing Chef\" do when trying to find the best cooking temperature for a dish?",
+      "options": [
+        "Test different temperatures to see if they produce better or worse results than a baseline temperature (correct answer)",
+        "Always cook at the highest possible temperature",
+        "Only use the most common cooking temperature",
+        "Calculate the average temperature of all ovens in the kitchen"
+      ]
+    },
+    {
+      "question": "A \"Hypothesis Testing Astronaut\" wants to know if a new space food is tastier than the current one. What would they do?",
+      "options": [
+        "Test both foods and compare their taste to see if the new one is significantly better (correct answer)",
+        "Assume the new food is always better",
+        "Choose the most common space food available",
+        "Calculate the average taste of all space foods"
+      ]
+    },
+    {
+      "question": "A \"Correlation Carpenter\" wants to know if using more nails leads to stronger furniture. What would they investigate?",
+      "options": [
+        "The relationship between the number of nails used and the strength of the furniture (correct answer)",
+        "The most popular type of nail",
+        "The average number of nails used in furniture construction",
+        "The difference between the smallest and largest nails"
+      ]
+    },
+    {
+      "question": "If a \"Correlation Cyclist\" were training for a race, what would they be interested in discovering?",
+      "options": [
+        "The relationship between the amount of training and race performance (correct answer)",
+        "The most common type of bicycle used in races",
+        "The average speed of all cyclists in the race",
+        "The total number of cyclists participating in the race"
+      ]
+    },
+    {
+      "question": "A \"Regression Realtor\" wants to predict the future price of a house based on its features. What would they do?",
+      "options": [
+        "Use the features of similar houses to estimate the future price (correct answer)",
+        "Assume all houses will have the same price",
+        "Calculate the average price of all houses in the neighborhood",
+        "Only focus on the highest and lowest-priced houses"
+      ]
+    },
+    {
+      "question": "In a group of people with different shoe sizes, a \"Normal Distribution Dancer\" would notice that most shoe sizes are:",
+      "options": [
+        "Around the average, with fewer sizes at the extremes (correct answer)",
+        "The same as the largest shoe size",
+        "The same as the smallest shoe size",
+        "Completely random with no pattern"
+      ]
+    },
+    {
+      "question": "If an \"Outlier Octopus\" were studying the swimming speeds of fish, it would be most intrigued by:",
+      "options": [
+        "A fish that swims at an unusually fast speed compared to the others (correct answer)",
+        "The fish that swims at the average speed",
+        "The most common swimming speed among the fish",
+        "The total number of fish swimming at different speeds"
+      ]
+    },
+    {
+      "question": "A \"Hypothesis Testing Gardener\" wants to know if a new fertilizer makes plants grow faster. What would they do?",
+      "options": [
+        "Test the growth rates of plants with and without the new fertilizer to see if there's a significant difference (correct answer)",
+        "Assume the new fertilizer always works better",
+        "Choose the most common fertilizer available",
+        "Calculate the average growth rate of all plants in the garden"
+      ]
+    },
+    {
+      "question": "A \"Hypothesis Testing Musician\" wants to know if practicing more leads to better performances. What would they do?",
+      "options": [
+        "Test the relationship between practice hours and performance quality to see if more practice leads to better performances (correct answer)",
+        "Assume they'll perform well without any practice",
+        "Choose the most common practice duration among musicians",
+        "Calculate the average practice time of all musicians"
+      ]
+    },
+    {
+      "question": "A \"Correlation Cheetah\" wants to know if longer legs result in faster running speeds. What would they investigate?",
+      "options": [
+        "The relationship between leg length and running speed (correct answer)",
+        "The most popular leg length among cheetahs",
+        "The average leg length of all cheetahs",
+        "The difference between the shortest and longest leg lengths"
+      ]
+    },
+    {
+      "question": "If a \"Correlation Coder\" were learning a new programming language, what would they be interested in discovering?",
+      "options": [
+        "The relationship between hours spent studying and their proficiency in the language (correct answer)",
+        "The most common programming language used by coders",
+        "The average amount of time it takes to learn a programming language",
+        "The total number of programming languages available"
+      ]
+    },
+    {
+      "question": "A \"Regression Robot\" wants to predict the future battery life of a device based on its usage. What would they do?",
+      "options": [
+        "Use the usage data of similar devices to estimate the future battery life (correct answer)",
+        "Assume all devices will have the same battery life",
+        "Calculate the average battery life of all devices in the same category",
+        "Only focus on the devices with the highest and lowest battery life"
+      ]
+    },
+    {
+      "question": "In a group of trees with different heights, a \"Normal Distribution Dryad\" would notice that most tree heights are:",
+      "options": [
+        "Around the average, with fewer trees at the extremes of height (correct answer)",
+        "The same as the tallest tree",
+        "The same as the shortest tree",
+        "Completely random with no pattern"
+      ]
+    },
+    {
+      "question": "If an \"Outlier Unicorn\" were studying the magical abilities of mythical creatures, it would be most intrigued by:",
+      "options": [
+        "A creature with an unusually powerful magical ability compared to the others (correct answer)",
+        "The creature with the average magical ability",
+        "The most common magical ability among mythical creatures",
+        "The total number of mythical creatures with different magical abilities"
+      ]
+    },
+    {
+      "question": "Person A: \"Did you know that the mean is like an ice cream shop's most popular flavor?\"",
+      "options": [
+        "Person B: \"You mean it's the average of all the flavors, like mixing them together in a big bowl?\"",
+        "Mean (basic statistics concept)"
+      ]
+    },
+    {
+      "question": "Person A: \"The mean is like a pirate's treasure map, guiding us to the middle of all the gold!\"",
+      "options": [
+        "Person B: \"You're right! It's the average of all the numbers, like finding the center of the treasure!\"",
+        "Mean (basic statistics concept)",
+        "Median",
+        "Central limit theorem",
+        "T-test"
+      ]
+    },
+    {
+      "question": "Person A: \"The mean is like a superhero who brings all the numbers together!\"",
+      "options": [
+        "Person B: \"Totally! It's the average, like the superhero uniting all the numbers to form a super team!\"",
+        "Mean (basic statistics concept)",
+        "Hypothesis Testing",
+        "Confidence Interval",
+        "Central limit theorem"
+      ]
+    },
+    {
+      "question": "Exchange Person A: \"The median is like a magic wand, finding the middle number in a list!\"",
+      "options": [
+        "Person B: \"That's right! It's the number in the center, like the wand pointing to the heart of a spell!\"",
+        "Median (basic statistics concept)",
+        "Standard Deviation",
+        "Covariance",
+        "Sample"
+      ]
+    },
+    {
+      "question": "Person A: \"Did you know the median is like the strongest knight in a row of knights?\"",
+      "options": [
+        "Person B: \"You mean it's the one right in the middle, like the knight who's the perfect balance of strength and wisdom?\"",
+        "Median (basic statistics concept)",
+        "Interquartile range (IQR)",
+        "Sampling distribution",
+        "Median"
+      ]
+    },
+    {
+      "question": "Person A: \"The median is like a wise owl, sitting in the middle of a tree branch!\"",
+      "options": [
+        "Person B: \"Exactly! It's the middle number, like the owl watching over all the other numbers!\"",
+        "Median (basic statistics concept)",
+        "Mean",
+        "Standard Deviation",
+        "Hypothesis Testing"
+      ]
+    },
+    {
+      "question": "Person A: \"The mode is like the coolest dance move at a party, right?\"",
+      "options": [
+        "Person B: \"You got it! It's the number that shows up the most, like the dance move everyone's copying!\"",
+        "Mode (basic statistics concept)",
+        "Interquartile range (IQR)",
+        "Regression",
+        "Skewness"
+      ]
+    },
+    {
+      "question": "Person A: \"Did you know the mode is like the most popular superhero in a comic book series?\"",
+      "options": [
+        "Person B: \"That's right! It's the number that appears the most, like the superhero everyone loves to read about!\"",
+        "Mode (basic statistics concept)",
+        "Hypothesis Testing",
+        "Chi-square test",
+        "Skewness"
+      ]
+    },
+    {
+      "question": "Person A: \"The mode is like the tastiest topping on a pizza, isn't it?\"",
+      "options": [
+        "Person B: \"Absolutely! It's the number that occurs the most, like the topping everyone wants on their slice!\"",
+        "Mode (basic statistics concept)",
+        "Chi-square test",
+        "Correlation",
+        "ANOVA (Analysis of Variance)"
+      ]
+    },
+    {
+      "question": "Person A: \"The range is like the distance between a spaceship and its home planet, right?\"",
+      "options": [
+        "Person B: \"Exactly! It's the difference between the highest and lowest numbers, like the space between two faraway places!\"",
+        "Range (basic statistics concept)",
+        "Correlation",
+        "Sample",
+        "Kurtosis"
+      ]
+    },
+    {
+      "question": "Person A: \"The range is like the length of a super-long jump rope, isn't it?\"",
+      "options": [
+        "Person B: \"You got it! It's the difference between the biggest and smallest numbers, like the rope stretching from one end to the other!\"",
+        "Range (basic statistics concept)",
+        "Sampling distribution",
+        "Sample",
+        "Median"
+      ]
+    },
+    {
+      "question": "Person A: \"The range is like the wingspan of a giant bird, right?\"",
+      "options": [
+        "Person B: \"That's right! It's the difference between the highest and lowest numbers, like the distance between the bird's wingtips!\"",
+        "Range (basic statistics concept)",
+        "Sampling distribution",
+        "Hypothesis Testing",
+        "Population"
+      ]
+    },
+    {
+      "question": "Person A: \"Variance is like a wild jungle, with all the different plants and animals, right?\"",
+      "options": [
+        "Person B: \"You're right! It's a measure of how different the numbers are, like the variety in a colorful jungle!\"",
+        "Variance (basic statistics concept)",
+        "T-test",
+        "Mode",
+        "Variance"
+      ]
+    },
+    {
+      "question": "Person A: \"The variance is like a box of mixed-up puzzle pieces, isn't it?\"",
+      "options": [
+        "Person B: \"Exactly! It's a measure of how much the numbers differ from the average, like the scattered pieces waiting to be put together!\"",
+        "Variance (basic statistics concept)",
+        "Sampling distribution",
+        "Mode",
+        "T-test"
+      ]
+    },
+    {
+      "question": "Person A: \"Variance is like the different ice cream flavors at a sundae bar, right?\"",
+      "options": [
+        "Person B: \"That's right! It measures how spread out the numbers are, like all the yummy flavors to choose from!\"",
+        "Variance (basic statistics concept)",
+        "Probability",
+        "Median",
+        "Confidence Interval"
+      ]
+    },
+    {
+      "question": "Person A: \"Standard deviation is like a superhero's sidekick, helping us understand the variance!\"",
+      "options": [
+        "Person B: \"Totally! It's the square root of the variance, making it easier for us to see how spread out the numbers are!\"",
+        "Standard Deviation (basic statistics concept)",
+        "Median",
+        "Correlation",
+        "ANOVA (Analysis of Variance)"
+      ]
+    },
+    {
+      "question": "Person A: \"The standard deviation is like a magnifying glass, zooming in on the variance!\"",
+      "options": [
+        "Person B: \"You got it! It helps us see how much the numbers differ from the mean, like a detective solving a mystery!\"",
+        "Standard Deviation (basic statistics concept)",
+        "Margin of error",
+        "Sampling distribution",
+        "Correlation"
+      ]
+    },
+    {
+      "question": "Person A: \"Standard deviation is like a trusty compass, guiding us through the wild world of variance!\"",
+      "options": [
+        "Person B: \"Exactly! It points out how spread out the numbers are, helping us navigate the twists and turns!\"",
+        "Standard Deviation (basic statistics concept)",
+        "Median",
+        "Confidence Interval",
+        "Sample"
+      ]
+    },
+    {
+      "question": "Person A: \"Probability is like a fortune teller, predicting the chances of an event happening!\"",
+      "options": [
+        "Person B: \"That's right! It tells us how likely something is to happen, like looking into a crystal ball!\"",
+        "Probability (basic statistics concept)",
+        "Median",
+        "Population",
+        "Interquartile range (IQR)"
+      ]
+    },
+    {
+      "question": "Person A: \"Probability is like a weather forecast, guessing if it'll rain or shine, right?\"",
+      "options": [
+        "Person B: \"You got it! It's all about the likelihood of different outcomes, like predicting sunny or stormy skies!\"",
+        "Probability (basic statistics concept)",
+        "Central limit theorem",
+        "Variance",
+        "Regression"
+      ]
+    },
+    {
+      "question": "Person A: \"The probability is like a magic 8-ball, giving us the odds of something happening!\"",
+      "options": [
+        "Person B: \"Absolutely! It helps us understand the chances of different events, like shaking the 8-ball for answers!\"",
+        "Probability (basic statistics concept)",
+        "T-test",
+        "Mode",
+        "Variance"
+      ]
+    },
+    {
+      "question": "Person A: \"A sample is like a sneak peek at a new movie, showing us just a part of the whole thing!\"",
+      "options": [
+        "Person B: \"Exactly! It's a smaller group selected from the larger population, like a movie trailer giving us a glimpse of the action!\"",
+        "Sample (basic statistics concept)",
+        "Chi-square test",
+        "Population",
+        "Sampling distribution"
+      ]
+    },
+    {
+      "question": "Person A: \"A sample is like a chef's special taste-tester, trying out the food before everyone else!\"",
+      "options": [
+        "Person B: \"That's right! It's a smaller group from the population, like the taste-tester getting a preview of the delicious meal!\"",
+        "Sample (basic statistics concept)",
+        "Standard Deviation",
+        "Regression",
+        "Central limit theorem"
+      ]
+    },
+    {
+      "question": "Person A: \"The sample is like a scout exploring the land ahead, representing the whole group!\"",
+      "options": [
+        "Person B: \"You got it! It's a smaller selection of the larger population, like the scout discovering new paths for the rest to follow!\"",
+        "Sample (basic statistics concept)",
+        "Population",
+        "Variance",
+        "Central limit theorem"
+      ]
+    },
+    {
+      "question": "Person A: \"The population is like a big party with all the guests invited, right?\"",
+      "options": [
+        "Person B: \"Exactly! It's the whole group of individuals we're interested in, like everyone having a blast at the party!\"",
+        "Population (basic statistics concept)",
+        "Skewness",
+        "Interquartile range (IQR)",
+        "Confidence Interval"
+      ]
+    },
+    {
+      "question": "Person A: \"The population is like a huge forest, with all the trees and plants living there!\"",
+      "options": [
+        "Person B: \"That's right! It's the entire group we're studying, like all the living things that make up the forest!\"",
+        "Population (basic statistics concept)",
+        "Skewness",
+        "Regression",
+        "Interquartile range (IQR)"
+      ]
+    },
+    {
+      "question": "Person A: \"The population is like a bustling city, full of people and activity!\"",
+      "options": [
+        "Person B: \"You got it! It's the complete set of individuals we want to learn about, like the busy city teeming with life!\"",
+        "Population (basic statistics concept)",
+        "Median",
+        "Standard Deviation",
+        "Confidence Interval"
+      ]
+    },
+    {
+      "question": "Person A: \"A confidence interval is like a superhero's secret hideout, keeping the true value safe!\"",
+      "options": [
+        "Person B: \"Totally! It's a range where we think the true value is likely to be, like the hidden lair that guards the superhero's identity!\"",
+        "Confidence Interval (basic statistics concept)",
+        "Confidence Interval",
+        "Standard Deviation",
+        "Margin of error"
+      ]
+    },
+    {
+      "question": "Person A: \"The confidence interval is like a treasure chest, holding the possible values we're looking for!\"",
+      "options": [
+        "Person B: \"That's right! It's the range where the true value is likely to be found, like the chest filled with glittering gold!\"",
+        "Confidence Interval (basic statistics concept)",
+        "Standard Deviation",
+        "Kurtosis",
+        "Confidence Interval"
+      ]
+    },
+    {
+      "question": "Person A: \"Confidence interval is like a cozy blanket, wrapping up the true value we want to estimate!\"",
+      "options": [
+        "Person B: \"Absolutely! It's the range where we think the true value is hiding, like the warm blanket keeping it snug and secure!\"",
+        "Confidence Interval (basic statistics concept)",
+        "Sample",
+        "Mean",
+        "Population"
+      ]
+    },
+    {
+      "question": "Person A: \"Hypothesis testing is like a detective trying to solve a case, searching for clues and evidence!\"",
+      "options": [
+        "Person B: \"Exactly! It's a way to test our ideas about a population, like the detective piecing together the puzzle!\"",
+        "Hypothesis Testing (basic statistics concept)",
+        "ANOVA (Analysis of Variance)",
+        "Central limit theorem",
+        "Covariance"
+      ]
+    },
+    {
+      "question": "Person A: \"Hypothesis testing is like a scientist experimenting in the lab, right?\"",
+      "options": [
+        "Person B: \"You got it! It's all about testing our theories using data, like the scientist conducting experiments to find the truth!\"",
+        "Hypothesis Testing (basic statistics concept)",
+        "Interquartile range (IQR)",
+        "Chi-square test",
+        "Sample"
+      ]
+    },
+    {
+      "question": "Person A: \"The hypothesis testing is like a courtroom trial, presenting evidence to prove a point!\"",
+      "options": [
+        "Person B: \"That's right! It's a process of using data to test our ideas, like the courtroom drama unfolding as the truth comes to light!\"",
+        "Hypothesis Testing (basic statistics concept)",
+        "Interquartile range (IQR)",
+        "Correlation",
+        "Margin of error"
+      ]
+    },
+    {
+      "question": "Person A: \"Correlation is like two friends who always hang out together, right?\"",
+      "options": [
+        "Person B: \"Totally! It's a measure of how two variables are related, like the buddies who are always side by side!\"",
+        "Correlation (basic statistics concept)",
+        "Skewness",
+        "ANOVA (Analysis of Variance)",
+        "Sample"
+      ]
+    },
+    {
+      "question": "Exchange 2:",
+      "options": [
+        "Person A: \"Correlation is like a dance where the partners move together in harmony!\"",
+        "Person B: \"Exactly! It shows how two variables are connected, like the dancers swirling around the floor in perfect sync!\"",
+        "Correlation (basic statistics concept)",
+        "Interquartile range (IQR)",
+        "Population",
+        "Hypothesis Testing"
+      ]
+    },
+    {
+      "question": "Person A: \"The correlation is like a seesaw on the playground, where one side goes up while the other goes down!\"",
+      "options": [
+        "Person B: \"That's right! It's all about how two variables are linked, like the seesaw balancing the ups and downs!\"",
+        "Correlation (basic statistics concept)",
+        "Covariance",
+        "ANOVA (Analysis of Variance)",
+        "Standard Deviation"
+      ]
+    },
+    {
+      "question": "Person A: \"Regression is like a time machine, helping us predict the future based on the past!\"",
+      "options": [
+        "Person B: \"Absolutely! It's a way to find the relationship between variables, like the time machine showing us what might happen next!\"",
+        "Regression (basic statistics concept)",
+        "Normal Distribution",
+        "Standard Deviation",
+        "Interquartile range (IQR)"
+      ]
+    },
+    {
+      "question": "Person A: \"Regression is like a crystal ball, revealing how one thing affects another!\"",
+      "options": [
+        "Person B: \"That's right! It's all about understanding the connection between variables, like the crystal ball unveiling the mysteries of the future!\"",
+        "Regression (basic statistics concept)",
+        "T-test",
+        "Sample",
+        "Central limit theorem"
+      ]
+    },
+    {
+      "question": "Person A: \"The regression is like a fortune cookie, giving us a hint about how things might turn out!\"",
+      "options": [
+        "Person B: \"You got it! It's a method for predicting the relationship between variables, like the fortune cookie offering a glimpse of what's to come!\"",
+        "Regression (basic statistics concept)",
+        "Central limit theorem",
+        "Standard Deviation",
+        "Interquartile range (IQR)"
+      ]
+    },
+    {
+      "question": "Person A: \"Normal distribution is like a perfectly symmetrical snowflake, with each side mirroring the other!\"",
+      "options": [
+        "Person B: \"Exactly! It's a bell-shaped curve where most of the data is near the mean, like the snowflake's beautiful, balanced pattern!\"",
+        "Normal Distribution (basic statistics concept)",
+        "Mean",
+        "Standard Deviation",
+        "Mode"
+      ]
+    },
+    {
+      "question": "Person A: \"Normal distribution is like a mountain, with the peak in the middle and slopes on either side!\"",
+      "options": [
+        "Person B: \"That's right! It's a curve where the data is mostly centered around the mean, like the majestic mountain rising up to the sky!\"",
+        "Normal Distribution (basic statistics concept)",
+        "Interquartile range (IQR)",
+        "Sampling distribution",
+        "Variance"
+      ]
+    },
+    {
+      "question": "Person A: \"The normal distribution is like a perfectly balanced seesaw, with the middle point acting as the fulcrum!\"",
+      "options": [
+        "Person B: \"You got it! It's a bell-shaped curve with the data evenly spread around the mean, like the seesaw balancing in perfect harmony!\"",
+        "Normal Distribution (basic statistics concept)",
+        "T-test",
+        "Sampling distribution",
+        "Median"
+      ]
+    },
+    {
+      "question": "Person A: \"Outliers are like the unique unicorns of the data world, standing out from the crowd!\"",
+      "options": [
+        "Person B: \"Absolutely! They're data points that are very different from the rest, like the magical unicorns that capture everyone's attention!\"",
+        "Outliers (basic statistics concept)",
+        "T-test",
+        "Skewness",
+        "Kurtosis"
+      ]
+    },
+    {
+      "question": "Person A: \"Outliers are like shooting stars, zipping through the night sky!\"",
+      "options": [
+        "Person B: \"That's right! They're data points that don't fit the pattern, like the dazzling shooting stars streaking across the heavens!\"",
+        "Outliers (basic statistics concept)",
+        "Mean",
+        "Sample",
+        "Interquartile range (IQR)"
+      ]
+    },
+    {
+      "question": "Person A: \"The outliers are like the rare treasures in a pirate's chest, hidden among the ordinary coins!\"",
+      "options": [
+        "Person B: \"You got it! They're unusual data points that stand out from the rest, like the precious gems sparkling amidst the gold!\"",
+        "Outliers (basic statistics concept)",
+        "Chi-square test",
+        "ANOVA (Analysis of Variance)",
+        "Range"
+      ]
+    }
+  ]
+}

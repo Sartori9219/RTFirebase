@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Internal Combustion Engine",
+        "Transmission System",
+        "Suspension System",
+        "Brake System",
+        "Ignition System",
+        "Fuel System",
+        "Exhaust System",
+        "Electrical System",
+        "Cooling System",
+        "Air Conditioning System",
+        "Steering System",
+        "Vehicle Aerodynamics",
+        "Hybrid Technology",
+        "Electronic Stability Control (ESC)",
+        "Anti-lock Braking System (ABS)"
+    ],
+    "hints": {
+        "Internal Combustion Engine": "This is the heart of the vehicle. It's where fuel is burned to produce power to move the vehicle.",
+        "Transmission System": "This is responsible for transferring power from the engine to the wheels. It includes the clutch, gearbox, drive shafts, and differentials.",
+        "Suspension System": "This ensures a smooth ride by absorbing shocks from the road. It also helps to maintain vehicle stability and control.",
+        "Brake System": "This system slows down or stops the vehicle by converting its kinetic energy into heat energy.",
+        "Ignition System": "This system provides a spark to ignite the air-fuel mixture in the engine's cylinders.",
+        "Fuel System": "This system stores and supplies fuel to the engine. It includes the fuel tank, pump, filter, and injectors.",
+        "Exhaust System": "This system removes and filters out the toxic gases produced during combustion from the engine.",
+        "Electrical System": "This system powers all electrical devices in the vehicle, including the lights, radio, and ignition system.",
+        "Cooling System": "This system prevents the engine from overheating by circulating coolant around the engine block.",
+        "Air Conditioning System": "This system cools, heats, and dehumidifies the air inside the vehicle to maintain a comfortable environment.",
+        "Steering System": "This system allows the driver to control the direction of the vehicle.",
+        "Vehicle Aerodynamics": "This is the study of how air flows over the vehicle, which can affect its speed, fuel efficiency, and stability.",
+        "Hybrid Technology": "This technology combines an internal combustion engine with an electric motor to increase fuel efficiency and reduce emissions.",
+        "Electronic Stability Control (ESC)": "This is a computerized technology that improves vehicle stability by detecting and reducing the loss of traction.",
+        "Anti-lock Braking System (ABS)": "This is a safety system that allows the wheels to maintain tractive contact with the road surface according to driver inputs while braking, preventing the wheels from locking up and avoiding uncontrolled skidding."
+    }
+}

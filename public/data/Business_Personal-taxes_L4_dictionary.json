@@ -1,0 +1,381 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I don't want to count every single tomato I bought this year for my tax return!",
+        "You don't have to! Just take the standard deduction and call it a day."
+      ],
+      "options": [
+        "Standard deduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm too busy playing video games to itemize my deductions.",
+        "No worries! The standard deduction is like a power-up for your taxes - it's a quick, easy way to reduce your taxable income."
+      ],
+      "options": [
+        "Standard deduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just got my first job, but I have no idea how to save on taxes!",
+        "Fear not, young tax warrior! The standard deduction is your trusty sidekick, slashing your taxable income without the need for complex calculations."
+      ],
+      "options": [
+        "Standard deduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been working hard at my part-time job, but my salary is still low. How can I save on taxes?",
+        "Sounds like you might qualify for the Earned Income Tax Credit! It's like a superhero swooping in to save low-income earners."
+      ],
+      "options": [
+        "Earned Income Tax Credit (EITC) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm struggling to pay my bills, and now it's tax season. Ugh!",
+        "Have you heard of the Earned Income Tax Credit? It's like a hidden treasure for eligible low-income workers!"
+      ],
+      "options": [
+        "Earned Income Tax Credit (EITC) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish there was a way to get a tax refund even if I don't owe any taxes.",
+        "The Earned Income Tax Credit is like a magic wand for that! If you're eligible, you might receive a refund even if you don't owe any taxes!"
+      ],
+      "options": [
+        "Earned Income Tax Credit (EITC) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking of starting a band called \"The Tax Savers.\" We'll play rock 'n' roll and teach people about tax benefits!",
+        "That's a cool idea! Your first song should be about retirement savings contributions. They're like the secret weapon to reduce taxable income!"
+      ],
+      "options": [
+        "Retirement savings contributions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to save for my future, but I also want to save on taxes now. What's the magic trick for that?"
+      ],
+      "options": [
+        "Retirement savings contributions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that contributing to a retirement account is like planting a money tree?",
+        "Absolutely! It's a way to grow your wealth for the future while enjoying tax benefits right now. Keep planting those money seeds!"
+      ],
+      "options": [
+        "Retirement savings contributions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just enrolled in a mime class, and now I'm silently celebrating my tax savings!",
+        "Oh, I get it! You must be taking advantage of education tax credits. They help reduce the cost of learning new skills, even mime artistry."
+      ],
+      "options": [
+        "Education tax credits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm learning to juggle while riding a unicycle. But how can I juggle my taxes too?",
+        "Don't worry! Education tax credits can help you juggle your finances. They'll give you some tax relief for your unicycle juggling classes."
+      ],
+      "options": [
+        "Education tax credits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just saved a ton on taxes thanks to my ninja training classes!"
+      ],
+      "options": [
+        "Education tax credits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My son just built a life-sized robot out of marshmallows! How can I keep my tax bill from ballooning?",
+        "Don't let it stick to you! The Child Tax Credit helps you save on taxes for each qualifying child, even those with a sweet tooth for robotics."
+      ],
+      "options": [
+        "Child Tax Credit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My daughter started a business selling hand-knitted socks for squirrels. Can I get a tax break for her wild venture?",
+        "You're in luck! The Child Tax Credit offers tax savings for parents with qualifying children, even those with nutty business ideas."
+      ],
+      "options": [
+        "Child Tax Credit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My kids are competing to see who can stack the most pancakes on their head. Can I turn this into a tax win?",
+        "Pancake-stack away! The Child Tax Credit gives you tax savings for each qualifying child, regardless of their syrupy ambitions."
+      ],
+      "options": [
+        "Child Tax Credit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I sent my llama to daycare so I could focus on my hula-hoop career. Can I save on taxes for this?",
+        "Absolutely! The Child and Dependent Care Credit can cover daycare expenses, even for your furry, four-legged dependents!"
+      ],
+      "options": [
+        "Child and Dependent Care Credit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My pet rock needs a babysitter while I'm at work. Can I get some tax relief for this?"
+      ],
+      "options": [
+        "Child and Dependent Care Credit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I hired a clown to watch my kids while I'm at work. Can I get a tax break for that?",
+        "No joke! The Child and Dependent Care Credit can help with childcare expenses, even if your caregiver has a big red nose and oversized shoes."
+      ],
+      "options": [
+        "Child and Dependent Care Credit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I started a piggy bank collection to save for retirement. Can I get a tax break for that?",
+        "You're on the right track! But instead of piggy banks, contribute to a qualified retirement account and you may be eligible for the Saver's Credit."
+      ],
+      "options": [
+        "Saver's Credit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been saving my leftover pizza for retirement. Any tax benefits for that?",
+        "As tasty as that may sound, it won't qualify you for the Saver's Credit. Consider contributing to a retirement account for a more appetizing tax break!"
+      ],
+      "options": [
+        "Saver's Credit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been stacking my retirement savings in a tower of pancakes. Can I get some tax syrup on top?"
+      ],
+      "options": [
+        "Saver's Credit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bought a giant inflatable dinosaur for my backyard. It's for my health! Can I deduct that?"
+      ],
+      "options": [
+        "Medical expenses deductions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard you can get tax deductions for medical expenses. Does my new collection of rubber duckies count?"
+      ],
+      "options": [
+        "Medical expenses deductions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been training my pet hamster to give massages. Can I get a tax deduction for that?"
+      ],
+      "options": [
+        "Medical expenses deductions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I donated 100 rubber chickens to the local comedy club. Can I deduct that from my taxes?",
+        "It's a funny thought, but only donations to qualified charitable organizations are tax-deductible. Try donating to a recognized charity instead!"
+      ],
+      "options": [
+        "Charitable donations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard you can get tax deductions for charitable donations. I gave my neighbor a pineapple as a housewarming gift. Can I claim that?",
+        "Pineapples are nice, but you can't claim that as a charitable donation. It's only deductible if you donate to a qualified charitable organization."
+      ],
+      "options": [
+        "Charitable donations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I donated all my old socks to the \"Sock Puppets for World Peace\" organization. Can I deduct that from my taxes?"
+      ],
+      "options": [
+        "Charitable donations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My living room is my office, kitchen, and bedroom. Can I claim a home office deduction?"
+      ],
+      "options": [
+        "Home office deductions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I turned my garden shed into a workspace. Can I claim a home office deduction now?"
+      ],
+      "options": [
+        "Home office deductions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I use my closet as a home office. Do you think the IRS will allow a deduction for that?"
+      ],
+      "options": [
+        "Home office deductions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bought a superhero costume for my job interview. Can I deduct that as a job search expense?",
+        "Job search expenses can be deductible, but only if they're ordinary and necessary. A superhero costume might not qualify!",
+        "I traveled to the moon for a job interview. Can I claim job search expenses?",
+        "I had to print 500 resumes to find my dream job. Can I deduct the printing costs?",
+        "Yes, you can! Printing and mailing costs for resumes are considered legitimate job search expenses. Keep track of your expenses and save your receipts!"
+      ],
+      "options": [
+        "Job search expenses (incorrect answer)",
+        "Job search expenses (incorrect answer)",
+        "Job search expenses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I moved to Atlantis for my new job as a mermaid trainer. Can I deduct moving expenses?"
+      ],
+      "options": [
+        "Moving expenses for a new job (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I teleported to my new job in the blink of an eye. Can I claim moving expenses?"
+      ],
+      "options": [
+        "Moving expenses for a new job (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I moved 500 miles to become a professional tree hugger. Can I claim moving expenses?"
+      ],
+      "options": [
+        "Moving expenses for a new job (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My job is to taste-test every ice cream flavor. Can I deduct my student loan interest?",
+        "That sounds delicious! Yes, if you have qualified student loans and meet income requirements, you can deduct student loan interest."
+      ],
+      "options": [
+        "Student loan interest deduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I trained to become a professional cloud shaper. Can I deduct my student loan interest?"
+      ],
+      "options": [
+        "Student loan interest deduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I studied to become a master of invisible art. Can I deduct the interest on my student loans?",
+        "As long as your loans qualify and you meet income requirements, you can claim the student loan interest deduction\u2014even if we can't see your art!"
+      ],
+      "options": [
+        "Student loan interest deduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just installed solar-powered disco balls in my home. Can I get a tax credit for that?",
+        "Sounds groovy! If they're energy-efficient, you might qualify for a residential energy tax credit."
+      ],
+      "options": [
+        "Energy-efficient home improvements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I replaced my roof with an energy-efficient trampoline. Can I get a tax break?",
+        "If it's energy-efficient and meets the requirements, you might bounce your way into a tax credit for home improvements!"
+      ],
+      "options": [
+        "Energy-efficient home improvements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My house is now powered by singing plants! Can I save on taxes?",
+        "If they're energy-efficient and meet the criteria, you could be eligible for a tax credit. Just keep on humming!"
+      ],
+      "options": [
+        "Energy-efficient home improvements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I hired a tap-dancing accountant to do my taxes. Can I deduct that?",
+        "If you're self-employed or have a small business, you might be able to deduct tax preparation fees, even if they dance!"
+      ],
+      "options": [
+        "Tax preparation deductions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I deduct the cost of training my pet parrot to do my taxes?",
+        "If you're self-employed or run a small business, you could potentially deduct tax preparation costs, but I'd double-check with a human expert!"
+      ],
+      "options": [
+        "Tax preparation deductions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I paid a fortune-teller to predict my taxes. Can I deduct that expense?",
+        "If you're self-employed or a small business owner, you can deduct tax preparation fees, but maybe stick to licensed professionals next time!"
+      ],
+      "options": [
+        "Tax preparation deductions (correct answer)"
+      ]
+    }
+  ]
+}

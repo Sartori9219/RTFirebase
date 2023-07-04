@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "You know, I always thought that when it rained, the water just fell straight into my glass!",
+        "Oh really? I always thought it took a detour through a super cool water park, with slides and filters!"
+      ],
+      "options": [
+        "Water Treatment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is your fish swimming in a coffee filter?",
+        "He's training to become a water treatment plant operator!"
+      ],
+      "options": [
+        "Water Treatment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you have a mini roller coaster model?",
+        "It's not a roller coaster, it's a model of a water treatment process! The water goes on a wild ride!"
+      ],
+      "options": [
+        "Water Treatment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I got a vacuum cleaner for my birthday. I've been using it to clean the air outside.",
+        "Huh, a DIY air pollution control system. Innovative but not quite effective."
+      ],
+      "options": [
+        "Air Pollution Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know, I started wearing this gas mask around to make a fashion statement.",
+        "Or it could be your personal air pollution control device. Either way, it's a look!"
+      ],
+      "options": [
+        "Air Pollution Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you hugging that tree so tightly?",
+        "I'm trying to thank it for its air pollution control services. Photosynthesis, my friend!"
+      ],
+      "options": [
+        "Air Pollution Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you adding coffee grounds to your garden?",
+        "Well, the soil needed a pick-me-up too!"
+      ],
+      "options": [
+        "Soil Remediation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Look at this! My plants are growing crooked.",
+        "Maybe they're just leaning into the soil remediation process."
+      ],
+      "options": [
+        "Soil Remediation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are there so many worms in your yard?",
+        "They're my tiny soil remediation crew. Working 24/7!"
+      ],
+      "options": [
+        "Soil Remediation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You're separating your trash into three bins?",
+        "Yep, one for recycling, one for compost, and one for my collection of broken pencils."
+      ],
+      "options": [
+        "Waste Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you throwing your old jeans in the compost?",
+        "It's called fashion recycling, darling!"
+      ],
+      "options": [
+        "Waste Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's that weird sculpture in your backyard?",
+        "Oh, that's my trash-art installation. I call it 'Waste Not, Want Not'."
+      ],
+      "options": [
+        "Waste Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's with all the plants in your house?",
+        "Just my new sustainable design decor, I call it 'jungle chic'."
+      ],
+      "options": [
+        "Sustainable Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you carrying a wind turbine?",
+        "I'm installing it on my car. Who needs gas when you have wind?"
+      ],
+      "options": [
+        "Sustainable Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you wearing a solar panel as a hat?",
+        "It's called fashion, sweetie. Plus, I can charge my phone on the go."
+      ],
+      "options": [
+        "Sustainable Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you counting birds in your backyard?",
+        "I'm assessing the environmental impact of my new bird feeder. The sparrows love it, but the crows... not so much."
+      ],
+      "options": [
+        "Environmental Impact Assessment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you measuring the height of those trees?",
+        "I'm seeing if my singing in the shower has any environmental impact. Plants love music, right?"
+      ],
+      "options": [
+        "Environmental Impact Assessment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you writing a report on squirrels?",
+        "I\u2019m assessing the environmental impact of leaving nuts out. Turns out, it\u2019s led to a major population boom!"
+      ],
+      "options": [
+        "Environmental Impact Assessment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you wearing a hazmat suit to take out the trash?",
+        "Well, you never know what dangerous things you could encounter in there!"
+      ],
+      "options": [
+        "Hazardous Waste Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's with the tongs and safety goggles?",
+        "I'm just getting rid of these expired canned beans. I take my hazardous waste management very seriously!"
+      ],
+      "options": [
+        "Hazardous Waste Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you have a mini fire extinguisher next to your garbage bin?",
+        "I read that old batteries can spontaneously combust. I'm just being proactive about my hazardous waste management!"
+      ],
+      "options": [
+        "Hazardous Waste Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you holding an umbrella indoors?",
+        "I'm doing my part to conserve water, I'm catching the air conditioner's condensation!"
+      ],
+      "options": [
+        "Hydrology and Water Resources (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you drinking water from a cactus?",
+        "It's called being resourceful with water resources. Plus, it's very hydrating!"
+      ],
+      "options": [
+        "Hydrology and Water Resources (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is your backyard full of water?",
+        "I'm creating my own little reservoir for future water needs!"
+      ],
+      "options": [
+        "Hydrology and Water Resources (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you giving that tree a ticket?",
+        "It's not recycling its leaves properly. Environmental law is everyone's responsibility!"
+      ],
+      "options": [
+        "Environmental Law and Policy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you running for mayor?",
+        "So I can enact a city-wide policy that everyone should carpool with a kangaroo!"
+      ],
+      "options": [
+        "Environmental Law and Policy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you whispering in the park?",
+        "I'm lobbying the squirrels to reduce their acorn consumption!"
+      ],
+      "options": [
+        "Environmental Law and Policy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is your house covered in salad?",
+        "I've taken green building to the next level!"
+      ],
+      "options": [
+        "Green Building (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you painting your roof green?",
+        "I'm misunderstood the concept of green building!"
+      ],
+      "options": [
+        "Green Building (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's with the windmill on your house?",
+        "It's my new eco-friendly blender, part of my green building strategy!"
+      ],
+      "options": [
+        "Green Building (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you throwing baking soda into the lake?",
+        "Trying to neutralize the acidity. It's environmental chemistry in action!"
+      ],
+      "options": [
+        "Environmental Chemistry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you stirring your coffee with a thermometer?",
+        "Just checking how much heat my morning brew contributes to global warming!"
+      ],
+      "options": [
+        "Environmental Chemistry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you pouring water over your car?",
+        "I'm testing the pH of the rain. It's not just about cleanliness, it's science!"
+      ],
+      "options": [
+        "Environmental Chemistry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is there a mini windmill on your backpack?",
+        "It's my portable renewable energy system. Keeps my phone charged and my hair windswept!"
+      ],
+      "options": [
+        "Renewable Energy Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you strapping solar panels to your cat?",
+        "Just trying to see if Fluffy can generate enough power to charge my laptop!"
+      ],
+      "options": [
+        "Renewable Energy Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you running on the treadmill with all those wires?",
+        "I'm creating my own renewable energy system. The more I run, the more I can binge-watch my shows later!"
+      ],
+      "options": [
+        "Renewable Energy Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you installing a bubble around your drum set?",
+        "It's my new noise pollution control system. Now I can play at 3am without disturbing the neighbors!"
+      ],
+      "options": [
+        "Noise Pollution Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you wearing earmuffs in the summer?",
+        "They're not earmuffs, they're noise pollution controllers. Now I can focus on my inner thoughts instead of the city noise!"
+      ],
+      "options": [
+        "Noise Pollution Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you building a wall around your garden?",
+        "It's a noise pollution control system. Now the birds can sing without competing with the traffic noise!"
+      ],
+      "options": [
+        "Noise Pollution Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you swapping all our light bulbs for plants?",
+        "It's my newest climate change mitigation strategy! Photosynthesis instead of electricity!"
+      ],
+      "options": [
+        "Climate Change Mitigation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you tying balloons to your car?",
+        "It's my climate change mitigation plan! If the car floats, we don't need gas!"
+      ],
+      "options": [
+        "Climate Change Mitigation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you planting a tree in the middle of the living room?",
+        "Climate change mitigation, my friend! Who needs air conditioning when you have natural shade?"
+      ],
+      "options": [
+        "Climate Change Mitigation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you carrying a beaver into the bathroom?",
+        "Ecosystem restoration! I'm starting with the bathtub. It needs a dam!"
+      ],
+      "options": [
+        "Ecosystem Restoration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you sprinkling bird seed on your laptop?",
+        "Ecosystem restoration! Digital birds need to eat too!"
+      ],
+      "options": [
+        "Ecosystem Restoration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you putting fish in the water cooler?",
+        "Ecosystem restoration! The office needs more biodiversity!"
+      ],
+      "options": [
+        "Ecosystem Restoration (correct answer)"
+      ]
+    }
+  ]
+}

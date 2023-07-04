@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Cultural Competence",
+        "Inclusive Curriculum",
+        "Multicultural Education",
+        "Differentiated Instruction",
+        "Intersectionality",
+        "Stereotype Threat",
+        "Implicit Bias",
+        "Microaggressions",
+        "Social Identity",
+        "Allyship",
+        "Universal Design for Learning",
+        "Safe Spaces",
+        "Accessibility",
+        "Restorative Justice",
+        "Anti-racism Education"
+    ],
+    "hints": {
+        "Cultural Competence": "The ability to understand, appreciate, and interact with people from diverse cultural backgrounds.",
+        "Inclusive Curriculum": "A curriculum that represents diverse perspectives and experiences, ensuring all students feel valued and included.",
+        "Multicultural Education": "An educational approach that promotes the understanding of different cultures, ethnicities, and social groups.",
+        "Differentiated Instruction": "Tailoring teaching methods to meet the unique needs of individual students, taking into account their learning styles, abilities, and cultural backgrounds.",
+        "Intersectionality": "Recognizing how various aspects of a person's identity (e.g., race, gender, sexuality) can intersect and influence their experiences.",
+        "Stereotype Threat": "The fear of confirming negative stereotypes about one's social group, which can negatively impact performance and self-esteem.",
+        "Implicit Bias": "Unconscious attitudes or stereotypes that affect our understanding, actions, and decisions in an unintentional manner.",
+        "Microaggressions": "Subtle, often unintentional, behaviors or comments that convey prejudice or discrimination against marginalized individuals or groups.",
+        "Social Identity": "The way individuals define themselves based on their membership in social groups, such as race, gender, religion, or nationality.",
+        "Allyship": "Actively supporting and advocating for marginalized individuals or groups, often by members of non-marginalized groups.",
+        "Universal Design for Learning": "An educational framework that aims to provide all students with equal opportunities to succeed by accommodating diverse learning needs and preferences.",
+        "Safe Spaces": "Environments where students feel secure, respected, and able to express themselves without fear of discrimination or harassment.",
+        "Accessibility": "Ensuring that educational materials, facilities, and resources are usable by all students, regardless of their abilities or disabilities.",
+        "Restorative Justice": "An approach to conflict resolution that focuses on repairing harm and promoting understanding between individuals or groups, rather than punitive measures.",
+        "Anti-racism Education": "Teaching students about the historical and contemporary manifestations of racism, and empowering them to challenge and dismantle racist systems and beliefs."
+    }
+}

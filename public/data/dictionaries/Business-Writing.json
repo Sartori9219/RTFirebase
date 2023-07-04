@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Clarity",
+        "Conciseness",
+        "Coherence",
+        "Correctness",
+        "Tone and Voice",
+        "Formality",
+        "Structure",
+        "Persuasion",
+        "Active vs. Passive Voice",
+        "Proofreading",
+        "Audience Analysis",
+        "Purpose",
+        "Format",
+        "Visual Aids",
+        "Editing"
+    ],
+    "hints": {
+        "Clarity": "Ensure your writing is easy to understand and free from ambiguity.",
+        "Conciseness": "Keep your writing brief and to the point, eliminating unnecessary words or phrases.",
+        "Coherence": "Organize your thoughts logically and present them in a consistent manner.",
+        "Correctness": "Use proper grammar, punctuation, and spelling to maintain credibility and professionalism.",
+        "Tone and Voice": "Match your writing style to the purpose and audience of your document.",
+        "Formality": "Use appropriate language and tone for the context of the business communication.",
+        "Structure": "Organize your content with headings, subheadings, and paragraphs for easy readability.",
+        "Persuasion": "Employ persuasive techniques to convince your reader or make a compelling argument.",
+        "Active vs. Passive Voice": "Use active voice whenever possible for clearer and more engaging writing.",
+        "Proofreading": "Review your work for errors and inconsistencies before submitting or publishing.",
+        "Audience Analysis": "Understand your target audience's needs, preferences, and expectations.",
+        "Purpose": "Clearly define the goal of your writing and ensure all content supports that objective.",
+        "Format": "Follow standard formats and guidelines for various types of business documents.",
+        "Visual Aids": "Use tables, charts, and diagrams to enhance comprehension and support your points.",
+        "Editing": "Revise and refine your writing to improve clarity, coherence, and overall quality."
+    }
+}

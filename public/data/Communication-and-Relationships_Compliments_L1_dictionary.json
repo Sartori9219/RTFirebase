@@ -1,0 +1,321 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Wow, your science project on the life cycle of a potato is so fascinating. I can't believe I've been missing out on this knowledge all my life!",
+        "Oh, thanks! I'm sure everyone's dying to learn about potatoes. It's just groundbreaking stuff, right?"
+      ],
+      "options": [
+        "Sarcastic compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your outfit is really something else. It's like you raided a thrift store in the dark and just went with it.",
+        "Oh, thank you! I was aiming for that lost in a vintage store vibe. Nailed it, didn't I?"
+      ],
+      "options": [
+        "Sarcastic compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That was an amazing goal you scored... on our own team. We should just hand you the MVP trophy right now!",
+        "Thanks! I always knew my true talent was scoring for the other team. They should really consider recruiting me.",
+        "Wow, your hair looks like it was styled by a professional windstorm! So unique!",
+        "Umm, thanks? It's just my natural bedhead."
+      ],
+      "options": [
+        "Fake compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your handwriting is so fascinating. I can't tell if it's a secret code or ancient hieroglyphics!",
+        "Gee, thanks. I've always thought it was just messy."
+      ],
+      "options": [
+        "Fake compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love how you have a different pair of shoes for every day of the year. Your dedication to footwear is truly inspiring!",
+        "Well, I guess I just have a lot of shoes. Not sure it's that impressive."
+      ],
+      "options": [
+        "Fake compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You're so brave for wearing that outfit, I could never pull off something that bold!",
+        "Uh, thanks? I just thought it was a fun pattern."
+      ],
+      "options": [
+        "Backhanded compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your cooking is always so... creative. I've never tasted anything quite like it before!",
+        "I'll take that as a compliment, I guess?"
+      ],
+      "options": [
+        "Backhanded compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You really don't care what people think about you, do you? That's so refreshing!",
+        "Well, I try to be myself, but I didn't realize it came off that way."
+      ],
+      "options": [
+        "Backhanded compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your laugh is so contagious, it brightens up any room you're in!",
+        "Aw, thank you! I'm glad it makes people happy."
+      ],
+      "options": [
+        "Sincere compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You have an amazing ability to make even the most complicated topics easy to understand.",
+        "I appreciate that! I really enjoy helping others learn."
+      ],
+      "options": [
+        "Sincere compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your dance moves are incredible \u2013 you've got the rhythm of a professional dancer!",
+        "Wow, thanks! I just love letting loose on the dance floor."
+      ],
+      "options": [
+        "Sincere compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed you're always the first one to offer help when someone needs it. That's really kind of you!",
+        "Thanks for noticing! I just like to make sure everyone feels supported."
+      ],
+      "options": [
+        "Observational compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You have a knack for making people feel comfortable around you \u2013 even when they've just met you.",
+        "Really? That's so nice to hear! I do my best to be welcoming."
+      ],
+      "options": [
+        "Observational compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't help but admire how organized you are; your workspace is always so neat and tidy!",
+        "Thank you! Being organized helps me stay focused and efficient."
+      ],
+      "options": [
+        "Observational compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your presentation skills are top-notch! You really know how to engage an audience.",
+        "Thank you so much! I've been working on improving my public speaking."
+      ],
+      "options": [
+        "Skill-based compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always amazed by your ability to solve complex math problems in your head. It's like you have a built-in calculator!",
+        "Haha, thanks! I've just always loved math and enjoy challenging myself."
+      ],
+      "options": [
+        "Skill-based compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your artistic talent is incredible \u2013 the way you bring your ideas to life on canvas is truly inspiring.",
+        "Wow, I really appreciate that! Art has always been a passion of mine."
+      ],
+      "options": [
+        "Skill-based compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love your sense of humor! You always know how to make people laugh, even in tough situations.",
+        "Thanks! I believe laughter is the best medicine."
+      ],
+      "options": [
+        "Personality compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You have such a warm and welcoming personality. It's no wonder people are drawn to you!",
+        "Aw, that's so kind of you to say! I really appreciate it."
+      ],
+      "options": [
+        "Personality compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your optimism is contagious! You always see the bright side of things, and it helps lift everyone's spirits.",
+        "Thank you! I think it's important to focus on the positive."
+      ],
+      "options": [
+        "Personality compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can see you've put a lot of effort into your garden. The flowers and plants look so healthy and vibrant!",
+        "Thank you! I really enjoy taking care of them and watching them grow."
+      ],
+      "options": [
+        "Effort-based compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your dedication to learning the guitar is impressive. I can tell you've been practicing a lot.",
+        "Thanks! It's been challenging, but I love the progress I'm making."
+      ],
+      "options": [
+        "Effort-based compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I admire your commitment to volunteering at the animal shelter. You're making a real difference for those animals.",
+        "I appreciate that! It's hard work, but it's so rewarding to see them find new homes."
+      ],
+      "options": [
+        "Effort-based compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Congratulations on acing your exam! Your hard work and dedication to your studies really paid off.",
+        "Thank you! I'm so relieved that my efforts were worthwhile."
+      ],
+      "options": [
+        "Achievement-based compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow, you've already reached the highest level in that video game? That's seriously impressive!",
+        "Haha, thanks! I've been playing a lot lately and I'm proud of how far I've come."
+      ],
+      "options": [
+        "Achievement-based compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard you got a promotion at work \u2013 that's fantastic! You truly deserve it.",
+        "Thanks so much! I'm really excited about the new challenges ahead."
+      ],
+      "options": [
+        "Achievement-based compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your taste in music is awesome! I always discover great new songs when I listen to your playlists.",
+        "Thank you! I love sharing my favorite tunes with others."
+      ],
+      "options": [
+        "Taste-based compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have to say, your sense of fashion is incredible. You have a real eye for putting together stylish outfits.",
+        "Aw, thanks! I enjoy expressing myself through my clothing choices."
+      ],
+      "options": [
+        "Taste-based compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your book recommendations never disappoint \u2013 you have such a knack for picking out interesting and engaging reads!",
+        "I'm glad you enjoy them! I love discovering and sharing good books."
+      ],
+      "options": [
+        "Taste-based compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your ability to think critically and analyze complex problems is truly impressive.",
+        "Thank you! I enjoy challenging myself intellectually."
+      ],
+      "options": [
+        "Intellectual compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love how you can speak so eloquently about a wide range of topics. Your knowledge is vast and intriguing!",
+        "Thanks! I'm always eager to learn new things and share my insights."
+      ],
+      "options": [
+        "Intellectual compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your creativity and imagination are astounding! The way you come up with unique ideas and solutions is inspiring.",
+        "Wow, I really appreciate that! I believe in thinking outside the box."
+      ],
+      "options": [
+        "Intellectual compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You have such a gift for understanding people's emotions and offering support when they need it.",
+        "Thank you! I think empathy is an important quality to have."
+      ],
+      "options": [
+        "Empathetic compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I really appreciate how you're always willing to listen and provide a shoulder to lean on during tough times.",
+        "I'm glad I can be there for you. It's important to support one another."
+      ],
+      "options": [
+        "Empathetic compliment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your ability to put yourself in others' shoes and offer genuine compassion is truly admirable.",
+        "Thanks! I believe that understanding and kindness can make a big difference in people's lives."
+      ],
+      "options": [
+        "Empathetic compliment (correct answer)"
+      ]
+    }
+  ]
+}

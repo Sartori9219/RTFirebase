@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Show, don't tell",
+        "Foreshadowing",
+        "Dialogue",
+        "Flashbacks",
+        "Imagery",
+        "Symbolism",
+        "Point of view",
+        "Stream of consciousness",
+        "Irony",
+        "Allusion",
+        "Metaphor",
+        "Repetition",
+        "Juxtaposition",
+        "Suspense",
+        "Character development"
+    ],
+    "hints": {
+        "Show, don't tell": "Use descriptive language and vivid imagery to engage the reader's senses and emotions, rather than just stating facts or feelings.",
+        "Foreshadowing": "Plant subtle hints or clues early in the story that hint at events or developments that will occur later.",
+        "Dialogue": "Use conversations between characters to reveal their personalities, relationships, and emotions, as well as to move the plot forward.",
+        "Flashbacks": "Introduce scenes from a character's past to provide insight into their motivations, emotions, and backstory.",
+        "Imagery": "Use figurative language and vivid descriptions to create mental pictures that evoke strong emotions or sensory experiences for the reader.",
+        "Symbolism": "Use objects, actions, or ideas to represent deeper meanings or abstract concepts.",
+        "Point of view": "Choose a narrative perspective (first-person, third-person, omniscient, etc.) to shape the way the story is told and experienced by the reader.",
+        "Stream of consciousness": "Write in a continuous flow of thoughts, feelings, and impressions to create an intimate and immersive experience of a character's inner world.",
+        "Irony": "Use words or situations that convey a meaning opposite to their literal or expected meaning, often to create humor or emphasize a theme.",
+        "Allusion": "Make indirect references to other works of literature, historical events, or cultural elements to create connections and evoke deeper meanings.",
+        "Metaphor": "Make comparisons between seemingly unrelated things to create new insights or convey abstract ideas in a more concrete way.",
+        "Repetition": "Repeatedly use words, phrases, or motifs to create emphasis, rhythm, or unity in a piece of writing.",
+        "Juxtaposition": "Place contrasting elements or ideas side by side to create tension, highlight differences, or emphasize a theme.",
+        "Suspense": "Create tension and uncertainty by withholding information or delaying the resolution of a conflict or mystery.",
+        "Character development": "Craft dynamic, believable characters by giving them distinct traits, motivations, and personal growth throughout the story."
+    }
+}

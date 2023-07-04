@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Mens Rea",
+        "Actus Reus",
+        "Strict Liability",
+        "Attempt",
+        "Conspiracy",
+        "Solicitation",
+        "Homicide",
+        "Assault",
+        "Battery",
+        "Robbery",
+        "Burglary",
+        "Larceny",
+        "Arson",
+        "Kidnapping",
+        "Self-defense"
+    ],
+    "hints": {
+        "Mens Rea": "The mental element or \"guilty mind\" required for a criminal offense. It refers to the intention or knowledge of wrongdoing when committing a crime.",
+        "Actus Reus": "The physical act or \"guilty act\" that constitutes a crime. It refers to the voluntary action, omission, or state of being that is prohibited by law.",
+        "Strict Liability": "A type of criminal liability where a defendant can be found guilty regardless of their intent or mental state. Often applied to minor offenses or regulatory violations.",
+        "Attempt": "The act of trying to commit a crime but not completing it. To be charged with an attempt, the person must have intended to commit the crime and taken a substantial step towards its commission.",
+        "Conspiracy": "An agreement between two or more people to commit a crime, even if the crime is never carried out.",
+        "Solicitation": "The act of requesting, encouraging, or persuading someone else to commit a crime.",
+        "Homicide": "The killing of one human being by another, either intentionally or unintentionally. Homicide can be classified as murder or manslaughter, depending on the circumstances.",
+        "Assault": "The act of intentionally causing another person to fear that they will be physically harmed. No actual physical contact is necessary for an assault to occur.",
+        "Battery": "The intentional and unlawful touching or striking of another person against their will, causing bodily harm or offensive contact.",
+        "Robbery": "The crime of taking property from another person through the use of force or threats.",
+        "Burglary": "The crime of unlawfully entering a building or structure with the intent to commit a crime inside, such as theft or vandalism.",
+        "Larceny": "The crime of taking someone else's property without their consent and with the intent to permanently deprive them of it.",
+        "Arson": "The crime of intentionally setting fire to a building or property, either to cause damage or for some other unlawful purpose.",
+        "Kidnapping": "The crime of forcibly taking and holding someone against their will, often for ransom or to commit another crime.",
+        "Self-defense": "A legal defense in which a person uses reasonable force to protect themselves or others from an imminent threat of harm. If successful, this defense can lead to an acquittal or reduced charges."
+    }
+}

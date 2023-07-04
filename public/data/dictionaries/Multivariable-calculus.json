@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Functions of Several Variables",
+        "Partial Derivatives",
+        "Gradient Vectors",
+        "Chain Rule",
+        "Directional Derivatives",
+        "Tangent Planes and Normal Lines",
+        "Extrema of Functions of Two Variables",
+        "Lagrange Multipliers",
+        "Double Integrals",
+        "Triple Integrals",
+        "Polar, Cylindrical, and Spherical Coordinates",
+        "Line Integrals",
+        "Surface Integrals",
+        "Green's Theorem",
+        "Divergence and Curl"
+    ],
+    "hints": {
+        "Functions of Several Variables": "These are functions that depend on two or more independent variables, such as f(x, y) or g(x, y, z).",
+        "Partial Derivatives": "The derivative of a function with respect to one variable while keeping the other variables constant.",
+        "Gradient Vectors": "A vector that represents the direction and rate of fastest increase of a multivariable function.",
+        "Chain Rule": "A technique used to find the derivative of a composite function involving multiple variables.",
+        "Directional Derivatives": "A measure of the rate of change of a function in a specific direction.",
+        "Tangent Planes and Normal Lines": "The tangent plane is a flat surface that approximates a function at a given point, and the normal line is a line perpendicular to the tangent plane.",
+        "Extrema of Functions of Two Variables": "Finding the maximum and minimum values of a function with two variables.",
+        "Lagrange Multipliers": "A method for finding extrema of a multivariable function subject to constraints.",
+        "Double Integrals": "Calculating the integral of a function over a two-dimensional region.",
+        "Triple Integrals": "Calculating the integral of a function over a three-dimensional region.",
+        "Polar, Cylindrical, and Spherical Coordinates": "Different coordinate systems used to represent points in two- or three-dimensional space.",
+        "Line Integrals": "Integrating a function along a curve in two- or three-dimensional space.",
+        "Surface Integrals": "Integrating a function over a surface in three-dimensional space.",
+        "Green's Theorem": "A fundamental theorem relating a line integral around a simple closed curve to a double integral over the region enclosed by the curve.",
+        "Divergence and Curl": "Measures of vector field properties, where divergence represents the rate at which \"density\" exits a region, and curl measures the rotation or circulation of a vector field."
+    }
+}

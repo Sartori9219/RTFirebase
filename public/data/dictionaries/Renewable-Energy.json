@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Solar Power",
+        "Wind Power",
+        "Hydropower",
+        "Geothermal Energy",
+        "Biomass Energy",
+        "Tidal Power",
+        "Wave Power",
+        "Biofuels",
+        "Hydrogen Fuel Cells",
+        "Energy Storage",
+        "Energy Efficiency",
+        "Smart Grids",
+        "Electric Vehicles",
+        "Green Buildings",
+        "Solar Heating and Cooling"
+    ],
+    "hints": {
+        "Solar Power": "Converting sunlight into electricity using photovoltaic (PV) panels or concentrating solar power systems.",
+        "Wind Power": "Generating electricity by capturing the wind's kinetic energy with rotating wind turbines.",
+        "Hydropower": "Producing electricity from the movement of water, typically by using dams or run-of-the-river systems.",
+        "Geothermal Energy": "Harnessing the Earth's natural heat to produce electricity or heat buildings directly.",
+        "Biomass Energy": "Generating electricity or heat by burning plant-based materials like wood, crops, or agricultural waste.",
+        "Tidal Power": "Utilizing the regular movement of ocean tides to generate electricity, often through underwater turbines.",
+        "Wave Power": "Capturing the energy from ocean waves to generate electricity, using devices like buoys or floating platforms.",
+        "Biofuels": "Producing fuels from renewable plant or animal sources, such as ethanol from corn or biodiesel from vegetable oil.",
+        "Hydrogen Fuel Cells": "Generating electricity by combining hydrogen and oxygen in a chemical reaction, with only water as a byproduct.",
+        "Energy Storage": "Storing excess energy produced by renewable sources, such as batteries or pumped hydro storage, for later use.",
+        "Energy Efficiency": "Reducing energy consumption by using technologies and practices that require less energy to perform the same tasks.",
+        "Smart Grids": "Modernizing the electrical grid with digital technology to better manage and distribute renewable energy.",
+        "Electric Vehicles": "Using electric motors powered by batteries or fuel cells, rather than internal combustion engines, to reduce emissions.",
+        "Green Buildings": "Designing and constructing buildings with environmentally friendly materials and energy-efficient systems.",
+        "Solar Heating and Cooling": "Using solar thermal collectors to capture heat from the sun for space heating, water heating, or cooling purposes."
+    }
+}

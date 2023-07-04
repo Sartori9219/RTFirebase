@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Supervised learning",
+        "Unsupervised learning",
+        "Reinforcement learning",
+        "Feature engineering",
+        "Overfitting",
+        "Underfitting",
+        "Bias-variance tradeoff",
+        "Cross-validation",
+        "Regularization",
+        "Decision trees",
+        "Ensemble methods",
+        "Neural networks",
+        "Convolutional Neural Networks (CNNs)",
+        "Recurrent Neural Networks (RNNs)",
+        "Gradient descent"
+    ],
+    "hints": {
+        "Supervised learning": "A learning technique where the model is trained using labeled data, with input-output pairs provided.",
+        "Unsupervised learning": "A learning technique where the model is trained using unlabeled data, and the goal is to discover underlying patterns or structures in the data.",
+        "Reinforcement learning": "A learning technique where an agent learns to make decisions by interacting with an environment and receiving feedback in the form of rewards or penalties.",
+        "Feature engineering": "The process of selecting, transforming, or creating relevant features from raw data to improve the performance of a machine learning model.",
+        "Overfitting": "A situation where a machine learning model performs very well on the training data but poorly on new, unseen data, often due to capturing noise or random fluctuations in the training data.",
+        "Underfitting": "A situation where a machine learning model is too simplistic to capture the underlying patterns in the data, resulting in poor performance on both the training and test data.",
+        "Bias-variance tradeoff": "A balance between model simplicity (bias) and sensitivity to small fluctuations in the data (variance) to achieve optimal performance on new, unseen data.",
+        "Cross-validation": "A technique used to evaluate the performance of a machine learning model by dividing the dataset into multiple folds, training the model on a subset of the folds, and testing it on the remaining fold, repeating this process multiple times and averaging the performance metrics.",
+        "Regularization": "A technique used to prevent overfitting by adding a penalty term to the loss function, which discourages overly complex models.",
+        "Decision trees": "A type of machine learning algorithm that makes predictions by recursively splitting the input space into regions based on feature values and choosing the majority class in each region.",
+        "Ensemble methods": "A combination of multiple machine learning models to improve overall performance, often by averaging or voting, examples include bagging, boosting, and random forests.",
+        "Neural networks": "A class of machine learning algorithms inspired by the structure and function of the human brain, consisting of layers of interconnected nodes or neurons.",
+        "Convolutional Neural Networks (CNNs)": "A type of neural network specialized for handling grid-like data, such as images, using convolutional layers to scan local regions of the input for patterns.",
+        "Recurrent Neural Networks (RNNs)": "A type of neural network designed for handling sequences or time series data, incorporating feedback loops that allow the network to maintain a \"memory\" of past inputs.",
+        "Gradient descent": "An optimization algorithm commonly used in machine learning for finding the minimum of a function, such as the loss function, by iteratively updating the model's parameters in the direction of the negative gradient."
+    }
+}

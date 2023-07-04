@@ -1,0 +1,45 @@
+[
+  {
+    "Project objective": "Unravel the IT Mystery: The Case of the Melting Ice Cream Store",
+    "Steps": [
+      "Hardware Hunt: Understand the role of various hardware components in a computer system. Identify what hardware might be used in an ice cream store, like cash registers, digital displays, and servers.",
+      "Operating System Oracle: Review the basics of operating systems. Determine what operating systems might be used in the store\u2019s hardware.",
+      "Networking Novice to Pro: Research about computer networking, understanding how the different devices in the store connect and communicate with each other.",
+      "Programming Language Primer: Discover basic programming languages that might be used in the store\u2019s software systems.",
+      "Deductive Diagnosis: Identify potential reasons why the ice cream store's systems might have gone down. Use your new-found knowledge about hardware, software, operating systems, and networking.",
+      "Disaster Deterrent: Propose a plan to prevent such a disaster in the future. This could include regular hardware maintenance, software updates, network security measures, and backup strategies.",
+      "Tech Tip Tutorial: Create a simple and easy-to-understand guide for the ice cream store staff to help them troubleshoot minor issues in the future. Use your creativity and humor to make it engaging!",
+      "Final Report and Presentation: Write a final report summarizing your investigations, findings, solution, and future preventive plan. Create a short presentation to explain your work. Use fun ice cream-themed visuals to make it interesting!"
+    ]
+  },
+  {
+    "Project objective": "Cloud Castle: From Dream Land to Web and Mobile Reality",
+    "Steps": [
+      "Database Design: Learn about databases, their types, and purposes. Decide what kind of database would be best for King Code-a-Lot's royal records.",
+      "Cloud Computing Climb: Understand what cloud computing is, its benefits, and how you can use it to build and host your castle (website and app).",
+      "Castle Blueprint: Sketch a detailed layout of the castle. What will be in the castle? Library, dragon stables, royal chambers, or maybe even a chocolate river? Be creative and fun!",
+      "Web Development Wander: Get a grasp of basic web development principles. Use HTML, CSS, and JavaScript to start building a basic version of your cloud castle website based on your blueprint.",
+      "Mobile App Adventure: Learn about mobile app development basics. Design the user interface for the mobile application of the cloud castle.",
+      "Data Defensive: Start populating your database with imaginary royal records. Implement security measures to protect the data.",
+      "Cybersecurity Shield: Learn about cybersecurity basics and how it can protect your cloud castle from invaders (hackers). Implement basic cybersecurity measures for your project.",
+      "Cloud Castle Creation: Using a cloud computing platform, host your website and database. Test out your castle's functionality and security.",
+      "User Testing Tournament: Organize a user testing session with friends or classmates. Have them explore the castle (website) and provide feedback on user experience, design, functionality, etc.",
+      "Final Royal Presentation: Compile all your work, findings, designs, and improvements into a final report. Prepare a presentation to show to King Code-a-Lot (your teacher or classmates). Your presentation should be as fun and engaging as the project itself. Add some humorous elements - maybe even dress up as the whimsical architect you are!"
+    ]
+  },
+  {
+    "Project objective": "Escape from Reality: An AI-Assisted VR Adventure with IoT and Data Analytics",
+    "Steps": [
+      "World Building: Brainstorm and sketch out a concept for your VR world. What would a land populated by sentient desserts look like? What adventures lie in wait for the visitors?",
+      "Understanding AI: Study the basics of Artificial Intelligence. How can AI be integrated into your VR world? Maybe the aforementioned friendly donut uses AI to interact with guests.",
+      "Machine Learning Magic: Learn about machine learning. Perhaps the desserts can learn from interactions with guests and modify their behavior accordingly?",
+      "Into the IoT: Discover the Internet of Things (IoT). How can IoT devices be used in your adventure? Maybe guests receive a \"Magic Spoon\" (an IoT device) to interact with the world?",
+      "Data Analytics 101: Understand the basics of data analytics. Plan how you can collect and analyze data from your attraction to improve the guest experience.",
+      "AI Implementation: Begin integrating AI into your VR world. Program the friendly donut (and other characters) to have basic interactions with guests.",
+      "Teaching Desserts to Learn: Implement machine learning in your VR adventure. Make your characters learn and grow from every guest interaction.",
+      "IoT in Action: Design a \"Magic Spoon\" or another IoT device that guests can use to interact with the VR world and its inhabitants.",
+      "Analyze This!: Set up ways to collect and analyze data from your attraction (like guest interactions, popular locations, and more). Use this data to refine and improve the guest experience.",
+      "Final Presentation: Once your VR adventure is complete, create a presentation to pitch your attraction to the executives (your teacher or classmates). Make sure to emphasize how AI, machine learning, IoT, and data analytics enhance the guest experience."
+    ]
+  }
+]

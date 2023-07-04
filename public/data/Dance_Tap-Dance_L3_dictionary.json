@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, have you heard of the new dance? It's called the Brush 'n Sweep!",
+        "Isn't that just a fancy name for the shuffle? You know, brush forward and brush back?"
+      ],
+      "options": [
+        "Shuffle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My tap shoes are so dusty, I need to clean them.",
+        "Why not just shuffle around the room? That'll brush off the dust!"
+      ],
+      "options": [
+        "Shuffle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I were a dance move, I'd be the Double Brusharoo!",
+        "Sounds like you're describing the shuffle, with a brush forward and a brush back!"
+      ],
+      "options": [
+        "Shuffle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm playing a game of tap-dance soccer, want to join?",
+        "Tap-dance soccer? So we ball change instead of passing?"
+      ],
+      "options": [
+        "Ball Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bought new golf balls, but I realized I prefer the old ones.",
+        "So, you performed a 'ball change' in golf, just like in tap dance!"
+      ],
+      "options": [
+        "Ball Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't decide if I want to tap with the heel or the ball of my foot.",
+        "Why not both? Do a 'ball change' - tap with the ball of your foot and then change to the heel."
+      ],
+      "options": [
+        "Ball Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm creating a new dance called 'The Ladder'.",
+        "Are there any 'tap steps' in it?"
+      ],
+      "options": [
+        "Tap Step (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been practicing my Morse code with my feet.",
+        "Oh, so you're tapping out messages? Sounds like a 'tap step'!"
+      ],
+      "options": [
+        "Tap Step (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My pet parrot learned a new trick. It mimics my tap dancing.",
+        "So, it's got the 'tap step' down?"
+      ],
+      "options": [
+        "Tap Step (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are the ducks in this pond so loud?",
+        "Maybe they're practicing their 'flap' for the local duck tap dance competition!"
+      ],
+      "options": [
+        "Flap (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I thought I heard someone tapping on my window last night.",
+        "Are you sure it wasn't just a tree branch doing a 'flap' dance in the wind?"
+      ],
+      "options": [
+        "Flap (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you know any good pancake recipes?",
+        "Sure, but only if you can do a 'flap' jack dance!"
+      ],
+      "options": [
+        "Flap (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard there was a scuffle in the garden.",
+        "Yes, the worms were having a tap dance competition!"
+      ],
+      "options": [
+        "Scuffle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are your shoes so dirty?",
+        "Oh, I was just practicing my 'scuffle' steps in the muddy yard!"
+      ],
+      "options": [
+        "Scuffle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's that noise coming from your room?",
+        "Sorry, that's just me 'scuffling' to the beat of my favorite song!"
+      ],
+      "options": [
+        "Scuffle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is your alarm clock making such a weird rhythm?",
+        "Oh, that? I've just set it to 'time steps'. Makes waking up a lot more fun!"
+      ],
+      "options": [
+        "Time Steps (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed you're always tapping your feet during math class.",
+        "Yeah, I'm just trying to understand the concept of 'time steps'. It's a tap dance thing!"
+      ],
+      "options": [
+        "Time Steps (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you keep tapping your foot every time I mention time?",
+        "Just practicing my 'time steps', it's all about rhythm and timing, you know."
+      ],
+      "options": [
+        "Time Steps (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's that noise coming from your shoes?",
+        "Oh, I'm practicing my 'cramproll'. It's kind of like a dance drum roll!"
+      ],
+      "options": [
+        "Cramproll (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I thought you said we were having bread rolls for lunch?",
+        "No, I said 'cramproll'. It's a tap dance move, silly!"
+      ],
+      "options": [
+        "Cramproll (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you stomping around like that?",
+        "I'm not stomping, I'm doing a 'cramproll'. Tap dancing is harder than it looks!"
+      ],
+      "options": [
+        "Cramproll (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you say you were growing wings? Are you turning into a bird?",
+        "No, silly! 'Wings' is a tap dance move where you brush your feet outwards."
+      ],
+      "options": [
+        "Wings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you flapping around like that?",
+        "I'm not flapping, I'm practicing my 'wings'! It's a cool tap dance step!"
+      ],
+      "options": [
+        "Wings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you trying to fly away or something?",
+        "No, just working on my 'wings'. Tap dancing makes me feel like I can fly though!"
+      ],
+      "options": [
+        "Wings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You look like you're trying to walk backwards on the moon!",
+        "Nah, just practicing my pullbacks. They're a neat tap dance move."
+      ],
+      "options": [
+        "Pullbacks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you okay? You seem to be sliding backwards!",
+        "Haha, no worries! I'm just practicing my pullbacks for tap class."
+      ],
+      "options": [
+        "Pullbacks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you sliding your feet back like that? You look like a reverse sprinter!",
+        "I'm not sprinting, I'm tap dancing! This move is called a pullback."
+      ],
+      "options": [
+        "Pullbacks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you making car noises and tap dancing at the same time?",
+        "I'm not imitating a car, silly. I'm practicing a tap dance step called the Maxi Ford!"
+      ],
+      "options": [
+        "Maxi Ford (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you trying to stomp out an imaginary fire or something?",
+        "Nope! I'm just practicing the Maxi Ford. It's a classic tap dance move."
+      ],
+      "options": [
+        "Maxi Ford (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you tap dancing like a horse galloping?",
+        "Haha, I'm actually doing the Maxi Ford, it's a cool tap dance step."
+      ],
+      "options": [
+        "Maxi Ford (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you trying to mimic Morse code with your feet?",
+        "Haha, not really! I'm just practicing the Paradiddle, a tap dance rhythm!"
+      ],
+      "options": [
+        "Paradiddle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does your tap dance sound like a drum solo?",
+        "Well, I'm practicing a tap dance step called the Paradiddle. It's got a rhythmic pattern that drummers often use too!"
+      ],
+      "options": [
+        "Paradiddle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you keep repeating the same pattern with your feet?",
+        "Because that's what the Paradiddle is! It's a repeated rhythmic pattern in tap dance."
+      ],
+      "options": [
+        "Paradiddle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, why are you gliding across the room like a penguin?",
+        "I'm not being a penguin! I'm practicing tap dance Slides!"
+      ],
+      "options": [
+        "Slides (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You look like you're trying to ice skate on a hardwood floor!",
+        "Haha, close! It's called Slides in tap dance, gives a similar smooth gliding motion!"
+      ],
+      "options": [
+        "Slides (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you just lose your balance, or was that a dance move?",
+        "Oh, that? That was a tap dance move called a Slide. Gives a whole new meaning to 'slip and slide', doesn't it?"
+      ],
+      "options": [
+        "Slides (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you stepping over imaginary obstacles?",
+        "I'm not avoiding obstacles! I'm practicing the 'Over the Top' tap dance move!"
+      ],
+      "options": [
+        "Over the Top (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you just perform a high step or are you trying to step over a puddle?",
+        "Neither, I was practicing my 'Over the Top' tap dance move!"
+      ],
+      "options": [
+        "Over the Top (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you training for hurdles in track and field?",
+        "Haha, no, it's a tap dance move. It's called 'Over the Top'."
+      ],
+      "options": [
+        "Over the Top (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you practicing for a royal ball? You're dancing in 3/4 time!",
+        "Nope, not a royal ball, but you're right about the 3/4 time. I'm doing the Waltz Clog!"
+      ],
+      "options": [
+        "Waltz Clog (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do your tap shoes sound like they're dancing to a waltz?",
+        "Good ear! That's because I'm practicing a tap dance called the Waltz Clog!"
+      ],
+      "options": [
+        "Waltz Clog (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you combining tap dancing with a waltz?",
+        "Exactly! It's a move called the Waltz Clog in tap dancing!"
+      ],
+      "options": [
+        "Waltz Clog (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, are you trying to tap dance your way to Cincinnati?",
+        "Not exactly, but I am doing a tap dance step called the Cincinnati!"
+      ],
+      "options": [
+        "Cincinnati (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You're tap dancing like you're trying to spell something with your feet.",
+        "Haha, close! I'm practicing a tap dance move called the Cincinnati!"
+      ],
+      "options": [
+        "Cincinnati (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you doing a Morse code message with your tap shoes?",
+        "Nope, I'm just practicing the Cincinnati, a fun tap dance step!"
+      ],
+      "options": [
+        "Cincinnati (correct answer)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I can't seem to keep my plants alive, no matter what I do!",
+        "Well, let's start by figuring out the main problem. Are you watering them too much or too little, or maybe they're not getting enough sunlight?"
+      ],
+      "options": [
+        "Identifying the problem (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My sandwich tastes so bland. I don't know what's wrong with it.",
+        "Let's identify the problem. Did you forget to add any condiments or seasoning? Or maybe the ingredients themselves are lacking in flavor?"
+      ],
+      "options": [
+        "Identifying the problem (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always running late to class, and I can't figure out why!"
+      ],
+      "options": [
+        "Identifying the problem (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to build the ultimate treehouse, but I don't know where to start."
+      ],
+      "options": [
+        "*Gathering information (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to build the ultimate treehouse, but I don't know where to start."
+      ],
+      "options": [
+        "Try again.  nothing after the correct answer.  everything else the same",
+        "Gathering information (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking of starting a lemonade stand, but I have no idea how to make great lemonade."
+      ],
+      "options": [
+        "Gathering information (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've always wanted to learn how to juggle,",
+        "I've collected all these jokes, but I don't know which ones to use for my stand-up comedy routine."
+      ],
+      "options": [
+        "Analyzing the information (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've gathered tons of data on pizza toppings, but I'm not sure how to create the ultimate pizza."
+      ],
+      "options": [
+        "Analyzing the information (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've collected a list of study techniques, but I don't know which ones will work best for me."
+      ],
+      "options": [
+        "Analyzing the information (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My pet turtle keeps escaping from his enclosure, and I don't know how to stop him."
+      ],
+      "options": [
+        "Generating possible solutions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm having trouble staying awake during my morning classes."
+      ],
+      "options": [
+        "Generating possible solutions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to make new friends, but I'm not sure how to approach people."
+      ],
+      "options": [
+        "Generating possible solutions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've thought of a few ways to get over my fear of public speaking, but I'm not sure which one to try."
+      ],
+      "options": [
+        "Evaluating the solutions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've come up with a few potential themes for my birthday party, but I can't decide which one to pick."
+      ],
+      "options": [
+        "Evaluating the solutions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have a list of possible vacation destinations, but I'm having trouble deciding where to go."
+      ],
+      "options": [
+        "Evaluating the solutions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've come up with three different ways to organize my messy closet, but I don't know which one to choose."
+      ],
+      "options": [
+        "Selecting the best solution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have a few ideas for a funny costume to wear at the costume party, but I can't decide which one will be the biggest hit."
+      ],
+      "options": [
+        "Selecting the best solution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've brainstormed a few different study schedules to help me prepare for my exams, but I'm not sure which one to follow."
+      ],
+      "options": [
+        "Selecting the best solution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've finally decided on the best way to redecorate my room, but now what?"
+      ],
+      "options": [
+        "Implementing the solution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've chosen the perfect workout routine to help me get in shape, but how do I make sure I stick to it?"
+      ],
+      "options": [
+        "Implementing the solution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "After evaluating all the options, I've figured out the best way to save money for my dream vacation."
+      ],
+      "options": [
+        "Implementing the solution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried that new study technique we discussed, but I'm not sure if it's working for me."
+      ],
+      "options": [
+        "Assessing the results (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been using that new organization system for my desk, but it still seems cluttered."
+      ],
+      "options": [
+        "Assessing the results (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I followed that recipe to make homemade cookies, but they didn't turn out as tasty as I expected."
+      ],
+      "options": [
+        "Assessing the results (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't decide on a topic for my research paper."
+      ],
+      "options": [
+        "Asking open-ended questions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm having trouble understanding this complex concept from our lecture."
+      ],
+      "options": [
+        "Asking open-ended questions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to make a unique and creative art project, but I'm not sure where to start."
+      ],
+      "options": [
+        "Asking open-ended questions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't think I'll ever be good at playing the guitar. I just don't have the talent for it."
+      ],
+      "options": [
+        "Recognizing assumptions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm not sure if I should apply for that scholarship. I don't think I have any chance of winning."
+      ],
+      "options": [
+        "Recognizing assumptions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been avoiding that new restaurant because I'm not a fan of their cuisine."
+      ],
+      "options": [
+        "Recognizing assumptions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't think I'd enjoy that new action movie because I usually prefer comedies."
+      ],
+      "options": [
+        "Challenging biases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've never liked spinach, so I don't want to try this spinach and cheese stuffed pasta."
+      ],
+      "options": [
+        "Challenging biases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tend to avoid making friends with people who have different hobbies than me. I just don't think we'd have anything in common."
+      ],
+      "options": [
+        "Challenging biases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't understand why anyone would want to go bungee jumping. It seems so terrifying!"
+      ],
+      "options": [
+        "Considering alternative perspectives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why my friend prefers reading physical books over e-books. E-books are so much more convenient!"
+      ],
+      "options": [
+        "Considering alternative perspectives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't imagine living in a big city. It's always so noisy and crowded."
+      ],
+      "options": [
+        "Considering alternative perspectives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I always thought I was terrible at math, but after getting a good grade on my last exam, maybe I should rethink that belief."
+      ],
+      "options": [
+        "Reflecting on one's own thinking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I used to think I could only be productive in the morning, but lately, I've been getting a lot done in the evenings."
+      ],
+      "options": [
+        "Reflecting on one's own thinking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I always assumed I wouldn't like sushi, but after trying it for the first time, I realized I was wrong."
+      ],
+      "options": [
+        "Reflecting on one's own thinking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to come up with a fun theme for our dance, but I'm running out of ideas.",
+        "Let's collaborate! We can brainstorm together, bounce ideas off each other, and combine our creativity to make this the best school dance ever!"
+      ],
+      "options": [
+        "Collaborating with others (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm struggling with this group project. There's just so much work to do, and I don't know where to start."
+      ],
+      "options": [
+        "Collaborating with others (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to organize a surprise party for our friend, but I'm not sure how to pull it off."
+      ],
+      "options": [
+        "Collaborating with others (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just found out that my favorite band is coming to town, but I already made plans for that night!"
+      ],
+      "options": [
+        "Adapting to new information (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been studying for this test all week, but the teacher just announced that the format has changed."
+      ],
+      "options": [
+        "Adapting to new information (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I thought I knew the best route to get to school, but I just discovered a shortcut that's much faster.",
+        "Great! Adapt to this new information and update your daily commute. You'll save time and maybe even enjoy a more scenic route to school."
+      ],
+      "options": [
+        "Adapting to new information (correct answer)"
+      ]
+    }
+  ]
+}

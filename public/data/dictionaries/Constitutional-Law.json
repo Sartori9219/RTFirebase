@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Separation of Powers",
+        "Checks and Balances",
+        "Federalism",
+        "Bill of Rights",
+        "Judicial Review",
+        "Due Process",
+        "Equal Protection",
+        "Supremacy Clause",
+        "Commerce Clause",
+        "Necessary and Proper Clause",
+        "Free Speech",
+        "Freedom of Religion",
+        "Right to Bear Arms",
+        "Privacy Rights",
+        "Civil Rights and Liberties"
+    ],
+    "hints": {
+        "Separation of Powers": "The division of power among the three branches of government (executive, legislative, and judicial) to prevent any one branch from becoming too powerful.",
+        "Checks and Balances": "A system that allows each branch of government to limit the powers of the other branches to ensure no single branch becomes too powerful.",
+        "Federalism": "The division of power between the federal government and state governments, allowing for a balance of authority.",
+        "Bill of Rights": "The first ten amendments to the U.S. Constitution, which protect individual liberties and rights.",
+        "Judicial Review": "The power of the courts to determine the constitutionality of laws and actions of the government.",
+        "Due Process": "The legal principle that the government must respect all legal rights owed to a person according to the law, ensuring fairness and justice.",
+        "Equal Protection": "The constitutional guarantee that all individuals are treated equally under the law, regardless of their race, gender, or other characteristics.",
+        "Supremacy Clause": "The provision in the U.S. Constitution that states that federal laws and treaties are the supreme law of the land, taking precedence over state laws.",
+        "Commerce Clause": "The constitutional provision that grants Congress the power to regulate commerce with foreign nations, between states, and with Native American tribes.",
+        "Necessary and Proper Clause": "The constitutional provision that grants Congress the power to make all laws necessary and proper for carrying out its enumerated powers.",
+        "Free Speech": "The First Amendment right that protects the freedom of expression, including spoken, written, and symbolic speech.",
+        "Freedom of Religion": "The First Amendment right that prevents the government from establishing an official religion or interfering with an individual's right to practice their religion.",
+        "Right to Bear Arms": "The Second Amendment right that allows individuals to own and carry firearms for self-defense and other lawful purposes.",
+        "Privacy Rights": "The implied constitutional right to privacy, which protects individuals from government intrusion into their personal lives.",
+        "Civil Rights and Liberties": "The fundamental rights and freedoms guaranteed to all individuals, including protection from discrimination and the right to due process and equal protection under the law."
+    }
+}

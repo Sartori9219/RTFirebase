@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Dude, where on Earth is the Great Wall of China?",
+        "Well, it\u2019s roughly around 40 degrees North latitude and 117 degrees East longitude!"
+      ],
+      "options": [
+        "Latitude and Longitude (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Where can I find Santa's house?",
+        "Oh, you mean in the North Pole? That\u2019s 90 degrees North latitude, but longitude doesn't matter there - it's a single point!"
+      ],
+      "options": [
+        "Latitude and Longitude (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to time travel to where dinosaurs roamed.",
+        "Sure, teleport to 35 degrees South latitude, 117 degrees East longitude - the coordinates for Dinosaur, Australia! Bring a time machine though."
+      ],
+      "options": [
+        "Latitude and Longitude (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm feeling adventurous. How about climbing the tallest mountain?",
+        "Excellent! Pack for freezing temperatures and low oxygen. We're off to Mount Everest, the peak of physical geography!"
+      ],
+      "options": [
+        "Physical Geography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm not a fan of the beach, too sandy.",
+        "You mean you don't like the physical geography of a coastline, where land meets sea and you can build epic sandcastles?"
+      ],
+      "options": [
+        "Physical Geography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to experience the extremes, where can we go?",
+        "Try the Sahara desert or the Amazon rainforest. They're poles apart in terms of physical geography, and both full of unique experiences!"
+      ],
+      "options": [
+        "Physical Geography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've got an excess of spicy chicken wings. Any ideas where they might be appreciated?",
+        "Let's air-drop them over Buffalo, New York, where they were invented! Talk about human geography."
+      ],
+      "options": [
+        "Human Geography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm learning to play the bagpipes. Where could I go to fit right in?",
+        "Why, to Scotland, of course! Their love for bagpipes is woven into the fabric of their human geography."
+      ],
+      "options": [
+        "Human Geography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My salsa dancing is getting pretty good. Where can I test it out?",
+        "Take your salsa moves to a club in Havana, Cuba, where this dance form is an integral part of their human geography!"
+      ],
+      "options": [
+        "Human Geography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My dream is to create the ultimate treasure map for aspiring pirates!",
+        "You're talking about cartography, matey! You'll be needing an eye patch, a parrot, and a strong understanding of map-making."
+      ],
+      "options": [
+        "Cartography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to create a map of the best burger joints in town.",
+        "Sounds like you're gearing up for a delicious adventure in cartography! Just don't forget to include the secret sauce spots."
+      ],
+      "options": [
+        "Cartography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm creating a grand tour of my cat's favorite lounging spots in the house.",
+        "Cartography for cats, I love it! Just make sure to include the sunny windowsills and the top of the fridge."
+      ],
+      "options": [
+        "Cartography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to decide where to build my dream ice-cream empire, but I don't want it to melt.",
+        "Better avoid the tropical climate zones then. Unless you can invent heat-resistant ice cream!"
+      ],
+      "options": [
+        "Climate Zones (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've got this great idea to open a swimsuit shop, but I'm unsure about the location.",
+        "Well, definitely not in polar climate zones, unless you're planning to sell woolly swimsuits!"
+      ],
+      "options": [
+        "Climate Zones (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking about becoming a professional sandcastle builder. Where should I set up my business?",
+        "Well, the desert climate zone would be a sand abundance, but you might struggle with the lack of water. Beachfront properties in a subtropical zone might be your best bet!"
+      ],
+      "options": [
+        "Climate Zones (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to choose a pet. I'm considering a polar bear, but my apartment isn't that big...",
+        "Sounds like you need a bigger place...or maybe a whole tundra biome!"
+      ],
+      "options": [
+        "Ecosystems/Biomes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to grow a banana in my backyard. Will it work?",
+        "Unless your backyard is a tropical rainforest biome, it might be a bit challenging!"
+      ],
+      "options": [
+        "Ecosystems/Biomes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm planning on hosting a cactus-themed party. Can you help me with the decorations?",
+        "Sure, just turn your living room into a desert biome and you're set!"
+      ],
+      "options": [
+        "Ecosystems/Biomes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ever have a friendship slowly drift apart?",
+        "Yeah, like how Pangaea drifted into separate continents."
+      ],
+      "options": [
+        "Continental Drift (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I feel like my life is slowly drifting away.",
+        "Just like how the continents drifted from one giant landmass!"
+      ],
+      "options": [
+        "Continental Drift (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm getting driftwood vibes from this coffee table.",
+        "Kind of like how continents drift over geological time scales."
+      ],
+      "options": [
+        "Continental Drift (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you ever feel like the world's getting smaller?",
+        "Yeah, like when I find the same fast food chain in every country I visit."
+      ],
+      "options": [
+        "Globalization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that hippos love watermelons. Should we try feeding one at the local zoo?",
+        "Only if we can import the watermelons from Japan. Even our hippos have high standards!"
+      ],
+      "options": [
+        "Globalization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know there's an International Speak Like a Pirate Day?",
+        "Yeah, that's globalization for you - even pirate lingo is global now!"
+      ],
+      "options": [
+        "Globalization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the farm that turned into a shopping mall?",
+        "Yes, it's crazy! And the scarecrow now works as a mannequin in one of the boutiques."
+      ],
+      "options": [
+        "Urbanization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you know why the chicken crossed the road?",
+        "Because it got confused by all the new buildings and thought it was still on the farm?"
+      ],
+      "options": [
+        "Urbanization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My dog tried to bury his bone in the concrete sidewalk yesterday.",
+        "Well, that's what happens when there are no backyards left."
+      ],
+      "options": [
+        "Urbanization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My pet ants had a party yesterday.",
+        "Let me guess, there were so many of them, they could've formed their own city?"
+      ],
+      "options": [
+        "Population Density (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I had a dime for every time someone bumped into me at school...",
+        "You'd have enough money to build a private island, right?"
+      ],
+      "options": [
+        "Population Density (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the sardines that complained about their tin?",
+        "Yeah, they asked for a tin with a sea view and a swimming pool, didn't they?"
+      ],
+      "options": [
+        "Population Density (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard the one about the Italian pizza that got popular in Japan?",
+        "No, but I bet it has a sushi twist to it."
+      ],
+      "options": [
+        "Cultural Diffusion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the Mexican sombrero that went viral in Canada?",
+        "Oh, was it because of a moose wearing it on a TikTok video?"
+      ],
+      "options": [
+        "Cultural Diffusion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know that trending dance from Brazil?",
+        "Yeah, it's going global faster than my cat videos."
+      ],
+      "options": [
+        "Cultural Diffusion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, do you remember when we used to play Risk and you always wanted Australia?",
+        "Yes, best strategic location for world domination, mate!"
+      ],
+      "options": [
+        "Geopolitics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if penguins suddenly declared Antarctica as their sovereign territory?",
+        "I guess we would have to negotiate for fish tariffs then?"
+      ],
+      "options": [
+        "Geopolitics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard about that new sci-fi movie where aliens redraw the world borders?",
+        "Yeah, and the UN had a field day negotiating with extraterrestrials."
+      ],
+      "options": [
+        "Geopolitics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you know why our school mascot is a beaver?",
+        "Oh, is it because they're industrious and good at resource management?"
+      ],
+      "options": [
+        "Natural Resources (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard about that video game where you mine for diamonds, and fight off zombies and creepers?",
+        "Yeah, Minecraft. It really makes you appreciate having unlimited trees to chop down."
+      ],
+      "options": [
+        "Natural Resources (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that Santa Claus's elves are really just master recyclers?",
+        "What? Are you saying all our Christmas gifts are made from repurposed resources?"
+      ],
+      "options": [
+        "Natural Resources (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, why is your homework printed on a grocery bag?",
+        "Well, you know what they say, Reuse before recycle. I'm just trying to make sure we have enough trees for the future!"
+      ],
+      "options": [
+        "Sustainability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's that you're drinking? A smoothie made from kale, spinach, and broccoli?",
+        "Yep! And the best part? It's grown in my backyard! Talk about a sustainable diet."
+      ],
+      "options": [
+        "Sustainability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the new roller coaster that powers itself?",
+        "Yeah, it's powered by the screams of the people riding it, right?"
+      ],
+      "options": [
+        "Sustainability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You remember when we were kids, and we pretended to be pirates looking for treasure?",
+        "Yeah, with the paper maps and all. Now we just need GIS, and we can find buried treasure from our couch!"
+      ],
+      "options": [
+        "Geographic Information System (GIS) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you seen my phone? I can't find it anywhere.",
+        "Maybe you should try using GIS, might be quicker than turning your room upside down!"
+      ],
+      "options": [
+        "Geographic Information System (GIS) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if pizza delivery drivers used GIS.",
+        "Yeah, they'd be able to deliver the pizza through the bathroom window while you're in the shower!"
+      ],
+      "options": [
+        "Geographic Information System (GIS) (correct answer)"
+      ]
+    }
+  ]
+}

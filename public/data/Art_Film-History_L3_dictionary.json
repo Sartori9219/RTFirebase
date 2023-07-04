@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, imagine trying to watch an entire movie without sound or dialogue!",
+        "Like miming the entire 'Star Wars'? Lightsabers duels would look so goofy!"
+      ],
+      "options": [
+        "Silent Era (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know there was a time when popcorn was louder than the movie?",
+        "You mean when subtitles were the only way to know what was going on?!"
+      ],
+      "options": [
+        "Silent Era (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Trying to explain Bitcoin to my grandparents is like explaining movies to people in the 1890s.",
+        "I bet they would have been amazed by the magic of moving pictures, even without the sound!"
+      ],
+      "options": [
+        "Silent Era (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did they make a black and white filter for my selfies?",
+        "That's a homage to the Golden Age of Hollywood when color film wasn't common yet!"
+      ],
+      "options": [
+        "Golden Age of Hollywood (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My grandparents are watching a 'Gone With the Wind' marathon. Again.",
+        "Ah, the quintessence of the Golden Age of Hollywood, endless romantic epics!"
+      ],
+      "options": [
+        "Golden Age of Hollywood (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can you imagine being a movie star when TV wasn't even invented yet?",
+        "Oh, to be the luminary of the Golden Age of Hollywood."
+      ],
+      "options": [
+        "Golden Age of Hollywood (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been watching this detective movie. It's dark, rainy, and the protagonist can't catch a break.",
+        "Sounds like a Film Noir to me, a classic detective tale full of despair and moral ambiguity!"
+      ],
+      "options": [
+        "Film Noir (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is everything in this movie either covered in shadows or blindingly bright?",
+        "It's called chiaroscuro lighting. You're watching a Film Noir, my friend!"
+      ],
+      "options": [
+        "Film Noir (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does every guy in this movie wear a trench coat and fedora?",
+        "Welcome to the world of Film Noir, where style meets substance, and mystery meets the mundane!"
+      ],
+      "options": [
+        "Film Noir (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This movie doesn't make any sense. The scenes are jumping all over the place.",
+        "That's the beauty of New Wave Cinema, my friend. Conventional storytelling? Not in their rulebook!"
+      ],
+      "options": [
+        "New Wave Cinema (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I watched a movie last night that was shot like a documentary, but it was a drama. So different!",
+        "Sounds like a taste of New Wave Cinema. They love shaking up film conventions!"
+      ],
+      "options": [
+        "New Wave Cinema (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the movie I'm watching suddenly cutting to the director explaining the scene?",
+        "Ah, breaking the fourth wall. You're knee-deep in New Wave Cinema, pal!"
+      ],
+      "options": [
+        "New Wave Cinema (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been sketching all day and I've only got 3 seconds of footage.",
+        "The painstaking patience of Animation in Film, buddy. Each frame is a work of art!"
+      ],
+      "options": [
+        "Animation in Film (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does this dinosaur look so real in the movie?",
+        "That's the magic of Animation in Film! A combo of tech and talent brings imaginary creatures to life."
+      ],
+      "options": [
+        "Animation in Film (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "These cartoon characters seem to have more expressions than some actors.",
+        "That's Animation in Film for you! They've got full control over every single detail."
+      ],
+      "options": [
+        "Animation in Film (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm watching this film, and it's just showing a day in the life of an octopus, no fiction or drama.",
+        "Sounds like a gripping episode of the underwater reality show called Documentary Filmmaking."
+      ],
+      "options": [
+        "Documentary Filmmaking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin got a camera and has been following me around all day. It's kind of annoying.",
+        "Seems like you're starring in the new season of 'Life with my cousin.' Welcome to Documentary Filmmaking!"
+      ],
+      "options": [
+        "Documentary Filmmaking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been watching this movie about global warming. It's all facts, figures, and experts talking.",
+        "The earth says 'Hi! Welcome to Documentary Filmmaking. You might learn something useful!'"
+      ],
+      "options": [
+        "Documentary Filmmaking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So many sequels... it's like they're building a wall of movies!",
+        "That's not a wall, that's a staircase to the Rise of the Blockbuster, one sequel at a time."
+      ],
+      "options": [
+        "Rise of the Blockbuster (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do these popcorn bags get bigger every time a new superhero movie comes out?",
+        "Aha! That's the sound of the Rise of the Blockbuster. More popcorn, more superheroes!"
+      ],
+      "options": [
+        "Rise of the Blockbuster (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Another Star Wars movie? It's like a galaxy that never ends!",
+        "Or a galaxy where the Rise of the Blockbuster is as constant as the force."
+      ],
+      "options": [
+        "Rise of the Blockbuster (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know, I watched a film about a hamster finding its purpose in life last night.",
+        "Oh, the magical world of Independent Cinema - where hamsters have existential crises."
+      ],
+      "options": [
+        "Independent Cinema (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Just watched a movie where a guy goes around the city listening to people's stories.",
+        "Oh, the adventures in Independent Cinema - where everyday people become the stars!"
+      ],
+      "options": [
+        "Independent Cinema (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just saw a film about an old man who decides to sail across the ocean in a bathtub.",
+        "That's Independent Cinema for you - no bathtubs are safe from adventures!"
+      ],
+      "options": [
+        "Independent Cinema (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know, I think I want to film my life... but in 3D.",
+        "Ah, yes, riding the wave of Technological Innovations in Film. Are you going to include smell-o-vision too?"
+      ],
+      "options": [
+        "Technological Innovations in Film (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know my great-grandma used to watch movies without color or sound?",
+        "Technological Innovations in Film sure have come a long way. I can't imagine a world without high-definition talking dogs."
+      ],
+      "options": [
+        "Technological Innovations in Film (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've heard about this new technology that makes movie characters step right out of the screen!",
+        "Technological Innovations in Film are so cool. I'm just waiting for the day I can high five my favorite superhero."
+      ],
+      "options": [
+        "Technological Innovations in Film (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So my new film idea involves alien invaders armed with bubble-gum blasters...",
+        "Ah, the Role of Censorship. Be sure there's no inappropriate use of bubble gum!"
+      ],
+      "options": [
+        "Role of Censorship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to make a movie about the history of the world's most dangerous haircuts.",
+        "You'll need to consider the Role of Censorship there. Some haircuts are too dangerous for the public."
+      ],
+      "options": [
+        "Role of Censorship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking of making a documentary about the secrets of the library...",
+        "The Role of Censorship might step in there. Libraries hold mysteries too intense for some viewers."
+      ],
+      "options": [
+        "Role of Censorship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when they used to just dangle miniatures in front of the camera for space scenes?",
+        "Oh yeah, the Evolution of Special Effects. Now we've got CGI making every alien planet imaginable!"
+      ],
+      "options": [
+        "Evolution of Special Effects (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to shoot a tornado scene...but with actual flying cows.",
+        "Sounds like you're a fan of the Evolution of Special Effects. From rear projection to full CGI bovines, we've come a long way!"
+      ],
+      "options": [
+        "Evolution of Special Effects (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know, I've always wanted to be in two places at once.",
+        "That's the magic of the Evolution of Special Effects. These days you could be in three places at once, with a dinosaur!"
+      ],
+      "options": [
+        "Evolution of Special Effects (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you ever think about the good old days when everyone just gathered around the radio for entertainment?",
+        "Sure, but I'd miss binge-watching my favorite series. That's the Impact of Television!"
+      ],
+      "options": [
+        "Impact of Television (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when movie night meant a trip to the cinema?",
+        "Nowadays, movie night can be every night from the comfort of your couch. That's the Impact of Television!"
+      ],
+      "options": [
+        "Impact of Television (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the use of commercials? I just skip them.",
+        "They used to be unskippable before DVRs and streaming, but that's the Impact of Television!"
+      ],
+      "options": [
+        "Impact of Television (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My whole world feels like it's been shot in black and white ever since my favorite ice cream flavor got discontinued.",
+        "That's kind of like Italian neorealism. But with ice cream."
+      ],
+      "options": [
+        "Global Cinema Movements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to make a movie about our high school, but with a twist: everyone speaks in rhymes.",
+        "That sounds like a new-wave French film but for teenagers. Count me in!"
+      ],
+      "options": [
+        "Global Cinema Movements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you ever feel like our lives could be a movie?",
+        "Depends. Is it more Bollywood or Hollywood?"
+      ],
+      "options": [
+        "Global Cinema Movements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when we used to share DVDs? Now it's all about streaming.",
+        "Yeah, welcome to the digital age! No more scratched discs or rewinding tapes!"
+      ],
+      "options": [
+        "Rise of Digital Cinema (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just made a movie with my phone. Do you think Spielberg started this way?",
+        "Probably not, but he'd surely love to see what you can do with that device!"
+      ],
+      "options": [
+        "Rise of Digital Cinema (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why go to the movies when you can watch anything, anywhere, anytime?",
+        "Yup, cinemas might need to consider delivering popcorn to our homes soon!"
+      ],
+      "options": [
+        "Rise of Digital Cinema (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ever noticed how all the Martians in old sci-fi movies were green with giant heads? Is that what we think aliens look like?",
+        "And don't forget the tentacles! At least nowadays we have a wider variety of alien designs."
+      ],
+      "options": [
+        "Representation in Film (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just watched this action movie with an all-female lead cast. They kicked so much butt!",
+        "That's a nice change. Usually, it's a bunch of macho men doing all the butt-kicking."
+      ],
+      "options": [
+        "Representation in Film (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I watched a movie yesterday where the main character was a disabled superhero.",
+        "Oh, that's cool. It's about time we see more diverse heroes in movies."
+      ],
+      "options": [
+        "Representation in Film (correct answer)"
+      ]
+    }
+  ]
+}

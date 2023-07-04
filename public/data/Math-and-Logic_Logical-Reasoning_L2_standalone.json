@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "question": "If all cats have tails and Fluffy is a cat, then...",
+      "options": [
+        "Fluffy has wings.",
+        "Fluffy has a tail. (Correct answer)",
+        "Fluffy is a dog.",
+        "Fluffy has fins."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all apples are fruits and this is an apple, then this is a...",
+      "options": [
+        "Vegetable.",
+        "Mineral.",
+        "Fruit. (Correct answer)",
+        "Car."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If it always rains when there are dark clouds, and there are dark clouds outside, then...",
+      "options": [
+        "It's sunny outside.",
+        "There are no clouds.",
+        "It's raining outside. (Correct answer)",
+        "It's snowing outside."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all dogs bark and Rover is a dog, then...",
+      "options": [
+        "Rover meows.",
+        "Rover barks. (Correct answer)",
+        "Rover is a cat.",
+        "Rover is silent."
+      ],
+      "hints": []
+    },
+    {
+      "question": "When making a sandwich, which step comes first?",
+      "options": [
+        "Add lettuced",
+        "Spread butter on the bread (Correct answer)",
+        "Put the sandwich in the fridge",
+        "Eat the sandwich"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What's the first step in doing laundry?",
+      "options": [
+        "Fold the clothes",
+        "Iron the clothes",
+        "Put the clothes in the washing machine (Correct answer)",
+        "Hang the clothes to dry"
+      ],
+      "hints": []
+    },
+    {
+      "question": "When preparing to paint a room, what should you do first?",
+      "options": [
+        "Start painting the walls",
+        "Buy paint and supplies (Correct answer)",
+        "Hang up artwork",
+        "Vacuum the room"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What's the first step in baking cookies?",
+      "options": [
+        "Preheat the oven (Correct answer)",
+        "Put the cookies in the oven",
+        "Eat the cookies",
+        "Cool the cookies on a wire rack"
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all flowers need sunlight to grow and roses are flowers, then...",
+      "options": [
+        "Roses grow in the dark.",
+        "Roses need sunlight to grow. (Correct answer)",
+        "Roses can grow without sunlight.",
+        "Roses are not flowers."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all dogs bark and Rover is a dog, then...",
+      "options": [
+        "Rover meows.",
+        "Rover does not bark.",
+        "Rover barks. (Correct answer)",
+        "Rover is a cat."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all books have pages and this item has no pages, then this item is a...",
+      "options": [
+        "Book.",
+        "Painting.",
+        "Magazine.",
+        "Not a book. (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "If every car needs fuel to run and this vehicle needs fuel to run, then this vehicle is a...",
+      "options": [
+        "Bicycle.",
+        "Car. (Correct answer)",
+        "Skateboard.",
+        "Boat."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all birds can fly and penguins cannot fly, then...",
+      "options": [
+        "Penguins are not birds.",
+        "Penguins can swim.",
+        "Penguins are birds. (Correct answer)",
+        "Penguins can jump."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all squares have four sides and this shape has three sides, then this shape is a...",
+      "options": [
+        "Square.",
+        "Triangle. (Correct answer)",
+        "Rectangle.",
+        "Pentagon."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all mammals have hair and dolphins are mammals, then...",
+      "options": [
+        "Dolphins have scales.",
+        "Dolphins have hair. (Correct answer)",
+        "Dolphins have feathers.",
+        "Dolphins are reptiles."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all planets orbit a star and Earth orbits the Sun, then...",
+      "options": [
+        "Earth is a moon.",
+        "Earth is a star.",
+        "Earth is a planet. (Correct answer)",
+        "Earth is an asteroid."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all trees have roots and this plant has roots, then this plant is a...",
+      "options": [
+        "Flower.",
+        "Tree. (Correct answer)",
+        "Bush.",
+        "Grass."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If every bicycle has two wheels and this vehicle has four wheels, then this vehicle is a...",
+      "options": [
+        "Bicycle.",
+        "Motorcycle.",
+        "Car. (Correct answer)",
+        "Scooter."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all fish live in water and sharks are fish, then...",
+      "options": [
+        "Sharks live on land.",
+        "Sharks live in water. (Correct answer)",
+        "Sharks live in the sky.",
+        "Sharks are amphibians."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all computers use electricity and this device uses electricity, then this device is a...",
+      "options": [
+        "Computer. (Correct answer)",
+        "Battery.",
+        "Lamp.",
+        "Generator."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all reptiles are cold-blooded and snakes are reptiles, then...",
+      "options": [
+        "Snakes are warm-blooded.",
+        "Snakes are cold-blooded. (Correct answer)",
+        "Snakes are mammals.",
+        "Snakes are insects."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all ice cream is cold and this dessert is hot, then this dessert is...",
+      "options": [
+        "Ice cream.",
+        "Cake. (Correct answer)",
+        "Frozen yogurt.",
+        "Gelato."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If every violin has strings and this instrument has strings, then this instrument is a...",
+      "options": [
+        "Drum.",
+        "Piano.",
+        "Violin. (Correct answer)",
+        "Flute."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all triangles have three angles and this shape has four angles, then this shape is a...",
+      "options": [
+        "Triangle.",
+        "Rectangle. (Correct answer)",
+        "Pentagon.",
+        "Hexagon."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all birds lay eggs and chickens are birds, then...",
+      "options": [
+        "Chickens give birth to live young.",
+        "Chickens lay eggs. (Correct answer)",
+        "Chickens are mammals.",
+        "Chickens are fish."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all smartphones have touchscreens and this device has a touchscreen, then this device is a...",
+      "options": [
+        "TV remote.",
+        "Smartphone. (Correct answer)",
+        "Computer mouse.",
+        "Keyboard."
+      ],
+      "hints": []
+    }
+  ]
+}

@@ -1,0 +1,1100 @@
+{
+  "questions": [
+    {
+      "question": "What is the coefficient of the term 4x?",
+      "options": [
+        "4 (Correct answer)",
+        "x",
+        "4x",
+        "1"
+      ],
+      "hints": [
+        "The coefficient is the numerical factor that multiplies the variable.",
+        "In the term 4x, the numerical factor is 4, so that's our coefficient."
+      ]
+    },
+    {
+      "question": "What is the coefficient of the y term in the expression 3x - 7y + 5?",
+      "options": [
+        "3",
+        "-3",
+        "-7 (Correct answer)",
+        "7"
+      ],
+      "hints": [
+        "We need to identify the numerical factor that multiplies the y variable.",
+        "In this case, the term that contains the variable y is -7y.",
+        "So, the coefficient of the y term is the numerical factor that is multiplying the y variable, which is -7."
+      ]
+    },
+    {
+      "question": "In the expression 2x^2 + 5x - 8, what is the coefficient of the x^2 term?",
+      "options": [
+        "2 (Correct answer)",
+        "5",
+        "-8",
+        "x^2"
+      ],
+      "hints": [
+        "We need to identify the numerical factor that multiplies the x^2 variable.",
+        "In this case, the term that contains the variable x^2 is 2x^2.",
+        "So, the coefficient of the x^2 term is the numerical factor that is multiplying the x^2 variable, which is 2."
+      ]
+    },
+    {
+      "question": "What is the coefficient of the z term in the expression -6y + 9z - 3x?",
+      "options": [
+        "-6",
+        "6",
+        "9 (Correct answer)",
+        "-9"
+      ],
+      "hints": [
+        "^^We need to identify the numerical factor that multiplies the z variable.",
+        "In this case, the term that contains the variable z is 9z.",
+        "So, the coefficient of the z term is the numerical factor that is multiplying the z variable, which is 9."
+      ]
+    },
+    {
+      "question": "In the expression 7x^3 - 4x^2 + 3x - 5, what is the value of the constant term?",
+      "options": [
+        "7",
+        "-4",
+        "3",
+        "-5 (Correct answer)"
+      ],
+      "hints": [
+        "The constant term is the term that doesn't have any variable attached to it.",
+        "In this case, the constant term is -5."
+      ]
+    },
+    {
+      "question": "Which of the following is an algebraic expression?",
+      "options": [
+        "3x - 2 (Correct answer)",
+        "3x = 9",
+        "x > 5",
+        "(3, 4)"
+      ],
+      "hints": [
+        "An algebraic expression is a mathematical phrase that contains variables, constants",
+        "And mathematical operators like addition, subtraction, multiplication, and division.",
+        "The expression 3x - 2 contains a variable (x), a constant (-2)",
+        "And an operator (-) that represents subtraction."
+      ]
+    },
+    {
+      "question": "What is the value of the expression 2x + 3y when x = 4 and y = 2?",
+      "options": [
+        "14 (Correct answer)",
+        "16",
+        "20",
+        "24"
+      ],
+      "hints": [
+        "We need to substitute x = 4 and y = 2 in the expression and then simplify:",
+        "2x + 3y = 2(4) + 3(2) = 8 + 6 = 14"
+      ]
+    },
+    {
+      "question": "Which of the following expressions represents the perimeter of a rectangle with length l and width w?",
+      "options": [
+        "2l + 2w (Correct answer)",
+        "lw",
+        "l + w",
+        "2lw"
+      ],
+      "hints": [
+        "The perimeter of a rectangle is the sum of the lengths of all its sides.",
+        "Which in this case are the length (l) and the width (w).",
+        "To find the perimeter, we add the length of the top and bottom sides (2l)",
+        "To the length of the left and right sides (2w), which gives us: Perimeter = 2l + 2w"
+      ]
+    },
+    {
+      "question": "What is the simplified form of the expression 3(x + 4) + 2x?",
+      "options": [
+        "5x + 12 (Correct answer)",
+        "5x + 14",
+        "6x + 12",
+        "6x + 14"
+      ],
+      "hints": [
+        "We use the distributive property of multiplication over addition",
+        "To multiply 3 by both x and 4 inside the parentheses: 3(x + 4) = 3x + 12",
+        "Next, we combine the like terms 3x and 2x: 3x + 12 + 2x = 5x + 12"
+      ]
+    },
+    {
+      "question": "Which of the following expressions represents the area of a triangle with base b and height h?",
+      "options": [
+        "bh",
+        "2bh",
+        "bh/2 (Correct answer)",
+        "bh^2"
+      ],
+      "hints": [
+        "The formula for the area of a triangle is (base x height)/2.",
+        "In this case, the base is b and the height is h. Substituting these values into the formula, we get:",
+        "Area = (base x height)/2 = bh/2"
+      ]
+    },
+    {
+      "question": "Which of the following inequalities represents \"x is less than or equal to 5\"?",
+      "options": [
+        "x < 5",
+        "x <= 5 (Correct answer)",
+        "x > 5",
+        "x >= 5"
+      ],
+      "hints": [
+        "The symbol \"<=\" represents \"less than or equal to\"",
+        "Which means that x can be equal to 5 or any value less than 5.",
+        "Therefore, the inequality x <= 5 represents x is less than or equal to 5"
+      ]
+    },
+    {
+      "question": "Solve the inequality 2x + 3 > 7.",
+      "options": [
+        "x > 2 (Correct answer)",
+        "x > 3",
+        "x < 2",
+        "x < 3"
+      ],
+      "hints": [
+        "To solve the inequality 2x + 3 > 7, we can isolate x on one side of the inequality sign",
+        "By subtracting 3 from both sides: 2x + 3 - 3 > 7 - 3",
+        "Simplifying the left side and the right side, we get: 2x > 4",
+        "To isolate x, we divide both sides by 2: 2x/2 > 4/2",
+        "Simplifying, we get: x > 2"
+      ]
+    },
+    {
+      "question": "Solve the inequality 4x - 8 \u2264 12.",
+      "options": [
+        "x \u2264 5 (Correct answer)",
+        "x \u2265 5",
+        "x \u2264 4",
+        "x \u2265 4"
+      ],
+      "hints": [
+        "To solve the inequality 4x - 8 \u2264 12, we have to isolate x on one side of the inequality sign",
+        "By adding 8 to both sides: 4x - 8 + 8 \u2264 12 + 8",
+        "Simplifying the left side and the right side, we get: 4x \u2264 20",
+        "To isolate x, we divide both sides by 4: 4x/4 \u2264 20/4",
+        "Simplifying, we get: x \u2264 5"
+      ]
+    },
+    {
+      "question": "If x < 3, which of the following values of x is a possible solution?",
+      "options": [
+        "1 (Correct answer)",
+        "3",
+        "4",
+        "5"
+      ],
+      "hints": [
+        "If x < 3, it means that x can be any value less than 3 but cannot be equal to 3.",
+        "Therefore, a possible solution for x is: x = 1"
+      ]
+    },
+    {
+      "question": "Solve the inequality -3x + 6 \u2265 9.",
+      "options": [
+        "x \u2264 -1 (Correct answer)",
+        "x \u2265 -1",
+        "x \u2264 1",
+        "x \u2265 1"
+      ],
+      "hints": [
+        "To solve the inequality -3x + 6 \u2265 9, we can isolate x on one side of the inequality sign",
+        "By subtracting 6 from both sides: -3x + 6 - 6 \u2265 9 - 6",
+        "Simplifying the left side and the right side, we get: -3x \u2265 3",
+        "To isolate x, we divide both sides by -3.",
+        "However, since we are dividing by a negative number, we need to flip the inequality sign:",
+        "-3x/-3 \u2264 3/-3",
+        "Simplifying and flipping the inequality sign, we get: x \u2264 -1"
+      ]
+    },
+    {
+      "question": "Which of the following terms can be combined with the term 3x?",
+      "options": [
+        "4x (Correct answer)",
+        "3y",
+        "x^2",
+        "4"
+      ],
+      "hints": [
+        "To combine terms, they must have the same variable and the same exponent.",
+        "In this case, the term 3x has a variable x with an exponent of 1.",
+        "The only answer choice that also has a variable x with an exponent of 1 is 4x."
+      ]
+    },
+    {
+      "question": "What is the simplified form of the expression 5x - 3y + 2x + y?",
+      "options": [
+        "7x - 2y (Correct answer)",
+        "7x + 2y",
+        "3x - 2y",
+        "3x + 2y"
+      ],
+      "hints": [
+        "Combine the like terms of x: 5x + 2x = 7x",
+        "Combine the like terms of y: -3y + y = -2y",
+        "Therefore, the simplified form of the expression is:",
+        "5x - 3y + 2x + y = 7x - 2y"
+      ]
+    },
+    {
+      "question": "Which of the following expressions is equivalent to 3a - 5b + 7a + 2b?",
+      "options": [
+        "10a - 3b (Correct answer)",
+        "10a + 3b",
+        "4a - 3b",
+        "4a + 3b"
+      ],
+      "hints": [
+        "Combine the like terms of 'a': 3a + 7a = 10a",
+        "Combine the like terms of 'b': -5b + 2b = -3b",
+        "Therefore, the simplified form of the expression is: 3a - 5b + 7a + 2b = 10a - 3b"
+      ]
+    },
+    {
+      "question": "In the expression 2x^3 - 3x^2 + 5x^3 + x^2, which terms are like terms?",
+      "options": [
+        "2x^3 and 5x^3; -3x^2 and x^2 (Correct answer)",
+        "2x^3 and -3x^2",
+        "5x^3 and x^2",
+        "2x^3 and x^2"
+      ],
+      "hints": [
+        "The like terms in the expression are 2x^3 and 5x^3",
+        "As they both have the same variable raised to the same power (x cubed).",
+        "The other like terms are -3x^2 and x^2",
+        "As they both have the same variable raised to the same power (x squared)."
+      ]
+    },
+    {
+      "question": "Tim has 4 red apples, 3 green apples, 2 red apples, and 1 green apple. How many apples does Tim have in total?",
+      "options": [
+        "10 apples (Correct answer)",
+        "6 red apples and 4 green apples",
+        "6 apples",
+        "4 apples"
+      ],
+      "hints": [
+        "To find the total number of apples Tim has, we need to add the number of red apples",
+        "And the number of green apples separately and then add them together.",
+        "Number of red apples = 4 + 2 = 6",
+        "Number of green apples = 3 + 1 = 4",
+        "Total number of apples = 6 + 4 = 10"
+      ]
+    },
+    {
+      "question": "What is the simplified form of the expression 2(x + 5) - 3x?",
+      "options": [
+        "-x + 10 (Correct answer)",
+        "5x + 10",
+        "-x - 10",
+        "5x - 10"
+      ],
+      "hints": [
+        "First, use the distributive property to simplify 2(x + 5): 2(x + 5) = 2x + 10",
+        "Next, substitute this result into the original expression: 2(x + 5) - 3x = 2x + 10 - 3x",
+        "Combine like terms by adding the coefficients of the x terms: 2x + 10 - 3x = -x + 10"
+      ]
+    },
+    {
+      "question": "Simplify the expression 4(3x - 2) + 5(2x + 1).",
+      "options": [
+        "22x + 1",
+        "2x + 3 (Correct answer)",
+        "14x - 3",
+        "7x + 8"
+      ],
+      "hints": [
+        "To simplify the expression 4(3x - 2) + 5(2x + 1), we need to use the distributive property.",
+        "And simplify each term.",
+        "Starting with the first term, we have: 4(3x - 2) = 12x - 8",
+        "Now, for the second term: 5(2x + 1) = 10x + 5",
+        "Putting it all together, we have:",
+        "4(3x - 2) + 5(2x + 1) = (12x - 8) + (10x + 5)",
+        "Combining like terms, we get: 22x - 3"
+      ]
+    },
+    {
+      "question": "What is the simplified form of the expression 3x + 2y - 4x + y?",
+      "options": [
+        "-x + 3y (Correct answer)",
+        "-x - 3y",
+        "7x + 3y",
+        "7x - 3y"
+      ],
+      "hints": [
+        "First, we can combine the like terms 3x and -4x to get: 3x - 4x = -x",
+        "Next, we can combine the like terms 2y and y to get: 2y +y =  3y",
+        "So the simplified form of the expression is -x + 3y."
+      ]
+    },
+    {
+      "question": "Simplify the expression 5(2a - 3)- 2(4a + b).",
+      "options": [
+        "-3a - 4 + 11b",
+        "3a + 2 - 11b",
+        "3a -6 + 11b",
+        "2a - 15 - 2b (Correct answer)"
+      ],
+      "hints": [
+        "To simplify, we first apply the distributive property: 5(2a - 3) - 2(4a + b) = 10a - 15 - 8a - 2b",
+        "Next, we combine like terms by adding the coefficients of the like terms: 10a - 8a - 15 - 2b = 2a - 15 - 2b"
+      ]
+    },
+    {
+      "question": "What is the simplified form of the expression 6(x - 3) - 2(3x - 1)?",
+      "options": [
+        "- 18",
+        "+ 18",
+        "- 16 (Correct answer)",
+        "16"
+      ],
+      "hints": [
+        "To simplify, we first apply the distributive property: 6(x - 3) - 2(3x - 1) = 6x - 18 - 6x + 2",
+        "Next, we combine like terms by adding the coefficients of the like terms: 6x - 18 - 6x + 2 = -16"
+      ]
+    },
+    {
+      "question": "Solve the equation 2(x - 4) = 6.",
+      "options": [
+        "x = 7 (Correct answer)",
+        "x = 3",
+        "x = 2",
+        "x = 1"
+      ],
+      "hints": [
+        "Start by distributing the 2 to the terms inside the parentheses: 2x - 8 = 6",
+        "Add 8 to both sides of the equation to isolate the x term: 2x = 14",
+        "Finally, divide both sides by 2 to solve for x: x = 7"
+      ]
+    },
+    {
+      "question": "Solve the equation 4x + 2 = 3x + 5.",
+      "options": [
+        "x = 3 (Correct answer)",
+        "x = 2",
+        "x = 1",
+        "x = 4"
+      ],
+      "hints": [
+        "To solve this equation, we need to isolate the variable x on one side of the equation.",
+        "We can start by subtracting 3x from both sides: 4x + 2 - 3x = 3x -3x + 5",
+        "x + 2 = 5",
+        "Next, we can subtract 2 from both sides: x = 3"
+      ]
+    },
+    {
+      "question": "Solve the equation 5(2y - 3) = 25.",
+      "options": [
+        "y = 4 (Correct answer)",
+        "y = 5",
+        "y = 3",
+        "y = 2"
+      ],
+      "hints": [
+        "To solve the equation 5(2y - 3) = 25, we can begin by simplifying the left-hand side: 5(2y - 3) = 10y - 15",
+        "Next, we can isolate the variable term by adding 15 to both sides: 10y - 15 + 15 = 25 + 15",
+        "10y = 40",
+        "Finally, we can solve for y by dividing both sides by 10: 10y/10 = 40/10",
+        "y = 4"
+      ]
+    },
+    {
+      "question": "Solve the equation 3x - 2(x + 1) = 5.",
+      "options": [
+        "x = 7 (Correct answer)",
+        "x = 6",
+        "x = 4",
+        "x = 3"
+      ],
+      "hints": [
+        "Start by simplifying the expression inside the parentheses by distributing the -2: 3x - 2x - 2 = 5",
+        "Simplify the left-hand side by combining like terms: x - 2 = 5",
+        "Add 2 to both sides to isolate x: x = 7"
+      ]
+    },
+    {
+      "question": "What is the simplified form of the expression 3(x + 4)?",
+      "options": [
+        "3x + 12 (Correct answer)",
+        "3x + 4",
+        "3x - 12",
+        "x + 7"
+      ],
+      "hints": [
+        "To simplify the expression 3(x + 4), we need to distribute the 3 to the terms inside the parentheses",
+        "Which gives: 3(x + 4) = 3x + 3(4)",
+        "Simplifying the expression inside the parentheses, we get: 3(x + 4) = 3x + 12"
+      ]
+    },
+    {
+      "question": "Simplify the expression 2(5x - 3y).",
+      "options": [
+        "10x - 6y (Correct answer)",
+        "10x + 6y",
+        "7x - 3y",
+        "7x + 3y"
+      ],
+      "hints": [
+        "To simplify the expression 2(5x - 3y), we can distribute the 2 to both terms inside the parentheses:",
+        "2(5x - 3y) = 25x - 23y = 10x - 6y"
+      ]
+    },
+    {
+      "question": "What is the simplified form of the expression -4(2x + 3)?",
+      "options": [
+        "-8x - 12 (Correct answer)",
+        "-8x + 12",
+        "8x - 12",
+        "8x + 12"
+      ],
+      "hints": [
+        "Distribute the -4 to the terms inside the parentheses: -4(2x) - 4(3)",
+        "Simplify the resulting expression: -8x - 12"
+      ]
+    },
+    {
+      "question": "Simplify the expression 5(3a - 2+ 2(-a + b)).",
+      "options": [
+        "5a - 8b +4",
+        "13a + 8b -7",
+        "5a + 10b -10 (Correct answer)",
+        "-13a - 8b +8"
+      ],
+      "hints": [
+        "To simplify the expression 5(3a - 2+ 2(-a + b)), we first need to distribute the 2 inside the parentheses:",
+        "5(3a - 2 + 2(-a + b)) = 5(3a - 2 - 2a + 2b)",
+        "Next, we can simplify the expression by combining like terms: 5(3a - 2 - 2a + 2b) = 5(a + 2b - 2)",
+        "Finally, we can distribute the 5 to simplify further: 5(a + 2b - 2) = 5a + 10b - 10"
+      ]
+    },
+    {
+      "question": "What is the simplified form of the expression 3(4x - 5y) - 2(2x + 3y)?",
+      "options": [
+        "8x - 21y (Correct answer)",
+        "8x + 21y",
+        "-8x - 20y",
+        "-8x + 21y"
+      ],
+      "hints": [
+        "To simplify the expression 3(4x - 5y) - 2(2x + 3y), we can distribute the coefficients as follows:",
+        "3(4x - 5y) - 2(2x + 3y) = 12x - 15y - 4x - 6y",
+        "Next, we can combine the like terms to simplify the expression: 12x - 15y - 4x - 6y = 8x - 21y"
+      ]
+    },
+    {
+      "question": "Which property states that a + b = b + a for any numbers a and b?",
+      "options": [
+        "Commutative property of addition (Correct answer)",
+        "Associative property of addition",
+        "Distributive property",
+        "Commutative property of multiplication"
+      ],
+      "hints": [
+        "The commutative property of addition states that:",
+        "The order in which we add two numbers does not change their sum."
+      ]
+    },
+    {
+      "question": "Which property states that ab = ba for any numbers a and b?",
+      "options": [
+        "Commutative property of multiplication (Correct answer)",
+        "Associative property of multiplication",
+        "Distributive property",
+        "Commutative property of addition"
+      ],
+      "hints": [
+        "The commutative property of multiplication states that:",
+        "The order of the factors in a multiplication expression can be changed without affecting the result."
+      ]
+    },
+    {
+      "question": "Which of the following is an example of the commutative property of addition?",
+      "options": [
+        "4 + 5 = 5 + 4 (Correct answer)",
+        "4(5 + 6) = (4 \u00d7 5) + (4 \u00d7 6)",
+        "(4 + 5) + 6 = 4 + (5 + 6)",
+        "(4 \u00d7 5) \u00d7 6 = 4 \u00d7 (5 \u00d7 6)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following is an example of the commutative property of multiplication?",
+      "options": [
+        "3 \u00d7 4 = 4 \u00d7 3 (Correct answer)",
+        "3(4 + 5) = (3 \u00d7 4) + (5 \u00d7 3)",
+        "(3 \u00d7 4) \u00d7 5 = 3 \u00d7 (4 \u00d7 5)",
+        "(3 + 4) + 5 = 3 + (4 + 5)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which equation demonstrates the commutative property of addition with the numbers 8 and 12?",
+      "options": [
+        "8 + 12 = 12 + 8 (Correct answer)",
+        "8 \u00d7 12 = 12 \u00d7 8",
+        "(8 + 12) + 10 = 8 + (12 + 10)",
+        "(8 \u00d7 12) \u00d7 10 = 8 \u00d7 (12 \u00d7 10)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which property states that (a + + c = a + (b + for any numbers a, b, and c?",
+      "options": [
+        "Commutative property of addition",
+        "Associative property of addition (Correct answer)",
+        "Distributive property",
+        "Commutative property of multiplication"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which property states that (ab)c = a(bc) for any numbers a, b, and c?",
+      "options": [
+        "Commutative property of multiplication",
+        "Associative property of multiplication (Correct answer)",
+        "Distributive property",
+        "Commutative property of addition"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following is an example of the associative property of addition?",
+      "options": [
+        "2 + 3 = 3 + 2",
+        "2(3 + 4) = (2 \u00d7 3) + (2 \u00d7 4)",
+        "(2 + 3) + 4 = 2 + (3 + 4) (Correct answer)",
+        "(2 \u00d7 3) \u00d7 4 = 2 \u00d7 (3 \u00d7 4)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following is an example of the associative property of multiplication?",
+      "options": [
+        "5 \u00d7 6 = 6 \u00d7 5",
+        "5(6 + 7) = (5 \u00d7 6) + (5 \u00d7 7)",
+        "(5 + 6) + 7 = 5 + (6 + 7)",
+        "(5 \u00d7 6) \u00d7 7 = 5 \u00d7 (6 \u00d7 7) (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which equation demonstrates the associative property of addition with the numbers 10, 15, and 20?",
+      "options": [
+        "10 + 15 = 15 + 10",
+        "10 \u00d7 15 = 15 \u00d7 10",
+        "(10 + 15) + 20 = 10 + (15 + 20) (Correct answer)",
+        "(10 \u00d7 15) \u00d7 20 = 10 \u00d7 (15 \u00d7 20)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the system of equations using the substitution method: x + y = 6, x - y = 2.",
+      "options": [
+        "x = 4, y = 2 (Correct answer)",
+        "x = 2, y = 4",
+        "x = 3, y = 3",
+        "x = 1, y = 5"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the system of equations using the substitution method: 3x - 2y = 10, y = x - 5.",
+      "options": [
+        "x = 4, y = -1 (Correct answer)",
+        "x = 2, y = -3",
+        "x = 3, y = -2",
+        "x = 5, y = 0"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the system of equations using the substitution method: 4x + 3y = 15, y = 2x - 1.",
+      "options": [
+        "x = 2, y = 3 (Correct answer)",
+        "x = 1, y = 1",
+        "x = 3, y = 5",
+        "x = 4, y = 7"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the system of equations using the substitution method: x - 3y = 12, x = 3y + 6.",
+      "options": [
+        "x = 9, y = 1 (Correct answer)",
+        "x = 6, y = 2",
+        "x = 12, y = 3",
+        "x = 15, y = 4"
+      ],
+      "hints": []
+    },
+    {
+      "question": "A small elephant and a big elephant together weigh 1200 kg. The small elephant weighs 200 kg less than the big elephant. How much does each elephant weigh? Use the substitution method to solve.",
+      "options": [
+        "Small elephant: 500 kg, Big elephant: 700 kg (Correct answer)",
+        "Small elephant: 400 kg, Big elephant: 800 kg",
+        "Small elephant: 600 kg, Big elephant: 600 kg",
+        "Small elephant: 300 kg, Big elephant: 900 kg"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the system of equations using the elimination method: 2x + y = 5, 4x - y = 3.",
+      "options": [
+        "x = 1, y = 3 (Correct answer)",
+        "x = 2, y = 1",
+        "x = 3, y = -1",
+        "x = -1, y = 3"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the system of equations using the elimination method: 5x - 3y = 7, 10x + 3y = 23.",
+      "options": [
+        "x = 2, y = -1 (Correct answer)",
+        "x = 1, y = 2",
+        "x = -1, y = 3",
+        "x = 3, y = 1"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the system of equations using the elimination method: 3x + 2y = 13, 6x - 2y = 7.",
+      "options": [
+        "x = 1, y = 5 (Correct answer)",
+        "x = 2, y = 4",
+        "x = 3, y = 3",
+        "x = 4, y = 2"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the system of equations using the elimination method: x - 4y = 12, 2x + 4y = 8.",
+      "options": [
+        "x = 4, y = -2 (Correct answer)",
+        "x = 6, y = -1",
+        "x = 8, y = 0",
+        "x = 10, y = 1"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the system of equations using the elimination method: 3x - y = 7, 5x + y = 17.",
+      "options": [
+        "x = 3, y = 2 (Correct answer)",
+        "x = 2, y = 3",
+        "x = 4, y = 1",
+        "x = 1, y = 4"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Find the point where the lines y = 2x + 1 and y = -x + 5 intersect.",
+      "options": [
+        "(1, 3) (Correct answer)",
+        "(2, 5)",
+        "(3, 7)",
+        "(0, 1)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the system of equations: x + y = 7, x - y =1",
+      "options": [
+        "x = 4, y = 3 (Correct answer)",
+        "x = 3, y = 4",
+        "x = 5, y = 2",
+        "x = 2, y = 5"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the system of equations: 2x + 3y = 18, x - y = 2.",
+      "options": [
+        "x = 4, y = 2 (Correct answer)",
+        "x = 3, y = 1",
+        "x = 5, y = 3",
+        "x = 2, y = 0"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the system of equations: 5x - 2y = 15, 3x + 4y = 9.",
+      "options": [
+        "x = 3, y = -1.5 (Correct answer)",
+        "x = 4, y = -2",
+        "x = 2, y = -1",
+        "x = 1, y = -0.5"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the system of equations: 4x + y = 8, 2x - 3y = -4.",
+      "options": [
+        "x = 1, y = 4 (Correct answer)",
+        "x = 2, y = 2",
+        "x = 3, y = 0",
+        "x = 0, y = 6"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the absolute value of -7?",
+      "options": [
+        "-7",
+        "0",
+        "7 (Correct answer)",
+        "14"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following expressions is equal to |-10|?",
+      "options": [
+        "-10",
+        "0",
+        "10 (Correct answer)",
+        "20"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the absolute value of |5|?",
+      "options": [
+        "-5",
+        "0",
+        "5 (Correct answer)",
+        "10"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following expressions is equal to |-3|?",
+      "options": [
+        "-3",
+        "0",
+        "3 (Correct answer)",
+        "6"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the absolute value of |8 - 12|?",
+      "options": [
+        "-4",
+        "0",
+        "4 (Correct answer)",
+        "8"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Factor the following expression: 4x^2 - 16x",
+      "options": [
+        "x(4x - 16)",
+        "4x(x - 4) (Correct answer)",
+        "(2x - 4)(2x - 4)",
+        "(2x - 8)(2x + 8)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Factor the following expression: 15y^2 - 20y",
+      "options": [
+        "5y(3y - 4) (Correct answer)",
+        "5y(3y + 4)",
+        "15y(y - 1)",
+        "(5y - 10)(3y - 2)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Factor the following expression: 3a^3 - 3a^2",
+      "options": [
+        "a^2(3a - 3)",
+        "a(3a^2 - 3a)",
+        "3a^2(a - 1) (Correct answer)",
+        "3a(a^2 - 1)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Factor the following expression: 6b^2 + 12b",
+      "options": [
+        "6b(b + 2) (Correct answer)",
+        "2b(3b + 6)",
+        "3b(2b + 4)",
+        "6b(2b + 2)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Factor the following expression: 9c^3 - 36c^2 + 27c",
+      "options": [
+        "3c(3c^2 - 12c + 9)",
+        "9c(c^2 - 4c + 3)",
+        "3c(3c^2 - 12c + 9)",
+        "9c(c - 3)(c - 3) (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following is a quadratic equation?",
+      "options": [
+        "3x^2 + 5x + 2 = 0 (Correct answer)",
+        "5x + 3 = 0",
+        "2x^3 - 7x^2 + 5 = 0",
+        "4x^2 + 6x^3 = 0"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What type of equation is y = 2x^2 + 4x - 6?",
+      "options": [
+        "Linear",
+        "Quadratic (Correct answer)",
+        "Cubic",
+        "Quartic"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the degree of a quadratic equation?",
+      "options": [
+        "1",
+        "2 (Correct answer)",
+        "3",
+        "4"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the quadratic equation: x^2 - 4x + 4 = 0",
+      "options": [
+        "x = 2 (Correct answer)",
+        "x = 1",
+        "x = 4",
+        "x = -2"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the quadratic equation: x^2 - 6x + 9 = 0",
+      "options": [
+        "x = -3",
+        "x = 0",
+        "x = 3 (Correct answer)",
+        "x = 6"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the value of 3^3?",
+      "options": [
+        "6",
+        "9",
+        "18",
+        "27 (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Solve the equation: 2^x = 8",
+      "options": [
+        "x = 2",
+        "x = 3 (Correct answer)",
+        "x = 4",
+        "x = 5"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the value of 4^0?",
+      "options": [
+        "0",
+        "1 (Correct answer)",
+        "2",
+        "4"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the value of 5^2?",
+      "options": [
+        "10",
+        "15",
+        "25 (Correct answer)",
+        "50"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following is equal to 6^3?",
+      "options": [
+        "108",
+        "216 (Correct answer)",
+        "324",
+        "648"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the square root of 64?",
+      "options": [
+        "4",
+        "6",
+        "8 (Correct answer)",
+        "12"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the square root of 49?",
+      "options": [
+        "3",
+        "5",
+        "7 (Correct answer)",
+        "9"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the square root of 9?",
+      "options": [
+        "1",
+        "2",
+        "3 (Correct answer)",
+        "4"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following is equal to the cube root of 27?",
+      "options": [
+        "1",
+        "2",
+        "3 (Correct answer)",
+        "4"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the square root of 16?",
+      "options": [
+        "2",
+        "4 (Correct answer)",
+        "6",
+        "8"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Simplify the rational expression: (6x^2 - 12x) / (2x)",
+      "options": [
+        "x(3x - 6)",
+        "3x - 6 (Correct answer)",
+        "3x + 6",
+        "6x - 12"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Simplify the rational expression: (4y^2 - 16y) / (4y)",
+      "options": [
+        "y(4y - 16)",
+        "y^2 - 4y",
+        "y(2y - 8)",
+        "y - 4 (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Simplify the rational expression: (9z^3 - 27z^2) / (3z^2)",
+      "options": [
+        "3z^2 - 9z",
+        "3z^2 + 9z",
+        "3z - 9 (Correct answer)",
+        "9z^2 - 27z"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Simplify the rational expression: (15a^2 - 10/ (5a)",
+      "options": [
+        "3a - 2 (Correct answer)",
+        "3a + 2",
+        "3a^2 - 2a",
+        "15a - 10"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Simplify the rational expression: (20b^3 - 30b^2) / (5b^2)",
+      "options": [
+        "4b^2 - 6b",
+        "4b - 6 (Correct answer)",
+        "20b^2 - 30b",
+        "5b^2 - 10b"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following is a linear function?",
+      "options": [
+        "y = 3x^2 + 4x - 1",
+        "y = -2x^3 + x",
+        "y = 4x + 7 (Correct answer)",
+        "y = x^2 - 5x + 6"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In the linear function y = 5x - 3, what is the slope?",
+      "options": [
+        "-3",
+        "5 (Correct answer)",
+        "-5",
+        "3"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In the linear function y = -2x + 6, what is the y-intercept?",
+      "options": [
+        "-2",
+        "2",
+        "6 (Correct answer)",
+        "-6"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In the linear function y = 3x - 1, what is the slope?",
+      "options": [
+        "3 (Correct answer)",
+        "-1",
+        "1",
+        "-3"
+      ],
+      "hints": []
+    },
+    {
+      "question": "In the linear function y = -4x + 8, what is the y-intercept?",
+      "options": [
+        "4",
+        "-4",
+        "8 (Correct answer)",
+        "-8"
+      ],
+      "hints": []
+    }
+  ]
+}

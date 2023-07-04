@@ -1,0 +1,687 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Did you know, you're actually carrying around 14.7 pounds per square inch of air on your shoulders right now?",
+        "Really? And here I thought my backpack was heavy."
+      ],
+      "options": [
+        "Atmospheric Pressure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do potato chip bags puff up in the mountains?",
+        "Maybe they're just trying to get a better view?"
+      ],
+      "options": [
+        "Atmospheric Pressure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does this soda can crush when I take it out of the fridge?",
+        "It must be feeling the pressure."
+      ],
+      "options": [
+        "Atmospheric Pressure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my hat always fly off in this particular park?",
+        "Maybe it's trying to start a new fashion trend among the squirrels."
+      ],
+      "options": [
+        "Wind Patterns (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do my kites always fly towards the east here?",
+        "Maybe they've heard about the amazing sunrise?"
+      ],
+      "options": [
+        "Wind Patterns (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't believe my ice cream melted in just 2 minutes!",
+        "That's what happens when you try to enjoy a sundae on a sunny day."
+      ],
+      "options": [
+        "Temperature (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can fry an egg on my car's hood today!",
+        "That\u2019s one way to make a sunny side up!"
+      ],
+      "options": [
+        "Temperature (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the coffee from this vending machine always scald my tongue?",
+        "Maybe it\u2019s trying to give you a hot tip?"
+      ],
+      "options": [
+        "Temperature (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is my hair so frizzy today?",
+        "I guess the air decided to give you a 'humidity' hairstyle!"
+      ],
+      "options": [
+        "Humidity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are the windows all fogged up?",
+        "Maybe they're just sweating from the heat!"
+      ],
+      "options": [
+        "Humidity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I feel like I'm breathing soup, not air.",
+        "Welcome to the steamy world of high humidity!"
+      ],
+      "options": [
+        "Humidity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's not crying, it's just the clouds having a water balloon fight!"
+      ],
+      "options": [
+        "Precipitation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My car just got a free wash!",
+        "Mother Nature's car wash service at your service!"
+      ],
+      "options": [
+        "Precipitation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't need a shower, I'll just stand outside.",
+        "Nature's shower, coming right up!"
+      ],
+      "options": [
+        "Precipitation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do the skies suddenly become so gloomy when I'm in a good mood?",
+        "Must be a cold front coming through. They have a knack for dramatic entrances!"
+      ],
+      "options": [
+        "Weather Fronts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It feels like a warm hug outside.",
+        "That's just the warm front passing by. It's a friendly one!"
+      ],
+      "options": [
+        "Weather Fronts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the weather flip-flop more than a politician?",
+        "It must be the battle of the weather fronts!"
+      ],
+      "options": [
+        "Weather Fronts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the weather channel calling for rain, while my knee is calling for clear skies?",
+        "Ah, the grand clash between modern meteorology and traditional weather forecasting!"
+      ],
+      "options": [
+        "Weather Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Every time I plan a picnic, the weather becomes the villain!",
+        "It's not personal. It's just weather systems doing their thing!"
+      ],
+      "options": [
+        "Weather Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't the weather be as predictable as my alarm clock?",
+        "Because then meteorologists would be out of a job!"
+      ],
+      "options": [
+        "Weather Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm moving to the desert because I'm sick of this cold weather.",
+        "Don't forget your sunscreen and a bunch of water bottles!"
+      ],
+      "options": [
+        "Climate Zones (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to experience all four seasons in a day. Any suggestions?",
+        "Try living on a weather simulator, maybe?"
+      ],
+      "options": [
+        "Climate Zones (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is it always raining in the rainforest?",
+        "I guess the name is a bit of a giveaway, isn't it?"
+      ],
+      "options": [
+        "Climate Zones (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been riding this jet ski for an hour, but I still can't find the jet stream.",
+        "Maybe try looking up in the sky next time."
+      ],
+      "options": [
+        "Jet Streams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think a kite could ride the jet stream?",
+        "Only if it's a super-kite with aspirations of being an airplane!"
+      ],
+      "options": [
+        "Jet Streams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is my flight to Europe quicker than my flight back to the US?",
+        "Must be the invisible highway in the sky giving you a push!"
+      ],
+      "options": [
+        "Jet Streams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been boiling this kettle for ages, but I still can't make a cumulus cloud.",
+        "Well, you may need to supersize your kettle and add a dash of atmospheric pressure!"
+      ],
+      "options": [
+        "Cloud Formation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think if I yell loud enough, a cloud would form from my breath?",
+        "Only if your words are hot and humid enough!"
+      ],
+      "options": [
+        "Cloud Formation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do clouds always appear when I hang my laundry to dry?",
+        "They must be big fans of your fashion sense!"
+      ],
+      "options": [
+        "Cloud Formation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I predict that it's going to rain cats and dogs later.",
+        "Are you a meteorologist or a pet store owner?"
+      ],
+      "options": [
+        "*Weather Forecasting (correct answer)*"
+      ]
+    },
+    {
+      "question": [
+        "Do you think if I hold this wet finger up, I can predict the weather?",
+        "Only if your finger is connected to a supercomputer!"
+      ],
+      "options": [
+        "*Weather Forecasting (correct answer)*"
+      ]
+    },
+    {
+      "question": [
+        "I told my boss I couldn't come in because the forecast said heavy snow.",
+        "Well, you can never trust the weather forecast, can you?"
+      ],
+      "options": [
+        "*Weather Forecasting (correct answer)*"
+      ]
+    },
+    {
+      "question": [
+        "Do you think a hurricane could blow away my bad hair day?",
+        "Maybe, but it might also blow away your whole house!"
+      ],
+      "options": [
+        "Hurricanes and Typhoons (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I told my friend I felt like a typhoon, powerful and spinny.",
+        "Maybe you should lay off the coffee?"
+      ],
+      "options": [
+        "Hurricanes and Typhoons (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My kid asked if we could have a pet hurricane. He promised to take care of it.",
+        "Hmm. The walkies could be a bit breezy."
+      ],
+      "options": [
+        "Hurricanes and Typhoons (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I told my boss my ideas are like tornadoes. They're powerful and can change landscapes.",
+        "And they leave a path of destruction?"
+      ],
+      "options": [
+        "Tornadoes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish I could harness the energy of a tornado to power my house.",
+        "I'd settle for harnessing the energy of my toddler."
+      ],
+      "options": [
+        "Tornadoes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My mood swings are like El Nino and La Nina, unpredictable and impactful.",
+        "Oh, so that's why our office weather is always unsettled."
+      ],
+      "options": [
+        "El Nino and La Nina Phenomena (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ever notice how salsa dancing is like El Nino and La Nina? Hot, cool, and rhythmically cyclical.",
+        "I guess that's one way to spice up climate discussions."
+      ],
+      "options": [
+        "El Nino and La Nina Phenomena (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I told my kids that El Nino and La Nina were weather superheroes.",
+        "Do they have the power to cancel school on snow days?"
+      ],
+      "options": [
+        "El Nino and La Nina Phenomena (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I was trying to explain global warming to my plants. They asked me to leaf them out of it.",
+        "Guess they're more about growth than climate change."
+      ],
+      "options": [
+        "Global Warming and Climate Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we treated climate change like a diet? You know, cut back on the greenhouse gasses, exercise more sustainable practices...",
+        "Well, then I guess we're in need of a global lifestyle change."
+      ],
+      "options": [
+        "Global Warming and Climate Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't think my freezer understands the concept of global warming.",
+        "Because it refuses to defrost.",
+        "Hey, did you hear about that boat engine that's always hanging out at the back of the boat? It's so cool and portable!",
+        "Oh yeah, I've seen it! It can easily be lifted and moved around. Talk about being the life of the party!",
+        "My cousin told me about this boat engine that's like a hidden secret agent. It's all tucked away inside the boat's hull!",
+        "Woah, that's like a super stealthy engine! Nobody would ever know it's there unless they're in on the secret."
+      ],
+      "options": [
+        "Global Warming and Climate Change (correct answer)",
+        "Marine Engine Types (correct answer)",
+        "Marine Engine Types (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know there's a boat engine that's part human, part machine? It's got the heart of an inboard engine but the legs of an outboard one!",
+        "Haha, that's hilarious! So it's like a hybrid superhero engine, saving the day with the best of both worlds!"
+      ],
+      "options": [
+        "Marine Engine Types (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you see that squid just jet off like a superhero?",
+        "Yeah, it's amazing how they can use water to propel themselves so fast!"
+      ],
+      "options": [
+        "Propulsion Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you ever feel like your fins are just not enough to get you where you want to go?",
+        "Well, sometimes I wish I had your arms to help me swim faster and more efficiently!"
+      ],
+      "options": [
+        "Propulsion Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I may not have a brain, but at least I can move gracefully through the water by pulsing!",
+        "Yeah, I'm stuck here on the ocean floor while you're practically dancing through the sea!"
+      ],
+      "options": [
+        "Propulsion Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that diesel engines are like popcorn machines? They both have explosions!",
+        "Haha, true! But instead of popping corn, diesel engines compress air and ignite fuel for power."
+      ],
+      "options": [
+        "Diesel Engine Fundamentals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, if diesel engines were animals, they'd be camels!",
+        "Because they're more fuel-efficient than gasoline engines, just like camels need less water than horses!"
+      ],
+      "options": [
+        "Diesel Engine Fundamentals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard diesel engines can \"breathe\" like humans.",
+        "Yeah, they have turbochargers that act like lungs, taking in more air for better combustion!"
+      ],
+      "options": [
+        "Diesel Engine Fundamentals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that marine animals have their own exhaust systems? They release waste products like carbon dioxide through their gills!",
+        "No way! So they're like tiny underwater factories with built-in smokestacks?"
+      ],
+      "options": [
+        "Marine Exhaust Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so fish are like eco-friendly vehicles with a natural emission control system?"
+      ],
+      "options": [
+        "Marine Exhaust Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's amazing! It's like they're the ocean's little janitors with built-in recycling systems!"
+      ],
+      "options": [
+        "Marine Exhaust Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that some marine animals can repair their own \"hulls\"? Sea stars can regenerate lost limbs!",
+        "Wow! So they're like self-repairing boats with amazing regenerative powers?"
+      ],
+      "options": [
+        "Hull Maintenance and Repair (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so they've got their own underwater pit crew to keep them in tip-top shape?"
+      ],
+      "options": [
+        "Hull Maintenance and Repair (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? Some marine animals, like hermit crabs, maintain their \"hull\" by upgrading their shells as they grow!",
+        "That's awesome! It's like they're trading in their old homes for newer, bigger models!"
+      ],
+      "options": [
+        "Hull Maintenance and Repair (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that fish have their own built-in steering systems? They use their fins to change direction and control their speed!",
+        "No way! So they're like underwater race cars with super-responsive controls?"
+      ],
+      "options": [
+        "Steering Systems and Controls (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know how we steer our boat with a wheel? Some marine animals, like octopuses, use their tentacles to maneuver through the water!",
+        "Haha, so they've got eight flexible arms for precision steering? Talk about multitasking!"
+      ],
+      "options": [
+        "Steering Systems and Controls (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? Eels can navigate through tight spaces and complex environments thanks to their long, flexible bodies!",
+        "That's awesome! It's like they're the ultimate off-road vehicles of the ocean!"
+      ],
+      "options": [
+        "Steering Systems and Controls (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow! So they're like underwater sports cars with manual and automatic options?"
+      ],
+      "options": [
+        "Marine Transmission Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so they've got built-in gearboxes to optimize their performance? That's pretty cool!"
+      ],
+      "options": [
+        "Marine Transmission Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? Jellyfish use jet propulsion by contracting and relaxing their bell-shaped bodies to move through the water!",
+        "That's amazing! It's like they've got their own turbo boosters for a speedy getaway!"
+      ],
+      "options": [
+        "Marine Transmission Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "No way! So they're like living submarines with built-in propulsion systems?"
+      ],
+      "options": [
+        "Propeller Mechanics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so they've got tail-powered engines for chasing down their prey? That's pretty awesome!"
+      ],
+      "options": [
+        "Propeller Mechanics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? Some marine animals, like the Portuguese man o' war, use the ocean currents as their propeller, drifting along with the flow!",
+        "That's fascinating! It's like they're hitching a ride on nature's own conveyor belt!"
+      ],
+      "options": [
+        "Propeller Mechanics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that some marine animals have their own plumbing systems? Sponges filter water through their bodies to extract nutrients and oxygen!",
+        "Wow! So they're like living water treatment plants with built-in filtration systems?"
+      ],
+      "options": [
+        "Vessel Plumbing Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so they've got an all-in-one plumbing system to keep their internal environment in check? That's pretty neat!"
+      ],
+      "options": [
+        "Vessel Plumbing Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's amazing! It's like they've got a complex web of pipes hidden beneath their colorful exterior!"
+      ],
+      "options": [
+        "Vessel Plumbing Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that some marine animals have their own safety systems? Pufferfish can inflate their bodies to scare away predators!",
+        "No way! So they're like living security alarms with built-in self-defense mechanisms?"
+      ],
+      "options": [
+        "Marine Safety Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so they've got built-in life vests to keep them afloat and safe? That's pretty cool!"
+      ],
+      "options": [
+        "Marine Safety Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's amazing! It's like they have their own stealth mode to avoid danger!"
+      ],
+      "options": [
+        "Marine Safety Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow! So they're like living GPS devices with built-in compasses?"
+      ],
+      "options": [
+        "Marine Navigation Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know how our boat has a radar for navigation? Some fish, like the dolphin, use echolocation to \"see\" their surroundings and avoid obstacles!",
+        "Haha, so they've got their own sonar system to map out the underwater world? That's pretty awesome!"
+      ],
+      "options": [
+        "Marine Navigation Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? Some marine animals, like the humpback whale, use star patterns to navigate during their long migrations!",
+        "That's fascinating! It's like they're celestial explorers guided by the night sky!"
+      ],
+      "options": [
+        "Marine Navigation Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "No way! So they're like living warning systems sending out distress signals?"
+      ],
+      "options": [
+        "Troubleshooting and Diagnostics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, so they've got their own underwater health inspectors to keep things running smoothly?"
+      ],
+      "options": [
+        "Troubleshooting and Diagnostics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's amazing! It's like they have built-in sensors to scan for obstacles and opportunities!"
+      ],
+      "options": [
+        "Troubleshooting and Diagnostics (correct answer)"
+      ]
+    }
+  ]
+}

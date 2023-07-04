@@ -1,0 +1,328 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I'm thinking about starting a cloud factory. I just need some water vapor and clean air.",
+        "Sounds airy-fairy to me, but make sure you're not violating the Clean Air Act!"
+      ],
+      "options": [
+        "Clean Air Act (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't cars play hide and seek?",
+        "Because they always get spotted in the emissions test!"
+      ],
+      "options": [
+        "Clean Air Act (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My pet rock just passed the emissions test.",
+        "Well, that's a 'solid' step towards adhering to the Clean Air Act!"
+      ],
+      "options": [
+        "Clean Air Act (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the ocean always getting into trouble?",
+        "Because it couldn't keep its shores clean!"
+      ],
+      "options": [
+        "Clean Water Act (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the brook that filed a complaint?",
+        "It was tired of being taken for granite and wanted to ensure its rights under the Clean Water Act!"
+      ],
+      "options": [
+        "Clean Water Act (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't lakes make good secret keepers?",
+        "Because you can see right through them!"
+      ],
+      "options": [
+        "Clean Water Act (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm starting a dating app for endangered species, call it 'Tinder for Tigers.'",
+        "Hmm, are you sure that's in line with the Endangered Species Act?"
+      ],
+      "options": [
+        "Endangered Species Act (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the dodo bird super popular at the party?",
+        "Because it was the life of the 'endangered' party!"
+      ],
+      "options": [
+        "Endangered Species Act (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If an endangered animal doesn't practice social distancing, does it get fined?",
+        "Well, I don't think the Endangered Species Act covers pandemic etiquette!"
+      ],
+      "options": [
+        "Endangered Species Act (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's a tree's favorite legal document?",
+        "I bet it's the National Environmental Policy Act!"
+      ],
+      "options": [
+        "National Environmental Policy Act (NEPA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't environmental policies go to the gym?",
+        "Because they always get too much 'NEPA' (nap) time!"
+      ],
+      "options": [
+        "National Environmental Policy Act (NEPA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think the National Environmental Policy Act covers my little brother's room? It's a disaster zone.",
+        "I think you'll need a different act for that one, maybe the 'Room Cleanup Act'?"
+      ],
+      "options": [
+        "National Environmental Policy Act (NEPA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the coffee cup file a report?",
+        "Because it felt 'crushed' and wanted protection under the Resource Conservation and Recovery Act!"
+      ],
+      "options": [
+        "Resource Conservation and Recovery Act (RCRA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the soda can practicing its signature?",
+        "Because it wanted to be 'recognized' under the Resource Conservation and Recovery Act!"
+      ],
+      "options": [
+        "Resource Conservation and Recovery Act (RCRA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My pet rock wants to be a part of the Resource Conservation and Recovery Act. What do you think?",
+        "I think it's already the epitome of 'rock solid' conservation!"
+      ],
+      "options": [
+        "Resource Conservation and Recovery Act (RCRA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the oil spill packing its bags?",
+        "Because it heard that CERCLA was coming to town!"
+      ],
+      "options": [
+        "Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think if I accidentally spill my milkshake, CERCLA would come to clean it up?",
+        "Only if your milkshake is classified as a hazardous substance!"
+      ],
+      "options": [
+        "Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My soda just exploded. Do I need to call in a CERCLA clean-up crew?",
+        "Well, as dramatic as that sounds, I don't think your soda qualifies as a 'Superfund' site!"
+      ],
+      "options": [
+        "Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I change the color of my room, would I need an Environmental Impact Assessment?",
+        "Depends, how 'shocking' is the color?"
+      ],
+      "options": [
+        "Environmental Impact Assessment (EIA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the construction project always the last one picked for the dodgeball team?",
+        "Because it always has to pass an EIA before it can make an impact!"
+      ],
+      "options": [
+        "Environmental Impact Assessment (EIA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard the Environmental Impact Assessment is the life of the party. Why is that?",
+        "Well, it always knows how to make an 'impact'!"
+      ],
+      "options": [
+        "Environmental Impact Assessment (EIA) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard bees got a new job!",
+        "Yeah, they're buzzing about their role in providing ecosystem services."
+      ],
+      "options": [
+        "Ecosystem Services (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do trees make the best bankers?",
+        "Because they're great at providing 'green' services!"
+      ],
+      "options": [
+        "Ecosystem Services (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the river that won an award?",
+        "Yes, it got 'current' recognition for its water purification services!"
+      ],
+      "options": [
+        "Ecosystem Services (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the smog break up with the city?",
+        "Because the city said, 'It's not me, it's you,' and started focusing on pollution prevention."
+      ],
+      "options": [
+        "Pollution Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the piece of trash go to therapy?",
+        "It wanted to stop being part of the problem and start being part of the pollution prevention!"
+      ],
+      "options": [
+        "Pollution Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the car stop farting?",
+        "Because it switched to electric \u2013 doing its part for pollution prevention!"
+      ],
+      "options": [
+        "Pollution Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the wind turbine refuse to go on a date with the coal mine?",
+        "Because it only has eyes for sustainable development!"
+      ],
+      "options": [
+        "Sustainable Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the solar panel get a standing ovation at the energy convention?",
+        "It's always the 'light' of the party when it comes to sustainable development!"
+      ],
+      "options": [
+        "Sustainable Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the tree that got a promotion?",
+        "I guess it's 'branching out' into sustainable development!"
+      ],
+      "options": [
+        "Sustainable Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the panda bear good at networking?",
+        "Because it understood the importance of having a diverse set of connections!"
+      ],
+      "options": [
+        "Conservation of Biodiversity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the coral reef refuse to play chess?",
+        "Because it felt like the game wasn't diverse enough for its taste."
+      ],
+      "options": [
+        "Conservation of Biodiversity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the forest that won the beauty pageant?",
+        "No doubt, with that much biodiversity, it must have been a stunning sight!"
+      ],
+      "options": [
+        "Conservation of Biodiversity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the CO2 molecule apologize at the international conference?",
+        "Because it realized it had been a 'greenhouse gas-lighting' the entire planet!"
+      ],
+      "options": [
+        "Climate Change Policy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the polar bear send a thank you card to the climate change policy?",
+        "Because it appreciated the effort to save its icy home!"
+      ],
+      "options": [
+        "Climate Change Policy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What did the glacier say to the Climate Change Policy?",
+        "Icy what you did there, and it's cool!"
+      ],
+      "options": [
+        "Climate Change Policy (correct answer)"
+      ]
+    }
+  ]
+}

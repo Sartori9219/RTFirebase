@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Main Idea",
+        "Supporting Details",
+        "Inference",
+        "Vocabulary in Context",
+        "Author's Purpose",
+        "Tone and Mood",
+        "Text Structure",
+        "Point of View",
+        "Drawing Conclusions",
+        "Making Predictions",
+        "Summarizing",
+        "Context Clues",
+        "Textual Evidence",
+        "Analyzing Relationships",
+        "Critical Thinking"
+    ],
+    "hints": {
+        "Main Idea": "Identify the central or most important idea of a passage or paragraph.",
+        "Supporting Details": "Recognize details that provide evidence or support for the main idea.",
+        "Inference": "Draw conclusions or make logical inferences based on information provided in the passage.",
+        "Vocabulary in Context": "Determine the meaning of words or phrases based on how they are used in the passage.",
+        "Author's Purpose": "Understand the author's intention or reason for writing the passage (e.g., to inform, persuade, entertain).",
+        "Tone and Mood": "Identify the emotional atmosphere or attitude conveyed by the author.",
+        "Text Structure": "Analyze how a passage is organized (e.g., cause and effect, compare and contrast, problem and solution).",
+        "Point of View": "Determine the perspective from which the passage is written (e.g., first-person, third-person limited, third-person omniscient).",
+        "Drawing Conclusions": "Make logical inferences or judgments based on information presented in the passage.",
+        "Making Predictions": "Predict what may happen next in the passage based on information provided.",
+        "Summarizing": "Summarize the main points or key details of a passage in your own words.",
+        "Context Clues": "Use surrounding words or sentences to figure out the meaning of unfamiliar words.",
+        "Textual Evidence": "Locate specific details or evidence in the passage to support answers or claims.",
+        "Analyzing Relationships": "Identify and understand relationships between characters, events, or ideas in the passage.",
+        "Critical Thinking": "Apply critical thinking skills to evaluate the validity or reliability of information presented in the passage."
+    }
+}

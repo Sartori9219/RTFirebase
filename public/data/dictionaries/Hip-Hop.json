@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Popping",
+        "Locking",
+        "Breaking",
+        "Boogaloo",
+        "Krumping",
+        "Freestyling",
+        "Tutting",
+        "Up Rock",
+        "Down Rock",
+        "Power Moves",
+        "Freeze",
+        "Top Rock",
+        "Beat Matching",
+        "Cypher",
+        "Grooves"
+    ],
+    "hints": {
+        "Popping": "A dance style characterized by quick, explosive muscle contractions and releases that make the body appear to pop or hit on the beats.",
+        "Locking": "A funk style that involves freezing from a fast movement and \"locking\" in a certain position, often in a comical or exaggerated manner.",
+        "Breaking": "Also known as b-boying or breakdancing, involves top rock, down rock, power moves, and freezes.",
+        "Boogaloo": "A style of funk dance that involves rolling the hips, knees, and head in a fluid motion, often creating an illusion of dislocation.",
+        "Krumping": "A dance style characterized by free, expressive, exaggerated, and highly energetic movement.",
+        "Freestyling": "Improvisational dance where the dancer spontaneously creates and performs moves on the spot.",
+        "Tutting": "A style of dance that uses primarily the arms and hands to create right angles and geometric box-like shapes.",
+        "Up Rock": "A competitive form of dance consisting of foot shuffles, spins, turns, and improvisational movements.",
+        "Down Rock": "Involves footwork performed on the ground, often as part of breakdancing.",
+        "Power Moves": "Athletic moves in breakdance that require momentum, speed, endurance, strength, and control. Examples include windmills and flares.",
+        "Freeze": "A technique where the dancer halts all movement, often in an interesting or balance-intensive position.",
+        "Top Rock": "The stand-up portion of breaking, generally performed from a standing position and used to set up for down rock.",
+        "Beat Matching": "The ability to align one's movements with the beats of the music.",
+        "Cypher": "A circle formed by spectators on the dance floor where dancers take turns to display their skills.",
+        "Grooves": "The foundational body rhythms that give each dance style its unique feel or swing. In hip hop, it's often a relaxed, bounce-like rhythm."
+    }
+}

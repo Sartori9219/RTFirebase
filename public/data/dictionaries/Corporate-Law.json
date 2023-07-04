@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Incorporation",
+        "Corporate Structure",
+        "Shareholders",
+        "Board of Directors",
+        "Officers",
+        "Fiduciary Duties",
+        "Limited Liability",
+        "Corporate Governance",
+        "Mergers and Acquisitions",
+        "Securities Regulation",
+        "Annual General Meetings",
+        "Dividends",
+        "Dissolution",
+        "Corporate Finance",
+        "Insider Trading"
+    ],
+    "hints": {
+        "Incorporation": "The process of legally forming a new company by registering it under the specific laws of a jurisdiction.",
+        "Corporate Structure": "The hierarchy and organization of a corporation, including shareholders, board of directors, and officers.",
+        "Shareholders": "Owners of shares in a corporation who have a claim on part of the company's assets and earnings.",
+        "Board of Directors": "A group of individuals elected by shareholders to oversee the management of a corporation and make strategic decisions.",
+        "Officers": "High-level executives appointed by the board of directors to manage the day-to-day operations of a corporation.",
+        "Fiduciary Duties": "Legal obligations of directors and officers to act in the best interests of the corporation and its shareholders.",
+        "Limited Liability": "A legal protection that shields shareholders from being personally responsible for a corporation's debts or liabilities.",
+        "Corporate Governance": "The system of rules, practices, and processes by which a corporation is directed and controlled.",
+        "Mergers and Acquisitions": "The process of combining two or more companies (merger) or the purchase of one company by another (acquisition).",
+        "Securities Regulation": "Laws and regulations governing the issuance, trading, and reporting of securities, such as stocks and bonds.",
+        "Annual General Meetings": "Mandatory yearly meetings where shareholders are informed about the corporation's performance and vote on key issues.",
+        "Dividends": "Payments made by a corporation to its shareholders, usually as a distribution of profits.",
+        "Dissolution": "The process of winding up a corporation's affairs, paying off its debts, and distributing any remaining assets to shareholders.",
+        "Corporate Finance": "The management of a corporation's financial resources, including capital structure, investment decisions, and financial risk management.",
+        "Insider Trading": "The illegal practice of buying or selling securities based on non-public information about a company."
+    }
+}

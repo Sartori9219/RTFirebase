@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Strong Passwords",
+        "Privacy Settings",
+        "Phishing Scams",
+        "Cyberbullying",
+        "Secure Browsing",
+        "Identity Theft Prevention",
+        "Social Media Safety",
+        "Online Predators",
+        "Digital Footprint",
+        "Copyright and Plagiarism",
+        "Safe Online Shopping",
+        "Two-Factor Authentication",
+        "Public Wi-Fi Security",
+        "Sexting and Sharing Personal Information",
+        "Online Gaming Safety"
+    ],
+    "hints": {
+        "Strong Passwords": "The practice of creating complex, unique passwords for each online account to protect personal information and prevent unauthorized access.",
+        "Privacy Settings": "Adjusting settings on social media platforms and online accounts to control the visibility of personal information and protect privacy.",
+        "Phishing Scams": "Fraudulent attempts to obtain sensitive information such as usernames, passwords, and credit card details by disguising as a trustworthy entity in electronic communication.",
+        "Cyberbullying": "The use of electronic communication to bully or harass someone, typically involving the sending of intimidating or threatening messages.",
+        "Secure Browsing": "Using secure websites (https) and avoiding suspicious links to protect personal information and computer systems from malware and hackers.",
+        "Identity Theft Prevention": "Taking steps to protect personal information and minimize the risk of having one's identity stolen, such as shredding sensitive documents and monitoring credit reports.",
+        "Social Media Safety": "Being cautious about what you share on social media platforms, including personal information, location, and private photos, to protect your privacy and safety.",
+        "Online Predators": "Individuals who use the internet to exploit, manipulate, or harm others, particularly children and teenagers. Awareness of this risk is crucial for internet safety.",
+        "Digital Footprint": "The trail of data left behind by users on digital services, which can impact online reputation and privacy. It's essential to be mindful of one's digital footprint and manage it responsibly.",
+        "Copyright and Plagiarism": "Understanding the legal and ethical implications of using copyrighted material without permission and the importance of properly citing sources to avoid plagiarism.",
+        "Safe Online Shopping": "Ensuring that transactions are made on secure websites, and personal information is protected while shopping online.",
+        "Two-Factor Authentication": "An extra layer of security for online accounts that requires users to provide two pieces of evidence (e.g., password and a unique code sent to their phone) to verify their identity.",
+        "Public Wi-Fi Security": "Being cautious when connecting to public Wi-Fi networks, avoiding sensitive activities like online banking, and using a VPN (Virtual Private Network) to protect personal data.",
+        "Sexting and Sharing Personal Information": "Understanding the risks and potential consequences of sharing explicit or private content through electronic communication, including legal repercussions and the impact on one's reputation.",
+        "Online Gaming Safety": "Taking precautions while engaging in online gaming, such as protecting personal information, reporting abusive behavior, and being cautious with in-game purchases."
+    }
+}

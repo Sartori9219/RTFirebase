@@ -1,0 +1,400 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I designed my paper airplane to look like a banana because it'll glide better.",
+        "That's a-peeling, but I think the shape might make it go bananas instead."
+      ],
+      "options": [
+        "Aerodynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I hold my hand out of the car window and tilt it like this, it feels like it's floating!",
+        "That's aerodynamics in action! You've created a mini airplane wing."
+      ],
+      "options": [
+        "Aerodynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my soda can rocket always explode instead of flying?",
+        "You might need to consider propulsion principles, mate. Soda isn't exactly rocket fuel!"
+      ],
+      "options": [
+        "Propulsion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My hamster's wheel isn't turning. I think he needs rocket boosters!",
+        "Or maybe just some hamster-grade propulsion \u2013 a little carrot might do the trick!"
+      ],
+      "options": [
+        "Propulsion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I put extra chili in my bean burrito for added propulsion.",
+        "Somehow, I don't think that's the kind of propulsion engineers had in mind!"
+      ],
+      "options": [
+        "Propulsion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I made an origami plane, but it keeps doing loops!",
+        "Sounds like you've got an issue with your aircraft structure. The wings need to be symmetrical!"
+      ],
+      "options": [
+        "Aircraft Structures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think a bird's nest would make a good airplane?",
+        "Not really! Bird nests and aircraft structures have different design considerations, you know!"
+      ],
+      "options": [
+        "Aircraft Structures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wonder if I can build a plane out of Legos\u2026",
+        "Well, it's all about the aircraft structure! Just make sure your passengers are also Lego-sized!"
+      ],
+      "options": [
+        "Aircraft Structures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My toy helicopter keeps spinning out of control!",
+        "Sounds like a case of stability and control. Maybe it needs a trim adjustment."
+      ],
+      "options": [
+        "Stability and Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can balance a pencil on my nose!",
+        "Impressive! You have a knack for stability and control. Ever thought about designing aircraft?"
+      ],
+      "options": [
+        "Stability and Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried to make a paper plane fly in a straight line, but it keeps turning right!",
+        "Oh, that's all about stability and control. Try adjusting the wings to balance the forces."
+      ],
+      "options": [
+        "Stability and Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to build a spaceship that looks like a giant banana!",
+        "Interesting! But remember, it's not all about looks. Spacecraft design is about balancing function and form."
+      ],
+      "options": [
+        "Spacecraft Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My dream is to design a spaceship with a built-in pizza oven!",
+        "Yummy! But don't forget the other important elements in spacecraft design like propulsion, communication, and life support systems."
+      ],
+      "options": [
+        "Spacecraft Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I built a spaceship model, but it's too heavy to fly!",
+        "That's a challenge in spacecraft design. Every extra pound affects the fuel needed for launch."
+      ],
+      "options": [
+        "Spacecraft Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard you can't just drive straight to Mars like you can to the grocery store!",
+        "Exactly! Orbital mechanics is all about navigating the gravitational influences of celestial bodies. It's like cosmic ballet!"
+      ],
+      "options": [
+        "Orbital Mechanics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to throw a baseball from Earth and hit a home run on the Moon!",
+        "You've got the spirit, but you'd need to master orbital mechanics to get the trajectory right. Plus, you'd need quite an arm!"
+      ],
+      "options": [
+        "Orbital Mechanics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wonder why we don't just take the shortest path to Mars?",
+        "In space, taking the \"scenic route\" is often more efficient due to gravity assists. It's all about understanding orbital mechanics!"
+      ],
+      "options": [
+        "Orbital Mechanics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I flap my arms really fast, do you think I could fly?",
+        "I hate to burst your bubble, but flight mechanics involves a bit more than that. It's about lift, drag, thrust, and weight!"
+      ],
+      "options": [
+        "Flight Mechanics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My paper airplane keeps nose-diving. What am I doing wrong?",
+        "You're grappling with flight mechanics! Try adjusting the weight distribution, it might help with the stability."
+      ],
+      "options": [
+        "Flight Mechanics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we design an airplane that flies like a bird?",
+        "Well, flight mechanics is different for birds and planes. Birds can change their wing shape and size, but planes... not so much."
+      ],
+      "options": [
+        "Flight Mechanics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My phone's GPS is acting up again! How does it even work?",
+        "It's like basic avionics! Satellites send signals, your phone receives them and calculates your location."
+      ],
+      "options": [
+        "Avionics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the most complex thing in an airplane? The wings? The engine?",
+        "Surprisingly, it's often the avionics - the electronic systems like navigation and communication."
+      ],
+      "options": [
+        "Avionics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My video game joystick is stuck, my plane is out of control!",
+        "You're experiencing a real-life avionics issue. In actual planes, controls need to be responsive and reliable."
+      ],
+      "options": [
+        "Avionics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I built this model rocket out of cardboard. Do you think it will fly?",
+        "Well, it might, but real rockets need stronger materials. It's all about materials and structures in aerospace!"
+      ],
+      "options": [
+        "Materials and Structures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just build a ladder to space?",
+        "Because gravity and the Earth's rotation would rip it apart. It's not just about height, but the materials and structures used!"
+      ],
+      "options": [
+        "Materials and Structures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried building a bridge with spaghetti. It didn't work out so well.",
+        "That's because pasta isn't a good choice for load-bearing structures! In aerospace, we'd use lightweight, strong materials instead."
+      ],
+      "options": [
+        "Materials and Structures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't understand why my paper airplane keeps nose-diving.",
+        "Well, if we could run a Computational Fluid Dynamics simulation, we could see the airflow over your design and probably fix it!"
+      ],
+      "options": [
+        "Computational Fluid Dynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to design a faster sled for this year's race.",
+        "You should try running some Computational Fluid Dynamics simulations to optimize your design for lower drag!"
+      ],
+      "options": [
+        "Computational Fluid Dynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I keep losing my hat to the wind.",
+        "If we knew Computational Fluid Dynamics, we could design a hat that's aerodynamic and won't blow away!"
+      ],
+      "options": [
+        "Computational Fluid Dynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish my toy plane had a real altimeter.",
+        "Well, in actual Aircraft Systems and Instruments, we do use altimeters to measure the altitude above a fixed level."
+      ],
+      "options": [
+        "Aircraft Systems and Instruments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't tell if my RC helicopter is level.",
+        "If this were a real copter, we'd check the attitude indicator! It's part of the Aircraft Systems and Instruments."
+      ],
+      "options": [
+        "Aircraft Systems and Instruments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My paper airplane is veering to the left.",
+        "You need a rudder for direction control. In real Aircraft Systems and Instruments, it's a crucial part!"
+      ],
+      "options": [
+        "Aircraft Systems and Instruments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When I stretched this rubber band, it became thinner!",
+        "That's a simple example of Aeroelasticity - deformation and airflow can change an object's shape in flight."
+      ],
+      "options": [
+        "Aeroelasticity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do the wings of my toy plane bend when I blow on them?",
+        "That's Aeroelasticity! In flight, forces can cause a structure like a wing to deform."
+      ],
+      "options": [
+        "Aeroelasticity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My paper airplane's wings always bend upwards when I throw it.",
+        "That's an example of Aeroelasticity. Aerodynamic forces and structural flexibility can cause changes in shape."
+      ],
+      "options": [
+        "Aeroelasticity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my toy drone always return to where it started when I press this button?",
+        "That's part of its Navigation and Control system. It remembers its home location and can return automatically."
+      ],
+      "options": [
+        "Navigation and Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Whenever I play video games, I always end up going in circles.",
+        "Sounds like you need some Navigation and Control lessons - like the ones used to direct aircraft and spacecraft."
+      ],
+      "options": [
+        "Navigation and Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do pilots know where to go when they can't see the ground?",
+        "They use Navigation and Control systems like GPS and autopilot to guide the aircraft."
+      ],
+      "options": [
+        "Navigation and Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we make planes out of steel like we do with cars?",
+        "It's all about Aerospace Materials - steel is too heavy for flight, so lighter materials like aluminum and composites are used instead."
+      ],
+      "options": [
+        "Aerospace Materials (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've heard that some airplanes are made from the same stuff as my fishing rod. Is that true?",
+        "Yes, indeed! Both may use carbon fiber, a common Aerospace Material, known for its strength and lightness."
+      ],
+      "options": [
+        "Aerospace Materials (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't spaceships melt when they re-enter the Earth's atmosphere?",
+        "They're built with special Aerospace Materials that can withstand extreme heat, like heat-resistant tiles and alloys."
+      ],
+      "options": [
+        "Aerospace Materials (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use ice cubes to cool down a rocket engine?",
+        "Well, Thermodynamics has a better idea - it uses liquid hydrogen for cooling because it absorbs heat better when changing states!"
+      ],
+      "options": [
+        "Thermodynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's so hot! Why don't we open a window to let out the heat in this airplane?",
+        "Haha, that's not how Thermodynamics works. Aircraft use air conditioning systems to control temperature and pressure inside the cabin."
+      ],
+      "options": [
+        "Thermodynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my soda can explode in the freezer but not in the fridge?",
+        "Blame Thermodynamics. When the liquid inside the can freezes, it expands, causing the can to explode."
+      ],
+      "options": [
+        "Thermodynamics (correct answer)"
+      ]
+    }
+  ]
+}

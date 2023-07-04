@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Marine Engine Types (Outboard, Inboard, Sterndrive)",
+        "Propulsion Systems",
+        "Marine Electrical Systems",
+        "Diesel Engine Fundamentals",
+        "Fuel Systems and Carburetion",
+        "Marine Cooling Systems",
+        "Marine Exhaust Systems",
+        "Hull Maintenance and Repair",
+        "Steering Systems and Controls",
+        "Marine Transmission Systems",
+        "Propeller Mechanics",
+        "Vessel Plumbing Systems",
+        "Marine Safety Systems",
+        "Marine Navigation Systems",
+        "Troubleshooting and Diagnostics"
+    ],
+    "hints": {
+        "Marine Engine Types (Outboard, Inboard, Sterndrive)": "These are the three main types of boat engines. Understanding their operation and differences is vital for marine mechanics.",
+        "Propulsion Systems": "This is about understanding the components and operation of boat propulsion systems, including the driveshaft, propeller, and rudder.",
+        "Marine Electrical Systems": "This covers the installation, maintenance, and repair of boat electrical systems, including batteries, wiring, lighting, and electronic equipment.",
+        "Diesel Engine Fundamentals": "Many boats use diesel engines, so understanding their operation, components, and maintenance is important.",
+        "Fuel Systems and Carburetion": "This involves understanding, diagnosing, and repairing the systems that deliver fuel to the engine.",
+        "Marine Cooling Systems": "Boats use water-cooling systems to keep their engines from overheating. This topic covers the operation, maintenance, and repair of these systems.",
+        "Marine Exhaust Systems": "Understanding the components and operation of boat exhaust systems is vital to ensuring efficient engine operation and preventing carbon monoxide poisoning.",
+        "Hull Maintenance and Repair": "This involves inspecting and repairing the body of the boat to prevent water leaks and structural issues.",
+        "Steering Systems and Controls": "Understanding the installation, operation, and repair of boat steering systems is a key skill for marine mechanics.",
+        "Marine Transmission Systems": "This involves understanding and maintaining the systems that transfer power from the engine to the propeller.",
+        "Propeller Mechanics": "This covers the selection, installation, and repair of boat propellers, a key component of the propulsion system.",
+        "Vessel Plumbing Systems": "This involves the installation, maintenance, and repair of onboard plumbing systems, including pumps, water tanks, and sanitation systems.",
+        "Marine Safety Systems": "This covers the installation and maintenance of safety equipment, including fire suppression systems, bilge pumps, and life-saving equipment.",
+        "Marine Navigation Systems": "Understanding the operation and maintenance of navigation equipment, such as GPS, radar, and depth finders, is important for marine mechanics.",
+        "Troubleshooting and Diagnostics": "This involves using systematic approaches to identify and fix problems with a boat's mechanical and electrical systems."
+    }
+}

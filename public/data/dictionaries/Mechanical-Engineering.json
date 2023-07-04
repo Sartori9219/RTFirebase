@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Statics",
+        "Dynamics",
+        "Mechanics of Materials",
+        "Thermodynamics",
+        "Fluid Mechanics",
+        "Heat Transfer",
+        "Machine Design",
+        "Control Systems",
+        "Mechanical Vibrations",
+        "Materials Science",
+        "Engineering Drawing",
+        "Manufacturing Processes",
+        "Mechatronics",
+        "Robotics",
+        "Automotive Engineering"
+    ],
+    "hints": {
+        "Statics": "Study of forces in equilibrium, analyzing structures, and calculating force reactions.",
+        "Dynamics": "Study of motion and forces in systems, including kinematics and kinetics.",
+        "Mechanics of Materials": "Analysis of stress, strain, and deformation in materials under load.",
+        "Thermodynamics": "Study of energy, heat, and work, as well as the behavior of systems at various temperatures.",
+        "Fluid Mechanics": "Analysis of fluid behavior and forces in static and moving fluids.",
+        "Heat Transfer": "Study of how heat moves between systems and the principles of conduction, convection, and radiation.",
+        "Machine Design": "Design and analysis of mechanical components and systems, including stress analysis, materials selection, and manufacturing considerations.",
+        "Control Systems": "Study of systems that regulate, command, or control the behavior of other systems, using feedback loops and controllers.",
+        "Mechanical Vibrations": "Analysis of oscillatory motion in mechanical systems, including natural frequencies, damping, and resonance.",
+        "Materials Science": "Study of the properties, behavior, and applications of engineering materials, such as metals, polymers, ceramics, and composites.",
+        "Engineering Drawing": "Techniques for creating technical drawings and blueprints to communicate design intent and manufacturing requirements.",
+        "Manufacturing Processes": "Study of various manufacturing methods, such as machining, casting, welding, and additive manufacturing.",
+        "Mechatronics": "Integration of mechanical, electrical, and computer engineering principles to design and control complex systems.",
+        "Robotics": "Design, analysis, and control of robots and automated systems for various applications.",
+        "Automotive Engineering": "Design and development of vehicles, including engines, drivetrains, suspension, and safety systems."
+    }
+}

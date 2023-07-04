@@ -1,0 +1,638 @@
+{
+  "questions": [
+    {
+      "question": [
+        "So, my roommate ate my last piece of alien-shaped pizza. And that pizza was supposed to be my study fuel for the Mars colonization exam!",
+        "Whoa, that sounds like a serious crime scene! Your special pizza was your rocket fuel for acing that Mars exam!"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've got a pet rock named Bolder. He's quite good at listening but terrible at fetch.",
+        "Haha, I can imagine! Bolder seems like a solid friend, but maybe not the most exciting playmate."
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've got this weird passion for collecting teapots that resemble famous scientists. Just got a Stephen Hawking one!",
+        "That's really unique! So, you now have a Stephen Hawking teapot to add to your quirky collection?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Again, for this topic: Write three 2-comment exchanges that illustrate the Active Listening",
+        "I've been up all night binge-watching 'The Sloth Life', a documentary series on sloths. I think I'm turning into one.",
+        "Oh my, seems like you're really immersing yourself into the sloth culture! Do you feel a nap coming on?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've decided to give my cactus, Needles, a haircut. He's been looking a bit too prickly lately.",
+        "A cactus haircut, huh? That's a daring beauty operation! Are you going for a buzz cut or a mohawk for Needles?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just found out my favorite toothpaste is actually glow-in-the-dark. Now, my midnight snack missions are a lot brighter!",
+        "Wow, that's illuminating! Sounds like you've got a radiant smile lighting your way to the fridge!"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Again, for this topic:  concept to a college student.   Like in a comic book.  The comments should be silly, fun, and about specific random things.  Add 'Active Listening",
+        "Apologies, it appears there may be a typo in your prompt as the specific concept you would like to illustrate is not listed. Could you kindly clarify which concept you'd like me to craft exchanges for?",
+        "Again, for this topic: Reflective Statements",
+        "I think my goldfish, Glitter, is plotting to take over the world. She just looks so suspicious all the time.",
+        "You feel that Glitter has a grand scheme up her fins, huh? That's some serious fishy business!"
+      ],
+      "options": [
+        "Reflective Statements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I believe my socks secretly organize parties in the washing machine. I mean, where else would they disappear to?",
+        "So, you're sensing your socks are leading a double life, one of which involves raves in the washer?"
+      ],
+      "options": [
+        "Reflective Statements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm convinced that the moon is made of cheese. It just looks too delicious to be made of rock.",
+        "You're imagining the moon as a giant celestial cheese wheel. That's quite a tasty theory!"
+      ],
+      "options": [
+        "Reflective Statements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Again, for this topic: Open-Ended Questions",
+        "I've started training my pet iguana to do the salsa. He's got the rhythm in his tail.",
+        "Wow, that's impressive! What made you decide to teach your iguana to dance salsa?"
+      ],
+      "options": [
+        "Open-Ended Questions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have this sudden urge to learn how to knit spaghetti. I mean, who wouldn't want a pasta sweater?",
+        "That's quite an original idea! What sparked this passion for creating unique knitwear?"
+      ],
+      "options": [
+        "Open-Ended Questions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've decided to become a professional unicorn breeder. They're just so sparkly!",
+        "A unicorn breeder, now that's a job! What inspired you to take this magical career path?"
+      ],
+      "options": [
+        "Open-Ended Questions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've noticed that my pet parrot does a mini dab every time he spots a sunflower seed. He's really nailing the birdie body language!",
+        "Your parrot dabs for seeds, huh? He must be quite the character! Do you think he learned that from watching you?"
+      ],
+      "options": [
+        "Body Language (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I swear my cactus, Spike, leans towards the TV whenever I play nature documentaries. I think he has a thing for Desert Realities.",
+        "Your cactus is showing an interest in TV? Do you think he's trying to reconnect with his arid roots?"
+      ],
+      "options": [
+        "Body Language (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm pretty sure my hamster is preparing for the Hamster Olympics. Every time I look at her, she's running that wheel like it's a marathon.",
+        "Your hamster's really committed to her wheel run, huh? Could she be training for the rodent race of the century?"
+      ],
+      "options": [
+        "Body Language (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Again, for this topic: Emotional Awareness",
+        "My pet turtle, Shellby, seems so happy when I play him classical music. His favorite seems to be Bach.",
+        "Aww, so Shellby gets joyous vibes from classical music. That's a cultured turtle you have there!"
+      ],
+      "options": [
+        "Emotional Awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I swear my cat, Fluffy, looks gloomy every time it rains. It's like he wants to chase the sun.",
+        "So, Fluffy's mood dampens with the weather. Perhaps he's a sun-chaser at heart!"
+      ],
+      "options": [
+        "Emotional Awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My goldfish, Bubbles, seems to get excited when I change the water in his tank. His swimming speeds up every single time.",
+        "Bubbles shows excitement when his water is fresh, huh? It's like he's having his own mini pool party!"
+      ],
+      "options": [
+        "Emotional Awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My dog, Buster, keeps hiding his bone under my pillow. It's like he wants to share his treasure with me.",
+        "Buster wants you to experience the joy of a good bone, huh? That's some canine camaraderie right there!"
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My parakeet, Tweety, always chirps up a storm when I'm studying. It's like she's trying to keep me company during the cram sessions.",
+        "So Tweety's providing you with some study tunes, huh? She must really understand the struggle of cramming!"
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Whenever I'm feeling down, my cat, Whiskers, comes and cuddles next to me. It's like he knows when I need a furry pick-me-up.",
+        "Whiskers knows when you need some purry comfort? He's got that empathetic instinct!"
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My pug, Pugsley, has claimed the biggest pillow on the couch as his own. He's got assertiveness in spades.",
+        "Oh, so Pugsley's laid claim to the comfiest spot, huh? That's one determined pug!"
+      ],
+      "options": [
+        "Assertiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Whenever I put on dance music, my rabbit, Thumper, starts doing his own bunny hop routine. He's really not shy about expressing himself!",
+        "So Thumper's got moves and he's not afraid to show them off? That's one assertive bunny!"
+      ],
+      "options": [
+        "Assertiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My parrot, Echo, squawks up a storm every morning exactly at sunrise. He's got his own assertive alarm system!",
+        "Echo's quite punctual with his sunrise serenade, huh? Talk about an assertive wake-up call!"
+      ],
+      "options": [
+        "Assertiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My chameleon, Cammy, starts off bright green in the morning, then goes to a soft blue in the afternoon, and finally turns a dark brown at night.",
+        "So, in a nutshell, Cammy's day is a rainbow journey from green mornings, blue afternoons to brown nights."
+      ],
+      "options": [
+        "Summarizing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Every time I make spaghetti, my dog Max salivates at the smell, sits attentively by my feet during dinner, and then expects a walk to burn off his imaginary pasta calories.",
+        "So Max's spaghetti saga is sniff, sit, and stride. That's a disciplined doggie routine!"
+      ],
+      "options": [
+        "Summarizing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Whenever I practice yoga, my cat, Misty, tries to mimic my poses, usually gets tangled up, then opts to nap instead.",
+        "So Misty's yoga routine is mimic, mix-up, and then nap it off. Quite the zen process!"
+      ],
+      "options": [
+        "Summarizing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Again, for this topic: Providing Feedback",
+        "My hamster, Squeaky, seems to love when I play the piano. He always squeaks in tune when I play a particular song.",
+        "So, Squeaky's giving you a squeaky seal of approval on that tune! You've got a musical critic right there."
+      ],
+      "options": [
+        "Providing Feedback (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When I try new recipes, my dog Biscuit always sniffs the finished product. If he wags his tail, I know it's a good one.",
+        "Biscuit's got a knack for culinary critique, huh? Tail wagging is his Michelin star rating!"
+      ],
+      "options": [
+        "Providing Feedback (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Whenever I dress up for a date, my cat Fluffy stares at me. If she purrs and rubs against my leg, I know I look good.",
+        "So, Fluffy's purr-fect approval is your ultimate fashion critique? Talk about a stylish feline!"
+      ],
+      "options": [
+        "Providing Feedback (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried teaching my turtle, Speedy, a new trick today. He wouldn't take his eyes off the lettuce I was holding.",
+        "So, Speedy was laser-focused on the lettuce instead of the trick. Talk about having your priorities straight!"
+      ],
+      "options": [
+        "Focusing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My dog, Bolt, has this thing for chasing his tail. When he's at it, you could set off fireworks and he wouldn't notice.",
+        "Wow, when Bolt's in tail-chasing mode, he's totally in the zone, huh? That's one focused canine!"
+      ],
+      "options": [
+        "Focusing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been trying to train my parrot, Chatterbox, to say my name. When he's in training mode, he's locked onto every word I say.",
+        "So Chatterbox's language lessons are all about intense focus. He's on the road to being a polyglot parrot!"
+      ],
+      "options": [
+        "Focusing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Again, for this topic: Supply and Demand in Conversation",
+        "Every time I start talking about my alien abduction theories, my friends suddenly remember they have other places to be.",
+        "So your supply of alien stories seems to exceed the demand, huh? Maybe try sprinkling in some earth-based anecdotes!"
+      ],
+      "options": [
+        "Supply and Demand in Conversation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've noticed that when I bring up my collection of vintage socks at parties, the crowd tends to thin.",
+        "Sounds like you've got an abundance of sock tales, but a shortage of interested listeners. Time to diversify your conversational portfolio!"
+      ],
+      "options": [
+        "Supply and Demand in Conversation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Whenever I start discussing my theories on why carrots should rule the world, people start avoiding me.",
+        "So, your carrot domination discourse might be in high supply, but demand seems a bit...root-bound. Maybe talk about something a little less vegetal?"
+      ],
+      "options": [
+        "Supply and Demand in Conversation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Again, for this topic: The Conversational Table",
+        "When we chat, it feels like you're the star quarterback, and I'm the second-string water boy.",
+        "So, you feel we're not sitting at the same conversational table. Got it. From now on, we're both co-captains!"
+      ],
+      "options": [
+        "The Conversational Table (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our discussions are like a game of chess where you've got all the pieces, and I've got just a pawn.",
+        "Oh, so it seems like we're not playing on an even field. Let's reset the board, we should both have an equal shot at a checkmate!"
+      ],
+      "options": [
+        "The Conversational Table (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our talks, it feels like you're on a yacht, and I'm in a rubber dinghy trying to keep up.",
+        "Aha, so our conversation doesn't feel balanced. Alright, let's level the seas. From now on, we're both in speedboats!"
+      ],
+      "options": [
+        "The Conversational Table (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you've developed a method to make unicorns out of marshmallows?",
+        "Well, not exactly. I've figured out how to shape marshmallows into unicorns, no real unicorns involved!"
+      ],
+      "options": [
+        "Clarifying (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You're saying you trained your cat to cook lasagna like Garfield?",
+        "Whoa, hold up! I trained my cat to eat lasagna like Garfield. Cooking is still a work in progress."
+      ],
+      "options": [
+        "Clarifying (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, so your grandma beat a T-Rex in a wrestling match?",
+        "Haha, no, no. My grandma's nickname was 'T-Rex' in her wrestling days. She beat many opponents, none of them dinosaurs!"
+      ],
+      "options": [
+        "Clarifying (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My goldfish, Fin Diesel, just did a backflip in his tank! He\u2019s the Vin Diesel of the fish world.",
+        "So, what you're saying is, your goldfish just performed an aquatic stunt worthy of an action movie star?"
+      ],
+      "options": [
+        "Paraphrasing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Yesterday, I saw a squirrel eating a pizza slice bigger than itself. It was a showdown!",
+        "If I'm hearing you right, you witnessed a tiny squirrel take on an epic food challenge?"
+      ],
+      "options": [
+        "Paraphrasing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I swear, my cat has an obsession with the vacuum cleaner. It's like she's drawn to the noise.",
+        "So, in other words, your cat finds the sound of the vacuum cleaner strangely enticing?"
+      ],
+      "options": [
+        "Paraphrasing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, I was learning to juggle while watching a documentary about juggling and tweeting about it!",
+        "I'm trying to picture that...but perhaps if you focused on just learning to juggle, you'd have more success and fewer bruised apples."
+      ],
+      "options": [
+        "Don\u2019t Multitask (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I was listening to your story about the alien invasion, but I was also trying to complete my level on Alien Invaders game.",
+        "Hmm...maybe you should pause your game next time. You missed the part where the aliens turn out to be allergic to pizza!"
+      ],
+      "options": [
+        "Don\u2019t Multitask (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried to cook dinner, finish my math homework, and watch a movie all at the same time yesterday.",
+        "I hope your dinner didn't taste like quadratic equations and your homework wasn't covered in spaghetti sauce!"
+      ],
+      "options": [
+        "Don\u2019t Multitask (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Again, for this topic: Intellectual Humility",
+        "I can name all 206 bones in the human body!",
+        "Oh really? I only know a few, like the femur and the skull. Teach me some new ones!"
+      ],
+      "options": [
+        "Intellectual Humility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've read every book by Shakespeare. I practically speak in iambic pentameter!",
+        "Impressive! I'm not quite at that level, but I do enjoy 'To be, or not to be.' Any others you'd recommend?"
+      ],
+      "options": [
+        "Intellectual Humility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can solve a Rubik's cube in under a minute!",
+        "That's wild! I still struggle to get one side matching. Any tips?"
+      ],
+      "options": [
+        "Intellectual Humility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know the term 'lasagna' originally referred to the pot in which the dish was cooked, not the food itself?",
+        "Oh really? That's hilarious! Imagine going to a restaurant and ordering a pot."
+      ],
+      "options": [
+        "Go with the Flow (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that the original color of carrots was purple.",
+        "Purple carrots? Now that's a garden I'd love to see! Maybe they could even start a band: The Purple Carrots."
+      ],
+      "options": [
+        "Go with the Flow (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Apparently, the Eiffel Tower can shrink by six inches during cold weather.",
+        "Does that mean we should start knitting giant tower-sized sweaters for our monuments?"
+      ],
+      "options": [
+        "Go with the Flow (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Again, for this topic: Don\u2019t Equate Your Experiences to Theirs",
+        "I had such a difficult time learning to cook. I nearly set the kitchen on fire the first time I tried to make pasta.",
+        "Sounds like a hot mess, but hey, at least you're not a fire-breathing dragon. That would be a real kitchen disaster!"
+      ],
+      "options": [
+        "Don\u2019t Equate Your Experiences to Theirs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cat just loves to wake me up at 3am every day. It's so annoying!",
+        "Well, that's one way to have a furry alarm clock. Maybe your cat is trying to hint that it wants to join the Night's Watch?"
+      ],
+      "options": [
+        "Don\u2019t Equate Your Experiences to Theirs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I got so lost trying to navigate the subway system in New York.",
+        "Hmm, if you were a rat, you'd probably have an easier time. They've got the subway system down to a science."
+      ],
+      "options": [
+        "Don\u2019t Equate Your Experiences to Theirs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Again, for this topic: Don\u2019t Keep Repeating Yourself",
+        "I can't believe how awesome that rock concert was!",
+        "I know, you mentioned it about six times. We get it, you're a real rock fan. You probably know all the stones by name."
+      ],
+      "options": [
+        "Don\u2019t Keep Repeating Yourself (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My dog learned a new trick today. He can roll over.",
+        "Yep, heard you the first three times. So, he's really on a roll, huh?"
+      ],
+      "options": [
+        "Don\u2019t Keep Repeating Yourself (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You've told us that, congrats! So, you're officially a doughnut dealer now?"
+      ],
+      "options": [
+        "Don\u2019t Keep Repeating Yourself (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Again, for this topic: Don\u2019t Strain Your Brain for Unnecessary Details",
+        "Did I tell you about that time I went to the farmer's market and saw a stall selling melons? Or was it peaches? Wait, no, I think it was mangoes. Actually, it could've been papayas\u2026",
+        "Does it really matter? You saw some fruit. Can we move on to the juicy part of the story?"
+      ],
+      "options": [
+        "Don\u2019t Strain Your Brain for Unnecessary Details (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I watched this movie last night. It was released in 2005, or maybe 2006? No wait, it might have been 2007. Hold on, let me just Google it real quick\u2026",
+        "So, while you're on the case, Detective Google, the rest of us will be growing old. The movie was good. Got it!"
+      ],
+      "options": [
+        "Don\u2019t Strain Your Brain for Unnecessary Details (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember that restaurant we went to last summer? It was on the corner of Elm Street and Maple Avenue, or was it Oak Street and Birch Boulevard?",
+        "Right. I recall the burgers, not the boulevards. Wrap up the roadmap, Magellan!"
+      ],
+      "options": [
+        "Don\u2019t Strain Your Brain for Unnecessary Details (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Again, for this topic: Forget About the Attention-Tricks",
+        "Did I tell you about my trip to the beach? It was so sunny and... Hey, are you nodding every three seconds on purpose?",
+        "No, no, not at all. I just have a very rhythmic agreement muscle. Please, continue with your sunny tale."
+      ],
+      "options": [
+        "Forget About the Attention-Tricks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Yesterday, I saw the most beautiful sunset and... Wait, are you taking notes while I'm talking?",
+        "Well, I didn't want to forget the part about the sunset. Is that not normal?"
+      ],
+      "options": [
+        "Forget About the Attention-Tricks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, there I was, face to face with a squirrel, and... You're not seriously repeating my last three words to show you're listening, are you?",
+        "Squirrel, yes. Got it. Please continue your gripping saga of woodland encounters."
+      ],
+      "options": [
+        "Forget About the Attention-Tricks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Yesterday, I bought a spoon. It was shiny. I like shiny spoons. Also, the handle had this really...",
+        "Is there a short version of this thrilling spoon acquisition story? Maybe like, 'I bought a spoon. It was shiny.'"
+      ],
+      "options": [
+        "Be Brief (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, I was walking, and then I saw a dog. This dog was brown. It had a collar. It barked at a bird. The bird flew away. Then the dog...",
+        "Could you condense the canine chronicle into a tweet-sized summary?"
+      ],
+      "options": [
+        "Be Brief (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember that time when I went to the grocery store and I met Dave and we talked for like an hour about apples and oranges and...",
+        "As riveting as fruit discourse with Dave sounds, do you think you could prune it down to a key points version?"
+      ],
+      "options": [
+        "Be Brief (correct answer)"
+      ]
+    }
+  ]
+}

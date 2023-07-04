@@ -1,0 +1,46 @@
+[
+  {
+    "Project objective": "Mission Mars: Design Your Own Spacecraft.  Hello, aspiring aerospace engineer! The year is 2033, and the Earth-Mars Synodic period is upon us. This means Mars and Earth are as close as they're going to get, and it's the perfect time to launch a mission. NASA is planning to send another rover to Mars, and they need your help! They're calling on students around the globe to design a spacecraft that will carry the new rover to the Red Planet.",
+    "Steps": [
+      "Using your knowledge of aerodynamics, propulsion, aircraft structures, stability and control, and spacecraft design, your mission is to design a spacecraft that can survive the journey to Mars and safely deliver the rover. The fate of interplanetary exploration rests in your hands!",
+      "Aerodynamic Awareness: Research aerodynamics principles and how they apply to spacecraft design. Sketch out a basic shape for your spacecraft that takes into account the need to minimize air resistance and heat.",
+      "Propelling Forward: Dive into the principles of propulsion. How will your spacecraft get off the ground and continue on its journey to Mars?",
+      "Control and Stability: Using your understanding of stability and control, think about how your spacecraft will navigate. What systems will you have in place to ensure a smooth ride and accurate landing on Mars?",
+      "Designing for Space: Incorporate your knowledge of spacecraft design. How will your spacecraft protect the rover from the harsh conditions of space and Mars?",
+      "Prototyping: Using a 3D design software or drawing tools, create a model of your spacecraft design.",
+      "Virtual Testing: Create a hypothetical scenario to test your spacecraft. Think about the launch, the journey through space, and the landing on Mars.",
+      "Troubleshooting: Based on your virtual tests, identify potential problems in your design and propose solutions.",
+      "Final Design: Revise your design based on your troubleshooting. Make sure your spacecraft is as efficient and safe as possible.",
+      "Presentation: Share your design with others. Explain your design choices, the problems you encountered during testing, and how you fixed them."
+    ]
+  },
+  {
+    "Project objective": "Orbiting the Unknown: Design Your Own Satellite. Hello, future space engineer! The year is 2035, and the Global Space Agency (GSA) is planning a mission to launch a satellite into orbit to study a recently discovered celestial object in our solar system. They're calling on young minds from around the globe to help design this pioneering satellite. Your mission, if you choose to accept it, is to design a satellite that can survive the harsh conditions of space and gather valuable data about this new celestial object.",
+    "Steps": [
+      "Orbital Mechanics Mastery: Research the principles of orbital mechanics. How will your satellite reach and stay in orbit?",
+      "Fantastic Flight Mechanics: Learn about flight mechanics. Your satellite will need to be able to navigate through space effectively.",
+      "Avionics Adventure: Explore the world of avionics. What electronics and systems will your satellite need to operate and communicate?",
+      "Material Matters: Using your understanding of materials and structures, decide what your satellite will be made of. It needs to be lightweight yet durable enough to withstand space.",
+      "Fluid Dynamics Fun: Delve into the world of computational fluid dynamics. Although there's no air in space, your satellite will need to withstand the launch and potential atmospheric re-entry.",
+      "Design Time: Based on your research, start designing your satellite. You can use drawing tools or a 3D design software.",
+      "Virtual Testing: Create a simulation to test your satellite. Consider its launch, its journey to the celestial object, and its time in orbit.",
+      "Problem Solving: Based on your virtual tests, identify any issues with your design and brainstorm solutions.",
+      "Final Design: Revise your design based on your problem-solving process. Make sure your satellite is as effective and efficient as possible.",
+      "Presentation: Present your design and explain your process. Share the challenges you encountered and how you overcame them."
+    ]
+  },
+  {
+    "Project objective": "Flight of the Phoenix: Design Your Own Aircraft. Congrats, you're the new lead engineer at the Phoenix Aviation Company! Your mission, should you choose to accept it, is to design a new, state-of-the-art aircraft that could potentially revolutionize the aviation industry.",
+    "Steps": [
+      "Elastic is Fantastic: Learn about aeroelasticity. How will the forces of flight impact the structure of your aircraft, and how can you design it to withstand these forces?",
+      "Navigate and Control: Investigate navigation and control systems. How will your aircraft know where it's going, and how will it get there?",
+      "Material Matters: Dive into the world of aerospace materials. What materials are best suited for different parts of your aircraft?",
+      "Thermodynamics Thrill: Brush up on the principles of thermodynamics. How will heat and work affect your aircraft, and how can you design it to be energy efficient?",
+      "Design Phase: Based on your research, start designing your aircraft. You can use drawing tools or 3D modeling software.",
+      "Testing Time: Use a flight simulator or computer modeling software to test your aircraft design. How does it handle different flight conditions?",
+      "Problem Solving: Based on your tests, identify any issues with your design and brainstorm solutions.",
+      "Final Design: Revise your design based on your problem-solving process. Make sure your aircraft is as safe, efficient, and innovative as possible.",
+      "Presentation: Create a presentation that outlines your design process, discusses the challenges you faced and how you overcame them, and unveils your final aircraft design."
+    ]
+  }
+]

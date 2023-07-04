@@ -1,0 +1,36 @@
+@-webkit-keyframes fill {
+  to {
+    background-size: 100% 0;
+  }
+}
+
+@keyframes fill {
+  to {
+    background-size: 100% 0;
+  }
+}
+
+
+.r-h10h58:hover {
+  border-color: #A25ADC;
+}
+
+.r-1ydw1k6:hover {
+  border-color: #A25ADC;
+}
+
+:focus-visible {
+  outline: 0px !important
+}
+
+.cursorPointer:hover {
+  cursor: pointer;
+}
+
+#custom-tooltip {
+  background-color: #A25ADC;
+  font-size: 14px;
+  border-radius: 8px;
+  padding: 10px;
+  width: 265px;
+}

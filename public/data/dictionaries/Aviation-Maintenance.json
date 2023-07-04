@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Aircraft Structures and Materials",
+        "Avionics Systems",
+        "Turbine Engines",
+        "Piston Engines",
+        "Aircraft Fuel Systems",
+        "Aircraft Electrical Systems",
+        "Aircraft Hydraulic Systems",
+        "Landing Gear Systems",
+        "Propeller Systems",
+        "Aircraft Navigation Systems",
+        "Aircraft Communication Systems",
+        "Aircraft Instrument Systems",
+        "Aircraft Heating and Cooling Systems",
+        "Safety and Emergency Procedures",
+        "Federal Aviation Regulations"
+    ],
+    "hints": {
+        "Aircraft Structures and Materials": "Understanding the different parts of an aircraft and the materials used to construct them, including metals, composites, and plastics.",
+        "Avionics Systems": "The electronic systems used on aircraft, including communication, navigation, and flight-control systems.",
+        "Turbine Engines": "Jet engines that propel an aircraft by ejecting a high-speed stream of gases. Knowledge of their operation, maintenance, and repair is crucial for aviation mechanics.",
+        "Piston Engines": "The type of engines found in smaller aircraft. Understanding their operation, maintenance, and repair is a key skill for aviation mechanics.",
+        "Aircraft Fuel Systems": "The systems responsible for storing and delivering fuel to the aircraft's engines.",
+        "Aircraft Electrical Systems": "The systems that provide electrical power to the aircraft's systems and components, including the generator, battery, wiring, and switches.",
+        "Aircraft Hydraulic Systems": "The systems that use pressurized fluid to power various aircraft components, such as the landing gear and flight control surfaces.",
+        "Landing Gear Systems": "The components that support the aircraft while it is not flying, allowing it to taxi, take-off, and land.",
+        "Propeller Systems": "The systems that convert engine power into thrust to propel the aircraft, found mainly on smaller aircraft.",
+        "Aircraft Navigation Systems": "The systems used to determine the aircraft's position and plan its route, including GPS, INS, and VOR.",
+        "Aircraft Communication Systems": "The systems used for communication between the aircraft and air traffic control, as well as communication within the aircraft.",
+        "Aircraft Instrument Systems": "The instruments that provide the pilot with information about the aircraft's flight conditions, including altitude, speed, and direction.",
+        "Aircraft Heating and Cooling Systems": "The systems that maintain a comfortable and safe temperature inside the aircraft, both in the cabin and in the cockpit.",
+        "Safety and Emergency Procedures": "The procedures that must be followed in case of an emergency situation, as well as general safety practices in aviation maintenance.",
+        "Federal Aviation Regulations": "The rules established by the Federal Aviation Administration (FAA) governing all aspects of civil aviation, including aircraft maintenance."
+    }
+}

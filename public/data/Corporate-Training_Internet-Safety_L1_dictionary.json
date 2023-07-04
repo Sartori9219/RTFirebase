@@ -1,0 +1,371 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, did you hear about the superhero who protects people's online accounts with their secret power?",
+        "Oh, you mean Strong Passwords, right? They're like a digital shield against hackers and identity thieves!"
+      ],
+      "options": [
+        "Strong Passwords (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you combine upper and lowercase letters, numbers, and special characters in a secret code?",
+        "That's a strong password! It's like a magical spell that keeps our online accounts safe from cyber villains."
+      ],
+      "options": [
+        "Strong Passwords (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If your password was an impenetrable fortress, what would be the building blocks to make it super secure?",
+        "You'd need a mix of letters, numbers, and symbols, along with a good length to create a strong password that can withstand any cyber attack!"
+      ],
+      "options": [
+        "Strong Passwords (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call the invisible barrier that helps protect your personal info from prying eyes on the internet?",
+        "That's Privacy Settings! They're like a digital invisibility cloak that keeps our personal data safe on social media and other online platforms."
+      ],
+      "options": [
+        "Privacy Settings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If there was a superhero who could control what others can see about them online, what would their power be called?",
+        "Haha, that's Privacy Settings! They let us choose who gets to see our posts, photos, and personal information on the web."
+      ],
+      "options": [
+        "Privacy Settings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you had a secret lever that could control how much of your life is visible to others on the internet.",
+        "Oh, you mean Privacy Settings! They help us manage our online presence and keep our personal information secure."
+      ],
+      "options": [
+        "Privacy Settings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard Sarah's getting mean comments on her latest video. Some people are just so rude! \ud83d\ude44",
+        "Yeah, that's cyberbullying. Let's show Sarah some love and positivity! \ud83d\udc95 Kindness goes a long way."
+      ],
+      "options": [
+        "Cyberbullying (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You won't believe what happened in the group chat! Everyone ganged up on Jake for his new haircut. \ud83e\udd26\u200d\u2642\ufe0f",
+        "Whoa, hold on! \u270b That's cyberbullying. We should stand up for Jake and remind everyone to be kind and respectful."
+      ],
+      "options": [
+        "Cyberbullying (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found this super cool website with free movies, but my browser warned me it's not secure. Should I go for it? \ud83c\udfac",
+        "Nah, better safe than sorry! \ud83d\udeab Stick to secure sites with \"https://\" in the URL to protect your data from hackers."
+      ],
+      "options": [
+        "Secure Browsing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm at the coffee shop, and they have free Wi-Fi! Time to check my bank account balance. \ud83d\udcb0",
+        "Hold up, buddy! \u2615 Public Wi-Fi can be risky. Wait until you're on a secure network before accessing sensitive info."
+      ],
+      "options": [
+        "Secure Browsing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My computer is so slow! \ud83d\udcbb I just downloaded a cool app that promises to speed things up, but now I'm getting weird pop-ups.",
+        "Yikes! \ud83d\ude31 Sounds like you got some malware. Always download apps from trusted sources, and use antivirus software for secure browsing."
+      ],
+      "options": [
+        "Secure Browsing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just got a message from my bank asking for my account number and PIN. They say it's for \"security reasons.\" Should I reply? \ud83c\udfe6",
+        "No way! Banks never ask for that info through messages. It's a scam! Be cautious about sharing personal info to prevent identity theft. \ud83d\udeab"
+      ],
+      "options": [
+        "Identity Theft Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My password for everything is \"password123.\" Easy to remember, right? \ud83d\ude1c"
+      ],
+      "options": [
+        "Identity Theft Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I got an email from a long-lost relative in another country, and they want to send me money! All I have to do is give them my Social Security number. \ud83d\udcb8",
+        "Hold on! \ud83d\uded1 That sounds like a scam. Never share your SSN or other sensitive info online. Keep your identity safe!"
+      ],
+      "options": [
+        "Identity Theft Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just posted my entire vacation itinerary on social media. Now all my friends know where I'll be! \ud83c\udfd6\ufe0f",
+        "That might not be the best idea. \ud83d\ude05 Oversharing can be risky. Keep your personal info and plans private to stay safe on social media."
+      ],
+      "options": [
+        "Social Media Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, I got a friend request from someone super popular, but I don't really know them. Should I accept it? \ud83e\udd14",
+        "Be cautious! Only accept requests from people you actually know. Strangers could have bad intentions. Safety first! \ud83d\udc4d"
+      ],
+      "options": [
+        "Social Media Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My profile pic is a selfie with my driver's license. It's such a cool shot! \ud83d\udcf8",
+        "Uh-oh! \ud83d\udea8 You're sharing sensitive info that can be misused. Choose a fun pic without revealing personal details for better social media safety."
+      ],
+      "options": [
+        "Social Media Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's this super nice person I met online. They want to meet up in person and even offered to pick me up! \ud83d\ude97",
+        "Hold up! \ud83d\udeab You never know who's behind the screen. Stay safe from online predators by only meeting people you know and trust."
+      ],
+      "options": [
+        "Online Predators (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been chatting with this awesome gamer, but they keep asking for personal details about my life. What should I do? \ud83c\udfae",
+        "Be careful! \ud83d\uded1 Don't share personal info with strangers online. Some people might not be who they say they are. Safety first!"
+      ],
+      "options": [
+        "Online Predators (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Someone online asked me to send them \"special\" photos of myself. They said it's just for fun. \ud83d\udcf7",
+        "No way! \u274c That's a huge red flag. Never share explicit content or personal images. Keep yourself safe from online predators."
+      ],
+      "options": [
+        "Online Predators (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just posted a rant about my teacher on social media. It felt so good to let it all out! \ud83d\ude24",
+        "Careful! \ud83d\udea8 Your digital footprint lasts forever. What you post today might come back to haunt you later. Think before you post!"
+      ],
+      "options": [
+        "Digital Footprint (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm applying for college soon. Do you think they'll look at my social media profiles? \ud83c\udf93",
+        "Absolutely! \ud83d\udd75\ufe0f\u200d\u2642\ufe0f Colleges, employers, and even future friends might check your digital footprint. Keep it clean and positive!"
+      ],
+      "options": [
+        "Digital Footprint (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to create a meme page with some edgy humor. But I'm worried it might affect my future. \ud83d\ude05",
+        "Good thinking! \ud83e\udde0 Your digital footprint sticks around. Consider the long-term consequences of your online actions."
+      ],
+      "options": [
+        "Digital Footprint (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found this hilarious comic online! I'm gonna post it on my blog without giving credit. No big deal, right? \ud83d\ude02",
+        "Actually, that's a copyright issue! \ud83d\udeab Always give proper credit to the creator. It's the right thing to do and keeps you out of trouble."
+      ],
+      "options": [
+        "Copyright and Plagiarism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have an essay due tomorrow, and I haven't started. I'm just gonna copy and paste some stuff from the internet. \ud83d\udcdd",
+        "Whoa, hold up! \u270b That's plagiarism. You could get in serious trouble. Do your own work or ask for help if you need it."
+      ],
+      "options": [
+        "Copyright and Plagiarism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love this artist's work so much that I want to print their design on t-shirts and sell them. Easy money, right? \ud83d\udcb0",
+        "Not so fast! \ud83d\uded1 That's a copyright violation. If you want to use someone's work, get their permission first."
+      ],
+      "options": [
+        "Copyright and Plagiarism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found this amazing deal on a sketchy-looking website! I'm gonna buy those sneakers for half the price! \ud83d\udecd\ufe0f",
+        "Wait a minute! \ud83d\udeab Stick to trusted websites for online shopping. Keep your payment info safe and avoid scams."
+      ],
+      "options": [
+        "Safe Online Shopping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This online store is asking me to save my credit card info for future purchases. Should I do it? \ud83d\udcb3",
+        "Be cautious! \ud83d\udd12 Only save your payment info on secure, reputable sites. And remember, it's always good to double-check before you save."
+      ],
+      "options": [
+        "Safe Online Shopping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just got an email with a coupon code for my favorite store, but the link looks weird. I don't wanna miss out on a deal! \ud83c\udff7\ufe0f",
+        "Don't risk it! \ud83d\udea8 If something seems off, go directly to the store's website instead. Safe online shopping is more important than a potential discount."
+      ],
+      "options": [
+        "Safe Online Shopping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My email account got hacked! \ud83d\ude31 How can I prevent this from happening again?",
+        "Bummer! \ud83d\ude15 Set up two-factor authentication (2FA) for an extra layer of security. It's like having a secret handshake with your account! \ud83e\udd1d"
+      ],
+      "options": [
+        "Two-Factor Authentication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I keep forgetting my passwords, but I heard about this 2FA thing. What's the deal? \ud83e\uddd0"
+      ],
+      "options": [
+        "Two-Factor Authentication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ugh, two-factor authentication seems so annoying. Do I really need it? \ud83d\ude44",
+        "Trust me, it's worth it! \ud83d\udee1\ufe0f Think of 2FA as a superhero protecting your accounts from evil hackers. Better safe than sorry!"
+      ],
+      "options": [
+        "Two-Factor Authentication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm at the library, and they have free Wi-Fi! Time to do some online shopping. \ud83d\uded2",
+        "Hold your horses! \ud83d\udc34 Public Wi-Fi can be risky for sensitive tasks. Wait until you're on a secure network before entering payment info."
+      ],
+      "options": [
+        "Public Wi-Fi Security (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This coffee shop's Wi-Fi is great for browsing memes, but should I check my bank account too? \ud83d\udcb8",
+        "Nah, keep it chill! \u2615 Use public Wi-Fi for casual browsing, not for accessing personal or financial info. Save that for a secure connection at home."
+      ],
+      "options": [
+        "Public Wi-Fi Security (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The airport has free Wi-Fi, so I'm gonna catch up on work emails. Good idea? \u2708\ufe0f",
+        "Proceed with caution! \ud83d\udea7 Public Wi-Fi can be a playground for hackers. Use a VPN to encrypt your data and stay safe while working on the go."
+      ],
+      "options": [
+        "Public Wi-Fi Security (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My crush asked me to send them a \"special\" selfie. It's just between us, so it should be fine, right? \ud83e\udd33",
+        "Don't risk it! \ud83d\udeab Once you send something, you lose control over it. Keep personal and intimate content to yourself for safety and peace of mind."
+      ],
+      "options": [
+        "Sexting and Sharing Personal Information (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I met this cool person online, but they keep asking for my address so they can send me a gift. Should I share it? \ud83c\udf81",
+        "No way! \ud83d\uded1 Keep your personal info private, even if someone seems friendly. You never know who's behind the screen or what their intentions are."
+      ],
+      "options": [
+        "Sexting and Sharing Personal Information (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend wants me to share my password with them, just in case they need to log in for me. Is that okay? \ud83d\udd11",
+        "Bad idea! \ud83d\ude2c Keep your passwords secret, even from friends. Sharing personal info like that can lead to all sorts of trouble."
+      ],
+      "options": [
+        "Sexting and Sharing Personal Information (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just joined an online gaming community, and everyone's asking for my real name and where I live. Should I share it? \ud83c\udfae",
+        "Nope! \ud83d\udeab Keep your personal info on a need-to-know basis. Use a cool gamer tag instead and stay anonymous to protect yourself."
+      ],
+      "options": [
+        "Online Gaming Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My gaming buddy offered to level up my character if I give them my account login info. Sounds like a sweet deal, right? \ud83c\udfc6",
+        "Hold up! \ud83d\uded1 Sharing your login details can lead to trouble. Keep your account secure and enjoy the game at your own pace."
+      ],
+      "options": [
+        "Online Gaming Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm playing this awesome game, but some players are being super toxic and harassing me. What should I do? \ud83d\ude13",
+        "Don't let them ruin your fun! \ud83c\udf89 Mute, block, or report them to keep your gaming experience safe and enjoyable."
+      ],
+      "options": [
+        "Online Gaming Safety (correct answer)"
+      ]
+    }
+  ]
+}

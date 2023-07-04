@@ -1,0 +1,379 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why are protons always so positive? Do they attend motivational seminars or something?",
+        "Nah, they're just born that way, in the nucleus of atoms. But they do throw 'positive vibes' parties with their neutron friends!"
+      ],
+      "options": [
+        "'Atomic Structure (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why can't electrons just stick around in one place? They seem to love going around in circles.",
+        "Well, they're party animals! Always on the move in their atomic 'club' - the electron shell!"
+      ],
+      "options": [
+        "'Atomic Structure (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "I heard that atoms are mostly empty space. Does that mean my solid desk is just...an illusion?",
+        "Well, if you could see at an atomic level, your desk would look more like a starry night with tiny electron 'stars' orbiting a compact nucleus 'moon'."
+      ],
+      "options": [
+        "'Atomic Structure (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why do crystals always look so neat and perfect? Do they hire interior decorators or something?"
+      ],
+      "options": [
+        "'Crystallography (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "I dropped my crystal ball and it shattered into a million pieces. Why can't it break evenly?",
+        "Because in the world of crystals, breaking the rules means breaking along plane lines. They always break along their internal atomic arrangement!"
+      ],
+      "options": [
+        "'Crystallography (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "I heard that chocolate is a crystal. Does that mean I've been eating rocks?",
+        "Well, not exactly rocks, but the cocoa butter in chocolate does form a type of crystal. Sweet, isn't it?"
+      ],
+      "options": [
+        "'Crystallography (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my plastic water bottle crunch when I squeeze it, but my metal water bottle doesn't?",
+        "Because they have different mechanical properties! The plastic bottle is more compressible, while the metal one is more rigid."
+      ],
+      "options": [
+        "'Mechanical Properties (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "If I hit a diamond with a hammer, what would happen?"
+      ],
+      "options": [
+        "'Mechanical Properties (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why doesn't my rubber band break when I stretch it, but my spaghetti does?",
+        "It's all about elasticity! The rubber band can stretch and return to its original shape, while your poor spaghetti just snaps."
+      ],
+      "options": [
+        "'Mechanical Properties (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why doesn't my rubber duckie conduct electricity in the bathtub?",
+        "Because rubber is an insulator, not a conductor. It doesn't allow electric current to pass through. So your duckie is safe!"
+      ],
+      "options": [
+        "'Electrical Properties (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my phone charge faster with this new cable?",
+        "The cable could be made of a better conducting material, or have a higher gauge, allowing more current to flow, speeding up the charge!"
+      ],
+      "options": [
+        "'Electrical Properties (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I get radio signals in the elevator?",
+        "The metal elevator acts like a Faraday cage, blocking external electric fields and radio waves. No signals can get in or out."
+      ],
+      "options": [
+        "'Electrical Properties (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my metal spoon heat up so fast in my soup?",
+        "That's because metal has high thermal conductivity. It quickly transfers heat from your hot soup to the spoon!"
+      ],
+      "options": [
+        "'Thermal Properties (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why don't my oven mitts burn when I take cookies out of the oven?",
+        "Oven mitts are made of materials with low thermal conductivity. They don't transfer heat as quickly, protecting your hands from the hot tray!"
+      ],
+      "options": [
+        "'Thermal Properties (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why is it cooler inside the cave than outside on this sunny day?",
+        "The rock walls have high thermal mass, which means they absorb and release heat slowly. That keeps the cave cool even when it's hot outside."
+      ],
+      "options": [
+        "'Thermal Properties (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my refrigerator magnet stick to the fridge but not the wooden cupboard?",
+        "That's because your fridge is made of a ferromagnetic material, which attracts magnets. Your wooden cupboard, however, isn't."
+      ],
+      "options": [
+        "'Magnetic Properties (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my compass always point north?",
+        "It's due to Earth's magnetic field. The needle of your compass is magnetized and aligns with it."
+      ],
+      "options": [
+        "'Magnetic Properties (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why doesn't my gold necklace get attracted to magnets?",
+        "Gold is diamagnetic, which means it doesn't get attracted to magnetic fields. It's all about the material's magnetic properties!"
+      ],
+      "options": [
+        "'Magnetic Properties (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why is my plastic water bottle so flexible?",
+        "That's because it's made from a polymer! Polymers have long, chain-like structures that can be bent and twisted."
+      ],
+      "options": [
+        "'Polymers (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my rubber band stretch so much without breaking?",
+        "Rubber is a type of polymer called an elastomer. It can stretch and deform a lot because of its unique polymer structure."
+      ],
+      "options": [
+        "'Polymers (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "How come I can shape and mold this play-dough into anything I want?",
+        "That's because play-dough is a polymer clay. The polymer chains slide past each other easily, which makes it moldable!"
+      ],
+      "options": [
+        "'Polymers (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my coffee mug keep my coffee hot for so long?",
+        "Because it's made of ceramic! Ceramics are great insulators, they prevent heat from escaping."
+      ],
+      "options": [
+        "'Ceramics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does this porcelain vase shatter when I drop it?",
+        "Ceramics, like porcelain, are very hard but also brittle. That means they can't absorb much impact before breaking."
+      ],
+      "options": [
+        "'Ceramics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why is this space shuttle tile not melting from the heat of re-entry?",
+        "Those are special ceramic tiles! They can withstand extremely high temperatures, making them perfect for space shuttles."
+      ],
+      "options": [
+        "'Ceramics (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "I can't believe this soda can is so light yet so tough!",
+        "That's because it's made from an alloy of aluminum! Alloys can have enhanced properties compared to pure metals."
+      ],
+      "options": [
+        "'Metals and Alloys (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does this gold jewelry not tarnish or rust?",
+        "Gold is a noble metal. It doesn't easily react with oxygen like many other metals, so it doesn't rust or tarnish."
+      ],
+      "options": [
+        "'Metals and Alloys (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why is this steel bridge able to support so much weight?",
+        "Steel is an alloy of iron and carbon. It's much stronger than pure iron, which makes it perfect for structures like bridges."
+      ],
+      "options": [
+        "'Metals and Alloys (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why is this surfboard so lightweight yet so strong?",
+        "It's made from a composite material \u2013 fiberglass! The combination of materials gives it the best of both worlds."
+      ],
+      "options": [
+        "'Composite Materials (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just bend this carbon fiber bike frame like I can with my metal bike frame?",
+        "Carbon fiber is a composite material. It's designed to be very strong and rigid, but it's also lightweight."
+      ],
+      "options": [
+        "'Composite Materials (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "This concrete seems to have pieces of metal in it. What's up with that?",
+        "That's called reinforced concrete. The metal, or rebar, strengthens the concrete and makes it more resistant to tension forces."
+      ],
+      "options": [
+        "'Composite Materials (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why are these socks so comfy and yet they never smell bad?",
+        "They're made with silver nanoparticles. They provide the comfort and also kill the bacteria that cause the smell."
+      ],
+      "options": [
+        "'Nanomaterials (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "My new sunscreen is so light and non-greasy. What's the secret?",
+        "It's got nanoparticles of zinc oxide in it. They're tiny enough to feel light but still block harmful UV rays!"
+      ],
+      "options": [
+        "'Nanomaterials (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does this battery last longer than my old one?",
+        "It uses nanomaterials. The increased surface area of the nanoscale particles allows for more efficient energy storage and transfer."
+      ],
+      "options": [
+        "'Nanomaterials (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why does my bike squeak and look rusty after leaving it out in the rain?",
+        "That's corrosion. The water reacted with the metal causing it to rust and squeak."
+      ],
+      "options": [
+        "'Corrosion (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "My grandma's silverware is turning black. Did it spoil?",
+        "No, it's just tarnishing. It's a type of corrosion that happens with silver."
+      ],
+      "options": [
+        "'Corrosion (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why do ships and bridges get repainted so often?",
+        "To prevent corrosion. The paint acts as a barrier against moisture and air, which can cause the metal to corrode."
+      ],
+      "options": [
+        "'Corrosion (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just use this lump of iron to make a sword?",
+        "It needs material processing first - like heating and hammering - to shape it and improve its properties."
+      ],
+      "options": [
+        "'Material Processing (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "This plastic bottle is soft. How can the same material be made into a hard plastic chair?",
+        "Through different material processing methods. The plastic is molded under different conditions to achieve different properties."
+      ],
+      "options": [
+        "'Material Processing (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "I want to make a ceramic vase, but all I have is this powder. What do I do?",
+        "You need to process it. Mix it with water, shape it, then fire it in a kiln."
+      ],
+      "options": [
+        "'Material Processing (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "This golden ring looks really shiny! It must be pure gold.",
+        "Don't judge a book by its cover! Or a ring by its shine. Material testing can reveal if it's really pure gold or just gold-plated."
+      ],
+      "options": [
+        "'Material Testing (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "I wonder if this new type of fabric is strong enough for a parachute.",
+        "We should definitely test it before jumping out of a plane with it! Material testing is a life-saver."
+      ],
+      "options": [
+        "'Material Testing (correct answer)'"
+      ]
+    },
+    {
+      "question": [
+        "This new alloy seems perfect for our space shuttle."
+      ],
+      "options": [
+        "'Material Testing (correct answer)'"
+      ]
+    }
+  ]
+}

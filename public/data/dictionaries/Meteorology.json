@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Atmospheric Pressure",
+        "Wind Patterns",
+        "Temperature",
+        "Humidity",
+        "Precipitation",
+        "Weather Fronts",
+        "Weather Systems",
+        "Climate Zones",
+        "Jet Streams",
+        "Cloud Formation",
+        "Weather Forecasting",
+        "Hurricanes and Typhoons",
+        "Tornadoes",
+        "El Nino and La Nina Phenomena",
+        "Global Warming and Climate Change"
+    ],
+    "hints": {
+        "Atmospheric Pressure": "This refers to the pressure exerted by the weight of air in the atmosphere of the Earth.",
+        "Wind Patterns": "These are the general trends in wind movement around the globe, influenced by factors like temperature and pressure.",
+        "Temperature": "In meteorology, it's important to understand how temperatures vary with altitude and geography.",
+        "Humidity": "This is the amount of water vapor present in the air, which can affect weather and climate.",
+        "Precipitation": "This is any form of water, liquid or solid, that falls from the atmosphere and reaches the ground \u2013 like rain, snow, or hail.",
+        "Weather Fronts": "These are boundaries between two masses of air of different densities, often leading to interesting weather phenomena.",
+        "Weather Systems": "These are patterns of atmospheric conditions relative to variations in pressure, temperature, etc., that can last for hours to days.",
+        "Climate Zones": "These are areas with distinct types of weather patterns, identified across the world.",
+        "Jet Streams": "These are narrow bands of strong wind in the upper levels of the atmosphere that can influence weather.",
+        "Cloud Formation": "This is the process by which clouds form due to cooling of the air and condensation of moisture in the atmosphere.",
+        "Weather Forecasting": "This is the application of scientific technology and understanding to predict the state of the atmosphere at a future time and a given location.",
+        "Hurricanes and Typhoons": "These are large, swirling storms that form over warm ocean waters. The term used depends on the location of the storm.",
+        "Tornadoes": "These are rapidly rotating columns of air that are in contact with both the surface of the Earth and a cumulonimbus cloud or, in rare cases, the base of a cumulus cloud.",
+        "El Nino and La Nina Phenomena": "These are part of a routine climate pattern that occurs when sea surface temperatures in the tropical Pacific Ocean rise to above-normal levels for an extended period (El Nino), or fall below-normal (La Nina).",
+        "Global Warming and Climate Change": "This involves the long-term warming of the planet and the changes in global weather patterns over time, largely influenced by human activities."
+    }
+}

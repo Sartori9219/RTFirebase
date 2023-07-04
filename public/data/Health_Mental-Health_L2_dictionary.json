@@ -1,0 +1,472 @@
+{
+  "questions": [
+    {
+      "question": [
+        "When the animals in Zootopia get stressed, they take deep breaths to calm down. The giraffes even have extra-long breaths!",
+        "That's a \"zoo-per\" way to stay relaxed in the animal kingdom!"
+      ],
+      "options": [
+        "Deep Breaths (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Whoozle, the Whoozle creatures practice deep breathing by inflating their fluffy tails to help them stay calm!",
+        "They must be \"tail-ing\" off their stress with those deep breaths!"
+      ],
+      "options": [
+        "Deep Breaths (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of Bubbleville take deep breaths by blowing giant bubbles that help them stay calm and focused!",
+        "Sounds like a bubbly way to blow off some stress!"
+      ],
+      "options": [
+        "Deep Breaths (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Emoji Island, the residents express their emotions through their facial expressions, making it easy for everyone to share their feelings!",
+        "Their emotional language must be truly \"emoticon-tastic\"!"
+      ],
+      "options": [
+        "Share Emotions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The creatures of Rainbow Reef share their emotions by changing the colors of their scales to match their feelings!",
+        "They must have a colorful way of communicating with each other!"
+      ],
+      "options": [
+        "Share Emotions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The inhabitants of Feelings Forest share their emotions by singing heartfelt songs that echo through the trees!",
+        "Their emotional melodies must be music to everyone's ears!"
+      ],
+      "options": [
+        "Share Emotions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Snoozy Sloths of Sleepy Hollow sleep so well, they're known for their incredibly restful naps and vibrant dreams!",
+        "They must be \"sloth-somely\" rested and ready for anything!"
+      ],
+      "options": [
+        "Sleep Well (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Pillowtopia, the residents sleep on clouds, ensuring a perfect night's rest every time!",
+        "Their bedtime routine must be \"cloud-credibly\" dreamy!"
+      ],
+      "options": [
+        "Sleep Well (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The creatures of Cozy Cavern rest well in their warm, snug burrows, ensuring they're always refreshed and ready for the day!",
+        "They must be \"burrowed\" into a cozy night's sleep!"
+      ],
+      "options": [
+        "Sleep Well (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of Sportstown hold daily games and activities to keep everyone active and healthy!",
+        "They must be a \"sport-tacular\" community of active folks!"
+      ],
+      "options": [
+        "Be Active (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Danceville, everyone stays active by participating in daily dance parties and fun-filled choreography sessions!",
+        "Their active lifestyle must be \"dance-sationally\" energetic!"
+      ],
+      "options": [
+        "Be Active (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The residents of Hoppington stay active by hopping everywhere they go, making their town a \"hoppy\" and healthy place to live!",
+        "They must be really \"hop-timistic\" about staying active!"
+      ],
+      "options": [
+        "Be Active (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Goalpost Gardens, the inhabitants set goals by planting seeds that grow into goal-achieving flowers!",
+        "They must be \"bloom-ing\" with success as they reach their goals!"
+      ],
+      "options": [
+        "Set Goals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of AimHigh Archipelago set goals by launching their aspirations into the sky like colorful kites!",
+        "Their goals must be soaring high and reaching new heights!"
+      ],
+      "options": [
+        "Set Goals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The people of Target Town set goals by drawing targets on walls, and each ring they hit represents a goal achieved!",
+        "They must be \"on target\" for accomplishing their dreams!"
+      ],
+      "options": [
+        "Set Goals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The residents of Crafty Cove find hobbies by exploring the colorful art supplies that wash up on their shores each day!",
+        "They must be \"craft-tastically\" creative with all those fun supplies!"
+      ],
+      "options": [
+        "Find Hobbies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Hobby Hills, the inhabitants discover new hobbies by attending fun workshops and classes in their community!",
+        "Their hobbies must be \"hill-arious\" and enjoyable for everyone!"
+      ],
+      "options": [
+        "Find Hobbies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of Do-It-Yourself Desert find hobbies by experimenting with unique materials and DIY projects that help them express their creativity!",
+        "They must be \"sand-sationally\" skilled at discovering new hobbies!"
+      ],
+      "options": [
+        "Find Hobbies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In Friendship Forest, the animals make friends by helping each other out and working together to solve problems!",
+        "Their friendships must be \"fur-tastic\" and full of teamwork!"
+      ],
+      "options": [
+        "Make Friends (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The inhabitants of Buddy Beach make friends by hosting weekly beach parties and fun-filled gatherings by the ocean!",
+        "They must be \"shore\" to make lots of friends in such a friendly environment!"
+      ],
+      "options": [
+        "Make Friends (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The residents of Companion City make friends by participating in community events and volunteering together for good causes!",
+        "Their friendships must be \"city-sationally\" strong and supportive!"
+      ],
+      "options": [
+        "Make Friends (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The creatures of Kindness Kingdom practice kindness by performing random acts of kindness for one another every day!",
+        "Their kingdom must be \"kind-tastically\" filled with love and support!"
+      ],
+      "options": [
+        "Be Kind (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Sweetheart Shores, the inhabitants spread kindness by leaving kind messages in the sand for others to find!",
+        "Their shoreline must be \"sweet-ly\" sprinkled with kindness and encouragement!"
+      ],
+      "options": [
+        "Be Kind (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of Generosity Grove practice kindness by sharing their resources and always offering a helping hand to their neighbors!",
+        "They must be \"tree-mendously\" kind-hearted in their caring community!"
+      ],
+      "options": [
+        "Be Kind (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Helper Haven, the residents are always ready to ask for help and support one another in times of need!",
+        "Their community must be \"help-fully\" harmonious and supportive!"
+      ],
+      "options": [
+        "Ask for Help (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The inhabitants of Assistville ask for help by sending out special balloons with their requests written on them, so others can offer assistance!",
+        "They must be \"balloon-ding\" strong connections by asking for help!"
+      ],
+      "options": [
+        "Ask for Help (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The creatures of Aidopolis ask for help by using a special signal light, calling on their friends to lend a helping paw or wing!",
+        "Their call for help must be a \"light-bulb\" moment for their supportive friends!"
+      ],
+      "options": [
+        "Ask for Help (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Mindful Meadows, the residents practice mindfulness by listening to the soothing sounds of nature and focusing on the present moment!",
+        "Their mindfulness must be \"meadow-vellously\" serene and calming!"
+      ],
+      "options": [
+        "Be Mindful (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The inhabitants of Present Point practice mindfulness by watching the waves roll in and out, helping them stay in the present moment!",
+        "They must be \"shore-ly\" grounded and at peace with their mindful surroundings!"
+      ],
+      "options": [
+        "Be Mindful (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The creatures of Zen Zoo practice mindfulness by observing the beauty in each other's unique patterns and colors, helping them to appreciate the present moment!",
+        "Their mindfulness must be \"zoo-per\" inspiring and focused!"
+      ],
+      "options": [
+        "Be Mindful (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Timeful Town, the residents are experts in time management, using their magical hourglasses to balance work and play!",
+        "They must be \"time-errific\" at keeping their schedules organized and efficient!"
+      ],
+      "options": [
+        "Time Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The inhabitants of Clockwork County use their giant community calendar to manage their time and stay on track with their responsibilities!",
+        "Their time management must be \"tick-tock-tastic\" with such a well-planned system!"
+      ],
+      "options": [
+        "Time Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of Scheduleville have mastered time management by using their enchanted pocket watches to help them prioritize and plan their days!",
+        "They must be \"watch-erfully\" wise in managing their time effectively!"
+      ],
+      "options": [
+        "Time Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of NutriNation, the residents are experts in healthy eating, growing fresh fruits and vegetables in their magical gardens!",
+        "They must be \"fruit-ifully\" nourished and thriving in their healthy community!"
+      ],
+      "options": [
+        "Healthy Eating (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The inhabitants of Veggie Village enjoy healthy eating by attending delicious cooking classes to learn nutritious and tasty recipes!",
+        "Their culinary creations must be \"veg-tastic\" and wholesome!"
+      ],
+      "options": [
+        "Healthy Eating (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of Wholesome World practice healthy eating by hosting weekly farmers markets filled with nutrient-rich foods and super snacks!",
+        "They must be \"whole-heartedly\" committed to maintaining their healthy diets!"
+      ],
+      "options": [
+        "Healthy Eating (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Unplugged Utopia, the residents take digital breaks by visiting their enchanted library full of magical books and scrolls!",
+        "Their digital breaks must be \"un-plug-sibly\" refreshing and full of adventure!"
+      ],
+      "options": [
+        "Digital Breaks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The inhabitants of Disconnect Desert take digital breaks by exploring the vast sands and discovering hidden oases to recharge their minds!",
+        "They must be \"dune-lightfully\" relaxed and rejuvenated during their digital breaks!"
+      ],
+      "options": [
+        "Digital Breaks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of Offline Ocean take digital breaks by swimming with friendly sea creatures and marveling at the wonders of the deep blue sea!",
+        "Their digital breaks must be \"sea-riously\" invigorating and awe-inspiring!"
+      ],
+      "options": [
+        "Digital Breaks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Now-or-Neverland, the residents limit procrastination by using their enchanted timers to help them stay focused and on task!",
+        "They must be \"tick-tock-tally\" efficient and dedicated to their work!"
+      ],
+      "options": [
+        "Limit Procrastination (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The inhabitants of Prompt Point limit procrastination by setting goals and rewarding themselves with fun activities once they've completed their tasks!",
+        "They must be \"prompt-astic\" in keeping their motivation levels high!"
+      ],
+      "options": [
+        "Limit Procrastination (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of Swiftsville limit procrastination by using their magical to-do list scrolls that remind them to stay on track and prioritize their responsibilities!",
+        "They must be \"swift-tacular\" at getting things done in a timely manner!"
+      ],
+      "options": [
+        "Limit Procrastination (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of BounceBackopolis, the residents develop resilience by learning from their mistakes and bouncing back even stronger!",
+        "They must be \"bounce-back-tastic\" in facing life's challenges head-on!"
+      ],
+      "options": [
+        "Develop Resilience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The inhabitants of Resilient Reef develop resilience by adapting to the ever-changing tides and currents of their ocean home!",
+        "They must be \"reef-markable\" at staying strong and flexible in their environment!"
+      ],
+      "options": [
+        "Develop Resilience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of Elasticityville develop resilience by practicing their stretching and bending skills, making them more adaptable in the face of challenges!",
+        "Their resilience must be \"stretch-tacular\" and incredibly versatile!"
+      ],
+      "options": [
+        "Develop Resilience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Self-Care Sanctuary, the residents embrace self-care by taking time to relax in their soothing hot springs and fragrant flower gardens!",
+        "They must be \"scent-sational\" at giving themselves the care they deserve!"
+      ],
+      "options": [
+        "Embrace Self-Care (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The inhabitants of Pamper Peninsula embrace self-care by treating themselves to regular spa days and rejuvenating activities by the sea!",
+        "Their self-care routine must be \"pamper-fectly\" revitalizing!"
+      ],
+      "options": [
+        "Embrace Self-Care (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of Cozy Corner embrace self-care by curling up with their favorite books and warm blankets, taking time to recharge their minds and bodies!",
+        "They must be \"cozy-licious\" in their self-care practices!"
+      ],
+      "options": [
+        "Embrace Self-Care (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Empathy Empire, the residents practice empathy by walking a mile in each other's shoes, literally and figuratively!",
+        "Their empathy must be \"shoe-per\" understanding and compassionate!"
+      ],
+      "options": [
+        "Practice Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The inhabitants of Kindhearted Kingdom practice empathy by listening deeply to each other's stories and offering support and understanding!",
+        "Their empathy must be \"heart-warmingly\" sincere and caring!"
+      ],
+      "options": [
+        "Practice Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of Compassion City practice empathy by sharing their feelings openly and holding space for others to do the same!",
+        "Their empathy must be \"city-sensational\" and full of genuine connection!"
+      ],
+      "options": [
+        "Practice Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Clubtopia, the residents join clubs based on their interests, like the Underwater Basket Weaving Society or the Cloud Juggling Crew!",
+        "Their clubs must be \"club-tastic\" and full of fun and friendship!"
+      ],
+      "options": [
+        "Join Clubs (correct answer)"
+      ]
+    }
+  ]
+}

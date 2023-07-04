@@ -1,0 +1,256 @@
+{
+  "questions": [
+    {
+      "question": "3^2 = ___",
+      "options": [
+        "9 (correct answer)",
+        "6",
+        "12",
+        "8"
+      ]
+    },
+    {
+      "question": "4^3 = ___",
+      "options": [
+        "64 (correct answer)",
+        "48",
+        "52",
+        "60"
+      ]
+    },
+    {
+      "question": "2^4 = ___",
+      "options": [
+        "16 (correct answer)",
+        "8",
+        "12",
+        "24"
+      ]
+    },
+    {
+      "question": "5^2 = ___",
+      "options": [
+        "25 (correct answer)",
+        "10",
+        "30",
+        "20"
+      ]
+    },
+    {
+      "question": "\u221a16 = ___",
+      "options": [
+        "4 (correct answer)",
+        "8",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "question": "\u221a81 = ___",
+      "options": [
+        "9 (correct answer)",
+        "3",
+        "27",
+        "6"
+      ]
+    },
+    {
+      "question": "\u221a64 = ___",
+      "options": [
+        "8 (correct answer)",
+        "4",
+        "16",
+        "6"
+      ]
+    },
+    {
+      "question": "\u221a36 = ___",
+      "options": [
+        "6 (correct answer)",
+        "18",
+        "9",
+        "12"
+      ]
+    },
+    {
+      "question": "4 + 2 \u00d7 3 = ___",
+      "options": [
+        "10 (correct answer)",
+        "18",
+        "12",
+        "8"
+      ]
+    },
+    {
+      "question": "(3 + 4) \u00d7 2 = ___",
+      "options": [
+        "14 (correct answer)",
+        "10",
+        "12",
+        "16"
+      ]
+    },
+    {
+      "question": "8 \u00f7 2(2 + 2) = ___",
+      "options": [
+        "1 (correct answer)",
+        "8",
+        "4",
+        "6"
+      ]
+    },
+    {
+      "question": "6 \u00d7 (5 - 3) + 4 = ___",
+      "options": [
+        "16 (correct answer)",
+        "20",
+        "26",
+        "22"
+      ]
+    },
+    {
+      "question": "4.6 + 3.1 = ___",
+      "options": [
+        "7.7 (correct answer)",
+        "8.7",
+        "7.6",
+        "6.7"
+      ]
+    },
+    {
+      "question": "8.4 - 2.9 = ___",
+      "options": [
+        "5.5 (correct answer)",
+        "6.5",
+        "5.4",
+        "4.5"
+      ]
+    },
+    {
+      "question": "5.5 + 3.3 = ___",
+      "options": [
+        "8.8 (correct answer)",
+        "9.8",
+        "8.7",
+        "7.8"
+      ]
+    },
+    {
+      "question": "12.3 - 4.8 = ___",
+      "options": [
+        "7.5 (correct answer)",
+        "8.5",
+        "7.4",
+        "6.5"
+      ]
+    },
+    {
+      "question": "0.6 \u00d7 4 = ___",
+      "options": [
+        "2.4 (correct answer)",
+        "2.6",
+        "2.2",
+        "1.8"
+      ]
+    },
+    {
+      "question": "1.5 \u00d7 3.2 = ___",
+      "options": [
+        "4.8 (correct answer)",
+        "4.9",
+        "5.1",
+        "5.0"
+      ]
+    },
+    {
+      "question": "2.4 \u00f7 0.8 = ___",
+      "options": [
+        "3 (correct answer)",
+        "3.2",
+        "3.1",
+        "2.8"
+      ]
+    },
+    {
+      "question": "3.6 \u00d7 2.5 = ___",
+      "options": [
+        "9 (correct answer)",
+        "9.1",
+        "9.2",
+        "8.5"
+      ]
+    },
+    {
+      "question": "Convert 0.45 to a percentage.",
+      "options": [
+        "45% (correct answer)",
+        "4.5%",
+        "0.45%",
+        "22.5%"
+      ]
+    },
+    {
+      "question": "Convert 0.08 to a percentage.",
+      "options": [
+        "8% (correct answer)",
+        "0.8%",
+        "0.08%",
+        "4%"
+      ]
+    },
+    {
+      "question": "Convert 0.6 to a percentage.",
+      "options": [
+        "60% (correct answer)",
+        "6%",
+        "0.6%",
+        "30%"
+      ]
+    },
+    {
+      "question": "Convert 0.35 to a percentage.",
+      "options": [
+        "35% (correct answer)",
+        "3.5%",
+        "0.35%",
+        "17.5%"
+      ]
+    },
+    {
+      "question": "Convert 55% to a decimal.",
+      "options": [
+        "0.55 (correct answer)",
+        "0.055",
+        "0.0055",
+        "5.5"
+      ]
+    },
+    {
+      "question": "Convert 20% to a decimal.",
+      "options": [
+        "0.2 (correct answer)",
+        "0.02",
+        "0.002",
+        "2"
+      ]
+    },
+    {
+      "question": "Convert 90% to a decimal.",
+      "options": [
+        "0.9 (correct answer)",
+        "0.09",
+        "0.009",
+        "9"
+      ]
+    },
+    {
+      "question": "Convert 75% to a decimal.",
+      "options": [
+        "0.75 (correct answer)",
+        "0.075",
+        "0.0075",
+        "7.5"
+      ]
+    }
+  ]
+}

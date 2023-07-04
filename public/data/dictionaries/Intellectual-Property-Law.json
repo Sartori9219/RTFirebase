@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Copyright",
+        "Trademarks",
+        "Patents",
+        "Trade Secrets",
+        "Intellectual Property Rights",
+        "Licensing Agreements",
+        "Fair Use",
+        "Public Domain",
+        "Infringement",
+        "Cease and Desist Letters",
+        "Non-disclosure Agreements (NDAs)",
+        "Work-for-hire",
+        "Moral Rights",
+        "Derivative Works",
+        "Prior Art"
+    ],
+    "hints": {
+        "Copyright": "A legal protection granted to creators of original works, such as books, music, and movies, that gives them exclusive rights to reproduce, distribute, and display their creations.",
+        "Trademarks": "Symbols, logos, or phrases used by businesses to identify their products or services and distinguish them from competitors.",
+        "Patents": "A form of intellectual property protection granted by the government for inventions that are new, non-obvious, and useful. Patents grant inventors the exclusive right to make, use, and sell their invention for a limited time.",
+        "Trade Secrets": "Confidential information, such as formulas, processes, or techniques, that give a business a competitive advantage in its industry.",
+        "Intellectual Property Rights": "The legal rights held by creators or owners of intellectual property, which protect their work from unauthorized use or reproduction.",
+        "Licensing Agreements": "Contracts in which an intellectual property owner grants another party permission to use their IP under specific terms and conditions.",
+        "Fair Use": "A legal doctrine that allows limited use of copyrighted material without obtaining permission from the copyright holder, typically for educational, news reporting, or commentary purposes.",
+        "Public Domain": "Works that are not protected by intellectual property laws because their copyright has expired, they were never copyrighted, or they were created by the U.S. government.",
+        "Infringement": "The unauthorized use of someone else's intellectual property, which can result in legal penalties.",
+        "Cease and Desist Letters": "Written notices sent by intellectual property owners to individuals or businesses that are infringing on their IP rights, demanding that the infringement stop immediately.",
+        "Non-disclosure Agreements (NDAs)": "Contracts that prevent parties from sharing confidential information with others, often used to protect trade secrets or other sensitive information.",
+        "Work-for-hire": "An arrangement in which a creator produces a work for an employer or client, and the employer or client owns the copyright to the work.",
+        "Moral Rights": "Rights held by creators of copyrighted works that protect the integrity of their work and their reputation, such as the right to be attributed as the author and the right to prevent distortion or mutilation of the work.",
+        "Derivative Works": "New works based on or adapted from existing copyrighted works, such as translations, adaptations, or remixes.",
+        "Prior Art": "Any publicly available information, including patents and published materials, that existed before a patent application, which can impact the patentability of an invention."
+    }
+}

@@ -1,0 +1,406 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why did the basketball team start wearing tuxedos during games?",
+        "To be known as the most dapper team in the league!"
+      ],
+      "options": [
+        "Branding (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a soccer team that only plays while riding unicycles?"
+      ],
+      "options": [
+        "Branding (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the baseball team adopt a llama as their mascot?",
+        "Because they wanted to hit it out of the park with a unique brand identity!"
+      ],
+      "options": [
+        "Branding (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the track team partner with a pizza company?",
+        "They wanted to show they're always on the fast track to delivering deliciousness!"
+      ],
+      "options": [
+        "Sponsorship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when a golf team is sponsored by a bakery?",
+        "A sweet hole-in-one partnership!"
+      ],
+      "options": [
+        "Sponsorship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the swim team join forces with a shampoo brand?",
+        "To make waves with their clean and smooth sponsorship deal!"
+      ],
+      "options": [
+        "Sponsorship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the football team hire a parrot as their public relations rep?",
+        "Because they wanted someone who could really squawk the talk!"
+      ],
+      "options": [
+        "Public Relations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a hockey team that only plays classical music during games?",
+        "A well-orchestrated PR strategy!"
+      ],
+      "options": [
+        "Public Relations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the volleyball team start hosting pool parties after their matches?",
+        "They wanted to make a splash with their public relations!"
+      ],
+      "options": [
+        "Public Relations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the tennis team start live-tweeting their matches?",
+        "To serve up some ace content for their fans!"
+      ],
+      "options": [
+        "Social Media Marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a basketball team that shares slam dunk videos on TikTok?"
+      ],
+      "options": [
+        "Social Media Marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the soccer team start an Instagram account just for pictures of their shoes?",
+        "They wanted to kickstart their social media presence with some fancy footwork!"
+      ],
+      "options": [
+        "Social Media Marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the rugby team start making cooking videos?",
+        "To tackle their fans' appetites with scrumptious content!"
+      ],
+      "options": [
+        "Content Creation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a gymnastics team that creates a podcast about stretching techniques?",
+        "A flexible approach to content creation!"
+      ],
+      "options": [
+        "Content Creation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the figure skating team start a YouTube channel for DIY costume tutorials?",
+        "To glide into their fans' hearts with some sparkling content!"
+      ],
+      "options": [
+        "Content Creation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the baseball team host a pajama party at the stadium?",
+        "To hit a home run with their fans by organizing a comfy event!"
+      ],
+      "options": [
+        "Event Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a basketball game where everyone in the audience gets a free haircut?",
+        "A slam dunk snip-and-score event!"
+      ],
+      "options": [
+        "Event Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the hockey team organize a pre-game ice sculpting contest?",
+        "To carve out a cool event for their fans!"
+      ],
+      "options": [
+        "Event Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the famous sprinter start promoting a brand of potato chips?",
+        "To show that they're always a step ahead in taste!"
+      ],
+      "options": [
+        "Athlete Endorsements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a professional golfer who endorses a line of umbrellas?"
+      ],
+      "options": [
+        "Athlete Endorsements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the champion swimmer become the face of a waterproof watch brand?",
+        "To make a splash with a timely endorsement!"
+      ],
+      "options": [
+        "Athlete Endorsements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the soccer team start selling branded toothbrushes?",
+        "To help fans brush up on their team spirit!"
+      ],
+      "options": [
+        "Merchandising (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a basketball team that sells branded astronaut helmets?",
+        "A team that's out of this world in merchandising!"
+      ],
+      "options": [
+        "Merchandising (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the football team create a line of scented candles with their logo?",
+        "To let their fans bask in the sweet smell of victory!"
+      ],
+      "options": [
+        "Merchandising (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the basketball team start hosting pre-game dance-offs for their fans?",
+        "To get everyone pumped up and bouncing with excitement!"
+      ],
+      "options": [
+        "Fan Engagement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a baseball team that invites fans to submit their own mascot designs?",
+        "A team that's hitting it out of the park with fan creativity!"
+      ],
+      "options": [
+        "Fan Engagement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the soccer team create a fan club where members can vote on the team's warm-up playlist?",
+        "To score some goal-worthy tunes and keep fans engaged!"
+      ],
+      "options": [
+        "Fan Engagement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the football team hire a mathematician to analyze their games?",
+        "To tackle their performance with some number-crunching power!"
+      ],
+      "options": [
+        "Sports Analytics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a basketball team that studies the physics of slam dunks?",
+        "A slam-dunkin' science squad!"
+      ],
+      "options": [
+        "Sports Analytics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the hockey team start tracking the speed and trajectory of every puck?",
+        "To ice the competition with some data-driven strategy!"
+      ],
+      "options": [
+        "Sports Analytics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the soccer team create a special fan club for dog owners?",
+        "To unleash a new market segment of tail-wagging supporters!"
+      ],
+      "options": [
+        "Market Segmentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a baseball team that offers knitting classes during games?",
+        "A team that's stitching together a unique fan base!"
+      ],
+      "options": [
+        "Market Segmentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the basketball team start hosting themed nights for fans with different hobbies?",
+        "To dribble their way into diverse market segments!"
+      ],
+      "options": [
+        "Market Segmentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the hockey team sign a deal to make their logo appear in a popular video game?",
+        "To score some virtual licensing goals!"
+      ],
+      "options": [
+        "Licensing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a football team that has its own line of branded kitchen appliances?",
+        "A team cooking up some hot licensing deals!"
+      ],
+      "options": [
+        "Licensing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the gymnastics team create a partnership with a toy company for action figures?",
+        "To flip into fans' homes with a licensed toy-tastic move!"
+      ],
+      "options": [
+        "Licensing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the baseball team offer free hot dogs with every ticket purchase?",
+        "To relish in a tasty ticket sales promotion!"
+      ],
+      "options": [
+        "Ticket Sales & Promotion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a soccer team that gives away superhero capes to the first 100 fans at each game?",
+        "A super-powered ticket sales strategy!"
+      ],
+      "options": [
+        "Ticket Sales & Promotion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the basketball team offer a buy-one-get-one-free deal on tickets for fans dressed as their mascot?",
+        "To slam dunk some fun-filled ticket promotions!"
+      ],
+      "options": [
+        "Ticket Sales & Promotion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the football team start hosting annual charity fun runs?",
+        "To tackle their community outreach goals with a burst of energy!"
+      ],
+      "options": [
+        "Community Outreach (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a soccer team that plants trees in local parks after every win?",
+        "A team that's kicking it green with community outreach!"
+      ],
+      "options": [
+        "Community Outreach (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the hockey team organize a neighborhood clean-up event?",
+        "To sweep up some goodwill with their community outreach efforts!"
+      ],
+      "options": [
+        "Community Outreach (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the basketball team hire a magician as their crisis manager?",
+        "To make any PR problems disappear with a wave of their wand!"
+      ],
+      "options": [
+        "Crisis Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a football team that bounces back from a scandal by hosting a charity event?",
+        "A touchdown-worthy crisis management play!"
+      ],
+      "options": [
+        "Crisis Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the soccer team start live-streaming their practice sessions after a controversial incident?",
+        "To kick off some transparent crisis management!"
+      ],
+      "options": [
+        "Crisis Management (correct answer)"
+      ]
+    }
+  ]
+}

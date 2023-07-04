@@ -1,0 +1,355 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, did you hear about the girl who started selling homemade slime to her friends at school and now has a huge slime factory?!",
+        "Wow, really? That's so cool! She must be having a blast making and selling all that slime!"
+      ],
+      "options": [
+        "Entrepreneurship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin started a business where he designs and sells custom superhero capes for pets! Can you imagine your dog wearing a cape?",
+        "Haha, that's hilarious! I bet all the pets feel super powerful in their new capes!"
+      ],
+      "options": [
+        "Entrepreneurship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know what's a crazy idea? Opening a restaurant that only serves peanut butter and jelly sandwiches, but with tons of different flavors and combinations!",
+        "Oh, that's so wacky! I'd love to try a PB&J with marshmallows and sprinkles!"
+      ],
+      "options": [
+        "Entrepreneurship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if there was only one pizza place in town and everybody wanted pizza all the time!",
+        "Oh, that pizza place would be super busy! They'd probably have to make more pizzas or raise the price so people would buy less."
+      ],
+      "options": [
+        "Supply and Demand (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know my older brother made his own lemonade stand and sold lemonade for $1 a cup?",
+        "Cool! But how much did he spend on lemons, sugar, and cups? If he spent less, then he's making a profit!"
+      ],
+      "options": [
+        "Profit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, my friend started selling her handmade bracelets for $5 each, and she sold 20 of them!",
+        "That's great! She made $100! That's her total revenue from selling the bracelets."
+      ],
+      "options": [
+        "Revenue (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard a story about a guy who made a robot that could paint pictures, but the robot parts were super expensive!",
+        "Yikes! He'll have to figure out how to sell those paintings for enough money to cover the costs of building the robot!"
+      ],
+      "options": [
+        "Costs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My aunt created a new candy that turns your tongue different colors, but only kids like it!",
+        "That's fun! So her target market is kids who love trying new, colorful candies."
+      ],
+      "options": [
+        "Market (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you see the billboard with the giant ice cream cone on it? It made me want ice cream so bad!",
+        "Yeah! That's called marketing! They're trying to get you excited about buying their ice cream."
+      ],
+      "options": [
+        "Marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There are two new toy stores in town! One has robots and the other has dinosaurs!",
+        "Ooh, they're competing to be the coolest toy store! I can't decide which one I like more!"
+      ],
+      "options": [
+        "Competition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if there was only one ice cream shop in the whole world, and they decided what flavors we could have!",
+        "That would be a monopoly! We'd have no choice but to eat whatever ice cream flavors they gave us!"
+      ],
+      "options": [
+        "Monopoly (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I went to a store where you can buy a toy for $1, but if you buy 5, they're only 50 cents each!",
+        "That's a smart pricing strategy! It makes people want to buy more toys so they can save money!"
+      ],
+      "options": [
+        "Pricing Strategy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My sister wants to open a bakery that sells only the most gigantic cookies you've ever seen!",
+        "She should make a business plan! It'll help her figure out how to make and sell those huge cookies!"
+      ],
+      "options": [
+        "Business Plan (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My neighbor started selling homemade birdhouses, but she has so many in her garage that she can't find her car!",
+        "Sounds like she needs to organize her inventory! She should find a better way to store all those birdhouses."
+      ],
+      "options": [
+        "Inventory (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that when you run a business, you need to keep track of all the money you make and spend!",
+        "That's called accounting! It helps you know if your business is doing well or if you need to make changes."
+      ],
+      "options": [
+        "Accounting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My mom wants to open a store that sells fancy hats, but she can't spend too much money on it.",
+        "She'll need to make a budget! That'll help her figure out how much she can spend on things like hat materials, rent, and advertising without going broke."
+      ],
+      "options": [
+        "Budget (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I started a dog walking business, but I don't get paid until the end of the month. I need to buy more dog treats now!",
+        "You've got a cash flow problem! You need enough money coming in regularly to cover your expenses, like buying treats for the dogs."
+      ],
+      "options": [
+        "Cash Flow (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin makes and sells his own comic books, but now he's making so many that the cost to print each one is going down!",
+        "That's called economies of scale! When you produce more, the cost per item can decrease, making it cheaper for him to make each comic book."
+      ],
+      "options": [
+        "Economies of Scale (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you notice that when everyone wanted fidget spinners, the stores sold them for high prices?",
+        "Yeah, but when the craze died down, the prices dropped! It's like a seesaw of supply and demand."
+      ],
+      "options": [
+        "Supply and Demand (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I sold lemonade for $1 a cup, but it only cost me 50 cents to make each one. I made some extra cash!",
+        "Sweet! You made a profit from your lemonade stand. You're a little money-maker!"
+      ],
+      "options": [
+        "Profit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My brother's selling custom stickers, and he's made $200 so far!",
+        "Wow, that's his total revenue! I bet he's enjoying his sticker success."
+      ],
+      "options": [
+        "Revenue (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to sell cookies, but I need to buy ingredients and bake them first.",
+        "True! Those are your costs. Just make sure you sell your cookies for more than it costs to make them."
+      ],
+      "options": [
+        "Costs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed that everyone at school wants cool pencil cases. Maybe I should sell some!",
+        "Great idea! You found a market for your product. Time to get creative with your pencil cases!"
+      ],
+      "options": [
+        "Market (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I created a poster with pictures of my delicious cupcakes and put it up at school.",
+        "Nice! That's marketing. You're showing off your cupcakes so people know where to buy them."
+      ],
+      "options": [
+        "Marketing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I sell ice cream, but so does the shop down the street. They've got wacky flavors!",
+        "Sounds like competition! Time to step up your ice cream game and create some amazing flavors too."
+      ],
+      "options": [
+        "Competition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend is the only one selling those super rare collectible cards in town.",
+        "Oh, so they've got a monopoly on those cards! They must be doing well with no competition."
+      ],
+      "options": [
+        "Monopoly (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I sell my handmade bracelets for $5 each, but if you buy 3, you get them for $12!",
+        "That's a clever pricing strategy! You're encouraging people to buy more at a discounted price."
+      ],
+      "options": [
+        "Pricing Strategy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to start a pet-sitting business, so I made a list of everything I need and how I'll get clients.",
+        "Sounds like a solid business plan! You're well on your way to pet-sitting success."
+      ],
+      "options": [
+        "Business Plan (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have 20 handmade keychains ready to sell at the school fair.",
+        "That's your inventory! You're all stocked up and ready to sell."
+      ],
+      "options": [
+        "Inventory (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My dad helped me track my earnings and expenses for my dog walking business.",
+        "That's great! You're learning accounting and keeping your business finances organized."
+      ],
+      "options": [
+        "Accounting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My little snack shop is doing great! I have money coming in from sales and going out for restocking.",
+        "Sounds like your cash flow is positive! Keep the snacks flowing and the money rolling in!"
+      ],
+      "options": [
+        "Cash Flow (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just sold enough lemonade to cover all my costs for making it!",
+        "Awesome! You've reached your break-even point. Now you can start making a profit!"
+      ],
+      "options": [
+        "Break-even Point (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I always make sure to say thank you and ask if they want more ketchup at my hot dog stand.",
+        "You've got great customer service skills! Happy customers are more likely to come back."
+      ],
+      "options": [
+        "Customer Service (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My sister helps me run our bracelet business, and I make sure she gets her fair share of the earnings.",
+        "Nice teamwork! You're managing your human resources well, and that's important in any business."
+      ],
+      "options": [
+        "Human Resources (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I met a kid who sells homemade candles, and we're going to promote each other's products!",
+        "That's smart networking! Working together can help both of your businesses grow."
+      ],
+      "options": [
+        "Networking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I started selling my homemade slime online, and now I have customers all over the world!",
+        "Wow, your business is going global! That's a great example of globalization in action."
+      ],
+      "options": [
+        "Globalization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just started a business where I dress up as a superhero and walk dogs. It's so much fun!",
+        "That's so cool! You're a true entrepreneur, creating a unique service that combines your passions!"
+      ],
+      "options": [
+        "Entrepreneurship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I sold all my cookies at school today, and everyone wants more!",
+        "Wow, the demand is high! You better bake more cookies to keep up with the supply!"
+      ],
+      "options": [
+        "Supply and Demand (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend started a lemonade stand too, and now we're both trying to see who can sell the most.",
+        "Ooh, that's some friendly competition! It'll keep you both on your toes and make your businesses better!"
+      ],
+      "options": [
+        "Competition (correct answer)"
+      ]
+    }
+  ]
+}

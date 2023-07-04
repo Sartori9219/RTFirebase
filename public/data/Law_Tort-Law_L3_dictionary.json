@@ -1,0 +1,405 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Did you hear about the guy who tried to juggle chainsaws while riding a unicycle at the park?",
+        "Yeah! He accidentally dropped one and almost hit someone. Talk about a \"cutting-edge\" example of negligence!"
+      ],
+      "options": [
+        "Negligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My neighbor decided to have a barbecue on their wooden balcony without a fire extinguisher nearby.",
+        "Yikes! Sounds like they're really \"playing with fire\" when it comes to safety. That's so negligent!"
+      ],
+      "options": [
+        "Negligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's this ice cream shop that serves scoops on frisbees instead of cones, but they don't warn customers about the risk of flying desserts!",
+        "Wow, that's a \"flipping\" disaster waiting to happen! They should definitely be more careful about potential negligence."
+      ],
+      "options": [
+        "Negligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the lifeguard who spent his entire shift building a sandcastle instead of watching the swimmers?",
+        "That's \"shore-ly\" irresponsible! He definitely neglected his duty of care to keep everyone safe in the water."
+      ],
+      "options": [
+        "Duty of care (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend went to a hair salon where the stylist was too busy taking selfies to pay attention to her haircut.",
+        "Yikes, sounds like a hairy situation! The stylist should have focused on their duty of care to give your friend a good trim."
+      ],
+      "options": [
+        "Duty of care (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a restaurant in town that serves soup so hot, it could melt your spoon! But they don't warn their customers about the temperature.",
+        "That's \"soup-er\" dangerous! They should be more careful and remember their duty of care to prevent any burnt tongues."
+      ],
+      "options": [
+        "Duty of care (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the zookeeper who accidentally left the lion's cage open during their lunch break?",
+        "Oh no, that's a \"roaring\" mistake! They definitely breached their duty to keep both animals and visitors safe."
+      ],
+      "options": [
+        "Breach of duty (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My chemistry teacher was too busy watching funny cat videos to notice a student mixing dangerous chemicals!",
+        "Yikes, that could've been an explosive situation! The teacher should've focused on their duty instead of feline distractions."
+      ],
+      "options": [
+        "Breach of duty (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I went to a bakery where they were using the same cutting board for raw meat and fresh vegetables!",
+        "That's a recipe for disaster! They clearly breached their duty to maintain proper food safety standards."
+      ],
+      "options": [
+        "Breach of duty (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that a guy sued a soda company because he found a mouse in his can, but it turned out the mouse couldn't have gotten in during production?",
+        "That's a \"soda-pressing\" story! I guess it fizzled out when they couldn't prove causation."
+      ],
+      "options": [
+        "Causation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend tripped on a banana peel right outside a grocery store and broke their arm.",
+        "Oh, that's \"bananas\"! But they'd need to prove the store's negligence directly caused their injury to win a lawsuit."
+      ],
+      "options": [
+        "Causation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A guy sued a weather app for not predicting rain, causing him to leave his convertible roof down and ruin the interior.",
+        "Wow, talk about a stormy situation! But proving causation between the app's mistake and the damage might be an uphill battle."
+      ],
+      "options": [
+        "Causation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the lady who spilled hot coffee on herself and won a lawsuit for damages?",
+        "Yeah, she must have been \"brewing\" with anger! But at least she got compensated for her injuries."
+      ],
+      "options": [
+        "Damages (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin's garden gnome was kidnapped, and they sued the thief for emotional distress and the cost of a new gnome.",
+        "That's a \"gnome-nclature\" for justice! I'm glad your cousin was able to recover some damages for their loss."
+      ],
+      "options": [
+        "Damages (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A friend's neighbor built a fence that blocked their view of the ocean, so they sued for damages.",
+        "Sounds like a real \"wave\" of disappointment! I hope they managed to \"sea\" some compensation in the end."
+      ],
+      "options": [
+        "Damages (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know there's a dog owner who was held strictly liable when their dog bit someone, even though the dog had never bitten anyone before?",
+        "Wow, that's \"ruff\"! Sometimes the law really bites, even if you didn't see it coming."
+      ],
+      "options": [
+        "Strict liability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend got sued after their pet kangaroo escaped and caused a traffic accident. They were held strictly liable!",
+        "Yikes, that's a real \"hop-tastrophe\"! I guess when it comes to exotic pets, the law doesn't \"jump\" around with liability."
+      ],
+      "options": [
+        "Strict liability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A company accidentally released a bunch of helium-filled balloons, which caused a power outage. They were held strictly liable for the damages.",
+        "That must have been an \"inflated\" problem! Sometimes, businesses just have to face the consequences and float the bill."
+      ],
+      "options": [
+        "Strict liability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the guy who purposely threw a pie in someone's face and got sued for battery?",
+        "Yeah, that's one \"pie-larious\" situation! But I guess the law doesn't find intentional torts very \"a-peeling.\""
+      ],
+      "options": [
+        "Intentional torts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend's neighbor got so mad about a loud party that they cut the power to their house on purpose!",
+        "Wow, talk about flipping the switch on an intentional tort! That's definitely not a \"bright\" idea."
+      ],
+      "options": [
+        "Intentional torts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a prankster who went around gluing people's car doors shut and ended up in legal trouble.",
+        "Yikes! They really got \"stuck\" in a sticky situation. Intentional torts can be a real pain to unglue."
+      ],
+      "options": [
+        "Intentional torts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the mime who got sued for assault after pretending to throw an invisible ball at someone?",
+        "Oh, that's \"silently\" shocking! I guess even imaginary actions can have real consequences."
+      ],
+      "options": [
+        "Assault (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend was joking around and pretended to push someone into a pool, but they got scared and sued for assault!",
+        "Wow, talk about making a \"splash\" in the legal world! Sometimes, a harmless prank can take a dive into assault territory."
+      ],
+      "options": [
+        "Assault (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a guy who threatened to throw a pie at a politician during a speech, and now he's facing assault charges.",
+        "Yikes, that's no \"pie\" in the sky! Even if it's just dessert, threats can land you in some seriously \"tart\" situations."
+      ],
+      "options": [
+        "Assault (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you see that guy who got sued after accidentally hitting someone with a stray frisbee?",
+        "Yeah, talk about a \"flying\" surprise! Even unintentional contact can lead to battery charges."
+      ],
+      "options": [
+        "Battery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin accidentally left their phone on vibrate and someone else thought it was a bug under their shirt!",
+        "Oh no, that's one \"buzzing\" misunderstanding! But your cousin could still face battery charges, even if it was an honest mistake."
+      ],
+      "options": [
+        "Battery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A lady sued after getting hit in the face with a yoga mat during a crowded class.",
+        "That's no \"stretch\" of the imagination! When it comes to physical contact, even a simple toss can leave you facing battery claims."
+      ],
+      "options": [
+        "Battery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the guy who got trapped in a store that closed early and wasn't allowed to leave?",
+        "Talk about a \"shop-locked\" experience! That sounds like a textbook case of false imprisonment."
+      ],
+      "options": [
+        "False imprisonment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My brother got stuck in a bathroom stall when the lock jammed, and people thought he was deliberately keeping it occupied!",
+        "Uh oh, sounds like he was caught \"flush-handed\"! But unless he was intentionally holding people hostage, that could be false imprisonment."
+      ],
+      "options": [
+        "False imprisonment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a story about a woman who got stuck in a revolving door and no one would help her out!",
+        "That's definitely a \"revolving\" nightmare! But if she was really trapped against her will, that could end up as a false imprisonment case."
+      ],
+      "options": [
+        "False imprisonment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the guy who got sued for trespass because his drone kept flying over someone else's backyard?",
+        "Yeah, that's one \"fly\" offense! Even high-tech gadgets can lead to a good old-fashioned trespassing claim."
+      ],
+      "options": [
+        "Trespass to land (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My neighbor kept parking their car on my lawn, and now they're facing a trespassing lawsuit.",
+        "Uh oh, sounds like they really crossed the \"property\" line! Trespassing can be a serious legal issue, no matter how small the offense."
+      ],
+      "options": [
+        "Trespass to land (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a story about a lady who accidentally walked into someone else's backyard during an open house, and now she's being sued for trespassing.",
+        "Yikes, that's a \"real estate\" drama! Even if it was an honest mistake, trespassing can still carry some legal consequences."
+      ],
+      "options": [
+        "Trespass to land (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the guy who was sued for trespass to chattels because he took his ex-girlfriend's laptop without permission?",
+        "Uh oh, that's one \"sticky\" situation! Trespassing on someone else's personal property, even if it's just temporary, could lead to legal trouble."
+      ],
+      "options": [
+        "Trespass to chattels (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My roommate borrowed my bike without asking and now there's a fight brewing over trespassing on my property."
+      ],
+      "options": [
+        "Trespass to chattels (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a story about a guy who hacked into his neighbor's wifi and now he's being sued for trespass to chattels."
+      ],
+      "options": [
+        "Trespass to chattels (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the woman who sued a friend for turning a loaned dress into a Halloween costume?"
+      ],
+      "options": [
+        "Conversion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin let their friend borrow their laptop, but later found out they had installed a bunch of software without permission!",
+        "That sounds like a real \"tech-no\" beatdown! When it comes to someone else's property, even adding custom software can lead to a conversion claim."
+      ],
+      "options": [
+        "Conversion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a story about a guy who stole someone's phone and sold it, and now he's being sued for conversion.",
+        "Yikes, that's a real \"cell-fish\" act! Stealing and selling someone else's property is a classic case of conversion and could be punishable by law."
+      ],
+      "options": [
+        "Conversion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the celebrity who got sued for defamation after posting false information about someone on social media?",
+        "Yeah, that's one \"tweet\" offense! Spreading false information about someone can have serious legal consequences."
+      ],
+      "options": [
+        "Defamation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My neighbor started telling everyone on the block that I'm a convicted criminal, even though I've never been arrested!",
+        "Yikes, that's a real \"neighborhood\" gossip problem! Spreading false information about someone's criminal history could be considered defamation."
+      ],
+      "options": [
+        "Defamation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a story about a woman who made up a bunch of lies about a coworker and got fired for it."
+      ],
+      "options": [
+        "Defamation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the person who played loud music all night, and got sued for nuisance?",
+        "Yeah, it's a \"sound\" issue. Disturbing someone's peace and making too much noise can lead to legal trouble."
+      ],
+      "options": [
+        "Nuisance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My neighbors keep letting their dog bark for hours on end, and I can't get any sleep!",
+        "That's no \"puppy\" love! Keeping on with disruptive behavior like excessive barking can lead to nuisance claims."
+      ],
+      "options": [
+        "Nuisance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a story about a couple who set up a large LED sign in their yard, and it was so bright it disturbed the whole neighborhood.",
+        "Sounds like a real \"light\" problem. Even light pollution can cause nuisance and lead to legal trouble if it's disrupting the peace of the neighborhood."
+      ],
+      "options": [
+        "Nuisance (correct answer)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Architectural Styles",
+        "Balance and Symmetry",
+        "Form and Function",
+        "Scale and Proportion",
+        "Space and Volume",
+        "Line and Shape",
+        "Texture and Material",
+        "Color and Light",
+        "Rhythm and Repetition",
+        "Contrast and Emphasis",
+        "Structural Systems",
+        "Building Envelope",
+        "Sustainable Design",
+        "Site Planning",
+        "Urban Design"
+    ],
+    "hints": {
+        "Architectural Styles": "The distinct design characteristics of buildings, often influenced by historical, cultural, or regional factors.",
+        "Balance and Symmetry": "The harmonious arrangement of elements in a design to create a sense of stability and equal distribution of visual weight.",
+        "Form and Function": "The relationship between the appearance and shape of a building and its intended purpose or use.",
+        "Scale and Proportion": "The relationship between the size of various elements in a design and their relative sizes to one another, as well as to the human body.",
+        "Space and Volume": "The organization and arrangement of three-dimensional areas within a building, including how they are enclosed and defined.",
+        "Line and Shape": "The use of lines and geometric shapes in architectural design to create patterns, movement, and visual interest.",
+        "Texture and Material": "The tactile qualities of surfaces and the materials used in construction, which can affect the appearance and performance of a building.",
+        "Color and Light": "The use of color and natural or artificial lighting in a design to influence mood, atmosphere, and visual perception.",
+        "Rhythm and Repetition": "The use of recurring patterns, shapes, or elements in a design to create unity and harmony.",
+        "Contrast and Emphasis": "The use of opposing or contrasting elements in a design to highlight specific features or areas of interest.",
+        "Structural Systems": "The various methods and techniques used to support and stabilize a building, such as columns, beams, and trusses.",
+        "Building Envelope": "The exterior shell of a building that separates the interior from the outdoor environment, including walls, roofs, and windows.",
+        "Sustainable Design": "The practice of designing buildings that minimize their environmental impact and optimize energy efficiency, water conservation, and other sustainable features.",
+        "Site Planning": "The process of organizing and arranging buildings, landscape elements, and other features on a specific plot of land to maximize functionality and aesthetic appeal.",
+        "Urban Design": "The study and practice of designing cities and towns, including the arrangement and organization of buildings, public spaces, transportation systems, and other urban elements."
+    }
+}

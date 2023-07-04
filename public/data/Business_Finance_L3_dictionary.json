@@ -1,0 +1,662 @@
+{
+  "questions": [
+    {
+      "question": [
+        "My friend Benny the Bear uses a honey jar to save coins for his winter hibernation vacation!",
+        "What a sweet way to plan ahead and make sure he has enough money to last through his long nap!"
+      ],
+      "options": [
+        "Budgeting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In Skateboard City, the mayor sets aside money for new ramps and half-pipes every year!",
+        "They must be really good at balancing their budget to keep their city shredding all year long!"
+      ],
+      "options": [
+        "Budgeting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin started using a piggy bank shaped like a taco to save up for her dream trip to Mexico!",
+        "Saving money in a fun way will make her dream trip even more delicious!"
+      ],
+      "options": [
+        "Budgeting (correct answer)",
+        "Banking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend opened an account at the Underwater Bank \u2013 they have tellers who are mermaids and dolphins!",
+        "That must make going to the bank a real splash!"
+      ],
+      "options": [
+        "Banking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the Cloud Bank, you can deposit your money and watch it float away into a secure vault in the sky!",
+        "I bet their customers feel like their money is on cloud nine!"
+      ],
+      "options": [
+        "Banking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My sister bought a spaceship on credit, but now she has to pay it back with moon rocks!",
+        "She better start mining those moon rocks to pay off her intergalactic debt!"
+      ],
+      "options": [
+        "Credit and debt (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in Bugtown, you can borrow sugar from your neighbors, but you have to pay them back with honey later!",
+        "They must have a sweet system of trust and repayment in their tiny community!"
+      ],
+      "options": [
+        "Credit and debt (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Penguin Emperor borrowed ice cubes to build his castle, but now he has to pay back double the amount in fish!",
+        "Sounds like he's got a \"fishy\" debt to deal with!"
+      ],
+      "options": [
+        "Credit and debt (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My uncle invested in a company that makes shoes for centipedes \u2013 they have 100 legs, so it's a huge market!",
+        "What a clever way to put his money to work in a multi-legged industry!"
+      ],
+      "options": [
+        "Investing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that people in the land of Doughville invest in bakeries that make magical, never-ending bread loaves?",
+        "That sounds like a recipe for infinite success!"
+      ],
+      "options": [
+        "Investing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard the Queen of the Rainforest invested in a startup that turns leaves into eco-friendly umbrellas!",
+        "She must be \"leafing\" her way to a greener future with that investment!"
+      ],
+      "options": [
+        "Investing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the kingdom of Donutopia, they pay taxes in sprinkles and frosting to keep their delicious society running smoothly!",
+        "Paying taxes never sounded so sweet!"
+      ],
+      "options": [
+        "Taxes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "On the island of Sunflowerland, people pay sunflower seed taxes to fund the growth of new sunflower fields!",
+        "Those taxes must really help their sunny economy bloom!"
+      ],
+      "options": [
+        "Taxes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of Bubblegum Town pay a chewy tax to maintain their bouncy bubblegum roads and sidewalks!",
+        "That's one sticky way to keep their town in great shape!"
+      ],
+      "options": [
+        "Taxes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin got Marshmallow House Insurance in case her house melts from hot cocoa rain!",
+        "It's always good to be prepared for unexpected sweet disasters!"
+      ],
+      "options": [
+        "Insurance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The knights in Armorville have a special insurance policy that covers dents and scratches from jousting tournaments!",
+        "That must be a real \"knight-saver\" for keeping their armor in tip-top shape!"
+      ],
+      "options": [
+        "Insurance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of the Origami, they have paper insurance to protect their delicate paper creations from water damage!",
+        "That's a smart way to fold some security into their paper world!"
+      ],
+      "options": [
+        "Insurance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My grandpa squirrel saved up enough acorns during his working years so he can retire in a cozy treehouse by the lake!",
+        "Sounds like he planned nut-thing short of a perfect retirement!"
+      ],
+      "options": [
+        "Retirement planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Wise Owl of the Forest has been collecting wisdom coins his whole life to retire and write a book of life lessons!",
+        "What an insightful way to prepare for a wise and fulfilling retirement!"
+      ],
+      "options": [
+        "Retirement planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The mermaids in the Coral Sea plan for their retirement by collecting and investing in precious pearls throughout their lives!",
+        "That must make their golden years truly radiant and full of underwater treasures!"
+      ],
+      "options": [
+        "Retirement planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Watch out for the sneaky snake who tries to sell you magical beans that are supposed to grow into money trees!",
+        "That sounds like a real \"hiss-terious\" scam to avoid!"
+      ],
+      "options": [
+        "Financial scams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard there's a pirate going around selling treasure maps that lead to empty chests buried on deserted islands!",
+        "We better keep our eyes peeled for that swindling scallywag!"
+      ],
+      "options": [
+        "Financial scams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The sly fox in the woods has been trying to trick people into investing in a company that makes invisible clothing!",
+        "That sounds like a \"fur-midable\" scam to steer clear of!"
+      ],
+      "options": [
+        "Financial scams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend started a business selling shoes made of marshmallows \u2013 they're super comfy and tasty, too!",
+        "What an innovative and delicious way to step into the world of entrepreneurship!"
+      ],
+      "options": [
+        "Entrepreneurship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A young inventor in Gadgetland created a machine that turns fruit peels into eco-friendly phone cases!",
+        "That's a brilliant and sustainable idea for a new business!"
+      ],
+      "options": [
+        "Entrepreneurship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Mole Brothers in Digsville started their own underground tunnel construction company \u2013 they're making a big impact on the local economy!",
+        "They must be really digging their way to success!"
+      ],
+      "options": [
+        "Entrepreneurship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know there's a library in Moneyville where you can learn all about coins, bills, and budgets from talking books?",
+        "Sounds like a valuable place to learn the language of finance!"
+      ],
+      "options": [
+        "Financial literacy resources (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The School of Fish in the Great Coral Reef offers classes on how to manage your seashell savings and avoid underwater financial traps!",
+        "Swimming through those lessons must be a fantastic way to become financially savvy!"
+      ],
+      "options": [
+        "Financial literacy resources (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Calculopolis, they have a special calculator that teaches you how to manage your money and make smart financial decisions!",
+        "That must be a \"calculating\" tool for mastering the world of finance!"
+      ],
+      "options": [
+        "Financial literacy resources (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of Robotropolis pay taxes in nuts and bolts to keep their robotic city well-oiled and functioning!",
+        "Their tax system must be the nuts and bolts of their mechanical society!"
+      ],
+      "options": [
+        "Taxes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Cakelandia, people pay a frosting tax to help the government create more delicious public spaces!",
+        "They must have the sweetest public parks and buildings!"
+      ],
+      "options": [
+        "Taxes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The dragons in Fireland have insurance policies that cover any accidental damage caused by their fiery breath!",
+        "That must be a hot way to protect themselves and their neighbors from fiery mishaps!"
+      ],
+      "options": [
+        "Insurance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The people of Umbrellaville have insurance that covers damages from unexpected rainstorms and floods!",
+        "That's a \"sheltered\" way to keep their city prepared for stormy weather!"
+      ],
+      "options": [
+        "Insurance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The bees in Honeycomb Valley save up extra honey to enjoy their retirement in a sweet and relaxing way!",
+        "Their retirement plans must be truly buzz-worthy!"
+      ],
+      "options": [
+        "Retirement planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that the King of Cheeseland issues a Royal Cheese Report every year, showing the kingdom's cheese finances?",
+        "That must be a \"grate\" way to keep track of their cheesy economy!"
+      ],
+      "options": [
+        "Financial statements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Musicopolis, the mayor publishes an annual symphony of financial notes to keep the citizens in tune with their money!",
+        "Their financial harmony must be music to their ears!"
+      ],
+      "options": [
+        "Financial statements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Treasure Island Pirates issue a yearly treasure map statement, detailing their gold doubloons and sparkling gems!",
+        "Arrr, that must help them keep their financial loot shipshape!"
+      ],
+      "options": [
+        "Financial statements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Cake-to-Frosting Ratio in Cakelandia helps bakers know how much frosting to use on their delicious creations!",
+        "That's a sweet way to measure the perfect cake balance!"
+      ],
+      "options": [
+        "Financial ratios (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the realm of Booktopia, they use the Page-to-Bookmark ratio to measure how many bookmarks are needed for their massive libraries!",
+        "That must be a novel way to keep their books organized!"
+      ],
+      "options": [
+        "Financial ratios (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Gummy Bear Kingdom uses the Gummy-to-Jelly ratio to determine the perfect consistency for their chewy citizens!",
+        "Sounds like a deliciously squishy way to maintain their gummy bear society!"
+      ],
+      "options": [
+        "Financial ratios (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The mayor of Playground City allocates a portion of their budget each year for new swings and slides!",
+        "They must be really good at planning for a fun and adventurous future!"
+      ],
+      "options": [
+        "Capital budgeting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In Dinosaur Land, they budget for the construction of new Jurassic parks and museums to showcase their prehistoric history!",
+        "What a \"dino-mite\" way to preserve their ancient past!"
+      ],
+      "options": [
+        "Capital budgeting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Queen of Flowerland sets aside funds each year to create new, beautiful gardens for her subjects to enjoy!",
+        "Her capital budgeting must be blossoming with floral delight!"
+      ],
+      "options": [
+        "Capital budgeting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Giant Pumpkins, they have to factor in the cost of transporting their enormous pumpkins when making financial decisions!",
+        "Sounds like a \"gourd-geous\" challenge to tackle in their economy!"
+      ],
+      "options": [
+        "Cost of capital (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Robot Republic has to consider the cost of the energy needed to power their robotic workforce when planning their budget!",
+        "They must be \"fully charged\" to keep their economy running smoothly!"
+      ],
+      "options": [
+        "Cost of capital (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the kingdom of Candyland, they have to account for the cost of importing sugar and chocolate when making sweet investments!",
+        "Their cost of capital must be a delectable consideration in their economy!"
+      ],
+      "options": [
+        "Cost of capital (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The bees in Buzzville manage their working capital by carefully allocating their honey production and pollen resources!",
+        "Sounds like they've got a \"bee-autiful\" system to keep their hive thriving!"
+      ],
+      "options": [
+        "Working capital management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the town of Pencilopolis, they manage their working capital by balancing the production of pencils and erasers to meet their citizens' needs!",
+        "They must have a \"write\" balance to keep their economy sharp and erasing smoothly!"
+      ],
+      "options": [
+        "Working capital management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The residents of Balloonland manage their working capital by inflating their resources in the right proportions for their bouncy economy!",
+        "Sounds like they're really good at keeping their finances afloat!"
+      ],
+      "options": [
+        "Working capital management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The people of Ice Cream Island use risk management strategies to avoid meltdowns in their frosty economy!",
+        "They must be really \"cool\" under pressure to keep their ice cream dreams from melting away!"
+      ],
+      "options": [
+        "Risk management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of the Flying Pigs, they manage risk by preparing for any unexpected airborne events that might affect their economy!",
+        "They must be soaring high with their well-planned risk management strategies!"
+      ],
+      "options": [
+        "Risk management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of Flowerland use risk management to protect their gardens from unexpected weather or pests that could harm their beautiful blooms!",
+        "Their risk management must be rooted in floral foresight and petal protection!"
+      ],
+      "options": [
+        "Risk management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Origami, their capital structure is carefully folded to balance their paper and crease investments!",
+        "Sounds like they've got their finances neatly folded and in order!"
+      ],
+      "options": [
+        "Capital structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Kingdom of Legoland builds their capital structure with a mix of colorful bricks, making sure their economy stays strong and stable!",
+        "They must be really \"bricked in\" when it comes to managing their finances!"
+      ],
+      "options": [
+        "Capital structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the town of Stickerland, their capital structure is made up of layers of adhesive investments to keep their economy sticking together!",
+        "They must be really \"stuck\" on maintaining a well-balanced capital structure!"
+      ],
+      "options": [
+        "Capital structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Toy Factory Inc. in Playtown is valued based on the number of smiles their toys bring to children worldwide!",
+        "Their corporate valuation must be soaring with joy and laughter!"
+      ],
+      "options": [
+        "Corporate valuation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Rainbow Paint Company in Colorville is valued based on how many shades of happiness they bring to their customers' lives!",
+        "Their corporate valuation must be a true \"masterpiece\" of success!"
+      ],
+      "options": [
+        "Corporate valuation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Sweet Treat Bakery in Cookieopolis is valued by the number of scrumptious baked goods they sell and the happiness they create!",
+        "Sounds like their corporate valuation is a delightful recipe for success!"
+      ],
+      "options": [
+        "Corporate valuation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the recent merger between the Cupcake Kingdom and the Donut Empire? Now they're the Sweet Treat Alliance!",
+        "Wow, that's a deliciously powerful combination!"
+      ],
+      "options": [
+        "Mergers and acquisitions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Puzzle Pirates joined forces with the Riddle Raiders, creating the ultimate crew of intellectual buccaneers!",
+        "They must be \"piece-ing\" together a formidable treasure-hunting force!"
+      ],
+      "options": [
+        "Mergers and acquisitions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Unicorn Union and the Pegasus Party have merged, creating a magical alliance of flying, horned creatures!",
+        "Their combined enchantment must be taking the mystical world by storm!"
+      ],
+      "options": [
+        "Mergers and acquisitions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Coinlandia, they have strict financial regulations to prevent any counterfeit coins from entering their shiny economy!",
+        "They must be really \"mint\" at keeping their currency authentic and secure!"
+      ],
+      "options": [
+        "Financial regulations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Bubblegum Republic has financial regulations in place to make sure no one blows their bubblegum budget out of proportion!",
+        "Sounds like they've got a \"chew-sy\" system for keeping their finances in check!"
+      ],
+      "options": [
+        "Financial regulations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the Sparkle Empire, they have financial regulations to ensure that all glitter investments are environmentally friendly and sustainable!",
+        "They must be really \"glitter-ate\" when it comes to preserving their sparkly environment and economy!"
+      ],
+      "options": [
+        "Financial regulations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Timekeepers, their currency is based on the value of precious moments, so they truly understand the time value of money!",
+        "Their economy must be ticking along quite \"time-lessly\"!"
+      ],
+      "options": [
+        "Time value of money (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Hourglass Kingdom measures their wealth in grains of sand, making them experts in the time value of money!",
+        "Their economy must be \"sandsational\" as they sift through time!"
+      ],
+      "options": [
+        "Time value of money (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In Stopwatch City, their currency is based on seconds and minutes, reminding everyone that time is money and money is time!",
+        "They must be really \"time-ly\" when it comes to financial decisions!"
+      ],
+      "options": [
+        "Time value of money (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The citizens of Crystalballville use their magical crystal balls to determine the present and future value of their investments!",
+        "Their financial foresight must be truly enchanting!"
+      ],
+      "options": [
+        "Present value and future value (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The inhabitants of Clockwork Island use intricate clock mechanisms to calculate the present and future value of their ticking currency!",
+        "They must have a well-oiled system to keep their financial gears turning!"
+      ],
+      "options": [
+        "Present value and future value (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the realm of Foresight Forest, the wise owls use their keen vision to assess the present and future value of their economy!",
+        "Their financial wisdom must be a real \"hoot\"!"
+      ],
+      "options": [
+        "Present value and future value (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The bunnies in Hoppyland earn \"hare-raising\" compound interest on their carrot savings, making their wealth grow even faster!",
+        "They must be hopping with joy over their multiplying wealth!"
+      ],
+      "options": [
+        "Compound interest (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The ants in Antopolis earn compound interest on their stored food, ensuring they always have a bountiful feast in the future!",
+        "Their compound interest must be \"ant-astic\" for their growing colony!"
+      ],
+      "options": [
+        "Compound interest (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Snowballia, their compound interest grows like snowballs rolling down a hill, getting bigger and bigger as it goes!",
+        "They must be \"snowed under\" with their accumulating wealth!"
+      ],
+      "options": [
+        "Compound interest (correct answer)"
+      ]
+    }
+  ]
+}

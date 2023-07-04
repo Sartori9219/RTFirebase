@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Pipes and fittings",
+        "Water supply system",
+        "Drainage system",
+        "Ventilation system",
+        "Fixture installation",
+        "Water heaters",
+        "Plumbing codes and regulations",
+        "Pipe materials",
+        "Valves",
+        "Joints and connections",
+        "Water pressure",
+        "Leak detection and repair",
+        "Preventive maintenance",
+        "Sewer lines and septic systems",
+        "Plumbing tools and equipment"
+    ],
+    "hints": {
+        "Pipes and fittings": "The basic components used to build a plumbing system, including tubes and connectors for water flow.",
+        "Water supply system": "A network of pipes that brings clean, potable water into a building for drinking, cooking, and cleaning purposes.",
+        "Drainage system": "A system designed to carry wastewater away from a building to a sewer or septic tank.",
+        "Ventilation system": "A plumbing component that helps maintain proper air pressure within drainpipes, preventing sewer gases from entering the building.",
+        "Fixture installation": "The process of installing plumbing fixtures such as sinks, toilets, and bathtubs in a building.",
+        "Water heaters": "Appliances that heat water for use in showers, dishwashers, and washing machines.",
+        "Plumbing codes and regulations": "Rules and guidelines established by local governments to ensure the safety and proper functioning of plumbing systems.",
+        "Pipe materials": "The different types of materials used for plumbing pipes, such as PVC, copper, and cast iron.",
+        "Valves": "Devices that control the flow of water through a pipe by opening, closing, or partially obstructing the passage.",
+        "Joints and connections": "The various methods used to join pipes and fittings together, such as soldering, brazing, or using compression fittings.",
+        "Water pressure": "The force exerted by water as it flows through pipes, necessary for proper functioning of plumbing fixtures.",
+        "Leak detection and repair": "The process of identifying and fixing leaks in a plumbing system to prevent water damage and conserve water.",
+        "Preventive maintenance": "Regular inspection and upkeep of plumbing systems to prevent issues like leaks, clogs, and equipment failure.",
+        "Sewer lines and septic systems": "Underground systems that collect and treat wastewater from a building before releasing it back into the environment.",
+        "Plumbing tools and equipment": "The various tools used by plumbers to install, maintain, and repair plumbing systems, such as pipe wrenches, pipe cutters, and plungers."
+    }
+}

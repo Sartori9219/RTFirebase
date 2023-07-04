@@ -1,0 +1,436 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Did you know that elephants use their big ears to stay cool in the hot sun?",
+        "Really? So their ears are like built-in air conditioners?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that there's a planet made of ice cream!",
+        "Wow, that sounds delicious! What flavors do you think are on that planet?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish I could fly like a superhero and see the world from the sky.",
+        "That would be awesome! Where would you go first if you could fly?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that the human brain uses around 20% of the body's energy even though it only makes up about 2% of our body weight?",
+        "That's fascinating! So, the brain is like a powerful energy-consuming machine?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I read an article about how some scientists are working on creating bio-degradable plastics made from algae.",
+        "That's intriguing! How would that help with the plastic pollution problem?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In my philosophy class, we discussed the concept of determinism and how it challenges the idea of free will.",
+        "Interesting! So, according to determinism, are all our actions predetermined by prior events?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our team is thinking about implementing a new project management software to streamline our workflow.",
+        "That sounds like a good idea. Can you tell me more about how it would benefit our team specifically?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've noticed that our sales figures have been down lately. I think we should explore new marketing strategies to target a different audience.",
+        "I see your point. What kind of strategies do you have in mind that could help us reach new customers?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our last meeting, we discussed the possibility of adopting a remote work policy to increase employee satisfaction and productivity.",
+        "That's an interesting approach. How would we ensure effective communication and collaboration among team members in a remote setting?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "We'll need to adjust our budget for the next quarter.",
+        "I appreciate your positive attitude. Let's figure out the best approach."
+      ],
+      "options": [
+        "Nonverbal Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been working on a new project proposal.",
+        "That sounds interesting! Tell me more about it."
+      ],
+      "options": [
+        "Nonverbal Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our team could use some more resources.",
+        "I hear you. Let's discuss how we can allocate them effectively."
+      ],
+      "options": [
+        "Nonverbal Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let's talk about the new product's plan.",
+        "Sure, let's focus on the main features and marketing strategy."
+      ],
+      "options": [
+        "Clarity and Conciseness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you see the new office policy memo?",
+        "Yes, it was easy to understand and straight to the point."
+      ],
+      "options": [
+        "Clarity and Conciseness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "We need to update our clients about the project's progress.",
+        "Let's send a brief, clear email to keep them informed."
+      ],
+      "options": [
+        "Clarity and Conciseness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been feeling overwhelmed with work lately.",
+        "I understand, it's been a busy time for all of us. Let's see how we can support each other."
+      ],
+      "options": [
+        "Empathy and Emotional Intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My presentation didn't go well today. I'm disappointed.",
+        "I'm sorry to hear that. What do you think you could improve for next time?"
+      ],
+      "options": [
+        "Empathy and Emotional Intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cat is sick, and I'm really worried.",
+        "That's tough. I'm here if you need to talk or need any help."
+      ],
+      "options": [
+        "Empathy and Emotional Intelligence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think we should use social media more for our marketing.",
+        "That's interesting. How do you think it would benefit us?"
+      ],
+      "options": [
+        "Persuasion and Influence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I believe remote work would improve our productivity.",
+        "Can you provide some data to support that claim?"
+      ],
+      "options": [
+        "Persuasion and Influence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Switching to a four-day workweek could boost employee morale.",
+        "Hmm, that sounds intriguing. Tell me more about the advantages."
+      ],
+      "options": [
+        "Persuasion and Influence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's your favorite way to relax after a long day of work?",
+        "I like to take a walk around the neighborhood with my dog."
+      ],
+      "options": [
+        "Asking Open-Ended Questions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How did you come up with such a creative solution to that problem?",
+        "Well, I brainstormed with my team and combined a few different ideas."
+      ],
+      "options": [
+        "Asking Open-Ended Questions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you could travel anywhere in the world, where would you go?",
+        "I've always wanted to visit Japan during cherry blossom season."
+      ],
+      "options": [
+        "Asking Open-Ended Questions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I like how you organized the report, but try using bullet points for easier reading.",
+        "Thanks for the suggestion, I'll update the format."
+      ],
+      "options": [
+        "Providing Constructive Feedback (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The cake you baked was delicious, but maybe add a bit less sugar next time.",
+        "I appreciate the feedback! I'll adjust the recipe."
+      ],
+      "options": [
+        "Providing Constructive Feedback (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your presentation was engaging, but the slides were a bit text-heavy.",
+        "Thanks for the input! I'll work on adding more visuals."
+      ],
+      "options": [
+        "Providing Constructive Feedback (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow, your energy really kept everyone engaged during your speech!",
+        "Thanks! I practiced my delivery a lot to make it interesting."
+      ],
+      "options": [
+        "Public Speaking and Presentation Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your use of visuals in the presentation really helped me understand the topic.",
+        "I'm glad! I wanted to make it easy to follow for everyone."
+      ],
+      "options": [
+        "Public Speaking and Presentation Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I loved how you used anecdotes to make your points during the talk.",
+        "Thank you! I find that stories help make the content more relatable."
+      ],
+      "options": [
+        "Public Speaking and Presentation Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I appreciate how you tailor your communication to each team member.",
+        "Thanks, it's important to understand and adapt to everyone's unique communication style."
+      ],
+      "options": [
+        "Adaptability to Different Communication Styles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You always seem to know the right approach when speaking to clients.",
+        "I try to listen closely and adjust my communication based on their needs and preferences."
+      ],
+      "options": [
+        "Adaptability to Different Communication Styles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do you always manage to get your message across to everyone?",
+        "I pay attention to people's cues and adapt my style accordingly, making sure I'm understood."
+      ],
+      "options": [
+        "Adaptability to Different Communication Styles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You really captivated the team with that story about the project's challenges.",
+        "Thank you! I find that storytelling helps people connect and understand better."
+      ],
+      "options": [
+        "Storytelling and Narrative Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love how you used a metaphor to explain that complex idea.",
+        "Thanks! Stories and analogies can make difficult concepts more relatable and memorable."
+      ],
+      "options": [
+        "Storytelling and Narrative Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your presentation was like watching a suspense movie! I couldn't look away.",
+        "Haha, I appreciate that! A good narrative keeps people engaged and interested."
+      ],
+      "options": [
+        "Storytelling and Narrative Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm glad we found a middle ground on the project timeline.",
+        "Me too! Compromise is key to resolving conflicts and finding win-win solutions."
+      ],
+      "options": [
+        "Negotiation and Conflict Resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I appreciate how you stayed calm and focused during that heated discussion.",
+        "Thanks! Staying cool-headed is essential for effective negotiation and conflict resolution."
+      ],
+      "options": [
+        "Negotiation and Conflict Resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I never thought we'd agree on the budget, but you made it happen!",
+        "Negotiating can be tough, but it's all about finding common ground and mutual benefits."
+      ],
+      "options": [
+        "Negotiation and Conflict Resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love how we can chat about anything, even pineapple on pizza!",
+        "It's all about being open and genuine in our conversations, even on controversial topics!"
+      ],
+      "options": [
+        "Interpersonal Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You always know how to make me feel heard and understood.",
+        "That's the power of interpersonal communication! It's about connecting with others."
+      ],
+      "options": [
+        "Interpersonal Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our team's collaboration has improved since we started sharing our thoughts more openly.",
+        "Effective interpersonal communication is key to building strong relationships and teamwork."
+      ],
+      "options": [
+        "Interpersonal Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm impressed with how you stood your ground in that meeting.",
+        "Thanks! Assertiveness and setting boundaries help maintain a healthy work environment."
+      ],
+      "options": [
+        "Assertiveness and Setting Boundaries (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I appreciate that you were able to say no to that extra task without causing friction.",
+        "Assertiveness is all about expressing your needs while respecting others."
+      ],
+      "options": [
+        "Assertiveness and Setting Boundaries (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I like how you set limits on your workload without being rude.",
+        "Setting boundaries is essential for maintaining a good work-life balance and avoiding burnout."
+      ],
+      "options": [
+        "Assertiveness and Setting Boundaries (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I find it fascinating how you can navigate conversations with people from different backgrounds so easily!",
+        "Understanding cross-cultural and diversity communication is like having a secret superpower!"
+      ],
+      "options": [
+        "Cross-Cultural and Diversity Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow, you managed to order food in that foreign language like a pro!",
+        "Being aware of cultural nuances and embracing diversity makes life so much more interesting and fun!"
+      ],
+      "options": [
+        "Cross-Cultural and Diversity Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed you took the time to learn about your coworker's cultural customs before the meeting.",
+        "When you appreciate and respect diversity, it creates an inclusive and harmonious workplace."
+      ],
+      "options": [
+        "Cross-Cultural and Diversity Communication (correct answer)"
+      ]
+    }
+  ]
+}

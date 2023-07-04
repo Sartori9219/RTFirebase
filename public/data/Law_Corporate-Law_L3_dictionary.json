@@ -1,0 +1,363 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, I heard that the group of alpacas down the road formed their own knitting company!",
+        "That's right! They went through the process of incorporation to become Alpaca Knitwear Ltd. Now they can sell their cozy creations legally."
+      ],
+      "options": [
+        "Incorporation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that we magical creatures can start a business together and protect ourselves from personal liability?",
+        "Absolutely! By incorporating our business as \"Magical Enterprises Inc.\", we can keep our personal assets safe while sharing in the company's profits."
+      ],
+      "options": [
+        "Incorporation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been collecting nuts for years, and I think it's time to turn this into a profitable venture.",
+        "Great idea! Let's incorporate our business as \"Nutty Buddies Inc.\" so we can focus on expanding our nut empire without risking our bushy tails!"
+      ],
+      "options": [
+        "Incorporation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that our underwater bakery can have different levels of management just like a corporation?"
+      ],
+      "options": [
+        "Corporate Structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've heard that companies have something called a Corporate Structure. What's that all about?"
+      ],
+      "options": [
+        "Corporate Structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our enchanted forest could use some organization. How do corporations manage their hierarchy?"
+      ],
+      "options": [
+        "Corporate Structure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that we can own a part of that hopping new trampoline company by being shareholders?",
+        "Absolutely! As shareholders, we'd have a claim on their profits and even get to vote on important decisions. Talk about a bouncing good investment!"
+      ],
+      "options": [
+        "Shareholders (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've heard that Earthlings can own pieces of companies. How does that work?",
+        "They become shareholders by buying shares of a company. It's like owning a tiny slice of the company's pie and sharing in its success or failure."
+      ],
+      "options": [
+        "Shareholders (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been investing in breadcrumbs lately, and I think it's time to diversify my portfolio.",
+        "You should consider becoming a shareholder in Birdseed Inc.! You'd own a piece of the company and could peck at their profits."
+      ],
+      "options": [
+        "Shareholders (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that the new circus company has a group of animals that make important decisions for the business. What are they called?"
+      ],
+      "options": [
+        "Board of Directors (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our magical potion business is growing fast! We need some experienced individuals to help guide our venture.",
+        "Let's assemble a Board of Directors, with the wisest wizards and witches in the realm. They'll help us brew up success!"
+      ],
+      "options": [
+        "Board of Directors (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our honey production is booming, but we could use some guidance on how to expand our buzzing empire."
+      ],
+      "options": [
+        "Board of Directors (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our ice cream company is a big hit in the Antarctic! But we need someone to manage the day-to-day operations."
+      ],
+      "options": [
+        "Officers (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Beep boop! Our tech startup is growing rapidly, but we need help managing our resources and making decisions.",
+        "Beep beep! We should appoint Officers, like a Chief Executive Bot and a Chief Financial Bot, to oversee our operations and guide us towards success."
+      ],
+      "options": [
+        "Officers (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our desert landscaping business is thriving, but we could use some help with daily management.",
+        "Let's appoint some Officers, like a Chief Prickly Officer and a Chief Water Conservation Officer, to keep our business on track and flourishing!"
+      ],
+      "options": [
+        "Officers (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that the leaders of our banana farming company have a responsibility to protect our interests. What's that all about?",
+        "That's called Fiduciary Duties! They must act in our best interests and make decisions that benefit the company and us, the banana-loving shareholders."
+      ],
+      "options": [
+        "Fiduciary Duties (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our superhero team is now a registered company! But what responsibilities do we have as the ones in charge?"
+      ],
+      "options": [
+        "Fiduciary Duties (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our restaurant business is really taking off! But as the head chef, I want to make sure I'm doing right by the company."
+      ],
+      "options": [
+        "Fiduciary Duties (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our space tourism business is taking off, but I'm worried about risking my personal assets if something goes wrong."
+      ],
+      "options": [
+        "Limited Liability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our ninja training school is now a corporation, but what if one of our students accidentally breaks a wall during practice?"
+      ],
+      "options": [
+        "Limited Liability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our underwater treasure hunting company found some valuable shipwrecks, but there's always a risk in this business. How can we protect ourselves?"
+      ],
+      "options": [
+        "Limited Liability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our haunted house business is a big hit, but we need to make sure it's well-managed and transparent for our ghostly investors.",
+        "That's where Corporate Governance comes in! It's the set of rules and practices that help us run our spooky venture efficiently and ethically."
+      ],
+      "options": [
+        "Corporate Governance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our time machine rental company has taken off, but with great power comes great responsibility. How do we make sure everything stays on track?"
+      ],
+      "options": [
+        "Corporate Governance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our nighttime bakery is thriving, but we want to make sure we're doing right by our nocturnal stakeholders."
+      ],
+      "options": [
+        "Corporate Governance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our intergalactic snack company is doing great, but I heard there's another business that makes amazing space popcorn. What if we join forces?",
+        "That's a perfect example of Mergers and Acquisitions! We could merge our companies or acquire theirs to create the ultimate cosmic snack empire!"
+      ],
+      "options": [
+        "Mergers and Acquisitions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Arr matey, our treasure hunting crew has found so much loot, but there's another crew with an even better map. How do we combine our efforts?",
+        "We could engage in Mergers and Acquisitions! By merging our crews or acquiring their ship and map, we'll be unstoppable on the high seas!"
+      ],
+      "options": [
+        "Mergers and Acquisitions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our brain-flavored ice cream business is booming, but there's another company with a great line of spooky toppings. How can we work together?"
+      ],
+      "options": [
+        "Mergers and Acquisitions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our crime-solving agency is now publicly traded, but we need to make sure we're following the rules when it comes to our stocks.",
+        "That's where Securities Regulation comes in! We must comply with laws and regulations to ensure a fair and transparent market for our investors."
+      ],
+      "options": [
+        "Securities Regulation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our superhero alliance is now a publicly listed company! But how do we ensure that our trading practices are fair for everyone?"
+      ],
+      "options": [
+        "Securities Regulation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our potion business is going public, but we need to make sure our shares are traded fairly and transparently.",
+        "That's the purpose of Securities Regulation! By following these rules, we can cast a spell of confidence over our investors and the market."
+      ],
+      "options": [
+        "Securities Regulation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our rainbow bridge construction company has been making pots of gold lately! How do we share the wealth with our investors?",
+        "We can distribute Dividends! It's like sharing a portion of our golden profits with those who believed in our magical venture."
+      ],
+      "options": [
+        "Dividends (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our bakery is doing so well that we have extra frosting to share! What's a sweet way to reward our investors?",
+        "Let's give them Dividends! It's like sprinkling some extra sugar on top of their investment, making it even more delicious."
+      ],
+      "options": [
+        "Dividends (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our fire-breathing performance company has really heated up the market! How can we share the flames of success with our shareholders?",
+        "By giving out Dividends! It's like sending a warm burst of appreciation to those who supported our fiery enterprise."
+      ],
+      "options": [
+        "Dividends (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our snow cone business is melting away, and I think it's time to close up shop. What's the process for ending our icy venture?",
+        "We need to go through Dissolution. It involves settling our debts, distributing any remaining assets, and saying a frosty farewell to our company."
+      ],
+      "options": [
+        "Dissolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our wild west theme park isn't drawing crowds anymore. How do we properly ride off into the sunset with our business?"
+      ],
+      "options": [
+        "Dissolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our haunted hotel has lost its spooky charm, and it's time to move on to the afterlife. How do we put our business to rest?"
+      ],
+      "options": [
+        "Dissolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our spaceship rental business is out of this world, but we need to manage our intergalactic finances. How do we handle that?",
+        "That's where Corporate Finance comes into play! It helps us manage our money, make investment decisions, and keeps our warp drives running smoothly."
+      ],
+      "options": [
+        "Corporate Finance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our crime-fighting gadgets are expensive! How do we make sure we're using our funds wisely to save the city?"
+      ],
+      "options": [
+        "Corporate Finance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our gourmet burger joint is a hit, but we need to keep track of our finances to buy the best ingredients and expand our menu. What's the secret sauce?",
+        "It's all about mastering Corporate Finance! By managing our cash flow and making smart investments, we can serve up even more delicious success."
+      ],
+      "options": [
+        "Corporate Finance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've uncovered some top-secret info about our donut company's new flavor, but I'm tempted to use it for personal gain. What do you think?"
+      ],
+      "options": [
+        "Insider Trading (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just found out that our potion business is about to skyrocket! Should I buy more shares before the news goes public?",
+        "No, that would be Insider Trading, which is against the law. We must maintain a fair and transparent market for all magical investors."
+      ],
+      "options": [
+        "Insider Trading (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I overheard that our space tourism company is about to sign a huge contract. I want to buy more shares before everyone else finds out. Is that okay?",
+        "Hold your rockets! That's Insider Trading, and it's illegal. We need to ensure a level playing field for all investors in the cosmic market."
+      ],
+      "options": [
+        "Insider Trading (correct answer)"
+      ]
+    }
+  ]
+}

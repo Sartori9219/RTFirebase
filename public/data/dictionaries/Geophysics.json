@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Plate Tectonics",
+        "Earth's Magnetic Field",
+        "Seismic Waves",
+        "Gravity",
+        "Earth's Interior Structure",
+        "Geodesy",
+        "Earthquake Seismology",
+        "Tsunamis",
+        "Volcanology",
+        "Geomagnetism",
+        "Atmospheric Electricity",
+        "Rock Magnetism",
+        "Geophysical Survey",
+        "Geochronology",
+        "Paleomagnetism"
+    ],
+    "hints": {
+        "Plate Tectonics": "The theory that explains the global distribution of geological phenomena. The Earth's lithosphere is divided into several large and small pieces, known as tectonic plates, which are constantly moving.",
+        "Earth's Magnetic Field": "The magnetic field that extends from the Earth's interior out into space. It shields the Earth from harmful solar radiation.",
+        "Seismic Waves": "The waves of energy caused by the sudden breaking of rock within the earth or an explosion. They are the waves we feel during an earthquake.",
+        "Gravity": "The force that attracts two bodies toward each other. In geophysics, gravity studies can reveal information about the subsurface.",
+        "Earth's Interior Structure": "The study of the Earth's interior, from crust to core. This includes understanding the different layers and their properties.",
+        "Geodesy": "The science of accurately measuring and understanding the Earth's geometric shape, orientation in space, and gravity field.",
+        "Earthquake Seismology": "The study of earthquakes and the energy they release in the form of seismic waves.",
+        "Tsunamis": "Ocean waves triggered by large earthquakes, volcanic eruptions, or underwater landslides. Understanding them is important for hazard mitigation.",
+        "Volcanology": "The study of volcanoes, lava, magma, and related geological phenomena.",
+        "Geomagnetism": "The study of the Earth's magnetic field in relation to phenomena like magnetic poles and navigation.",
+        "Atmospheric Electricity": "The study of electrical charges, fields, and currents in the Earth's atmosphere.",
+        "Rock Magnetism": "The study of the magnetic properties of rocks, sediments, and soils.",
+        "Geophysical Survey": "The systematic collection of geophysical data for spatial studies. This is used in exploration for resources like oil, gas, and minerals.",
+        "Geochronology": "The science of determining the age of rocks, fossils, and sediments using signatures inherent in the rocks themselves.",
+        "Paleomagnetism": "The study of the record of the Earth's magnetic field in rocks, sediment, or archeological materials."
+    }
+}

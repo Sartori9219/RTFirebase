@@ -1,0 +1,36 @@
+{
+    "options": [
+        "DNA Sequencing",
+        "Genomics",
+        "Proteomics",
+        "Metagenomics",
+        "Genetic Variation",
+        "Sequence Alignment",
+        "Phylogenetics",
+        "Gene Prediction",
+        "Protein Structure Prediction",
+        "Systems Biology",
+        "Functional Genomics",
+        "Comparative Genomics",
+        "Transcriptomics",
+        "Machine Learning in Bioinformatics",
+        "Biological Databases"
+    ],
+    "hints": {
+        "DNA Sequencing": "This is the process of determining the precise order of nucleotides within a DNA molecule. It includes any method or technology that is used to determine the order of the four bases - adenine, guanine, cytosine, and thymine.",
+        "Genomics": "The study of the complete set of genes within an organism (the genome) and their functions. It involves the sequencing and analysis of genomes.",
+        "Proteomics": "The large-scale study of proteins, particularly their structures and functions. This is significant because proteins are vital parts of living organisms, as they are the main components of the physiological metabolic pathways of cells.",
+        "Metagenomics": "This is the study of genetic material recovered directly from environmental samples. It allows researchers to study communities of organisms directly in their natural environments.",
+        "Genetic Variation": "Genetic variation refers to the diversity in the genetic makeup of individuals within a species. It is the basis for natural selection and evolution.",
+        "Sequence Alignment": "This is a method of arranging sequences of DNA, RNA, or protein to identify regions of similarity. These similarities could be a result of functional, structural, or evolutionary relationships between the sequences.",
+        "Phylogenetics": "The study of the evolutionary history and relationships among individuals or groups of organisms. These relationships are discovered through phylogenetic inference methods that evaluate observed heritable traits.",
+        "Gene Prediction": "This refers to the process of identifying the regions of genomic DNA that encode genes. This is a critical step in annotating genomes.",
+        "Protein Structure Prediction": "A way of predicting the three-dimensional structure of a protein from its amino acid sequence. This is of high importance in fields like drug design or disease prediction.",
+        "Systems Biology": "An interdisciplinary field that focuses on complex interactions within biological systems, often using a holistic approach.",
+        "Functional Genomics": "The field of genomics that uses various experimental approaches to assess gene function, including the roles they play in cells or organisms.",
+        "Comparative Genomics": "The study of the relationship of genome structure and function across different biological species or strains. This is useful for understanding the genetics of organisms and their evolution.",
+        "Transcriptomics": "The study of the complete set of RNA transcripts produced by the genome under specific circumstances or in a specific cell using high-throughput methods.",
+        "Machine Learning in Bioinformatics": "The application of artificial intelligence techniques to automatically learn and improve from experience, which is now being widely used in bioinformatics for tasks like gene prediction, protein structure prediction, and disease prediction.",
+        "Biological Databases": "These are libraries or archives that store biological information such as gene sequences, protein sequences, or other pieces of biological knowledge. They are crucial tools for researchers in bioinformatics."
+    }
+}

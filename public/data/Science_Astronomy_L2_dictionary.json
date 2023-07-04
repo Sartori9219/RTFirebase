@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why does the Sun always seem to be the boss of everything?",
+        "It's the center of our Solar System, so all the planets, including Earth, orbit around it!"
+      ],
+      "options": [
+        "Solar System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I threw a really big party, could I invite all the planets?",
+        "Sure, but don't forget the dress code: everyone has to keep spinning while they go around the Sun!"
+      ],
+      "options": [
+        "Solar System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do we call our neighborhood in space the Solar System?",
+        "It's because we all live in the same cosmic community with the Sun at the center!"
+      ],
+      "options": [
+        "Solar System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I were a superhero, I'd want to visit all the planets!",
+        "That sounds like a blast! Just remember, some planets are super hot, and others are freezing cold!"
+      ],
+      "options": [
+        "Planets (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if I had a pet planet?",
+        "It would be one giant responsibility! You'd have to make sure it always orbits around its star."
+      ],
+      "options": [
+        "Planets (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does Earth only have one moon?",
+        "I guess we got lucky! Some planets have more, while others don't have any moons at all."
+      ],
+      "options": [
+        "Moons (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I could jump on the moon, how high would I go?",
+        "You'd bounce super high! The moon's gravity is only about 1/6th of Earth's, so you'd feel much lighter."
+      ],
+      "options": [
+        "Moons (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do stars make those cool shapes in the sky?",
+        "Actually, stars are just scattered all over! It's our imagination that connects the dots to make shapes."
+      ],
+      "options": [
+        "Stars (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do stars twinkle?",
+        "It's because their light has to travel through Earth's atmosphere, which makes it look like they're flickering!"
+      ],
+      "options": [
+        "Stars (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's your favorite constellation?",
+        "I love Orion! It looks like a hunter in the sky with a cool belt and a sword."
+      ],
+      "options": [
+        "Constellations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do constellations tell stories?",
+        "Yes, they do! Many constellations are based on ancient myths and legends from different cultures."
+      ],
+      "options": [
+        "Constellations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are we living inside a candy bar?",
+        "Haha, no! But our galaxy is called the Milky Way, and it's filled with billions of stars, including our Sun."
+      ],
+      "options": [
+        "Milky Way (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What does the Milky Way look like from far away?",
+        "It's a beautiful spiral shape, kind of like a cosmic pinwheel with arms full of stars!"
+      ],
+      "options": [
+        "Milky Way (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Is the Milky Way the only galaxy out there?",
+        "No way! There are billions of galaxies in the universe, each with their own collection of stars, planets, and other cosmic stuff."
+      ],
+      "options": [
+        "Galaxies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I had a telescope that could see super far, how many galaxies could I see?",
+        "You'd be able to see thousands of them, but remember, there are billions more out there in the vast universe!"
+      ],
+      "options": [
+        "Galaxies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some pictures of space look like colorful clouds?",
+        "Those are called nebulae! They're huge clouds of gas and dust where stars are born."
+      ],
+      "options": [
+        "Nebulae (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What would happen if I went inside a nebula?",
+        "You'd see an amazing light show, but it's also full of dust and gas, so you might want to bring a space mask!"
+      ],
+      "options": [
+        "Nebulae (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's so mysterious about black holes?",
+        "They're like cosmic vacuum cleaners! Their gravity is so strong that not even light can escape."
+      ],
+      "options": [
+        "Black Holes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Could a black hole eat a planet?",
+        "Yep! If a planet got too close to a black hole, it would be pulled in and gobbled up by its powerful gravity."
+      ],
+      "options": [
+        "Black Holes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do comets have tails?",
+        "As they get closer to the Sun, their icy surface starts to vaporize, creating a glowing tail that stretches out behind them."
+      ],
+      "options": [
+        "Comets (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are comets like shooting stars?",
+        "Not exactly! Comets are icy space rocks, while shooting stars are actually meteors burning up as they enter Earth's atmosphere."
+      ],
+      "options": [
+        "Comets (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the difference between an asteroid and a comet?",
+        "Asteroids are mostly made of rock and metal, while comets are made of ice, rock, and dust. Asteroids usually hang out in the Asteroid Belt between Mars and Jupiter."
+      ],
+      "options": [
+        "Asteroids (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I could ride an asteroid, where would it take me?",
+        "You'd be cruising through the Asteroid Belt, zipping around the Sun with millions of other space rocks!"
+      ],
+      "options": [
+        "Asteroids (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I saw a shooting star! What was that?",
+        "You saw a meteor! It's a small space rock burning up as it races through Earth's atmosphere."
+      ],
+      "options": [
+        "Meteoroids, Meteors, and Meteorites (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the difference between a meteor and a meteorite?",
+        "A meteor is a space rock burning up in the atmosphere, while a meteorite is a meteor that makes it all the way to the ground."
+      ],
+      "options": [
+        "Meteoroids, Meteors, and Meteorites (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do I sometimes feel like I have a frog in my throat?",
+        "It might be because your bronchi, the tubes that carry air to your lungs, are irritated!"
+      ],
+      "options": [
+        "Bronchi (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are bronchi like tree branches?",
+        "Kind of! They branch off from the trachea and divide into smaller tubes called bronchioles, just like branches on a tree."
+      ],
+      "options": [
+        "Bronchi (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do I need to breathe?",
+        "When you breathe, tiny air sacs in your lungs called alveoli help to exchange oxygen and carbon dioxide between your blood and the air."
+      ],
+      "options": [
+        "Alveoli (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do alveoli look like?",
+        "They're like tiny balloons clustered at the end of the bronchioles, and they fill up with air when you breathe in!"
+      ],
+      "options": [
+        "Alveoli (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What does the gallbladder do?",
+        "It's like a storage unit for bile! It holds the bile produced by your liver until it's needed to help digest fats in your food."
+      ],
+      "options": [
+        "Gallbladder (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I eat a really greasy pizza, will my gallbladder be busy?",
+        "Oh, for sure! It'll release bile to help break down all that fat so your body can absorb it."
+      ],
+      "options": [
+        "Gallbladder (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my doctor always check my neck during a checkup?",
+        "They're probably checking your thyroid, a butterfly-shaped gland that helps regulate your metabolism and energy levels."
+      ],
+      "options": [
+        "Thyroid (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What does the thyroid do?",
+        "It's like your body's thermostat! It helps to control how fast or slow your body uses energy by releasing hormones."
+      ],
+      "options": [
+        "Thyroid (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do cuts stop bleeding after a while?",
+        "That's because of platelets! They're tiny blood cell fragments that help your blood clot and stop the bleeding."
+      ],
+      "options": [
+        "Platelets (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What would happen if we didn't have platelets?",
+        "We'd be in trouble! Even a small cut could cause us to lose a lot of blood since it wouldn't clot properly."
+      ],
+      "options": [
+        "Platelets (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do I get so emotional sometimes?",
+        "It could be your hormones! They're chemical messengers that help regulate your emotions, growth, and lots of other things in your body."
+      ],
+      "options": [
+        "Hormones (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are hormones like secret agents?",
+        "Kind of! They travel through your bloodstream, delivering important messages to different parts of your body to keep everything in balance."
+      ],
+      "options": [
+        "Hormones (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can I wiggle my fingers without even thinking about it?",
+        "That's because of neurons! They're special cells in your nervous system that transmit signals to and from your brain."
+      ],
+      "options": [
+        "Neurons (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do neurons talk to each other?",
+        "They communicate through tiny electrical signals and chemicals called neurotransmitters. It's like they're having a super-fast conversation!"
+      ],
+      "options": [
+        "Neurons (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do my muscles feel connected to my bones?",
+        "That's because of tendons! They're strong, fibrous cords that attach your muscles to your bones."
+      ],
+      "options": [
+        "Tendons (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I flex my arm, can I see my tendons?",
+        "You might see some of them! They're usually hidden under your skin and muscles, but when you flex, some tendons become more visible."
+      ],
+      "options": [
+        "Tendons (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do bones stay connected to each other?",
+        "That's because of ligaments! They're like stretchy bands that connect bones to other bones and help keep your joints stable."
+      ],
+      "options": [
+        "Ligaments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's a space cloud called?",
+        "That's a nebula! It's a massive cloud of dust and gas where stars can be born."
+      ],
+      "options": [
+        "Nebulae (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are nebulae so colorful?",
+        "The colors come from the different elements in the cloud, like hydrogen and helium, glowing due to the energy from nearby stars."
+      ],
+      "options": [
+        "Nebulae (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What happens if you get too close to a black hole?",
+        "Uh-oh, you'd be in trouble! Its powerful gravity would pull you in, and you'd be stretched like spaghetti!"
+      ],
+      "options": [
+        "Black Holes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can black holes ever disappear?",
+        "Yes, but it takes a really long time! They can lose mass through a process called Hawking radiation and eventually evaporate."
+      ],
+      "options": [
+        "Black Holes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do comets have tails?",
+        "As a comet gets close to the sun, its ice starts to vaporize, creating a glowing tail that streams behind it."
+      ],
+      "options": [
+        "Comets (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are comets like dirty snowballs?",
+        "That's a great way to think about it! They're made of ice, dust, and rock, just like a snowball with dirt mixed in."
+      ],
+      "options": [
+        "Comets (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the difference between an asteroid and a comet?",
+        "Asteroids are mostly made of rock and metal, while comets are made of ice, rock, and dust. Plus, comets have tails when they get close to the sun!"
+      ],
+      "options": [
+        "Asteroids (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Where do most asteroids hang out?",
+        "A lot of them can be found in the asteroid belt, a region between the orbits of Mars and Jupiter!"
+      ],
+      "options": [
+        "Asteroids (correct answer)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Do you know why I can't do a handstand for more than 10 seconds?",
+        "It's not just about strength, but your body's balance, stability and the gravity acting on different parts of your body. It's basically a biomechanics problem!"
+      ],
+      "options": [
+        "Biomechanics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just learned to throw a curveball, but I can't figure out why it curves!",
+        "Well, it's all about the spin you put on the ball and how air pressure acts differently on each side. You're basically a biomechanics genius now!"
+      ],
+      "options": [
+        "Biomechanics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I keep tripping in these new high heels. What's going on?",
+        "Heels change your body's center of gravity and put more pressure on your toes, which makes walking a bit of a biomechanical challenge!"
+      ],
+      "options": [
+        "Biomechanics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just finished mapping out my family tree for the last 300 years.",
+        "Oh, so you're into genealogy! But have you considered going a step further with bioinformatics and mapping their genomes?"
+      ],
+      "options": [
+        "Bioinformatics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard you're trying to create the perfect playlist for our road trip.",
+        "Yes, I'm applying bioinformatics principles. I'm analyzing our music taste patterns and making an algorithm to select the best songs!"
+      ],
+      "options": [
+        "Bioinformatics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm struggling with this 1,000-piece puzzle.",
+        "Think of it like bioinformatics! Each piece is like a bit of genetic data. You just need to find the right place for it in the big picture."
+      ],
+      "options": [
+        "Bioinformatics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can you believe they're growing burgers in labs now?",
+        "Absolutely, it's just a new application of tissue engineering. Can't wait for the day they grow pizzas!"
+      ],
+      "options": [
+        "Tissue Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish I could regrow my hair just like I water my lawn.",
+        "We're not too far from that with tissue engineering. Maybe soon, you can grow a lush hair garden!"
+      ],
+      "options": [
+        "Tissue Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My dog chewed my favorite shoes. If only I could regrow them.",
+        "Well, with tissue engineering we're closer to regrowing organs. Shoes might have to wait a bit longer!"
+      ],
+      "options": [
+        "Tissue Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just swallowed my keys... again.",
+        "Don't worry, with today's medical imaging we'll find them in no time!"
+      ],
+      "options": [
+        "Medical Imaging (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm convinced I have a sixth sense. I think I can see through walls!",
+        "Or maybe you've just been spending too much time around the medical imaging equipment..."
+      ],
+      "options": [
+        "Medical Imaging (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I thought my heart was on the right.",
+        "Medical imaging proves it's on the left. But don't worry, you're right about it being in the right place!"
+      ],
+      "options": [
+        "Medical Imaging (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't seem to remember anything these days!",
+        "Maybe what you need is a biomedical device that beeps every time you forget something."
+      ],
+      "options": [
+        "Biomedical Devices (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Look, I can change TV channels with my new smartwatch!",
+        "Imagine if biomedical devices could do that, you could control your heart rate!"
+      ],
+      "options": [
+        "Biomedical Devices (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know, I've been thinking of getting a new pair of running shoes.",
+        "What you need is a pair made from biomaterials, then your feet could help them grow!"
+      ],
+      "options": [
+        "Biomaterials (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking of growing a garden on my roof!",
+        "Maybe you should look into biomaterials. I hear some can even absorb rainwater!"
+      ],
+      "options": [
+        "Biomaterials (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish my clothes would adapt to the weather.",
+        "With the right biomaterials, they could. Imagine a shirt that grows fur in winter!"
+      ],
+      "options": [
+        "Biomaterials (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't find my glasses anywhere!",
+        "Maybe you should get your eyes laser corrected with biomedical optics!"
+      ],
+      "options": [
+        "Biomedical Optics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to see inside my sandwich to see if there's enough cheese!",
+        "Well, biomedical optics could help... if your sandwich was a human body."
+      ],
+      "options": [
+        "Biomedical Optics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish I could see what's happening inside my body when I exercise.",
+        "With biomedical optics, doctors can look inside without a single incision!"
+      ],
+      "options": [
+        "Biomedical Optics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish I could change my genes to be taller.",
+        "Genomic engineering might make that possible someday, just don't forget to duck under doorways!"
+      ],
+      "options": [
+        "Genomic Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think I could genetically engineer a cat that could talk?",
+        "Genomic engineering isn't quite there yet, but at least your cat can still give you judgmental looks!"
+      ],
+      "options": [
+        "Genomic Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to create a fruit that tastes like a burger.",
+        "With genomic engineering, maybe we'll get there one day. Burgerberries, anyone?"
+      ],
+      "options": [
+        "Genomic Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we could control robots with our brains!",
+        "That's neural engineering for you, just be careful not to think about dancing when you're operating a bulldozer!"
+      ],
+      "options": [
+        "Neural Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can neural engineering help me forget my embarrassing moments?",
+        "Well, it might be easier to just laugh at them!"
+      ],
+      "options": [
+        "Neural Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard neural engineering can help people with paralysis move again.",
+        "It's amazing, isn't it? Science is like a superhero, always saving the day!"
+      ],
+      "options": [
+        "Neural Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Cardiovascular engineering, huh? Sounds like heart construction work!",
+        "Well, kind of! It's more like designing systems to keep hearts pumping smoothly."
+      ],
+      "options": [
+        "Cardiovascular Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If cardiovascular engineering gets any better, we'll have hearts that never break!",
+        "I'm not sure it works on emotional heartbreak, though..."
+      ],
+      "options": [
+        "Cardiovascular Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard cardiovascular engineering can make artificial hearts. Does that mean I could have a titanium heart?",
+        "Maybe, but you'll still need to have a heart of gold!"
+      ],
+      "options": [
+        "Cardiovascular Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Rehabilitation Engineering? So, we're rehabbing engineering now?",
+        "Nope! It's about designing devices that help people regain lost function, like after an injury."
+      ],
+      "options": [
+        "Rehabilitation Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard about rehabilitation engineering. Will it make my grandpa's old radio work again?",
+        "Not quite, it\u2019s more about helping humans function better, not radios!"
+      ],
+      "options": [
+        "Rehabilitation Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Is rehabilitation engineering like giving a second life to machines?",
+        "More like giving a second life to people who need assistive devices!"
+      ],
+      "options": [
+        "Rehabilitation Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Biomedical Signal Processing? Is that like traffic signals for cells?",
+        "More like interpreting the 'language' of our bodies' electrical signals."
+      ],
+      "options": [
+        "Biomedical Signal Processing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, Biomedical Signal Processing is like translating alien signals?",
+        "If by \"alien,\" you mean the complex signals our body produces, then yes!"
+      ],
+      "options": [
+        "Biomedical Signal Processing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Does Biomedical Signal Processing mean I can decode my cat's meows?",
+        "Nope, but you could potentially analyze a heartbeat!"
+      ],
+      "options": [
+        "Biomedical Signal Processing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Bioinstrumentation? Does that mean I can play the trombone with my brainwaves?",
+        "Not quite, it's more about devices that measure biological signals."
+      ],
+      "options": [
+        "Bioinstrumentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've heard of Bioinstrumentation. Is that like using a stethoscope to listen to my heart?",
+        "Yes, that's a simple example! It's all about using instruments to study living organisms."
+      ],
+      "options": [
+        "Bioinstrumentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Bioinstrumentation... Is that like playing the guitar with my heartbeat?",
+        "Sounds like a cool concept, but it's more about using technology to monitor and diagnose health conditions."
+      ],
+      "options": [
+        "Bioinstrumentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Pharmacokinetics! Isn't that some sort of magical spell from Harry Potter?",
+        "No, it's the study of how drugs move through the body, not a Hogwarts class!"
+      ],
+      "options": [
+        "Pharmacokinetics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think pharmacokinetics is about figuring out how fast I can run after taking an energy drink.",
+        "Not quite, it's about how drugs are absorbed, distributed, metabolized, and excreted from the body."
+      ],
+      "options": [
+        "Pharmacokinetics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard pharmacokinetics is all about rollercoasters!",
+        "Not the theme park kind, but it does study the 'ride' a drug takes through your body!"
+      ],
+      "options": [
+        "Pharmacokinetics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Is orthopedic bioengineering about building skeleton forts?",
+        "More like designing implants and prosthetics, but skeleton forts do sound fun!"
+      ],
+      "options": [
+        "Orthopedic Bioengineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I guess orthopedic bioengineering means I can finally get my rocket-powered legs?",
+        "Well, it's more about developing artificial joints and bones, but who knows what the future holds!"
+      ],
+      "options": [
+        "Orthopedic Bioengineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, orthopedic bioengineering is like playing with Legos, but with real bones?",
+        "Not quite! It's about designing and improving medical devices for the musculoskeletal system."
+      ],
+      "options": [
+        "Orthopedic Bioengineering (correct answer)"
+      ]
+    }
+  ]
+}

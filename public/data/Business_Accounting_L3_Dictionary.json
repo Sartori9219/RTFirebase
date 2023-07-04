@@ -1,0 +1,592 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, did you know that if you buy a candy bar for $2, it's like you're giving away $2 and getting a yummy treat in return?",
+        "Oh, I see! So it's like two things happening at once, right?"
+      ],
+      "options": [
+        "Double-entry bookkeeping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're at a water balloon fight, and every time you throw a water balloon, you also receive one from someone else!",
+        "Haha, that's wild! So it's like there's always an equal action for every water balloon I throw?"
+      ],
+      "options": [
+        "Double-entry bookkeeping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "every time you add a sticker to your collection, you also have to give one away to a friend.",
+        "That's funny! So for every sticker I get, there's always a matching action of giving one away?"
+      ],
+      "options": [
+        "Double-entry bookkeeping (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think of your toy collection as your treasure, and your borrowed toys as your debts. The toys you really own are the difference between the two!",
+        "Oh, so my real toy collection equals my treasure minus my debts?"
+      ],
+      "options": [
+        "Accounting equation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you have a superhero utility belt, and all the cool gadgets on it are things you own that help you on your missions!",
+        "So, all those gadgets are like my valuable resources?"
+      ],
+      "options": [
+        "Assets (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know when you trade your lunch for a dessert, but now you owe your friend a dessert tomorrow?",
+        "Yeah, that's like a dessert debt I have to pay back!"
+      ],
+      "options": [
+        "Liabilities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture a giant ice cream sundae with all the toppings. Your share of the sundae is the part that's left after your friends take their portions.",
+        "Yummy! So my share is what's left just for me after everyone else gets their part?"
+      ],
+      "options": [
+        "Owner's Equity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you set up a lemonade stand, and every cup you sell brings you more coins for your piggy bank.",
+        "So, the more cups I sell, the more money I make for my piggy bank!"
+      ],
+      "options": [
+        "Revenue (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think about when you buy supplies for your epic treehouse. Those supplies cost money, but they help you build something awesome!",
+        "Got it! So expenses are like the money I spend to create cool things!"
+      ],
+      "options": [
+        "Expenses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you have a garage sale and sell your old toys for more money than it cost to advertise and set it up?",
+        "That means I made a profit from my garage sale!"
+      ],
+      "options": [
+        "Profit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if your treehouse was a secret base, and you had a special report that showed all the cool stuff inside and how much it cost.",
+        "So, financial statements are like my secret base's inventory report?"
+      ],
+      "options": [
+        "Financial statements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture your treehouse again, but this time with a magic mirror that shows all your cool stuff, borrowed stuff, and what's really yours.",
+        "So the balance sheet is like my treehouse's magic mirror of belongings?"
+      ],
+      "options": [
+        "Balance sheet (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think of the lemonade stand again, but now you have a superhero scoreboard that shows all the money you made and spent!",
+        "Oh, I get it! The income statement is like my lemonade stand's superhero scoreboard!"
+      ],
+      "options": [
+        "Income statement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're a pirate captain, and you have a treasure map that shows where all your gold coins are coming from and going to.",
+        "Arr matey! The cash flow statement is like my pirate treasure map for gold coins!"
+      ],
+      "options": [
+        "Cash flow statement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know how sometimes you trade stickers with a friend, but they don't give you the sticker right away? Instead, they promise to give it to you later.",
+        "Yeah, so we're counting the sticker trade even if we don't have the stickers yet?"
+      ],
+      "options": [
+        "Accrual accounting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when you traded baseball cards with your friend, but only counted the trade when you both actually exchanged the cards?",
+        "Right, we only counted the trade when we had the cards in our hands!"
+      ],
+      "options": [
+        "Cash basis accounting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine your favorite toy car slowly losing its shine and paint over time, making it less valuable than when you first got it.",
+        "Oh, so depreciation is like my toy car becoming less awesome as time goes by?"
+      ],
+      "options": [
+        "Depreciation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Apologies for the confusion, I misunderstood your request. I provided only one exchange for each topic in my previous response. If you would like more exchanges for each topic or any adjustments, please let me know.",
+        "Think of your toy collection as your treasure, and your borrowed toys as your debts. The toys you really own are the difference between the two!",
+        "Oh, so my real toy collection equals my treasure minus my debts?"
+      ],
+      "options": [
+        "Accounting equation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine your bedroom is a castle. The castle's worth is the combination of your own possessions and anything you borrowed from your friends.",
+        "So the value of my castle is the sum of my stuff and the borrowed stuff?"
+      ],
+      "options": [
+        "Accounting equation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture a cake you baked using both your own and borrowed ingredients. The whole cake is your creation, but a part of it belongs to your friend.",
+        "Got it! So the whole cake is like my assets, and the part that belongs to my friend is the liabilities?"
+      ],
+      "options": [
+        "Accounting equation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know how your favorite superhero's power is the total of their natural abilities plus their special gadgets?",
+        "Yeah! So their total power is like their assets, and the gadgets are like the liabilities?"
+      ],
+      "options": [
+        "Accounting equation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you have a superhero utility belt, and all the cool gadgets on it are things you own that help you on your missions!",
+        "So, all those gadgets are like my valuable resources?"
+      ],
+      "options": [
+        "Assets (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture a treasure chest filled with your favorite toys, games, and books. All these items are things you own that are valuable.",
+        "So my treasure chest represents my assets?"
+      ],
+      "options": [
+        "Assets (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think of all the delicious snacks in your secret hideout. Those snacks are valuable because they're all yours to enjoy!",
+        "Yummy! So my stash of snacks is like my collection of assets?"
+      ],
+      "options": [
+        "Assets (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know your awesome treehouse? All the cool stuff inside, like the rope ladder and the beanbag chair, are your valuable belongings.",
+        "Oh, I see! So all the cool things in my treehouse are my assets?"
+      ],
+      "options": [
+        "Assets (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know when you trade your lunch for a dessert, but now you owe your friend a dessert tomorrow?",
+        "Yeah, that's like a dessert debt I have to pay back!"
+      ],
+      "options": [
+        "Liabilities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you borrow a video game from a friend, and now you have to return it to them later.",
+        "So, borrowing the video game is like having a liability?"
+      ],
+      "options": [
+        "Liabilities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself borrowing your neighbor's bike to ride around the block. You have to give it back when you're done, right?",
+        "Yep! That means the borrowed bike is my liability until I return it!"
+      ],
+      "options": [
+        "Liabilities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think about when you promise to help your friend with their chores because they helped you with yours.",
+        "I get it! So, I owe them a favor, and that's like a liability?"
+      ],
+      "options": [
+        "Liabilities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have provided 4 exchanges for the first three topics. Let me know if you would like me to proceed with the other topics or if you have any other requests.",
+        "Picture a giant ice cream sundae with all the toppings. Your share of the sundae is the part that's left after your friends take their portions.",
+        "Yummy! So my share is what's left just for me after everyone else gets their part?"
+      ],
+      "options": [
+        "Owner's Equity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine a pirate ship where you and your crew found a treasure chest. Your share of the treasure is what's left after the crew takes their part.",
+        "Ahoy! So my part of the treasure is my owner's equity, right?"
+      ],
+      "options": [
+        "Owner's Equity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think of a pizza party where you and your friends all chip in to buy the pizza. Your share of the pizza is the part that belongs to you after everyone takes their slices.",
+        "Got it! So my pizza share is like my owner's equity?"
+      ],
+      "options": [
+        "Owner's Equity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture a secret clubhouse you built with your friends. After everyone contributes materials, the part of the clubhouse that you can claim as yours is your owner's equity.",
+        "Cool! So my part of the clubhouse is my owner's equity?"
+      ],
+      "options": [
+        "Owner's Equity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you set up a lemonade stand, and every cup you sell brings you more coins for your piggy bank.",
+        "So, the more cups I sell, the more money I make for my piggy bank!"
+      ],
+      "options": [
+        "Revenue (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself selling your homemade cookies at a bake sale. Each cookie you sell adds more money to your cookie jar!",
+        "Yum! So, the more cookies I sell, the more money I make for my cookie jar!"
+      ],
+      "options": [
+        "Revenue (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think about a magic show you put on, and every time you perform a trick, you get a coin from the audience.",
+        "Wow! So, each trick I perform brings me more coins as my reward?"
+      ],
+      "options": [
+        "Revenue (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're a superhero who gets a gold star for every mission you complete. The more missions you finish, the more stars you collect!",
+        "Awesome! So, the more missions I do, the more gold stars I earn as my reward?"
+      ],
+      "options": [
+        "Revenue (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think about when you buy supplies for your epic treehouse. Those supplies cost money, but they help you build something awesome!",
+        "Got it! So expenses are like the money I spend to create cool things!"
+      ],
+      "options": [
+        "Expenses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're a wizard who needs to buy magic potions for your adventures. The potions cost gold coins, but they help you on your quests!",
+        "So, expenses are like the gold coins I spend on my magic potions?"
+      ],
+      "options": [
+        "Expenses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself as a chef who needs to buy ingredients to make delicious meals. The ingredients cost money, but they help you create tasty dishes!",
+        "Yum! So, expenses are like the money I spend on ingredients to cook amazing food?"
+      ],
+      "options": [
+        "Expenses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think of a superhero who buys new gadgets to fight crime. The gadgets cost money, but they make the superhero even more powerful!",
+        "Cool! So, expenses are like the money my superhero spends on new crime-fighting gadgets?"
+      ],
+      "options": [
+        "Expenses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if you have a garage sale and sell your old toys for more money than it cost to advertise and set it up?",
+        "That means I made a profit from my garage sale!"
+      ],
+      "options": [
+        "Profit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you sell your handmade bracelets for more money than you spent on the materials to make them.",
+        "Oh, I see! So I made a profit from selling my bracelets!"
+      ],
+      "options": [
+        "Profit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself running a lemonade stand and making more money from selling lemonade than you spent on lemons and sugar.",
+        "Cool! So I made a profit from my lemonade stand!"
+      ],
+      "options": [
+        "Profit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think about selling your artwork at a fair and earning more money than you spent on art supplies.",
+        "Awesome! So I made a profit from selling my artwork!"
+      ],
+      "options": [
+        "Profit (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if your treehouse was a secret base, and you had a special report that showed all the cool stuff inside and how much it cost.",
+        "So, financial statements are like my secret base's inventory report?"
+      ],
+      "options": [
+        "Financial statements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself as a superhero with a top-secret file that records all your missions and the resources you used to complete them.",
+        "Oh, I get it! Financial statements are like my superhero mission records!"
+      ],
+      "options": [
+        "Financial statements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think about being a detective who keeps a detailed log of all the clues they find and the expenses they have during their investigations.",
+        "So, financial statements are like my detective's case log?"
+      ],
+      "options": [
+        "Financial statements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine running a lemonade stand and having a magic book that tracks all the money you make and spend.",
+        "Wow! So, financial statements are like my lemonade stand's magic book?"
+      ],
+      "options": [
+        "Financial statements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture your treehouse again, but this time with a magic mirror that shows all your cool stuff, borrowed stuff, and what's really yours.",
+        "So the balance sheet is like my treehouse's magic mirror of belongings?"
+      ],
+      "options": [
+        "Balance sheet (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you have a crystal ball that shows you everything you own, everything you owe, and what's left over as your very own.",
+        "So, the balance sheet is like my magical crystal ball of finances?"
+      ],
+      "options": [
+        "Balance sheet (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think of a superhero with a high-tech computer that displays all their awesome gadgets, the ones they borrowed, and the ones they own.",
+        "Oh, I see! So the balance sheet is like my superhero's high-tech computer display?"
+      ],
+      "options": [
+        "Balance sheet (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself as a pirate captain with a special treasure map that shows all your treasure, the treasure you borrowed, and the treasure that's truly yours.",
+        "Arr matey! So the balance sheet is like my pirate captain's special treasure map?"
+      ],
+      "options": [
+        "Balance sheet (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me know if you'd like me to continue with the remaining topics or if you have any other requests.",
+        "Imagine you have a magic notebook that shows all the money you made from selling lemonade, and all the expenses for lemons and sugar.",
+        "Cool! So the income statement is like my magic notebook for my lemonade stand?"
+      ],
+      "options": [
+        "Income statement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself as a superhero with a special report that lists all the rewards you earned from missions and the cost of your gadgets.",
+        "Oh, I get it! The income statement is like my superhero mission rewards report!"
+      ],
+      "options": [
+        "Income statement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think of a video game where you earn coins for completing levels, but you also spend coins on power-ups. Your game stats show how many coins you gained and spent.",
+        "So, the income statement is like my video game stats for coins!"
+      ],
+      "options": [
+        "Income statement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine a magical creature who collects all the money you make from selling cookies and keeps track of how much you spent on ingredients.",
+        "Wow! So the income statement is like my magical creature's cookie sales record?"
+      ],
+      "options": [
+        "Income statement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture a river of coins flowing in and out of your secret treasure chest, showing how your treasure grows or shrinks over time.",
+        "So the cash flow statement is like my secret treasure chest's coin river?"
+      ],
+      "options": [
+        "Cash flow statement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're a wizard with a magic scroll that reveals how your gold coins come and go as you buy potions and complete quests.",
+        "Oh, I see! The cash flow statement is like my wizard's magic gold coin scroll!"
+      ],
+      "options": [
+        "Cash flow statement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think of a superhero with a high-tech tracker that shows when they gain or spend money on their crime-fighting adventures.",
+        "Cool! So the cash flow statement is like my superhero's high-tech money tracker?"
+      ],
+      "options": [
+        "Cash flow statement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself as a pirate captain with a special spyglass that reveals the flow of treasure as you plunder ships and buy supplies.",
+        "Arr matey! So the cash flow statement is like my pirate captain's special treasure spyglass?"
+      ],
+      "options": [
+        "Cash flow statement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're a wizard who records spells cast and potions used, even if you haven't collected the rewards or paid the costs yet.",
+        "So, accrual accounting is like my wizard's spell and potion log?"
+      ],
+      "options": [
+        "Accrual accounting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Picture yourself as a superhero who keeps track of all the missions completed and gadgets used, even if you haven't received your reward or paid for the gadgets yet.",
+        "Oh, I get it! Accrual accounting is like my superhero's mission and gadget tracker!"
+      ],
+      "options": [
+        "Accrual accounting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think of a detective who records all the clues found and expenses incurred, even if they haven't solved the case or been reimbursed yet.",
+        "So, accrual accounting is like my detective's ongoing case log?"
+      ],
+      "options": [
+        "Accrual accounting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine running a lemonade stand and tracking every cup you sell and all the supplies you use, even if you haven't collected the money or paid for the supplies yet.",
+        "Wow! So, accrual accounting is like my lemonade stand's detailed sales record?"
+      ],
+      "options": [
+        "Accrual accounting (correct answer)"
+      ]
+    }
+  ]
+}

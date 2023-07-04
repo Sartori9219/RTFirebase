@@ -1,0 +1,381 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I think pineapple on pizza is the best topping choice.",
+        "Of course you would think that, you're from Hawaii!"
+      ],
+      "options": [
+        "Ad Hominem (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I believe that we should increase funding for public transportation.",
+        "Well, you can't even drive a car, so your opinion doesn't count!"
+      ],
+      "options": [
+        "Ad Hominem (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think cats are better pets than dogs.",
+        "You just think that because you're allergic to dogs. Your opinion is invalid!"
+      ],
+      "options": [
+        "Ad Hominem (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think we should eat less meat to help the environment.",
+        "So, you want us all to starve and become weak from protein deficiency!"
+      ],
+      "options": [
+        "Straw Man (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think we should consider renewable energy sources like solar power.",
+        "So you're saying we should spend our nights in the dark when the sun isn't shining, huh?"
+      ],
+      "options": [
+        "Straw Man (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think we should limit screen time for kids.",
+        "Oh, so you want to go back to the Stone Age, with no technology at all?"
+      ],
+      "options": [
+        "Straw Man (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think I'll start wearing mismatched socks, it's the latest trend.",
+        "What? But my grandma, the ultimate fashion guru, says that's a fashion disaster!"
+      ],
+      "options": [
+        "Appeal to Authority (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I read somewhere that eating a spoonful of honey before bed can help with sleep.",
+        "Are you sure? My gym trainer, who is obviously a sleep expert, says that's nonsense!"
+      ],
+      "options": [
+        "Appeal to Authority (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think the earth might actually be flat.",
+        "But my favorite basketball player, a renowned astrophysicist, said the earth is round."
+      ],
+      "options": [
+        "Appeal to Authority (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think I'll start drinking coffee to help me stay awake during study sessions."
+      ],
+      "options": [
+        "Slippery Slope (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think I'll adopt one kitten from the shelter.",
+        "Start with one kitten, and soon you'll have two, then three, and before you know it, you'll be the crazy cat person of our neighborhood!"
+      ],
+      "options": [
+        "Slippery Slope (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think I'll skip gym just for today.",
+        "Skip today, and soon you'll be skipping tomorrow, then the whole week, and next thing we know, you've turned into a couch potato!"
+      ],
+      "options": [
+        "Slippery Slope (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think that pizza is the best food because it's simply the most delicious food.",
+        "But that's just repeating the same thing in different words!"
+      ],
+      "options": [
+        "Circular Argument (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm sure that unicorns exist because I've seen real unicorns.",
+        "Wait, aren't you just using your conclusion as your premise?"
+      ],
+      "options": [
+        "Circular Argument (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This is the best movie ever because no other movie is as good as this one.",
+        "Isn't that like saying it's the best because it's the best?"
+      ],
+      "options": [
+        "Circular Argument (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I met a grumpy New Yorker once. I guess all New Yorkers must be grumpy!",
+        "Isn't that a bit of a stretch? Meeting one grumpy New Yorker doesn't mean they're all grumpy."
+      ],
+      "options": [
+        "Hasty Generalization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My first sushi experience was terrible. I'm sure all sushi is disgusting.",
+        "Really? You're judging all sushi based on one bad experience?"
+      ],
+      "options": [
+        "Hasty Generalization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I saw a poodle being aggressive once. All poodles must be aggressive.",
+        "Hold on, one aggressive poodle doesn't mean every poodle is aggressive."
+      ],
+      "options": [
+        "Hasty Generalization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that you can only be a cat person or a dog person? There's no in-between!",
+        "Really? I thought it was possible to love both cats and dogs."
+      ],
+      "options": [
+        "False Dichotomy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My alien friend told me that on their planet, you either eat pizza for every meal or never eat pizza at all.",
+        "That sounds like an extreme choice! What if someone wants pizza just once in a while?"
+      ],
+      "options": [
+        "False Dichotomy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that superheroes can only save the day by flying or having super strength. No other powers allowed!",
+        "That doesn't seem right. What about superheroes with other cool abilities, like invisibility or teleportation?"
+      ],
+      "options": [
+        "False Dichotomy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that every time I wear my lucky socks, it rains outside? My socks must control the weather!",
+        "That's just a coincidence! Your socks can't actually cause the rain."
+      ],
+      "options": [
+        "Post Hoc Ergo Propter Hoc (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I ate a banana before my last exam and got an A. Now I believe bananas are the secret to acing tests!",
+        "It's great that you did well, but I think your studying might have played a bigger role than the banana."
+      ],
+      "options": [
+        "Post Hoc Ergo Propter Hoc (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Every time I watch a funny cat video, my favorite team wins their game. I must be their lucky charm!",
+        "It's fun to think that way, but there's no real connection between you watching cat videos and the team winning."
+      ],
+      "options": [
+        "Post Hoc Ergo Propter Hoc (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Nobody has ever seen a unicorn, so they must not exist!",
+        "Just because we haven't seen one doesn't mean they don't exist. There's still so much we don't know about the world!"
+      ],
+      "options": [
+        "Appeal to Ignorance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've never met anyone who has traveled to the center of the Earth, so it must be impossible.",
+        "Just because nobody you know has done it doesn't mean it's impossible. Science is always making new discoveries!"
+      ],
+      "options": [
+        "Appeal to Ignorance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't find any information on the internet about aliens building the pyramids, so it must be false.",
+        "The absence of evidence isn't proof that something didn't happen. It just means we haven't found any solid proof yet."
+      ],
+      "options": [
+        "Appeal to Ignorance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Everyone at school is wearing polka dot socks, so they must be the best socks ever!",
+        "Just because something is popular doesn't mean it's the best. It's all about personal preference."
+      ],
+      "options": [
+        "Bandwagon Fallacy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that all the top students eat pickles before their exams. I should do that too if I want to succeed!",
+        "Following a trend won't guarantee success. Focus on effective study habits instead."
+      ],
+      "options": [
+        "Bandwagon Fallacy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friends all believe that watching a movie upside down makes it funnier. I should try it too!",
+        "That sounds bizarre! Just because your friends think it's funny doesn't mean you will too. It's okay to have your own opinion."
+      ],
+      "options": [
+        "Bandwagon Fallacy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I know that unicorns are magical because every magical creature has a horn, and unicorns have horns!",
+        "But you're assuming that having a horn is what makes a creature magical in the first place."
+      ],
+      "options": [
+        "Begging the Question (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My professor said that her teaching method is the best because it's the most effective way to learn.",
+        "That statement assumes that your professor's method is already proven to be effective without any evidence."
+      ],
+      "options": [
+        "Begging the Question (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Watching a movie upside down must be hilarious because it's a funny way to watch a movie.",
+        "You're assuming that it's funny without actually explaining why it would be humorous."
+      ],
+      "options": [
+        "Begging the Question (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Every time I wear my lucky hat, I find a parking spot right away. My hat must have magical powers!",
+        "It's just a coincidence! Your hat isn't causing you to find parking spots."
+      ],
+      "options": [
+        "False Cause (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I started drinking green smoothies every morning, and now my favorite team keeps winning games. My smoothies must be helping them!",
+        "Those two events are unrelated. Your smoothies aren't affecting the team's performance."
+      ],
+      "options": [
+        "False Cause (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Whenever it rains, I get a great score on my video game. The rain must be making me a better player!",
+        "That's not logical. The rain isn't causing you to play better; it's just a coincidence."
+      ],
+      "options": [
+        "False Cause (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend told me I shouldn't eat so much candy, but I saw her eating a whole bag of gummy bears yesterday!",
+        "Just because she ate candy too doesn't mean her advice isn't valid."
+      ],
+      "options": [
+        "Tu Quoque (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My professor said that we should always proofread our essays, but I found a typo in their lecture notes!",
+        "Everyone makes mistakes, but that doesn't mean the advice to proofread is wrong."
+      ],
+      "options": [
+        "Tu Quoque (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My mom told me not to stay up late playing video games, but I caught her binge-watching her favorite show until 2 am!",
+        "She might not be following her own advice, but that doesn't mean it's not good advice for you."
+      ],
+      "options": [
+        "Tu Quoque (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "No true dog lover would ever own a cat!",
+        "That's not true; people can love both dogs and cats."
+      ],
+      "options": [
+        "No True Scotsman (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A real gamer never plays casual mobile games. They only play hardcore PC or console games!",
+        "There are many types of gamers, and enjoying different games doesn't make someone less of a gamer."
+      ],
+      "options": [
+        "No True Scotsman (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You can't be a true pizza fan if you like pineapple on your pizza!",
+        "People have different tastes, and liking pineapple on pizza doesn't mean they're not a pizza fan."
+      ],
+      "options": [
+        "No True Scotsman (correct answer)"
+      ]
+    }
+  ]
+}

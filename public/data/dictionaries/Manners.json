@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Saying please and thank you",
+        "Holding doors open for others",
+        "Listening attentively",
+        "Respecting personal space",
+        "Making eye contact",
+        "Avoiding interruptions",
+        "Offering help when needed",
+        "Using appropriate language",
+        "Practicing good table manners",
+        "Being punctual",
+        "Respecting others' opinions",
+        "Apologizing when necessary",
+        "Keeping your phone on silent during class or meetings",
+        "Not gossiping or spreading rumors",
+        "Showing gratitude and appreciation"
+    ],
+    "hints": {
+        "Saying please and thank you": "These simple phrases show respect and gratitude towards others.",
+        "Holding doors open for others": "This small act of kindness demonstrates consideration and politeness.",
+        "Listening attentively": "Paying attention when someone is speaking shows that you value their thoughts and feelings.",
+        "Respecting personal space": "Keeping a comfortable distance from others shows that you respect their boundaries.",
+        "Making eye contact": "Maintaining eye contact while speaking to someone shows that you are engaged and interested in the conversation.",
+        "Avoiding interruptions": "Waiting for your turn to speak demonstrates respect for the other person's thoughts and opinions.",
+        "Offering help when needed": "Lending a hand to someone in need shows compassion and empathy.",
+        "Using appropriate language": "Avoiding vulgar or offensive language demonstrates maturity and respect for others.",
+        "Practicing good table manners": "Following basic etiquette rules, such as not talking with your mouth full, shows consideration for those around you.",
+        "Being punctual": "Arriving on time demonstrates responsibility and respect for others' time.",
+        "Respecting others' opinions": "Acknowledging and accepting differing viewpoints encourages open dialogue and understanding.",
+        "Apologizing when necessary": "Admitting when you're wrong and offering a sincere apology shows humility and accountability.",
+        "Keeping your phone on silent during class or meetings": "Minimizing distractions shows respect for the speaker and others present.",
+        "Not gossiping or spreading rumors": "Respecting others' privacy and not engaging in harmful behavior promotes a positive environment.",
+        "Showing gratitude and appreciation": "Expressing thanks and recognizing others' efforts fosters a supportive and encouraging atmosphere."
+    }
+}

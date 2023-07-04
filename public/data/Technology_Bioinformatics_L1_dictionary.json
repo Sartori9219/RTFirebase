@@ -1,0 +1,198 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, do you remember the old video game where you had to put the pieces in the right order to complete the level?",
+        "Oh, you mean like Tetris? Except here, instead of blocks, we're lining up A's, T's, C's, and G's in the right order to decode the secrets of life?"
+      ],
+      "options": [
+        "DNA Sequencing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "And if we eat it in the wrong order, we turn into a zucchini?"
+      ],
+      "options": [
+        "DNA Sequencing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're a detective trying to solve a case, but the only clues you have are a bunch of tiny letters scattered all over the crime scene.",
+        "And let me guess, the case can't be solved unless I arrange these letters in the correct order to reveal the murderer's identity?"
+      ],
+      "options": [
+        "DNA Sequencing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "And I suppose genomics is like being the librarian who has to decode and understand all those books?"
+      ],
+      "options": [
+        "Genomics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when we tried to assemble that massive 10,000-piece puzzle last summer? It was a complete picture of an entire landscape!",
+        "Oh, yeah. So, genomics is like trying to put together a similar puzzle, but this time the picture is of an entire organism, right?"
+      ],
+      "options": [
+        "Genomics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you know how our friend Kevin has an obsession with collecting every single model of vintage cars?",
+        "Well, genomics is like Kevin, but instead of collecting vintage cars, we're collecting and studying all the genes in a living thing!"
+      ],
+      "options": [
+        "Genomics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My grandma has an uncanny ability to whip up something perfect for every event.",
+        "Well, imagine if all of those recipes were proteins in a cell. Proteomics is like understanding what each recipe is and when it's best to use it."
+      ],
+      "options": [
+        "Proteomics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're at a concert where each musician plays a different instrument, and together they create beautiful music.",
+        "So, proteomics is like being the conductor, understanding how each instrument - or protein - contributes to the overall symphony of the cell?"
+      ],
+      "options": [
+        "Proteomics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know how in video games, each character has different abilities and roles?",
+        "Yeah, like a healer, a tank, or a damage dealer. So, functional genomics is like understanding the roles of genes in a biological video game?"
+      ],
+      "options": [
+        "Functional Genomics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're a film director, and each gene is an actor with a specific part to play in your movie.",
+        "That sounds complex. But let me guess, that's functional genomics?"
+      ],
+      "options": [
+        "Functional Genomics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember how we used to compare our baseball card collections to see which one was better?"
+      ],
+      "options": [
+        "Comparative Genomics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know how in a car show, different models are compared based on their features and performance?",
+        "Yeah, like speed, design, and fuel efficiency. So, comparative genomics is like a car show, but for genomes?"
+      ],
+      "options": [
+        "Comparative Genomics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That sounds like a unique show. But let me guess, that's comparative genomics?"
+      ],
+      "options": [
+        "Comparative Genomics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when we used to transcribe our favorite songs by ear, trying to capture every note and lyric?",
+        "Yeah, it was a lot of work but it helped us appreciate the music more. So, transcriptomics is like transcribing music, but for genes?"
+      ],
+      "options": [
+        "Transcriptomics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know how in a play, the script tells the actors what to say and do?",
+        "Yeah, it dictates the whole performance. So, transcriptomics is like understanding the script of the biological theater?"
+      ],
+      "options": [
+        "Transcriptomics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're a journalist, but instead of interviewing people, you're interviewing genes to see what they have to say.",
+        "That sounds like an unusual beat. But let me guess, that's transcriptomics?"
+      ],
+      "options": [
+        "Transcriptomics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when we trained your dog to fetch the newspaper?",
+        "Yeah, it took a while but he eventually got it. So, machine learning in bioinformatics is like teaching a computer to fetch data?"
+      ],
+      "options": [
+        "Machine Learning in Bioinformatics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know how in video games, you level up and learn new skills as you gain experience?",
+        "Yeah, it's how you progress in the game. So, machine learning in bioinformatics is like leveling up a computer with data instead of experience points?"
+      ],
+      "options": [
+        "Machine Learning in Bioinformatics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're a coach, but instead of training athletes, you're training algorithms to perform better in understanding biological data.",
+        "That sounds high-tech. But let me guess, that's machine learning in bioinformatics?"
+      ],
+      "options": [
+        "Machine Learning in Bioinformatics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when we used to catalog our comic book collection, keeping track of each issue and its details?",
+        "Yeah, it was a huge task! So, biological databases are like comic book catalogs, but for biological data?"
+      ],
+      "options": [
+        "Biological Databases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know how libraries organize books with the Dewey Decimal System?",
+        "Yeah, it makes finding a book easier. So, biological databases are like a library system, but for genes, proteins, and other biological information?"
+      ],
+      "options": [
+        "Biological Databases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're a curator for a museum, but instead of artifacts, you're organizing and storing vast amounts of biological data.",
+        "That sounds incredibly important. But let me guess, that's what a biological database is?"
+      ],
+      "options": [
+        "Biological Databases (correct answer)"
+      ]
+    }
+  ]
+}

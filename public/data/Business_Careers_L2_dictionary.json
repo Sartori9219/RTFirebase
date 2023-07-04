@@ -1,0 +1,376 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why should I be a doctor just because I'm good at Biology? I mean, I like music more."
+      ],
+      "options": [
+        "Self-Assessment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I enjoy playing video games, does that mean I should become a professional gamer?"
+      ],
+      "options": [
+        "Self-Assessment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm really organized and I love planning events for my friends. What kind of job could that lead to?"
+      ],
+      "options": [
+        "Self-Assessment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love watching courtroom dramas on TV. Should I become a lawyer?"
+      ],
+      "options": [
+        "Career Exploration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My parents say I argue a lot. Maybe I should be a politician?",
+        "Haha, well, debating is indeed a part of politics! But remember, there's much more to it. Let's explore what a career in politics really involves."
+      ],
+      "options": [
+        "Career Exploration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love making my friends laugh. Should I just run off and join the circus?",
+        "Well, unless you also have a passion for tightrope walking, let's explore careers in comedy or entertainment first!"
+      ],
+      "options": [
+        "Career Exploration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, for my resume, should I list all the games I've won in Fortnite?"
+      ],
+      "options": [
+        "Resume Writing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just write, \"I'm awesome, hire me\" on my resume?"
+      ],
+      "options": [
+        "Resume Writing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, should I include that I was voted \"Class Clown\" for my senior year?"
+      ],
+      "options": [
+        "Resume Writing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I start my cover letter with \"Hey there, future boss!\"?",
+        "While it's important to show your personality, it's also crucial to maintain professionalism. Let's find a balance between the two!"
+      ],
+      "options": [
+        "Cover Letter Writing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, in my cover letter, should I just tell them I'm the best person for the job?"
+      ],
+      "options": [
+        "Cover Letter Writing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Should I tell them that my mom thinks I'm a hard worker in my cover letter?"
+      ],
+      "options": [
+        "Cover Letter Writing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just tell them I need the job to fund my comic book collection?",
+        "Well, honesty is appreciated but let's focus on how the job aligns with your career goals and how you can contribute to the company."
+      ],
+      "options": [
+        "Interview Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, for the \"Tell me about yourself\" question, should I start with my kindergarten years?"
+      ],
+      "options": [
+        "Interview Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If they ask about my weaknesses, should I say I care too much?"
+      ],
+      "options": [
+        "Interview Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, for networking, should I just start emailing random people asking for a job?",
+        "While initiative is good, let's start with building relationships first. You know, like making friends, but with a professional twist!"
+      ],
+      "options": [
+        "Networking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I want to network, should I just start adding everyone on LinkedIn?"
+      ],
+      "options": [
+        "Networking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if networking is about building relationships, can I invite potential connections to play video games with me?",
+        "That's one way to bond, but remember, professional boundaries are important. Let's think of more professional settings or activities to connect over."
+      ],
+      "options": [
+        "Networking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "For job shadowing, can I just follow around my favorite teacher all day?"
+      ],
+      "options": [
+        "Job Shadowing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I job shadow a chef, do I get to eat all the food?"
+      ],
+      "options": [
+        "Job Shadowing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, for job shadowing, should I dress like a secret agent and bring binoculars?",
+        "It's not quite that clandestine! You'll want to dress professionally and remember, your \"mission\" is to learn as much as you can about the job."
+      ],
+      "options": [
+        "Job Shadowing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I get an internship at a tech company, do I get to boss around the robots?",
+        "Not quite, but you'll certainly get hands-on experience with real projects. And who knows, maybe you'll get to program a robot or two!"
+      ],
+      "options": [
+        "Internships (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I do an internship as a superhero sidekick?"
+      ],
+      "options": [
+        "Internships (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I intern at a bakery, can I eat all the pastries?",
+        "While that sounds like a delicious plan, it's more about learning the craft and business of baking. But, sure, a pastry or two might come your way!"
+      ],
+      "options": [
+        "Internships (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I volunteer at a zoo, will I get to ride the elephants?",
+        "Well, that's probably unlikely (and unsafe). But you'll certainly learn a lot about animal care and conservation, which can be very rewarding!"
+      ],
+      "options": [
+        "Volunteering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I volunteer at the library, can I just read all day?"
+      ],
+      "options": [
+        "Volunteering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I volunteer to clean up the park, do I get to keep anything cool I find?",
+        "While you might find something interesting, the real treasure is the experience and the satisfaction of making a positive impact on your community."
+      ],
+      "options": [
+        "Volunteering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I want to be an astronaut, do I have to start by being an alien first?",
+        "Haha, no, not quite! But studying science, particularly physics and engineering, and gaining experience in related fields would be a great start."
+      ],
+      "options": [
+        "Career Pathways (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, to be a chef, do I have to start as a dishwasher?"
+      ],
+      "options": [
+        "Career Pathways (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I want to be a CEO, can I just start my own company now?"
+      ],
+      "options": [
+        "Career Pathways (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I can catch a marshmallow in my mouth from across the room, is that a soft skill?"
+      ],
+      "options": [
+        "Soft Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friends always come to me with their problems. Does that mean I'm good at troubleshooting?"
+      ],
+      "options": [
+        "Soft Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm great at persuading my little brother to do my chores. Is that a soft skill?"
+      ],
+      "options": [
+        "Soft Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm great at building pillow forts. Is that a technical skill?"
+      ],
+      "options": [
+        "Technical Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've mastered all the levels on my favorite video game. Is that a technical skill?"
+      ],
+      "options": [
+        "Technical Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can make a mean grilled cheese sandwich. Is that a technical skill?"
+      ],
+      "options": [
+        "Technical Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "For career planning, can I just spin a globe and pick a random country to work in?"
+      ],
+      "options": [
+        "Career Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, for career planning, should I just follow in my dad's footsteps and become a clown?"
+      ],
+      "options": [
+        "Career Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I just flip a coin to decide my career path?"
+      ],
+      "options": [
+        "Career Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I play video games for eight hours a day, that's work-life balance, right?"
+      ],
+      "options": [
+        "Work-Life Balance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I achieve work-life balance by doing my homework while watching TV?"
+      ],
+      "options": [
+        "Work-Life Balance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I sleep in class, does that count as work-life balance?"
+      ],
+      "options": [
+        "Work-Life Balance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I sell my old comic books, does that make me an entrepreneur?"
+      ],
+      "options": [
+        "Entrepreneurship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I become an entrepreneur by starting a pet sitting business for the neighborhood squirrels?"
+      ],
+      "options": [
+        "Entrepreneurship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I charge my brother for doing his chores, is that entrepreneurship?"
+      ],
+      "options": [
+        "Entrepreneurship (correct answer)"
+      ]
+    }
+  ]
+}

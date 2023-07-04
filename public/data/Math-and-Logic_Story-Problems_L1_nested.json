@@ -1,0 +1,1943 @@
+[
+  {
+    "problem": "Three friends have 7 marbles and want to share them equally. How many marbles will everyone get? [marble]",
+    "questions": [
+      {
+        "question": "Explain to Hello Kitty how this is a ___ question",
+        "options": [
+          "subtraction",
+          "multiplication",
+          "grouping (division) (correct answer)",
+          "addition"
+        ],
+        "hints": [
+          {
+            "description": "Here are 4 groups of 3 circles [3x4 grid]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many marbles does Mary have?",
+        "options": [
+          "7 marbles (correct answer)",
+          "3 marbles",
+          "5 marbles",
+          "9 hula hoops"
+        ],
+        "hints": [
+          {
+            "description": "Count the number of marbles Mary has",
+            "isBought": false
+          },
+          {
+            "description": "Look for the number mentioned in the story problem",
+            "isBought": false
+          },
+          {
+            "description": "Mary has a specific number of marbles, not more or less",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How would you divide up the marbles so everyone has the same number of marbles?",
+        "options": [
+          "Put 2 marbles in each person's pile (correct answer)",
+          "Put 1 marble in each person's pile",
+          "Put 3 marbles in each person's pile",
+          "Put 4 marbles in each person's pile"
+        ],
+        "hints": [
+          {
+            "description": "Think about how many people there are and how many marbles need to be divided",
+            "isBought": false
+          },
+          {
+            "description": "Experiment with different numbers of marbles and people",
+            "isBought": false
+          },
+          {
+            "description": "Make sure everyone has the same number of marbles",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Which picture best represents this scenario?",
+        "options": [
+          "\ud83e\uddd1\ud83d\udd35\ud83d\udd35   \ud83e\uddd1\ud83d\udd35\ud83d\udd35   \ud83e\uddd1\ud83d\udd35\ud83d\udd35    \ud83d\udd35 (correct answer)",
+          "\ud83e\uddd1\ud83d\udd35\ud83d\udd35   \ud83e\uddd1\ud83d\udd35\ud83d\udd35   \ud83e\uddd1\ud83d\udd35\ud83d\udd35",
+          "\ud83e\uddd1\ud83d\udd35\ud83d\udd35\ud83d\udd35   \ud83e\uddd1\ud83d\udd35\ud83d\udd35\ud83d\udd35",
+          "\ud83e\uddd1\ud83d\udd35\ud83d\udd35\ud83d\udd35\ud83d\udd35\ud83d\udd35\ud83d\udd35    \ud83d\udd35"
+        ],
+        "hints": [
+          {
+            "description": "Remember the story problem says there are three friends and seven marbles",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "John has 10 blocks and he wants to build a tower. If he uses 3 blocks for the base, how many blocks does he have left to use for the tower? [blocks]",
+    "questions": [
+      {
+        "question": "This is a ___ problem.",
+        "options": [
+          "subtraction (correct answer)",
+          "multiplication",
+          "division",
+          "addition"
+        ],
+        "hints": [
+          {
+            "description": "Re-read the story problem and pay special attention to what happens to 3 of the blocks",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many blocks will John use for the base of the tower?",
+        "options": [
+          "1",
+          "2",
+          "3 (correct answer)",
+          "4"
+        ],
+        "hints": [
+          {
+            "description": "What happens to 3 of the blocks? Are they available for the rest of the tower?",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s set up the problem...",
+        "options": [
+          "10 \ud83d\udfe7 - 3 \ud83d\udfe7 = __ \ud83d\udfe7 (correct answer)",
+          "6 \ud83d\udfe7 \u2716\ufe0f 3 \ud83d\udfe7 = __ \ud83d\udfe7",
+          "8 \ud83d\udfe7 \u2797 2 \ud83d\udfe7 = __ \ud83d\udfe7",
+          "11 \ud83d\udfe7 + 2 \ud83d\udfe7 = __ \ud83d\udfe7"
+        ],
+        "hints": [
+          {
+            "description": "Make sure to use the correct operation (subtraction)",
+            "isBought": false
+          },
+          {
+            "description": "Start with the total number of blocks John has",
+            "isBought": false
+          },
+          {
+            "description": "Subtract the number of blocks he uses for the base",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Emma has 8 stickers and she wants to put them in her sticker album. If each page can hold 4 stickers, how many pages will she need to use? [mermaid]",
+    "questions": [
+      {
+        "question": "This is a ___ question",
+        "options": [
+          "subtraction",
+          "multiplication",
+          "grouping (division) (correct answer)",
+          "addition"
+        ],
+        "hints": [
+          {
+            "description": "Here are 4 groups of 3 circles [3x4 grid]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "__ stickers (\ud83d\udfea) can fit on each page.",
+        "options": [
+          "4\ud83d\udfea (correct answer)",
+          "6\ud83d\udfea",
+          "22\ud83d\udfea",
+          "1\ud83d\udfea"
+        ],
+        "hints": [
+          {
+            "description": "The question tells us 4 stickers will fit on each page.",
+            "isBought": false
+          },
+          {
+            "description": "Here are 4 groups of 3 circles [3x4 grid]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Emma has __ stickers total",
+        "options": [
+          "8 \ud83d\udfea (correct answer)",
+          "11 \ud83d\udfea",
+          "10 \ud83d\udfea",
+          "5 \ud83d\udfea"
+        ],
+        "hints": [
+          {
+            "description": "Reread the story problem",
+            "isBought": false
+          },
+          {
+            "description": "The story problem tells us Emma has eight stickers total",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "To find out how many pages she needs, we can ask: \"How ___ 4 stickers can ___ out of 8 stickers?\"",
+        "options": [
+          "many groups of | we make (correct answer)",
+          "many bookmarks | we eat",
+          "much water does it take | we dance",
+          "many slipper of | we run"
+        ],
+        "hints": [
+          {
+            "description": "This is a grouping problem",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Which picture best describes our scenario?",
+        "options": [
+          "\ud83d\udfea\ud83d\udfea\ud83d\udfea\ud83d\udfea    \ud83d\udfea\ud83d\udfea\ud83d\udfea\ud83d\udfea(correct answer)",
+          "\ud83d\udfea\ud83d\udfea\ud83d\udfea\ud83d\udfea\ud83d\udfea\ud83d\udfea",
+          "\ud83d\udfea\ud83d\udfea    \ud83d\udfea\ud83d\udfea    \ud83d\udfea\ud83d\udfea\ud83d\udfea",
+          "\ud83d\udfea\ud83d\udfea\ud83d\udfea\ud83d\udfea    \ud83d\udfea\ud83d\udfea\ud83d\udfea\ud83d\udfea   \ud83d\udfea\ud83d\udfea\ud83d\udfea\ud83d\udfea"
+        ],
+        "hints": [
+          {
+            "description": "Let\u2019s count by 4s: 4, 8. We can make two groups of 4 stickers out of the 8 stickers Emma has.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "There are 9 crayons in a box. If you take away 4 crayons, how many crayons are left in the box? [crayon]",
+    "questions": []
+  },
+  {
+    "problem": "Rachel has 12 pencils (\u270f\ufe0f) and she wants to put them in 3 equal groups. How many pencils will be in each group? [pencil]",
+    "questions": [
+      {
+        "question": "This is a ___ question",
+        "options": [
+          "subtraction",
+          "multiplication",
+          "grouping (division) (correct answer)",
+          "addition"
+        ],
+        "hints": [
+          {
+            "description": "Here are 4 groups of 3 circles [3x4 grid]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Which group best represents this scenario?",
+        "options": [
+          "\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f    \u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f    \u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f (correct answer)",
+          "\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f    \u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f",
+          "\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f    \u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f",
+          "\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f    \u270f\ufe0f\u270f\ufe0f\u270f\ufe0f"
+        ],
+        "hints": [
+          {
+            "description": "Count how many pencils would be in each group if you evenly distribute them.",
+            "isBought": false
+          },
+          {
+            "description": "Here are 4 groups of 3 circles [3x4 grid]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "First, let\u2019s set up the problem...",
+        "options": [
+          "12 \u2797 3 = ___ (\u270f\ufe0f/group) (correct answer)",
+          "12 \u2797 3 = ___ (\u270f\ufe0f/group)",
+          "12 \u2797 3 = ___ (\u270f\ufe0f/group)",
+          "12 \u2797 3 = ___ (\u270f\ufe0f/group)"
+        ],
+        "hints": [
+          {
+            "description": "If you have two yoyos and you add one yoyo, you would get an equation like this: [simple equation]",
+            "isBought": false
+          },
+          {
+            "description": "The division symbol (\u2797) helps us group things. [3x4 grid]",
+            "isBought": false
+          },
+          {
+            "description": "Count how many pencils would be in each group if you evenly distribute them.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "There are 5 apples on the table. If you add 3 more apples, how many apples will there be in total? [apple]",
+    "questions": [
+      {
+        "question": "This is a ___ question",
+        "options": [
+          "subtraction",
+          "multiplication",
+          "grouping (division)",
+          "addition  (correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "Re-read the story problem and pay special attention to the goal",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many apples are on the table at the beginning?",
+        "options": [
+          "2\ud83c\udf4e",
+          "3\ud83c\udf4e",
+          "4\ud83c\udf4e",
+          "5\ud83c\udf4e (correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "The problem tells you there are 5 apples on the table.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the first step to solve the problem?",
+        "options": [
+          "Tickle one of the apples",
+          "Add 3 apples (correct answer)",
+          "Subtract 3 apples.",
+          "Group the apples into two sets"
+        ],
+        "hints": [
+          {
+            "description": "Read the problem carefully.",
+            "isBought": false
+          },
+          {
+            "description": "Look for clues to help you solve the problem.",
+            "isBought": false
+          },
+          {
+            "description": "The problem talks about two sets of apples.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What operation do we need to use to find the total number of apples?",
+        "options": [
+          "Multiplication",
+          "Subtraction",
+          "Division",
+          "Addition (correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "The problem is asking you to find the total number of apples.",
+            "isBought": false
+          },
+          {
+            "description": "Think about what you need to do to combine the two groups of apples.",
+            "isBought": false
+          },
+          {
+            "description": "Addition involves combining two or more numbers to get a total.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "It\u2019s time to set up the problem (let\u2019s solve \u2018em)",
+        "options": [
+          "99\ud83c\udf4e \u2716\ufe0f 3\ud83c\udf4e = __ \ud83c\udf4e",
+          "7\ud83c\udf4e \u2797 3\ud83c\udf4e = __ \ud83c\udf4e",
+          "5\ud83c\udf4e + 3\ud83c\udf4e = __ \ud83c\udf4e (correct answer)",
+          "8\ud83c\udf4e -  3\ud83c\udf4e = __ \ud83c\udf4e"
+        ],
+        "hints": [
+          {
+            "description": "Make sure you added the correct numbers together.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Alex has 6 toy cars and he gives 3 to his friends.  How many toy cars does Alex have left? [banana]",
+    "questions": [
+      {
+        "question": "This is a ___ problem.",
+        "options": [
+          "subtraction (correct answer)",
+          "multiplication",
+          "addition",
+          "division"
+        ],
+        "hints": [
+          {
+            "description": "The answer is less than the original number of cars Alex had",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Which picture best describes this scenario?",
+        "options": [
+          "\ud83d\ude97\ud83d\ude97\ud83d\ude97   \u2b55\u2b55\u2b55 (correct answer)",
+          "\ud83d\ude97\ud83d\ude97\ud83d\ude97\ud83d\ude97\ud83d\ude97\ud83d\ude97",
+          "\ud83d\ude97\ud83d\ude97",
+          "\ud83d\ude97\ud83d\ude97\ud83d\ude97\ud83d\ude97\ud83d\ude97\ud83d\ude97\ud83d\ude97\ud83d\ude97\ud83d\ude97"
+        ],
+        "hints": [
+          {
+            "description": "Reread the story problem and pay close attention to the number of toy cars and friends",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "First, let\u2019s set up the problem...",
+        "options": [
+          "6\ud83d\ude97 - 3\ud83d\ude97 = __ (correct answer)",
+          "4\ud83d\ude97 - 1\ud83d\ude97 = __",
+          "7\ud83d\ude97 - 2\ud83d\ude97 = __",
+          "4\ud83d\ude97 - 5\ud83d\ude97 = __"
+        ],
+        "hints": [
+          {
+            "description": "Alex gives 3 of them to his friend, so we need to subtract 3 from the total.",
+            "isBought": false
+          },
+          {
+            "description": "Visualize one group of 6 cars with a circle around 3 of them.  The circled cars went bye-bye.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "3 friends have 9 jellybeans and want to divide them equally.  How many jellybeans will each friend get? [gummy]",
+    "questions": [
+      {
+        "question": "This is a ___ problem.",
+        "options": [
+          "grouping (division) (correct answer)",
+          "multiplication",
+          "addition",
+          "subtraction"
+        ],
+        "hints": [
+          {
+            "description": "Here are 4 groups of 3 circles [3x4 grid]",
+            "isBought": false
+          },
+          {
+            "description": "You want to divide them equally between 3 friends, so we need to divide the total number of jellybeans by the number of friends",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Which illustration best describes this scenario?",
+        "options": [
+          "\ud83d\udfe2\ud83d\udfe2\ud83d\udfe2    \ud83d\udfe2\ud83d\udfe2\ud83d\udfe2    \ud83d\udfe2\ud83d\udfe2\ud83d\udfe2 (correct answer)",
+          "\ud83d\udfe2\ud83d\udfe2\ud83d\udfe2 \ud83d\udfe2\ud83d\udfe2    \ud83d\udfe2\ud83d\udfe2\ud83d\udfe2",
+          "\ud83d\udfe2\ud83d\udfe2    \ud83d\udfe2\ud83d\udfe2",
+          "\ud83d\udfe2\ud83d\udfe2\ud83d\udfe2\ud83d\udfe2\ud83d\udfe2\ud83d\udfe2\ud83d\udfe2"
+        ],
+        "hints": [
+          {
+            "description": "Here are 4 groups of 3 circles [3x4 grid]",
+            "isBought": false
+          },
+          {
+            "description": "Make groups with the 9 jellybeans.  It\u2019s ok if they\u2019re not equal sizes.  We\u2019re just trying to visualize the different groups.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let's set up the problem:",
+        "options": [
+          "9 jellybeans \u2797 3 friends = __ (correct answer)",
+          "6 jellybeans - 2 friends = __",
+          "7 jellybeans + 1 friends = __",
+          "11 jellybeans \u2797 5 friends = __"
+        ],
+        "hints": [
+          {
+            "description": "Remember to use the division symbol (\u2797) to set up the problem",
+            "isBought": false
+          },
+          {
+            "description": "Make sure to divide the total number of jellybeans by the number of friends",
+            "isBought": false
+          },
+          {
+            "description": "Check if the resulting number makes sense in the context of the problem",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "There are 7 birds on a tree branch. If 2 more birds fly to the branch, how many birds are on the branch now?  [bird]",
+    "questions": [
+      {
+        "question": "This is a ___ problem.",
+        "options": [
+          "grouping (division)",
+          "multiplication",
+          "addition (correct answer)",
+          "subtraction"
+        ],
+        "hints": [
+          {
+            "description": "Re-read the question and pay special attention to our goal",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s set up the problem...",
+        "options": [
+          "7\ud83d\udc26 + 2\ud83d\udc26 = __\ud83d\udc26",
+          "7\ud83d\udc26 \u2716\ufe0f 6\ud83d\udc26 = __\ud83d\udc26",
+          "7\ud83d\udc26 - 4\ud83d\udc26 = __\ud83d\udc26",
+          "7\ud83d\udc26 \u27973\ud83d\udc26 = __\ud83d\udc26"
+        ],
+        "hints": [
+          {
+            "description": "We\u2019ll need to use the + operator",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "If you have 8 coins and you want to put them in 2 equal piles, how many coins will be in each pile? [coin]",
+    "questions": [
+      {
+        "question": "This is a ___ problem.",
+        "options": [
+          "grouping (division) (correct answer)",
+          "multiplication",
+          "addition",
+          "subtraction"
+        ],
+        "hints": [
+          {
+            "description": "Re-read the question and pay special attention to our goal",
+            "isBought": false
+          },
+          {
+            "description": "You want to divide coins equally between 2 piles, so we need to divide the total number of coins by the number of piles",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many equal piles do we want to make?",
+        "options": [
+          "2 (correct answer)",
+          "3",
+          "6",
+          "4"
+        ],
+        "hints": [
+          {
+            "description": "The answer is in the story problem.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What illustration best describes this scenario?",
+        "options": [
+          "\ud83e\ude99\ud83e\ude99\ud83e\ude99\ud83e\ude99     \ud83e\ude99\ud83e\ude99\ud83e\ude99\ud83e\ude99 (correct answer)",
+          "\ud83e\ude99\ud83e\ude99\ud83e\ude99\ud83e\ude99\ud83e\ude99\ud83e\ude99",
+          "\ud83e\ude99\ud83e\ude99\ud83e\ude99\ud83e\ude99    \ud83e\ude99\ud83e\ude99\ud83e\ude99\ud83e\ude99     \ud83e\ude99\ud83e\ude99\ud83e\ude99\ud83e\ude99",
+          "\ud83e\ude99\ud83e\ude99     \ud83e\ude99\ud83e\ude99   \ud83e\ude99\ud83e\ude99    \ud83e\ude99\ud83e\ude99"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Let\u2019s set up an equation...",
+        "options": [
+          "8 \u2797 2 = ___ (correct answer)",
+          "8 + 2 = ___",
+          "8 - 2 = ___",
+          "8 \u2716\ufe0f 2 = ___"
+        ],
+        "hints": [
+          {
+            "description": "What operator should we use between 8 and 2?",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "There are 24 crayons (\ud83d\udd8d\ufe0f) in a box. If you take away 7 crayons, how many crayons are left in the box? [crayon]",
+    "questions": [
+      {
+        "question": "This is a ___ problem.",
+        "options": [
+          "grouping (division)",
+          "multiplication",
+          "addition",
+          "subtraction (correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "The picture below shows you how to borrow from the 10\u2019s place. | [basic double digit subtraction]",
+            "isBought": false
+          },
+          {
+            "description": "Re-read the question and pay special attention to our goal",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the starting number of crayons in the box?",
+        "options": [
+          "23",
+          "25",
+          "24 (correct answer)",
+          "22"
+        ],
+        "hints": [
+          {
+            "description": "The number is greater than 20 but less than 25.",
+            "isBought": false
+          },
+          {
+            "description": "The number is an even number.",
+            "isBought": false
+          },
+          {
+            "description": "The number is not a multiple of 5.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many crayons are taken away from the box?",
+        "options": [
+          "6",
+          "8",
+          "7 (correct answer)",
+          "5"
+        ],
+        "hints": [
+          {
+            "description": "The number is less than 10.",
+            "isBought": false
+          },
+          {
+            "description": "The number is odd. The number is one less than 8.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Explain to Olaf the Snowman how we should set up this equation.",
+        "options": [
+          "24\ud83d\udd8d\ufe0f - 7\ud83d\udd8d\ufe0f = __\ud83d\udd8d\ufe0f (correct answer)",
+          "28\ud83d\udd8d\ufe0f \u2716\ufe0f 6\ud83d\udd8d\ufe0f = __\ud83d\udd8d\ufe0f",
+          "25\ud83d\udd8d\ufe0f \u2797 4\ud83d\udd8d\ufe0f = __\ud83d\udd8d\ufe0f",
+          "22\ud83d\udd8d\ufe0f + 8\ud83d\udd8d\ufe0f = __\ud83d\udd8d\ufe0f"
+        ],
+        "hints": [
+          {
+            "description": "Try inverting the problem and counting upwards.  7 + __ = 24.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "There are 15 kids \ud83d\udc67 on the playground.  If 4 kids go home, how many kids are left on the playground? [kid]",
+    "questions": [
+      {
+        "question": "This is a ___ problem.",
+        "options": [
+          "grouping (division)",
+          "multiplication",
+          "addition",
+          "subtraction (correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "The picture below shows you how to borrow from the 10\u2019s place. | [basic double digit subtraction]",
+            "isBought": false
+          },
+          {
+            "description": "Re-read the question and pay special attention to our goal",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the starting number of kids on the playground?",
+        "options": [
+          "14 startingKids",
+          "16 startingKids",
+          "15 startingKids (correct answer)",
+          "13 startingKids"
+        ],
+        "hints": [
+          {
+            "description": "The number is greater than 13 but less than 17.",
+            "isBought": false
+          },
+          {
+            "description": "The number is an odd number.",
+            "isBought": false
+          },
+          {
+            "description": "The number is not a multiple of 4.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many kids go home from the playground?",
+        "options": [
+          "3 leavingKids",
+          "5 leavingKids",
+          "4 leavingKids (correct answer)",
+          "6 leavingKids"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like labeled containers that hold values.  [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "The number is less than 7.",
+            "isBought": false
+          },
+          {
+            "description": "The number is even.",
+            "isBought": false
+          },
+          {
+            "description": "The number is one more than 3.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Take a crack and set up the math",
+        "options": [
+          "15\ud83d\udc67 - 4\ud83d\udc67 = __\ud83d\udc67 (correct answer)",
+          "12\ud83d\udc67 \u2716\ufe0f 3\ud83d\udc67 = __\ud83d\udc67",
+          "16\ud83d\udc67 \u2797 7\ud83d\udc67 = __\ud83d\udc67",
+          "25\ud83d\udc67 + 3\ud83d\udc67 = __\ud83d\udc67"
+        ],
+        "hints": [
+          {
+            "description": "We started with 15 kids but lost 4",
+            "isBought": false
+          },
+          {
+            "description": "The picture below shows you how to borrow from the 10\u2019s place. | [basic double digit subtraction]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "If 4 friends have 16 stickers \ud83c\udf1e and you want to share them equally, how many stickers will each friend get? [elephant]",
+    "questions": [
+      {
+        "question": "This is a ___ problem.",
+        "options": [
+          "grouping (division)  (correct answer)",
+          "multiplication",
+          "addition",
+          "subtraction"
+        ],
+        "hints": [
+          {
+            "description": "Re-read the question and pay special attention to our goal",
+            "isBought": false
+          },
+          {
+            "description": "The word \u201cequally\u201d suggests we\u2019re putting things into piles (also known as \u2018grouping\u2019)",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the total number of stickers?",
+        "options": [
+          "15",
+          "17",
+          "16 (correct answer)",
+          "18"
+        ],
+        "hints": [
+          {
+            "description": "The number is greater than 14 but less than 18.",
+            "isBought": false
+          },
+          {
+            "description": "The number is an even number.",
+            "isBought": false
+          },
+          {
+            "description": "The number is a multiple of 4.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many friends do you want to share the stickers with?",
+        "options": [
+          "3",
+          "5",
+          "4 (correct answer)",
+          "6"
+        ],
+        "hints": [
+          {
+            "description": "The number is less than 7.",
+            "isBought": false
+          },
+          {
+            "description": "The number is even.",
+            "isBought": false
+          },
+          {
+            "description": "The number is one less than 5.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Which picture best represents our scenario?",
+        "options": [
+          "\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e      \ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e     \ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e      \ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e (correct answer)",
+          "\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e       \ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e     \ud83c\udf1e\ud83c\udf1e",
+          "\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e     \ud83c\udf1e\ud83c\udf1e\ud83c\udf1e     \ud83c\udf1e",
+          "\ud83c\udf1e\ud83c\udf1e     \ud83c\udf1e\ud83c\udf1e     \ud83c\udf1e   \ud83c\udf1e\ud83c\udf1e\ud83c\udf1e"
+        ],
+        "hints": [
+          {
+            "description": "We have 16 stickers and 4 friends",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "It\u2019s time to set up the problem, let\u2019s solve \u2018em",
+        "options": [
+          "16\ud83c\udf1e \u2797 4\ud83d\udc67= ___ stickersPerFriend (correct answer)",
+          "16\ud83c\udf1e \u2716\ufe0f 3\ud83d\udc67= ___ stickersPerFriend",
+          "16\ud83c\udf1e - 6\ud83d\udc67= ___ stickersPerFriend",
+          "16\ud83c\udf1e + 2\ud83d\udc67= ___ stickersPerFriend"
+        ],
+        "hints": [
+          {
+            "description": "We need to group (divide) for this step.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "There are 12 apples in a basket. If you take away 3 apples, how many apples are left in the basket? [apple]",
+    "questions": [
+      {
+        "question": "This is a ___ problem.",
+        "options": [
+          "grouping (division)",
+          "multiplication",
+          "addition",
+          "subtraction  (correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "[basic double digit subtraction]",
+            "isBought": false
+          },
+          {
+            "description": "Re-read the question and pay special attention to our goal",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the total number of apples in the basket?",
+        "options": [
+          "11 startingApples",
+          "13 startingApples",
+          "12 startingApples (correct answer)",
+          "14 startingApples"
+        ],
+        "hints": [
+          {
+            "description": "The number is greater than 10 but less than 15.",
+            "isBought": false
+          },
+          {
+            "description": "The number is an even number.",
+            "isBought": false
+          },
+          {
+            "description": "The number is not a multiple of 5.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many apples are taken away from the basket?",
+        "options": [
+          "2 lostApples",
+          "4 lostApples",
+          "3 lostApples (correct answer)",
+          "5 lostApples"
+        ],
+        "hints": [
+          {
+            "description": "The number is less than 6.",
+            "isBought": false
+          },
+          {
+            "description": "The number is od3. The number is one more than 2.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to party and set it up, smarty (set up the problem, using variable names)",
+        "options": [
+          "startingApples - lostApples = remainingApples (correct answer)",
+          "beginningPencils - usedPencils = remainingPencils",
+          "originalMarbles + brokenMarbles = finalMarbles",
+          "initialCandies \u2797 eatenCandies = leftOverCandies"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like labeled containers that hold values.  [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          },
+          {
+            "description": "Start with what you know.  You have 12 apples (\ud83c\udf4e) and 3 go away.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to get fly and plug in the high (plug in the known values) | startingApples - lostApples = remainingApples",
+        "options": [
+          "12 - 3 = remainingApples (correct answer)",
+          "11 + 2 = remainingApples",
+          "17 \u2716\ufe0f 8 = remainingApples",
+          "14 + 3 = remainingApples"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [It\u2019s easy to plug in variables]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "If you have 9 toy cars and you want to divide them equally between 3 toy boxes, how many toy cars will be in each toy box? [banana]",
+    "questions": [
+      {
+        "question": "This is a ___ problem.",
+        "options": [
+          "grouping (division)",
+          "multiplication",
+          "addition",
+          "subtraction  (correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "Re-read the question and pay special attention to our goal",
+            "isBought": false
+          },
+          {
+            "description": "The word \u201cequally\u201d suggests we\u2019re putting things into piles (also known as \u2018grouping\u2019)",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the total number of toy cars you have?",
+        "options": [
+          "8 totalCars",
+          "10 totalCars",
+          "9 totalCars (correct answer)",
+          "11 totalCars"
+        ],
+        "hints": [
+          {
+            "description": "The number is greater than 7 but less than 11.",
+            "isBought": false
+          },
+          {
+            "description": "The number is an odd number.",
+            "isBought": false
+          },
+          {
+            "description": "The number is not a multiple of 4.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many toy boxes do you want to divide the toy cars between?",
+        "options": [
+          "2 toyBoxes",
+          "4 toyBoxes",
+          "3 toyBoxes (correct answer)",
+          "5 toyBoxes"
+        ],
+        "hints": [
+          {
+            "description": "The number is less than 6.",
+            "isBought": false
+          },
+          {
+            "description": "The number is od3. The number is one less than 4.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Which illustration best represents the scenario?",
+        "options": [
+          "\ud83d\ude93\ud83d\ude93\ud83d\ude93     \ud83d\ude93\ud83d\ude93\ud83d\ude93     \ud83d\ude93\ud83d\ude93\ud83d\ude93 (correct answer)",
+          "\ud83d\ude93\ud83d\ude93\ud83d\ude93\ud83d\ude93     \ud83d\ude93\ud83d\ude93\ud83d\ude93",
+          "\ud83d\ude93\ud83d\ude93\ud83d\ude93     \ud83d\ude93\ud83d\ude93",
+          "\ud83d\ude93\ud83d\ude93\ud83d\ude93\ud83d\ude93\ud83d\ude93\ud83d\ude93\ud83d\ude93"
+        ],
+        "hints": [
+          {
+            "description": "So, if you put __ toy cars in each of the 3 toy boxes, you will have divided the 9 toy cars equally among them.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Start the show, set up the problem and let the solutions flow. (using variable names)",
+        "options": [
+          "totalCars \u2797 toyBoxes = carsPerBox (correct answer)",
+          "redApples + greenApples = totalApples",
+          "boys \u2797  girls = totalStudents",
+          "cats - dogs = totalPets"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like labeled containers that hold values.  [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          },
+          {
+            "description": "Variable names like these make it easier to visualize the scenario",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let's get funky and plug in the monkey! (plug in the known values)",
+        "options": [
+          "9 \u2797 3 = carsPerBox (correct answer)",
+          "5 \u2716\ufe0f 2 = carsPerBox",
+          "8 - 1 = carsPerBox",
+          "19 + 7 = carsPerBox"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [It\u2019s easy to plug in variables]",
+            "isBought": false
+          },
+          {
+            "description": "Replace the variable names with their values.  E.g. replace \u2018redApples\u2019 with 9.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "There are 8 birds in a tree. If 3 more birds join them, how many birds are in the tree now? [bird]",
+    "questions": [
+      {
+        "question": "What is the total number of birds in the tree initially?",
+        "options": [
+          "7 initialBirds (correct answer)",
+          "9 initialBirds",
+          "8 initialBirds(correct answer)",
+          "10 initialBirds"
+        ],
+        "hints": [
+          {
+            "description": "The number is greater than 6 but less than 11.",
+            "isBought": false
+          },
+          {
+            "description": "The number is an even number.",
+            "isBought": false
+          },
+          {
+            "description": "The number is not a multiple of 3.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many more birds join the ones in the tree?",
+        "options": [
+          "2 newBirds",
+          "4 newBirds",
+          "3 newBirds (correct answer)",
+          "5 newBirds"
+        ],
+        "hints": [
+          {
+            "description": "The number is less than 6.",
+            "isBought": false
+          },
+          {
+            "description": "The number is od3. The number is one less than 4.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Sarah has 12 pencils and she wants to put them in pencil cases that hold 4 pencils each. How many pencil cases will she need? [pencil]",
+    "questions": [
+      {
+        "question": "What is the total number of pencils Sarah has?",
+        "options": [
+          "11",
+          "13",
+          "12 (correct answer)",
+          "14"
+        ],
+        "hints": [
+          {
+            "description": "The number is greater than 10 but less than 15.",
+            "isBought": false
+          },
+          {
+            "description": "The number is an even number.",
+            "isBought": false
+          },
+          {
+            "description": "The number is not a multiple of 5.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many pencils can each pencil case hold?",
+        "options": [
+          "3",
+          "5",
+          "4 (correct answer)",
+          "6"
+        ],
+        "hints": [
+          {
+            "description": "The number is less than 7.",
+            "isBought": false
+          },
+          {
+            "description": "The number is even.",
+            "isBought": false
+          },
+          {
+            "description": "The number is one more than 3.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Which visual best represents this scenario?",
+        "options": [
+          "\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f    \u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f     \u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f (correct answer)",
+          "\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f    \u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f",
+          "\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f    \u270f\ufe0f\u270f\ufe0f",
+          "\u270f\ufe0f\u270f\ufe0f\u270f\ufe0f     \u270f\ufe0f\u270f\ufe0f\u270f\ufe0f"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "If you have 18 cookies and you want to divide them equally between 6 friends, how many cookies will each friend get? [cookie]",
+    "questions": [
+      {
+        "question": "What is the total number of cookies you have?",
+        "options": [
+          "17",
+          "19",
+          "18 (correct answer)",
+          "20"
+        ],
+        "hints": [
+          {
+            "description": "The number is greater than 16 but less than 20.",
+            "isBought": false
+          },
+          {
+            "description": "The number is an even number.",
+            "isBought": false
+          },
+          {
+            "description": "The number is not a multiple of 5.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many friends do you want to share the cookies with?",
+        "options": [
+          "5",
+          "7",
+          "6 (correct answer)",
+          "8"
+        ],
+        "hints": [
+          {
+            "description": "The number is less than 9.",
+            "isBought": false
+          },
+          {
+            "description": "The number is even.",
+            "isBought": false
+          },
+          {
+            "description": "The number is one less than 7.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Jack has 20 marbles and he wants to put them in bags that hold 5 marbles each. How many bags will he need? [marble]",
+    "questions": [
+      {
+        "question": "What is the total number of marbles Jack has?",
+        "options": [
+          "19",
+          "21",
+          "20 (correct answer)",
+          "22"
+        ],
+        "hints": [
+          {
+            "description": "The number is greater than 18 but less than 23.",
+            "isBought": false
+          },
+          {
+            "description": "The number is an even number.",
+            "isBought": false
+          },
+          {
+            "description": "The number is a multiple of 4.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many marbles can each bag hold?",
+        "options": [
+          "4",
+          "6",
+          "5 (correct answer)",
+          "7"
+        ],
+        "hints": [
+          {
+            "description": "The number is less than 8.",
+            "isBought": false
+          },
+          {
+            "description": "The number is od3. The number is one less than 6.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "If there are 4 rows of chairs in a classroom and each row has 6 chairs, how many chairs are there in the classroom? [chair]",
+    "questions": [
+      {
+        "question": "How many rows of chairs are in the classroom?",
+        "options": [
+          "3",
+          "5",
+          "4 (correct answer)",
+          "7"
+        ],
+        "hints": [
+          {
+            "description": "The number is less than 8.",
+            "isBought": false
+          },
+          {
+            "description": "The number is even.",
+            "isBought": false
+          },
+          {
+            "description": "The number is one less than 5.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many chairs are in each row?",
+        "options": [
+          "5",
+          "7",
+          "6 (correct answer)",
+          "8"
+        ],
+        "hints": [
+          {
+            "description": "The number is less than 9.",
+            "isBought": false
+          },
+          {
+            "description": "The number is even.",
+            "isBought": false
+          },
+          {
+            "description": "The number is one more than 5.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "If a bag of marbles has 36 marbles and you take away 13 marbles, how many marbles are left in the bag? [marble]",
+    "questions": [
+      {
+        "question": "What is the total number of marbles in the bag?",
+        "options": [
+          "35",
+          "37",
+          "36 (correct answer)",
+          "38"
+        ],
+        "hints": [
+          {
+            "description": "Go slow during double digit subtraction. | [advanced double digit subtraction]",
+            "isBought": false
+          },
+          {
+            "description": "The number is greater than 34 but less than 40.",
+            "isBought": false
+          },
+          {
+            "description": "The number is an even number.",
+            "isBought": false
+          },
+          {
+            "description": "The number is not a multiple of 5.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many marbles are taken away from the bag?",
+        "options": [
+          "12",
+          "14",
+          "13 (correct answer)",
+          "15"
+        ],
+        "hints": [
+          {
+            "description": "The number is greater than 10 but less than 16.",
+            "isBought": false
+          },
+          {
+            "description": "The number is od3. The number is one more than 12.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Here are 72 crayons in a box. If you take away 28 crayons, how many crayons are left in the box? [crayon]",
+    "questions": [
+      {
+        "question": "Let\u2019s get silly and figure out the expression, chilly",
+        "options": [
+          "72\ud83d\udd8d\ufe0f - 28\ud83d\udd8d\ufe0f = __\ud83d\udd8d\ufe0f (correct answer)",
+          "22\ud83d\udd8d\ufe0f - 23\ud83d\udd8d\ufe0f = __\ud83d\udd8d\ufe0f",
+          "57\ud83d\udd8d\ufe0f - 24\ud83d\udd8d\ufe0f = __\ud83d\udd8d\ufe0f",
+          "76\ud83d\udd8d\ufe0f - 26\ud83d\udd8d\ufe0f = __\ud83d\udd8d\ufe0f"
+        ],
+        "hints": [
+          {
+            "description": "The phrase \u201ctake away\u201d suggests this is a subtraction problem.  Imagine 72 crayons (\ud83d\udd8d\ufe0f) and then 28 of them roll away.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Barry started with 36 marbles but his friend stole 13 of them.  How many are left? [marbles]",
+    "questions": [
+      {
+        "question": "What is the total number of marbles in the bag?",
+        "options": [
+          "35",
+          "37",
+          "36 (correct answer)",
+          "38"
+        ],
+        "hints": [
+          {
+            "description": "The number is greater than 34 but less than 40.",
+            "isBought": false
+          },
+          {
+            "description": "The number is an even number.",
+            "isBought": false
+          },
+          {
+            "description": "The number is not a multiple of 5.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many marbles are taken away from the bag?",
+        "options": [
+          "12",
+          "14",
+          "13 (correct answer)",
+          "15"
+        ],
+        "hints": [
+          {
+            "description": "The number is greater than 10 but less than 16.",
+            "isBought": false
+          },
+          {
+            "description": "The number is od3. The number is one more than 12.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "If you have 30 stickers and you want to share them equally between 6 friends, how many stickers will each friend get? [duck]",
+    "questions": [
+      {
+        "question": "What is the total number of stickers you have?",
+        "options": [
+          "29",
+          "31",
+          "30 (correct answer)",
+          "32"
+        ],
+        "hints": [
+          {
+            "description": "The number is greater than 28 but less than 33.",
+            "isBought": false
+          },
+          {
+            "description": "The number is an even number.",
+            "isBought": false
+          },
+          {
+            "description": "The number is a multiple of 3.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many friends do you want to share the stickers with?",
+        "options": [
+          "5",
+          "7",
+          "6 (correct answer)",
+          "8"
+        ],
+        "hints": [
+          {
+            "description": "The number is less than 9.",
+            "isBought": false
+          },
+          {
+            "description": "The number is even.",
+            "isBought": false
+          },
+          {
+            "description": "The number is one less than 7.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A store has 48 apples. If they sell 20 apples, how many apples do they have left? [apple]",
+    "questions": [
+      {
+        "question": "The phrase \u201csell 20 apples\u201d tells us this is a ___ problem.",
+        "options": [
+          "subtraction (correct answer)",
+          "addition",
+          "multiplication",
+          "division"
+        ],
+        "hints": [
+          {
+            "description": "What is the total number of apples the store has?",
+            "isBought": false
+          },
+          {
+            "description": "What does the word \"sell\" mean in this problem?",
+            "isBought": false
+          },
+          {
+            "description": "How many apples are left after they sell 20 of them?",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s setup the question",
+        "options": [
+          "48\ud83c\udf4e - 20\ud83c\udf4e= ___  (correct answer)",
+          "46\ud83c\udf4e - 30\ud83c\udf4e= ___",
+          "49\ud83c\udf4e - 22\ud83c\udf4e= ___",
+          "58\ud83c\udf4e - 18\ud83c\udf4e= ___"
+        ],
+        "hints": [
+          {
+            "description": "What is the first number you need to subtract from?",
+            "isBought": false
+          },
+          {
+            "description": "How many apples did they sell?",
+            "isBought": false
+          },
+          {
+            "description": "What is the total number of apples left after the sale?",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "If you have 15 toy cars and you want to divide them equally between 5 toy boxes, how many toy cars will be in each toy box? [banana]",
+    "questions": [
+      {
+        "question": "How many toy cars will be in each box?",
+        "options": [
+          "3 (correct answer)",
+          "5",
+          "15",
+          "1"
+        ],
+        "hints": [
+          {
+            "description": "\ud83d\ude97\ud83d\ude97\ud83d\ude97\ud83d\ude97\ud83d\ude97   \ud83d\ude97\ud83d\ude97\ud83d\ude97\ud83d\ude97\ud83d\ude97   \ud83d\ude97\ud83d\ude97\ud83d\ude97\ud83d\ude97\ud83d\ude97",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the total number of toy cars you have?",
+        "options": [
+          "14",
+          "16",
+          "15 (correct answer)",
+          "17"
+        ],
+        "hints": [
+          {
+            "description": "The number is greater than 13 but less than 18.",
+            "isBought": false
+          },
+          {
+            "description": "The number is an odd number.",
+            "isBought": false
+          },
+          {
+            "description": "The number is not a multiple of 4.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many toy boxes do you want to divide the toy cars between?",
+        "options": [
+          "4",
+          "6",
+          "5 (correct answer)",
+          "7"
+        ],
+        "hints": [
+          {
+            "description": "The number is less than 8.",
+            "isBought": false
+          },
+          {
+            "description": "The number is od3. The number is one more than 4.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s start by counting by 5\u2019s until you get to 15. How many 5\u2019s does it take to get to 15?",
+        "options": [
+          "3 (correct answer)",
+          "4",
+          "2",
+          "How do you count again?"
+        ],
+        "hints": [
+          {
+            "description": "Now we need to put it all together. Let\u2019s review the question, and make sure we\u2019ve got it right.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "There are 80 students in a school. If 25 students are absent, how many students are present in the school? [kid]",
+    "questions": [
+      {
+        "question": "The phrase \u201c25 students are absent\u201d suggests this is a ______ problem.  Imagine 80 chairs that are supposed to have students, but 25 of the chairs are _____.",
+        "options": [
+          "subtraction | empty  (correct answer)",
+          "multiplication| tacos",
+          "division | filled",
+          "addition | occupied"
+        ],
+        "hints": [
+          {
+            "description": "This is a problem that involves subtraction.",
+            "isBought": false
+          },
+          {
+            "description": "Imagine you have 80 chairs, but some of them are empty.",
+            "isBought": false
+          },
+          {
+            "description": "The phrase \"25 students are absent\" tells you how many chairs are empty.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s set up our problem...",
+        "options": [
+          "80 students - 25 absent students = __ present students. |  80\ud83d\ude4b - 25\ud83d\ude4b= __\ud83d\ude4b  (correct answer)",
+          "95 students - 17 absent students = __ present students. | 95\ud83d\ude4b - 17\ud83d\ude4b= __\ud83d\ude4b",
+          "77 students - 29  absent students = __ present students. | 77\ud83d\ude4b - 29\ud83d\ude4b= __\ud83d\ude4b",
+          "85 students - 16 absent students = __ present students. | 85\ud83d\ude4b - 16\ud83d\ude4b= __\ud83d\ude4b"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like labeled containers that hold values.  [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          },
+          {
+            "description": "Use the numbers from the story problem to set up the equation.",
+            "isBought": false
+          },
+          {
+            "description": "Remember to subtract the number of absent students from the total number of students.",
+            "isBought": false
+          },
+          {
+            "description": "You should end up with a number that tells you how many students are present.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A pizza has 12 slices. If you eat 3 slices, how many slices are left? [pizza]",
+    "questions": [
+      {
+        "question": "The phrase \u201ceat 3 slices\u201d suggests this is a _____ problem.",
+        "options": [
+          "subtraction (correct answer)",
+          "addition",
+          "multiplication",
+          "division"
+        ],
+        "hints": [
+          {
+            "description": "What mathematical operation would you use to find out how many slices are left after eating some of them?",
+            "isBought": false
+          },
+          {
+            "description": "You are trying to find the difference between the total number of slices and the slices you ate.",
+            "isBought": false
+          },
+          {
+            "description": "If you have 12 slices and you eat 3, which operation will help you find the remaining amount?",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Start the show, set up the problem and let the solutions flow. | Use variable names.",
+        "options": [
+          "startingSlices - eatenSlices = remainingSlices (correct answer)",
+          "startingPizza eatenPizza = remainingPizza",
+          "initialBites consumedBites = leftoverBites",
+          "originalDonuts consumedDonuts = remainingDonuts"
+        ],
+        "hints": [
+          {
+            "description": "Variables are like labeled containers that hold values.  [Variables are like containers for numbers]",
+            "isBought": false
+          },
+          {
+            "description": "A good formula uses easy-to-remember variables.  That way, we can allocate more brain power to reasoning. [fun equation]",
+            "isBought": false
+          },
+          {
+            "description": "Think about the proper names for the variables that represent the initial number of slices, the eaten slices, and the remaining slices.",
+            "isBought": false
+          },
+          {
+            "description": "Consider what you're trying to find the remaining slices after some are eaten. Which equation most clearly represents that?",
+            "isBought": false
+          },
+          {
+            "description": "Remember that the problem involves pizza slices, not donuts or bites.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Time to get sharp and plug in the harp! (plug in the known values)",
+        "options": [
+          "12 - 3 = remainingSlices (correct answer)",
+          "11 - 4 = remainingSlices",
+          "15 - 5 = remainingSlices",
+          "11 - 2 = remainingSlices"
+        ],
+        "hints": [
+          {
+            "description": "Pretend each variable is a cup with tape on it that says the name of the cup.  You\u2019re just dropping in the numbers into the cup. [It\u2019s easy to plug in variables]",
+            "isBought": false
+          },
+          {
+            "description": "What are the given values for startingSlices and eatenSlices in the problem?",
+            "isBought": false
+          },
+          {
+            "description": "The problem states there are 12 slices in the pizza and you eat 3 of them. Which equation correctly uses these values?",
+            "isBought": false
+          },
+          {
+            "description": "Remember that you're trying to find the remaining slices after eating 3 out of the 12 initial slices.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Imagine 12 slices of pizza (\ud83c\udf55) and then 3 of them are eaten.  How many slices do you have leftover? [pizza]",
+    "questions": [
+      {
+        "question": "The pizza started out with ___ slices",
+        "options": [
+          "12 (correct answer)",
+          "3",
+          "9",
+          "14"
+        ],
+        "hints": [
+          {
+            "description": "Get some paper and draw your pizza slices",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "If 8 friends have 24 cookies and want to divide them equally, how many cookies will each friend get? [cookie]",
+    "questions": [
+      {
+        "question": "This is a ______ problem.",
+        "options": [
+          "division  (correct answer)",
+          "subtraction",
+          "addition",
+          "hard"
+        ],
+        "hints": [
+          {
+            "description": "You can think of a division problem as a grouping job. You\u2019re just grouping 24 cookies (\ud83c\udf6a) into 8 piles (one pile for each friend). Each friend should have the same amount so it\u2019s fair!",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many cookies are there total?",
+        "options": [
+          "24  (correct answer)",
+          "40",
+          "2",
+          "My friend Tommy ate all of them \ud83d\ude41"
+        ],
+        "hints": [
+          {
+            "description": "Re-read the story problem and pay special attention to the total cookies.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many 8\u2019s can you fit into 24?",
+        "options": [
+          "3  (correct answer)",
+          "8",
+          "0",
+          "12"
+        ],
+        "hints": [
+          {
+            "description": "Try counting by 8 until you can get 24.",
+            "isBought": false
+          },
+          {
+            "description": " if you need to write it out, start by adding 8+8, then keep adding 8 to the number you get.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "If you have $30 and you buy a toy that costs $15, how much money will you have left? [discount]",
+    "questions": [
+      {
+        "question": "This is a ______ problem",
+        "options": [
+          "subtraction (correct answer)",
+          "addition",
+          "multiplication",
+          "division"
+        ],
+        "hints": [
+          {
+            "description": "Re-read the story problem and pay special attention to the \u2018buy a toy\u2019 part.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "A rectangle has a length of 10 inches and is 6 inches wide. What is the perimeter of the rectangle? [rectangle]",
+    "questions": [
+      {
+        "question": "Time to party and set it up smarty",
+        "options": [
+          "10 + 10 + 6 + 6 = ___ (correct answer)",
+          "8 \u2716\ufe0f 5 - 2 \u2716\ufe0f 5 = ___",
+          "12 / 2 + 14 / 2 = ___",
+          "15 - 3 + 9 - 1 = ___"
+        ],
+        "hints": [
+          {
+            "description": "Perimeter is the total length of the boundary or outer edge of an object.  A rectangle has 4 sides and the question tells us the lengths.  You can just add them up!",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Let\u2019s add it up and fill our cup.",
+        "options": [
+          "10 + 10 + 6 + 6 = 32 inches (correct answer)",
+          "10 + 10 + 6 + 6 = 34 centimeters",
+          "10 + 10 + 6 + 6 = 37 feet",
+          "10 + 10 + 6 + 6 = 31 meters"
+        ],
+        "hints": [
+          {
+            "description": "When a problem has a word like \u2018inches\u2019 or \u2018feet\u2019, this is called the UNIT. Make sure that you remember to include that in your answer!",
+            "isBought": false
+          },
+          {
+            "description": "You can also solve this using another equation: Perimeter = 2\u2716\ufe0f(length + width)",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  }
+]

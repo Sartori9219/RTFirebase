@@ -1,0 +1,401 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Did you hear about the sloth who started a petition against faster tree-climbing techniques?",
+        "Yeah, I guess it just couldn't embrace life in the fast lane!"
+      ],
+      "options": [
+        "Resistance to change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the old-school calculator refuse to learn new math tricks?",
+        "It was too attached to its buttons and didn't want to face the touch-screen era!"
+      ],
+      "options": [
+        "Resistance to change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What did the stubborn pencil say when it saw the mechanical pencil?",
+        "\"You may be sharp, but you'll never replace my classic charm!\""
+      ],
+      "options": [
+        "Resistance to change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the smartphone enroll in a public speaking class?",
+        "It wanted to improve its \"communication skills\"!"
+      ],
+      "options": [
+        "Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a gossiping computer?"
+      ],
+      "options": [
+        "Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the walkie-talkie so popular at the party?",
+        "It always knew how to \"stay in touch\" with everyone!"
+      ],
+      "options": [
+        "Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the project manager invite a penguin to the meeting?",
+        "He wanted to make sure all the \"stakeholders\" were engaged, even those from the South Pole!"
+      ],
+      "options": [
+        "Stakeholder engagement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a superhero who makes sure everyone's opinions are heard?",
+        "Captain Stakeholder Engagement!"
+      ],
+      "options": [
+        "Stakeholder engagement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the cow join the town hall meeting?",
+        "It wanted to represent the \"stakeholders\" from the farm!"
+      ],
+      "options": [
+        "Stakeholder engagement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the fortune teller become a business consultant?",
+        "She had a knack for creating \"visions\" and \"strategies\" for the future!"
+      ],
+      "options": [
+        "Vision and strategy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a chess-playing robot that always wins?"
+      ],
+      "options": [
+        "Vision and strategy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How did the pirate captain make sure his crew stayed on course?",
+        "He used his telescope to keep an eye on their \"vision\" and mapped out a \"strategy\" to reach the treasure!"
+      ],
+      "options": [
+        "Vision and strategy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the lion get hired as a CEO?",
+        "It had the perfect combination of \"leadership\" and \"sponsorship\" skills!"
+      ],
+      "options": [
+        "Leadership and sponsorship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a superhero who's great at supporting and leading teams?"
+      ],
+      "options": [
+        "Leadership and sponsorship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How did the orchestra conductor secure funding for their next performance?",
+        "By using their leadership skills to \"conduct\" a successful sponsorship campaign!"
+      ],
+      "options": [
+        "Leadership and sponsorship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the battery become a motivational speaker?",
+        "It had a real talent for \"charging up\" and empowering others!"
+      ],
+      "options": [
+        "Empowerment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a superhero who helps people believe in themselves?"
+      ],
+      "options": [
+        "Empowerment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How did the sunflower teach the other flowers to stand tall?",
+        "By shining bright and showing them the power of \"photosyn-thesis\"!"
+      ],
+      "options": [
+        "Empowerment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the gym trainer become a professional development coach?",
+        "They knew how to help people \"exercise\" their potential!"
+      ],
+      "options": [
+        "Training and development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a dog that helps people learn new skills?",
+        "A \"training\" and development retriever!"
+      ],
+      "options": [
+        "Training and development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How did the wise owl help the other birds in the forest?",
+        "By offering \"flight school\" and helping them spread their wings!"
+      ],
+      "options": [
+        "Training and development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the chameleon become a culture change consultant?",
+        "It knew how to blend in and adapt to any \"cultural transformation\"!"
+      ],
+      "options": [
+        "Cultural transformation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call an alien who helps organizations adapt to new cultures?",
+        "An intergalactic cultural transformer!"
+      ],
+      "options": [
+        "Cultural transformation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How did the garden gnome help improve the atmosphere in the garden?",
+        "By cultivating a \"growing\" sense of community and fostering cultural transformation!"
+      ],
+      "options": [
+        "Cultural transformation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the snail join a continuous improvement team?",
+        "It wanted to learn how to \"slime\" its way to success, one small step at a time!"
+      ],
+      "options": [
+        "Continuous improvement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a robot that's always upgrading itself?",
+        "A continuous improvement machine!"
+      ],
+      "options": [
+        "Continuous improvement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How did the artist keep their creativity flowing?",
+        "By always looking for ways to \"brush up\" on their skills through continuous improvement!"
+      ],
+      "options": [
+        "Continuous improvement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the bees form a workplace committee?",
+        "They wanted to create a real \"buzz\" by involving all employees in decision-making!"
+      ],
+      "options": [
+        "Employee involvement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a team of superheroes who value everyone's input?",
+        "The Employee Involvement League!"
+      ],
+      "options": [
+        "Employee involvement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How did the penguins improve their ice-slide construction process?",
+        "By \"waddling\" their way to success through increased employee involvement!"
+      ],
+      "options": [
+        "Employee involvement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the squirrel become a successful project manager?",
+        "It knew how to \"nutwork\" and keep all its tasks organized in a \"tree-structured\" manner!"
+      ],
+      "options": [
+        "Project management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a superhero who is excellent at planning, executing, and closing projects?"
+      ],
+      "options": [
+        "Project management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How did the octopus become an expert in project management?",
+        "With eight arms, it could multitask like a pro and keep everything under control!"
+      ],
+      "options": [
+        "Project management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the ruler become a performance measurement expert?",
+        "It always knew how to \"measure up\" to expectations!"
+      ],
+      "options": [
+        "Performance measurement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a superhero who tracks progress and evaluates success?",
+        "The Performance Prognosticator!"
+      ],
+      "options": [
+        "Performance measurement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How did the stopwatch help the athletes improve their performance?",
+        "By keeping track of their time and helping them \"clock\" their progress!"
+      ],
+      "options": [
+        "Performance measurement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the trophy become a motivational speaker?",
+        "It wanted to inspire others to \"shine\" and be recognized for their achievements!"
+      ],
+      "options": [
+        "Reward and recognition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a superhero who celebrates people's successes and achievements?"
+      ],
+      "options": [
+        "Reward and recognition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How did the pufferfish become a popular manager at the underwater office?",
+        "By always \"puffing up\" its employees with rewards and recognition for their hard work!"
+      ],
+      "options": [
+        "Reward and recognition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the tightrope walker become a risk assessment expert?",
+        "They always knew how to \"balance\" potential dangers with success!"
+      ],
+      "options": [
+        "Risk assessment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a superhero who identifies and evaluates potential risks?"
+      ],
+      "options": [
+        "Risk assessment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How did the mountain goat help other animals navigate the cliffs safely?",
+        "By using its natural instincts to assess risks and guide them on the best path!"
+      ],
+      "options": [
+        "Risk assessment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the chameleon become a change readiness coach?",
+        "It had the unique ability to adapt quickly and \"colorfully\" to any situation!"
+      ],
+      "options": [
+        "Change readiness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a superhero who helps organizations prepare for change?"
+      ],
+      "options": [
+        "Change readiness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How did the caterpillar teach its friends to embrace change?",
+        "By showing them how it transformed into a beautiful butterfly, ready to take on new challenges!"
+      ],
+      "options": [
+        "Change readiness (correct answer)"
+      ]
+    }
+  ]
+}

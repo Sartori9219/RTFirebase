@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Identifying the problem",
+        "Gathering information",
+        "Analyzing the information",
+        "Generating possible solutions",
+        "Evaluating the solutions",
+        "Selecting the best solution",
+        "Implementing the solution",
+        "Assessing the results",
+        "Asking open-ended questions",
+        "Recognizing assumptions",
+        "Challenging biases",
+        "Considering alternative perspectives",
+        "Reflecting on one's own thinking",
+        "Collaborating with others",
+        "Adapting to new information"
+    ],
+    "hints": {
+        "Identifying the problem": "Clearly define and understand the issue at hand.",
+        "Gathering information": "Collect relevant data, facts, and opinions related to the problem.",
+        "Analyzing the information": "Examine the gathered information to determine patterns, relationships, and underlying causes.",
+        "Generating possible solutions": "Brainstorm a variety of potential ways to address the problem.",
+        "Evaluating the solutions": "Weigh the pros and cons of each potential solution to determine their feasibility and effectiveness.",
+        "Selecting the best solution": "Choose the most appropriate and practical solution based on the evaluation.",
+        "Implementing the solution": "Put the chosen solution into action and observe its effects.",
+        "Assessing the results": "Determine the success of the implemented solution and make adjustments if necessary.",
+        "Asking open-ended questions": "Pose questions that encourage deeper thinking and exploration of the problem.",
+        "Recognizing assumptions": "Identify any preconceived notions or beliefs that may be influencing your thinking.",
+        "Challenging biases": "Acknowledge and question any personal biases that may affect your decision-making process.",
+        "Considering alternative perspectives": "Seek out and consider different viewpoints to gain a more comprehensive understanding of the problem.",
+        "Reflecting on one's own thinking": "Regularly evaluate your thought process and be willing to adjust it as needed.",
+        "Collaborating with others": "Work together with peers to share ideas, perspectives, and insights, fostering a collective problem-solving approach.",
+        "Adapting to new information": "Be flexible and willing to revise your thinking when presented with new information or evidence."
+    }
+}

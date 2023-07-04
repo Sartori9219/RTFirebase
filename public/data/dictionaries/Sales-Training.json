@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Building rapport",
+        "Active listening",
+        "Product knowledge",
+        "Identifying customer needs",
+        "Handling objections",
+        "Effective communication",
+        "Persuasive selling techniques",
+        "Time management",
+        "Closing the sale",
+        "Post-sale follow-up",
+        "Customer relationship management",
+        "Upselling and cross-selling",
+        "Goal setting",
+        "Sales presentation skills",
+        "Ethical selling"
+    ],
+    "hints": {
+        "Building rapport": "Establishing a connection with customers by finding common ground, showing empathy, and building trust.",
+        "Active listening": "Paying close attention to what the customer is saying, asking clarifying questions, and demonstrating understanding.",
+        "Product knowledge": "Gaining a deep understanding of the features, benefits, and value of the products being sold to effectively communicate them to customers.",
+        "Identifying customer needs": "Asking open-ended questions to uncover the customer's specific requirements, preferences, and pain points.",
+        "Handling objections": "Addressing customer concerns or doubts in a respectful and persuasive manner, using product knowledge and problem-solving skills.",
+        "Effective communication": "Clearly conveying ideas and information to customers, both verbally and non-verbally, while adapting the message to suit the audience.",
+        "Persuasive selling techniques": "Using various strategies, such as storytelling, social proof, and scarcity, to convince customers of the value of the product.",
+        "Time management": "Prioritizing tasks, setting goals, and allocating time efficiently to maximize productivity and sales success.",
+        "Closing the sale": "Recognizing buying signals, summarizing the value proposition, and asking for the sale in a confident and assertive manner.",
+        "Post-sale follow-up": "Maintaining contact with customers after the sale to ensure satisfaction, address any issues, and foster long-term relationships.",
+        "Customer relationship management": "Using tools and strategies to track customer interactions, preferences, and sales history to improve the overall customer experience.",
+        "Upselling and cross-selling": "Identifying opportunities to increase sales by offering additional products or services that complement or enhance the customer's initial purchase.",
+        "Goal setting": "Establishing specific, measurable, achievable, relevant, and time-bound (SMART) goals to guide sales efforts and measure success.",
+        "Sales presentation skills": "Effectively presenting products and services to customers in a clear, engaging, and persuasive manner.",
+        "Ethical selling": "Conducting sales activities with honesty, integrity, and respect for the customer, prioritizing their best interests and needs."
+    }
+}

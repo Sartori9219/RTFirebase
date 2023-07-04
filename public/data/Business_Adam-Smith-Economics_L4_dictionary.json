@@ -1,0 +1,382 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why am I chopping onions and you're frying the tofu? This seems unfair.",
+        "Think about it, if you chop onions and I fry tofu, we make dinner faster. It's all about teamwork!"
+      ],
+      "options": [
+        "Division of labor (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You always get to feed the dog, while I'm stuck with cleaning his mess. It's not fair!",
+        "Well, if we both tried to feed him, who would handle the mess? Remember, each job is important!"
+      ],
+      "options": [
+        "Division of labor (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why am I always on dish duty while you're the taste tester?",
+        "Well, if we both cooked, who would do the dishes? Plus, you're better at not breaking plates, and I'm better at not burning food."
+      ],
+      "options": [
+        "Division of labor (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I made these cupcakes because I love baking, but now everyone wants to buy them. What's up with that?",
+        "That's the invisible hand! You did what you loved, and it benefited everyone!"
+      ],
+      "options": [
+        "Invisible hand (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I started making masks because I couldn't find any, and now I'm selling them to others. Strange, isn't it?",
+        "Not at all! That's the invisible hand at work. You filled a need, and the market responded."
+      ],
+      "options": [
+        "Invisible hand (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I planted these trees just for shade, but now people are buying their fruits. I never planned for this.",
+        "That's the invisible hand guiding you. You did something for your own benefit, and it ended up benefiting others too!"
+      ],
+      "options": [
+        "Invisible hand (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I thought the government would interfere when I started my lemonade stand, but nothing happened!",
+        "That's laissez-faire, my friend. They let the market do its thing."
+      ],
+      "options": [
+        "Laissez-faire (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The government doesn't interfere with my burger stand, and my business is booming!",
+        "That's the beauty of laissez-faire economics. You're free to succeed or fail on your own."
+      ],
+      "options": [
+        "Laissez-faire (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't believe the government lets me sell these funky socks without any regulations.",
+        "Well, that's laissez-faire for you. They believe the market can regulate itself."
+      ],
+      "options": [
+        "Laissez-faire (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you think I should start a bakery, even though I'm allergic to gluten?",
+        "Well, you're always talking about how much you love money and business. That's self-interest driving you."
+      ],
+      "options": [
+        "Self-interest (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to open a pet store. I love pets and I also see a great business opportunity.",
+        "That sounds like a perfect blend of passion and self-interest."
+      ],
+      "options": [
+        "Self-interest (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm working overtime, not because I love my job but because I want to buy a new car.",
+        "That's a classic example of self-interest. You're motivated by your personal gain."
+      ],
+      "options": [
+        "Self-interest (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my dentist never do the cleaning? The hygienist always does it.",
+        "That's specialization. The dentist focuses on diagnosing and treating issues, the hygienist on cleanings."
+      ],
+      "options": [
+        "Specialization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I only cook Thai food at my restaurant. Do you think I should expand to other cuisines?",
+        "No, stick to your specialty. Specialization can actually be beneficial in business."
+      ],
+      "options": [
+        "Specialization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend is a heart surgeon, but he never handles general surgeries. Why is that?",
+        "That's because in medicine, doctors often specialize in a specific field to become experts in it."
+      ],
+      "options": [
+        "Specialization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do concert tickets always sell out so fast?",
+        "That's market equilibrium. The supply of tickets meets the demand at a certain price, and then they're all gone."
+      ],
+      "options": [
+        "Market Equilibrium (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get it. Why doesn't the price of my favorite candy ever change?",
+        "It's probably because the supply and demand for it are in equilibrium. The sellers are happy with the price and so are the buyers."
+      ],
+      "options": [
+        "Market Equilibrium (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are rent prices so high in the city but so low in the suburbs?",
+        "That's market equilibrium. High demand and limited supply in the city drive up prices, while it's the opposite in the suburbs."
+      ],
+      "options": [
+        "Market Equilibrium (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the price of avocados skyrocket?",
+        "Must be the law of supply and demand. Maybe there was a bad harvest and the supply dropped."
+      ],
+      "options": [
+        "Law of Supply and Demand (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why gas prices always go up in the summer.",
+        "It's the law of supply and demand. More people travel in the summer, so demand goes up and so do prices."
+      ],
+      "options": [
+        "Law of Supply and Demand (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are vintage comic books so expensive?",
+        "That's the law of supply and demand. The supply is limited because they don't make them anymore, and the demand is high among collectors."
+      ],
+      "options": [
+        "Law of Supply and Demand (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do we pay taxes, anyway?",
+        "The government needs money to build roads, schools, and other public goods. That's a part of their role!"
+      ],
+      "options": [
+        "Role of Government (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just throw my trash anywhere?",
+        "One role of the government is to enforce laws, like littering laws, to keep our environment clean."
+      ],
+      "options": [
+        "Role of Government (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm starting a business. Why do I need a license?",
+        "That's part of the government's role. They regulate businesses to protect consumers and ensure fair competition."
+      ],
+      "options": [
+        "Role of Government (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is my boss always pushing us to work faster?",
+        "That's productivity for you! The more goods or services produced in a given time, the higher the economic growth."
+      ],
+      "options": [
+        "Productivity and Growth (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just invented a machine that can make twice as many widgets in the same amount of time!",
+        "Wow, your productivity boost will certainly help the economy grow."
+      ],
+      "options": [
+        "Productivity and Growth (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are we always updating our software?",
+        "Keeping up with the latest tech increases our productivity, which in turn fuels economic growth."
+      ],
+      "options": [
+        "Productivity and Growth (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the price of my favorite cereal going up?",
+        "That's the 'natural price' in action. The cost of the ingredients must have risen."
+      ],
+      "options": [
+        "Natural Price (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why some sneakers are so expensive.",
+        "It's all about natural price. It reflects the cost of production, including labor, materials, etc."
+      ],
+      "options": [
+        "Natural Price (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is organic food more expensive than regular food?",
+        "The 'natural price' is higher because it costs more to grow food organically."
+      ],
+      "options": [
+        "Natural Price (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been working at this job for a year and haven't seen a raise!",
+        "Maybe the company's profits aren't rising. Remember, wages and profits are often linked."
+      ],
+      "options": [
+        "Wages and Profits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do CEOs earn so much more than regular employees?",
+        "It's a contentious issue. The idea is that their decisions can significantly impact profits, so they get a larger share."
+      ],
+      "options": [
+        "Wages and Profits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend's small business is booming, and he's getting a significant raise!",
+        "That's how it works. As profits rise, so can wages, especially in a small business."
+      ],
+      "options": [
+        "Wages and Profits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't believe how much money Uncle Scrooge has in his vault!",
+        "That's the accumulation of capital for you. It's not just about earning but also saving and investing."
+      ],
+      "options": [
+        "Accumulation of Capital (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is it important to save money?",
+        "Because of the principle of accumulation of capital. The more capital you have, the more you can invest and grow your wealth."
+      ],
+      "options": [
+        "Accumulation of Capital (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bought another rental property!",
+        "Ah, working on the accumulation of capital, are you?"
+      ],
+      "options": [
+        "Accumulation of Capital (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just won the lottery! I'm going to buy a yacht!",
+        "Or you could invest in some real estate or stocks. You know, the whole 'saving and investment' thing."
+      ],
+      "options": [
+        "Saving and Investment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is my piggy bank always empty?",
+        "Maybe because you're not practicing the concept of saving and investment. You need to keep some coins in there to grow!"
+      ],
+      "options": [
+        "Saving and Investment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't wait to spend my paycheck on this new video game console!",
+        "Or you could put it into a savings account and watch it grow... just a thought."
+      ],
+      "options": [
+        "Saving and Investment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm starting a lemonade stand!",
+        "Nice! Just remember, competition is like lemonade, too sweet can be overpowering, but too sour and no one will drink it."
+      ],
+      "options": [
+        "Role of Competition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just created an app that tells you when to drink water!",
+        "Nice! But there's already 50 apps doing the same. Welcome to the world of competition."
+      ],
+      "options": [
+        "Role of Competition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm the only one selling homemade cookies in the neighborhood!",
+        "Enjoy it while it lasts. Once Mrs. Jones gets wind of this, you'll learn about the role of competition."
+      ],
+      "options": [
+        "Role of Competition (correct answer)"
+      ]
+    }
+  ]
+}

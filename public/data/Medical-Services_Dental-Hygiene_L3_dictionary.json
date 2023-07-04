@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Plaque is a sticky film of bacteria that forms on our teeth and gums. \ud83e\uddb7",
+        "It's like a slimy monster that wants to eat away our enamel and cause cavities. \ud83e\udd22"
+      ],
+      "options": [
+        "Plaque and Tartar (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you don't brush and floss regularly, plaque can harden and turn into tartar. \ud83d\ude2c",
+        "That's like a little crystal coat of armor around your teeth that can only be removed by a dentist or hygienist. \u2694\ufe0f"
+      ],
+      "options": [
+        "Plaque and Tartar (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Tartar buildup can cause gum disease, tooth decay, and even bad breath. \ud83d\ude37",
+        "It's like having little monsters camping out on your teeth, leaving a smelly mess everywhere they go. \ud83e\udd22"
+      ],
+      "options": [
+        "Plaque and Tartar (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Using the wrong brushing technique can cause harm to your tooth enamel and gums. \ud83e\udd14",
+        "It's like trying to unscrew a lightbulb with a hammer. Things are going to get messy. \ud83d\udd28"
+      ],
+      "options": [
+        "Brushing Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Brushing too hard can cause gum recession, and the bristles can wear down tooth enamel. \ud83d\ude2c",
+        "It's like trying to clean up a small spill with a fire hose. You'll make an even bigger mess. \ud83d\udd25"
+      ],
+      "options": [
+        "Brushing Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The right brushing technique involves using a soft-bristled brush, short back-and-forth strokes, and brushing all surfaces of the teeth.\ud83e\uddb7",
+        "It's like being an artist painting a beautiful masterpiece, using the right brushstrokes to create something perfect. \ud83c\udfa8"
+      ],
+      "options": [
+        "Brushing Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Flossing is an important part of dental hygiene as it removes plaque and food particles from between teeth.\ud83e\uddb7",
+        "It's like being a superhero that uses a lasso to capture all the villains hiding between the teeth! \ud83e\uddb8\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Flossing Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Flossing should be done gently, using a clean section of floss for each tooth.\ud83e\uddf5",
+        "It's like sweeping between the teeth with a tiny broom, gently removing any lingering debris. \ud83e\uddf9"
+      ],
+      "options": [
+        "Flossing Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Proper flossing technique involves gently sliding the floss back and forth between the teeth, avoiding snapping the floss or pressing too hard onto the gums. \ud83d\ude32",
+        "It's like being a ninja, silently and gently removing all the invaders (plaque and food debris) lurking between your teeth. \ud83e\udd77"
+      ],
+      "options": [
+        "Flossing Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Fluoride is helpful in protecting teeth from decay by stopping mineral loss and reducing the production of harmful acids by bacteria. \ud83e\uddb7",
+        "It's like teeth are superheroes and fluoride is their super shield, protecting them from all the bad guys. \ud83e\uddb8\u200d\u2640\ufe0f"
+      ],
+      "options": [
+        "Importance of Fluoride (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Drinking fluoridated water can help fight tooth decay and strengthen tooth enamel. \ud83d\udca7",
+        "It's like drinking a special potion that makes our teeth super strong and bulletproof. \ud83e\uddb7"
+      ],
+      "options": [
+        "Importance of Fluoride (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Fluoride is especially important for children whose teeth are still developing. \ud83e\uddd2",
+        "It's like giving your tipi-topi-topi-top teeth the superhero powers needed to fight against the evil bacteria bosses. \ud83d\udcaa"
+      ],
+      "options": [
+        "Importance of Fluoride (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Dental sealants are a thin, protective coating applied to the chewing surfaces of molars and premolars to protect them from decay. \ud83e\uddb7",
+        "It's like wearing a superhero shield on your teeth that can deflect sugar bombs and the evil bacteria army. \ud83d\udee1\ufe0f"
+      ],
+      "options": [
+        "Dental Sealants (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Sealants can last up to 10 years and are a great way to save money on dental bills in the long run. \ud83d\udcb0",
+        "It's like investing in an impregnable fortress to protect your teeth and your wallet from future invasions. \ud83c\udff0"
+      ],
+      "options": [
+        "Dental Sealants (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Dental sealants are an easy and painless way to protect teeth, usually requiring only one visit to the dentist. \ud83d\ude01",
+        "It's like getting fitted for a custom-made superhero cape that takes only one day to complete. You'll feel invincible! \ud83e\uddb8\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Dental Sealants (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A balanced diet and proper nutrition can greatly improve oral health, providing essential vitamins and minerals for strong teeth and gums. \ud83e\udd66",
+        "It's like having a secret weapon against the sugar army that tries to invade and conquer your teeth. Eat your veggies, kids! \ud83e\udd55"
+      ],
+      "options": [
+        "Balanced Diet and Nutrition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Sugary and acidic foods and beverages can harm tooth enamel and lead to cavities and tooth decay. \ud83c\udf6d",
+        "It's like wearing a white shirt while eating spaghetti with red sauce. It's just not a good idea. \ud83e\udd26\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Balanced Diet and Nutrition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Eating foods rich in calcium and phosphorous, such as milk, cheese, and leafy greens can help strengthen teeth. \ud83e\udd6c",
+        "It's like having a magical potion that turns your teeth into superhero bones, strong enough to fight off any sugar monsters that come their way! \ud83e\uddb7\ud83d\udcaa"
+      ],
+      "options": [
+        "Balanced Diet and Nutrition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Gum diseases are caused by bacteria buildup and poor oral hygiene. If left untreated, they can cause tooth loss and other serious health problems. \ud83e\uddb7",
+        "It's like forgetting to water the plants. If you don't take care of them, they'll turn brown and crumble away. \ud83c\udf31\ud83d\udc40"
+      ],
+      "options": [
+        "Gum Diseases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Common symptoms of gum disease include bad breath, swollen or bleeding gums, and loose teeth. \ud83d\ude37",
+        "It's like having your gums throw a party for the bacteria and they trash the place, leaving only a stinky mess behind. \ud83c\udf89\ud83e\udd22"
+      ],
+      "options": [
+        "Gum Diseases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Gum disease can be prevented by maintaining good oral hygiene, including brushing, flossing, and regular dental checkups. \ud83e\uddb7",
+        "It's like putting up a protective shield around your gums and teeth, keeping all the bad bacteria out. And who doesn't want to be a superhero? \ud83e\uddb8\u200d\u2640\ufe0f"
+      ],
+      "options": [
+        "Gum Diseases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Cavities are caused by acid produced by bacteria that break down food particles in the mouth. \ud83d\ude2c",
+        "It's like little monsters partying in your mouth and leaving behind acid bombs that can destroy your teeth. \ud83e\udd22\ud83d\udca5"
+      ],
+      "options": [
+        "Cavity Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Proper brushing, flossing, and a balanced diet can help prevent cavities. \ud83c\udf4e",
+        "It's like winning a battle against an army of sugar monsters with just a toothbrush and some spinach! \ud83d\udcaa\ud83e\uddb7"
+      ],
+      "options": [
+        "Cavity Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Regular dental checkups can help detect cavities early, when they are easier to treat. \ud83e\uddb7",
+        "It's like sending your scouts to gather intel behind enemy lines and preparing a counterattack before the sugar monsters even know what hit them. \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddb7"
+      ],
+      "options": [
+        "Cavity Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Oral cancer is a serious and often deadly disease that affects the mouth and throat. \ud83d\ude41",
+        "It's like the evil villain of the mouth that can only be defeated by tough superheroes who get screened regularly. \ud83d\udcaa\ud83e\uddb7"
+      ],
+      "options": [
+        "Oral Cancer Screening/ Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Common risk factors for oral cancer include tobacco and alcohol use, as well as exposure to HPV. \ud83d\udc4e",
+        "It's like rolling the dice on a dangerous game of chance. Just say no to cancer-causing substances and stay safe! \ud83c\udfb2\ud83d\udeab"
+      ],
+      "options": [
+        "Oral Cancer Screening/ Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Early detection is key for oral cancer. Regular screenings and checkups with a dentist or doctor can help detect cancer early on. \ud83d\udc4d",
+        "It's like having a superpower that can detect danger before it strikes. Get screened and stay one step ahead of the game! \ud83d\udca5\ud83e\uddb8\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Oral Cancer Screening/ Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that cigarettes contain over 7,000 chemicals, including several that are known to cause cancer?",
+        "Sounds like a recipe for disaster. Who needs that many ingredients in something that's not even food?"
+      ],
+      "options": [
+        "Scary Ingredients in Tobacco (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Arsenic, formaldehyde, and lead are just a few of the harmful chemicals found in tobacco.",
+        "Sounds like the ingredients list for a haunted house. Except this one is real, and it's even scarier."
+      ],
+      "options": [
+        "Scary Ingredients in Tobacco (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Tobacco companies use additives like ammonia to enhance the addictive properties of nicotine.",
+        "It's like they're playing mad scientists, trying to create the perfect addiction potion. And they don't care how many people get hurt in the process."
+      ],
+      "options": [
+        "Scary Ingredients in Tobacco (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Cleaning your tongue regularly can help improve bad breath and overall oral hygiene.",
+        "It's like taking a carpet cleaner to your mouth, scrubbing away all the leftover gunk and leaving your tongue feeling fresh and new!"
+      ],
+      "options": [
+        "Tongue Cleaning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The tongue can harbor bacteria, food particles, and dead skin cells, which can lead to bad breath and other oral health problems.",
+        "It's like a secret hiding spot for all the leftover food from your last meal. Time to clean house and get rid of that funky breath!"
+      ],
+      "options": [
+        "Tongue Cleaning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A variety of tools can be used to clean the tongue, including tongue scrapers and brushes.",
+        "It's like you have a whole kit just for cleaning your tongue. You're the tongue-cleaning superhero, on a mission to save the world from bad breath and bacteria!"
+      ],
+      "options": [
+        "Tongue Cleaning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Bad breath, also known as halitosis, can be caused by a variety of factors, including poor oral hygiene, certain foods, and gum disease.",
+        "It's like having a dragon in your mouth that's breathing fire at anyone who gets too close. Time to slay that dragon and prevent bad breath!"
+      ],
+      "options": [
+        "Bad Breath Prevention Tips (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Good oral hygiene, including regular brushing and flossing, can help prevent bad breath.",
+        "It's like taking a shower for your mouth! You wouldn't go out without showering, so don't let your mouth go out without brushing and flossing."
+      ],
+      "options": [
+        "Bad Breath Prevention Tips (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Chewing sugar-free gum or using mouthwash can help freshen breath throughout the day.",
+        "It's like having a secret weapon in your pocket that can save you from embarrassing breath moments. Always be prepared with some gum or mouthwash!"
+      ],
+      "options": [
+        "Bad Breath Prevention Tips (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Regular dental checkups are important for detecting and preventing oral health problems before they become more serious.",
+        "It's like getting a regular tune-up for your car. You wouldn't wait until your car breaks down to get it checked out, so why wait until your teeth start falling out to see the dentist?"
+      ],
+      "options": [
+        "Importance of Regular Dental Checkups (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Dentists can perform thorough cleanings to remove plaque and tartar buildup, as well as provide personalized advice for improving oral hygiene.",
+        "It's like having a personal trainer for your teeth - someone who can give you expert guidance and push you towards your best smile!"
+      ],
+      "options": [
+        "Importance of Regular Dental Checkups (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Regular checkups can help detect oral cancer early on, when it is most treatable.",
+        "It's like having a superhero in your corner, fighting off the evil cancer villains before they even know what hit them. Get screened and stay one step ahead of the game!"
+      ],
+      "options": [
+        "Importance of Regular Dental Checkups (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Dentists use a variety of tools in dental cleaning and exams, including mirrors, scalers, and probes.",
+        "It's like having a miniature construction site in your mouth, complete with excavators and cranes. But instead of building a skyscraper, the dentist is building you a healthy smile!"
+      ],
+      "options": [
+        "Tools Used in Dental Cleaning and Exam (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Mirrors allow dentists to examine hard-to-see areas of the mouth and teeth.",
+        "It's like having a dentist superhero with X-ray vision who can see through your teeth and spot any problems before they even show up!"
+      ],
+      "options": [
+        "Tools Used in Dental Cleaning and Exam (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ultrasonic scalers can remove plaque and tartar buildup without damaging the teeth or gums.",
+        "It's like having a high-tech power washer for your teeth, blasting away all the gunk and grime to reveal a healthy smile underneath!"
+      ],
+      "options": [
+        "Tools Used in Dental Cleaning and Exam (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Technology has revolutionized preventive dentistry, allowing for more accurate and efficient treatments.",
+        "It's like upgrading from using a hammer and chisel to using laser beams - the future of dentistry is here!"
+      ],
+      "options": [
+        "Technology Used in Preventive Dentistry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Digital x-rays use less radiation and provide instant images for faster diagnosis and treatment planning.",
+        "It's like taking a sneak peek inside your teeth without having to go through a whole detective investigation."
+      ],
+      "options": [
+        "Technology Used in Preventive Dentistry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Air abrasion uses a high-speed stream of particles to gently remove decay without the use of a traditional drill.",
+        "It's like an air-powered magic wand that can make cavities disappear without any pain or discomfort."
+      ],
+      "options": [
+        "Technology Used in Preventive Dentistry (correct answer)"
+      ]
+    }
+  ]
+}

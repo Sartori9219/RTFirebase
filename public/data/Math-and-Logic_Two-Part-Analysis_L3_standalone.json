@@ -1,0 +1,494 @@
+{
+  "questions": [
+    {
+      "question": "Alex buys 2 books and 3 pens. If a book costs $15 and a pen costs $5, how much does Alex spend in total?",
+      "options": [
+        "$30",
+        "$50",
+        "$55 (Correct answer)",
+        "$60"
+      ],
+      "hints": [
+        "There are two different items bought.",
+        "The cost of each item is given.",
+        "To find the total, we need to multiply and add."
+      ]
+    },
+    {
+      "question": "A company produces 200 products in 8 hours. How many products do they produce per hour?",
+      "options": [
+        "15",
+        "25 (Correct answer)",
+        "30",
+        "40"
+      ],
+      "hints": [
+        "The total production is given for 8 hours.",
+        "We need to find the hourly rate.",
+        "This involves division."
+      ]
+    },
+    {
+      "question": "If Sally walks 5 miles in 2 hours, what is her speed in miles per hour?",
+      "options": [
+        "1.5",
+        "2.5 (Correct answer)",
+        "3",
+        "3.5"
+      ],
+      "hints": [
+        "Distance and time are given.",
+        "We are trying to find speed.",
+        "Speed is distance divided by time."
+      ]
+    },
+    {
+      "question": "A bottle holds 1.5 liters of water. If John drinks 0.5 liters every hour, how long until the bottle is empty?",
+      "options": [
+        "2 hours",
+        "3 hours (Correct answer)",
+        "4 hours",
+        "5 hours"
+      ],
+      "hints": [
+        "Total volume and hourly drinking volume are given.",
+        "We need to find how long the water will last.",
+        "This is a division problem."
+      ]
+    },
+    {
+      "question": "If a shirt costs $20 and is discounted by 25%, what is the new price?",
+      "options": [
+        "$10",
+        "$15 (Correct answer)",
+        "$17.50",
+        "$18.75"
+      ],
+      "hints": [
+        "Original price and discount rate are given.",
+        "We are looking for the final price.",
+        "The discount must be subtracted from the original price."
+      ]
+    },
+    {
+      "question": "A car travels 300 miles on 15 gallons of gas. How many miles per gallon does the car get?",
+      "options": [
+        "10 miles/gallon",
+        "15 miles/gallon",
+        "20 miles/gallon (Correct answer)",
+        "25 miles/gallon"
+      ],
+      "hints": [
+        "This is a question about fuel efficiency.",
+        "The car's total mileage and fuel consumption are given.",
+        "Miles per gallon is calculated by dividing miles by gallons."
+      ]
+    },
+    {
+      "question": "If it takes 5 hours to read 250 pages, how many pages can be read in 1 hour?",
+      "options": [
+        "50 pages (Correct answer)",
+        "75 pages",
+        "100 pages",
+        "125 pages"
+      ],
+      "hints": [
+        "This is about the rate of reading.",
+        "The total reading time and number of pages read are given.",
+        "The number of pages read in 1 hour is found by dividing total pages by total hours."
+      ]
+    },
+    {
+      "question": "If a baker uses 4 eggs to make 8 cupcakes, how many eggs are needed to make 16 cupcakes?",
+      "options": [
+        "6 eggs",
+        "8 eggs (Correct answer)",
+        "10 eggs",
+        "12 eggs"
+      ],
+      "hints": [
+        "This is a problem about proportional relationships.",
+        "The number of eggs used for a certain amount of cupcakes is given.",
+        "We need to determine how many eggs are needed for a larger amount of cupcakes."
+      ]
+    },
+    {
+      "question": "If a train travels at a speed of 60 miles per hour for 4 hours, how far does it travel?",
+      "options": [
+        "180 miles",
+        "240 miles (Correct answer)",
+        "300 miles",
+        "360 miles"
+      ],
+      "hints": [
+        "This is a problem about distance.",
+        "Speed and time of travel are given.",
+        "Distance is found by multiplying speed by time."
+      ]
+    },
+    {
+      "question": "If a fruit salad requires 2 apples, 3 oranges, and 4 bananas, how many pieces of fruit are needed in total?",
+      "options": [
+        "6 pieces",
+        "8 pieces",
+        "9 pieces (Correct answer)",
+        "10 pieces"
+      ],
+      "hints": [
+        "This is a problem about combining quantities.",
+        "The number of each type of fruit is given.",
+        "We need to add all the fruit together to get the total."
+      ]
+    },
+    {
+      "question": "A store bought 20 watermelons for $100. If all the watermelons were sold, how much was each watermelon sold for?",
+      "options": [
+        "$2",
+        "$4",
+        "$5 (Correct answer)",
+        "$10"
+      ],
+      "hints": [
+        "You are looking for the price per watermelon.",
+        "Use the total cost and number of watermelons.",
+        "The price per watermelon is the total cost divided by the number of watermelons."
+      ]
+    },
+    {
+      "question": "If 4 workers can paint a house in 3 days, how many days would it take for 2 workers to paint the same house?",
+      "options": [
+        "1.5 days",
+        "4 days",
+        "6 days (Correct answer)",
+        "12 days"
+      ],
+      "hints": [
+        "This question is about work efficiency.",
+        "The fewer workers, the longer it should take.",
+        "The time is inversely proportional to the number of workers."
+      ]
+    },
+    {
+      "question": "It takes 5 hours for a plane to fly 1500 miles. What is the plane's speed in miles per hour?",
+      "options": [
+        "200 mph",
+        "300 mph (Correct answer)",
+        "400 mph",
+        "500 mph"
+      ],
+      "hints": [
+        "Speed is what you're trying to calculate.",
+        "Use the distance and time to find the speed.",
+        "Speed is calculated by dividing distance by time."
+      ]
+    },
+    {
+      "question": "If a recipe for cookies requires 3 cups of flour for 12 cookies, how many cups of flour would be needed for 24 cookies?",
+      "options": [
+        "4 cups",
+        "5 cups",
+        "6 cups (Correct answer)",
+        "7 cups"
+      ],
+      "hints": [
+        "You need to determine the amount of flour for a larger batch of cookies.",
+        "Use the amount of flour needed for a smaller batch to calculate.",
+        "The amount of flour is directly proportional to the number of cookies."
+      ]
+    },
+    {
+      "question": "A train travels 80 miles in 2 hours. How far would the train travel in 5 hours at the same speed?",
+      "options": [
+        "150 miles",
+        "200 miles (Correct answer)",
+        "250 miles",
+        "300 miles"
+      ],
+      "hints": [
+        "You're looking for the distance covered in a longer time.",
+        "Use the distance covered in a shorter time to find the answer.",
+        "The distance is directly proportional to time."
+      ]
+    },
+    {
+      "question": "A train travels 300 miles in 6 hours. At the same speed, how far would the train travel in 10 hours?",
+      "options": [
+        "400 miles",
+        "500 miles (Correct answer)",
+        "600 miles",
+        "700 miles"
+      ],
+      "hints": [
+        "The train maintains the same speed.",
+        "You're looking for the distance covered in a longer period.",
+        "The distance is directly proportional to the time."
+      ]
+    },
+    {
+      "question": "If a bakery uses 5 pounds of flour to bake 20 loaves of bread, how many pounds of flour would be needed to bake 50 loaves of bread?",
+      "options": [
+        "10 pounds",
+        "12.5 pounds (Correct answer)",
+        "15 pounds",
+        "17.5 pounds"
+      ],
+      "hints": [
+        "The amount of flour required is directly proportional to the number of loaves.",
+        "The bakery uses the same recipe for all the loaves.",
+        "You are scaling up the flour for more loaves of bread."
+      ]
+    },
+    {
+      "question": "A car travels 180 miles on 10 gallons of gas. How many miles would the car travel on 15 gallons of gas?",
+      "options": [
+        "270 miles (Correct answer)",
+        "300 miles",
+        "330 miles",
+        "360 miles"
+      ],
+      "hints": [
+        "The car maintains the same fuel efficiency.",
+        "You are looking for the distance covered with more gas.",
+        "The distance is directly proportional to the amount of gas."
+      ]
+    },
+    {
+      "question": "If 6 painters can paint a house in 4 days, how many days would it take for 3 painters to paint the same house?",
+      "options": [
+        "6 days",
+        "8 days (Correct answer)",
+        "10 days",
+        "12 days"
+      ],
+      "hints": [
+        "This question is about the painters' efficiency.",
+        "Less painters would take more days.",
+        "The number of days is inversely proportional to the number of painters."
+      ]
+    },
+    {
+      "question": "A machine produces 200 widgets in 5 hours. How many widgets would the machine produce in 8 hours at the same rate?",
+      "options": [
+        "320 widgets (Correct answer)",
+        "350 widgets",
+        "380 widgets",
+        "400 widgets"
+      ],
+      "hints": [
+        "The machine maintains the same production rate.",
+        "You are looking for the number of widgets produced in a longer period.",
+        "The number of widgets is directly proportional to the time."
+      ]
+    },
+    {
+      "question": "If 8 workers can complete a task in 6 hours, how many hours would 12 workers take to complete the same task?",
+      "options": [
+        "3 hours",
+        "4 hours (Correct answer)",
+        "5 hours",
+        "6 hours"
+      ],
+      "hints": [
+        "This question involves direct and inverse proportion.",
+        "More workers mean less time to complete the task.",
+        "The number of workers and the time taken are inversely proportional."
+      ]
+    },
+    {
+      "question": "A car can travel 500 miles on 20 gallons of gas. How many miles could the car travel on 35 gallons of gas?",
+      "options": [
+        "750 miles",
+        "875 miles (Correct answer)",
+        "925 miles",
+        "1000 miles"
+      ],
+      "hints": [
+        "The car maintains the same fuel efficiency.",
+        "More gas allows the car to travel more miles.",
+        "The distance the car can travel is directly proportional to the amount of gas."
+      ]
+    },
+    {
+      "question": "If a book printer can print 100 books in 5 hours, how many books can the printer print in 8 hours at the same rate?",
+      "options": [
+        "160 books (Correct answer)",
+        "175 books",
+        "185 books",
+        "200 books"
+      ],
+      "hints": [
+        "The printer maintains the same production rate.",
+        "The number of books printed is directly proportional to the time.",
+        "More time means more books can be printed."
+      ]
+    },
+    {
+      "question": "A snail travels 2 feet in 10 minutes. How many feet would the snail travel in 30 minutes?",
+      "options": [
+        "4 feet",
+        "6 feet (Correct answer)",
+        "8 feet",
+        "10 feet"
+      ],
+      "hints": [
+        "The snail maintains the same speed.",
+        "The distance the snail travels is directly proportional to the time.",
+        "More time means the snail will travel further."
+      ]
+    },
+    {
+      "question": "If 30 students can fill up a hall in 5 minutes, how many minutes would 45 students take to fill up the same hall?",
+      "options": [
+        "2 minutes",
+        "3 minutes",
+        "4 minutes",
+        "5 minutes"
+      ],
+      "hints": [
+        "More students mean less time to fill the hall.",
+        "This question involves direct and inverse proportion.",
+        "The number of students and the time taken are inversely proportional."
+      ]
+    },
+    {
+      "question": "If a factory produces 50 cars in 2 days, how many cars will it produce in 5 days at the same rate?",
+      "options": [
+        "100 cars",
+        "125 cars (Correct answer)",
+        "150 cars",
+        "175 cars"
+      ],
+      "hints": [
+        "The number of cars produced is directly proportional to the time.",
+        "More days mean more cars produced.",
+        "Keep in mind that the factory's production rate remains constant."
+      ]
+    },
+    {
+      "question": "A recipe calls for 4 cups of flour to make 16 cookies. How many cups of flour would be needed to make 40 cookies?",
+      "options": [
+        "8 cups",
+        "10 cups (Correct answer)",
+        "12 cups",
+        "14 cups"
+      ],
+      "hints": [
+        "The amount of flour required is directly proportional to the number of cookies.",
+        "More cookies mean more flour required.",
+        "Keep the ratio of flour to cookies in mind."
+      ]
+    },
+    {
+      "question": "A runner can finish a 5-kilometer race in 25 minutes. How long will it take the same runner to finish a 15-kilometer race at the same pace?",
+      "options": [
+        "55 minutes",
+        "65 minutes",
+        "75 minutes (Correct answer)",
+        "85 minutes"
+      ],
+      "hints": [
+        "The time required is directly proportional to the distance.",
+        "Longer distances require more time.",
+        "The runner's speed remains constant."
+      ]
+    },
+    {
+      "question": "A team of 6 painters can paint a house in 8 days. How many days will it take 9 painters to paint the same house, working at the same rate?",
+      "options": [
+        "4 days",
+        "5 days (Correct answer)",
+        "6 days",
+        "7 days"
+      ],
+      "hints": [
+        "More painters mean less time required.",
+        "The time taken is inversely proportional to the number of painters.",
+        "Keep the rate of each painter in mind."
+      ]
+    },
+    {
+      "question": "A restaurant serves a plate of spaghetti that weighs 500 grams and costs $10. How much would a plate of spaghetti that weighs 800 grams cost at the same rate?",
+      "options": [
+        "$14",
+        "$16 (Correct answer)",
+        "$18",
+        "$20"
+      ],
+      "hints": [
+        "The cost is directly proportional to the weight of the spaghetti.",
+        "Heavier plates of spaghetti cost more.",
+        "The price per gram remains constant."
+      ]
+    },
+    {
+      "question": "A bus can carry a maximum of 50 passengers. If the bus makes 4 trips, how many passengers can it carry in total?",
+      "options": [
+        "100 passengers",
+        "150 passengers",
+        "200 passengers (Correct answer)",
+        "250 passengers"
+      ],
+      "hints": [
+        "The total number of passengers is directly proportional to the number of trips.",
+        "More trips mean more passengers carried.",
+        "Remember that the bus's capacity remains constant."
+      ]
+    },
+    {
+      "question": "A machine produces 300 widgets in 6 hours. How many widgets will it produce in 15 hours at the same rate?",
+      "options": [
+        "500 widgets",
+        "750 widgets (Correct answer)",
+        "1000 widgets",
+        "1250 widgets"
+      ],
+      "hints": [
+        "The number of widgets produced is directly proportional to time.",
+        "More hours mean more widgets produced.",
+        "The machine's production rate remains the same."
+      ]
+    },
+    {
+      "question": "An orchard has 8 apple trees that produce 320 apples. How many apples would 20 apple trees produce at the same rate?",
+      "options": [
+        "600 apples",
+        "800 apples (Correct answer)",
+        "1000 apples",
+        "1200 apples"
+      ],
+      "hints": [
+        "The number of apples is directly proportional to the number of trees.",
+        "More trees mean more apples.",
+        "The rate of apple production per tree remains constant."
+      ]
+    },
+    {
+      "question": "A car uses 6 liters of gasoline to travel 120 kilometers. How much gasoline will it use to travel 300 kilometers at the same rate?",
+      "options": [
+        "12 liters",
+        "15 liters (Correct answer)",
+        "18 liters",
+        "21 liters"
+      ],
+      "hints": [
+        "The amount of gasoline used is directly proportional to the distance.",
+        "Longer distances require more gasoline.",
+        "The car's fuel efficiency (km/liter) remains constant."
+      ]
+    },
+    {
+      "question": "A printer can print 100 pages in 5 minutes. How long will it take the same printer to print 300 pages at the same rate?",
+      "options": [
+        "10 minutes",
+        "15 minutes (Correct answer)",
+        "20 minutes",
+        "25 minutes"
+      ],
+      "hints": [
+        "The time required is directly proportional to the number of pages.",
+        "More pages mean more time needed.",
+        "The printer's speed (pages/minute) remains constant."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I have so much work to do today! I need to write a report, prepare a presentation, and meet with a client.",
+        "Prioritize your tasks! Start with the most important task and work your way down. Don't try to do everything at once."
+      ],
+      "options": [
+        "Prioritize tasks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm so overwhelmed with all the emails in my inbox! I don't know where to start.",
+        "Prioritize your emails! Delete the ones that aren't important, and respond to the ones that are. If you can't respond right away, flag them so you don't forget."
+      ],
+      "options": [
+        "Prioritize tasks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have so many social media accounts to manage! I don't know how I keep up with them all.",
+        "Prioritize your social media accounts! Decide which ones are the most important to you, and focus on those. You can always check the others less frequently."
+      ],
+      "options": [
+        "Prioritize tasks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to lose weight, but I don't know how to start.",
+        "Set SMART goals! Make sure your goals are specific, measurable, achievable, relevant, and time-bound. For example, you could set a goal to lose 10 pounds in 6 months."
+      ],
+      "options": [
+        "Set SMART goals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to get a promotion at work, but I don't know what to do.",
+        "Set SMART goals! Make sure your goals are specific, measurable, achievable, relevant, and time-bound. For example, you could set a goal to increase your sales by 10% in the next quarter."
+      ],
+      "options": [
+        "Set SMART goals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to learn a new language, but I don't know where to start.",
+        "Set SMART goals! Make sure your goals are specific, measurable, achievable, relevant, and time-bound. For example, you could set a goal to learn 100 new words in the next month."
+      ],
+      "options": [
+        "Set SMART goals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I hope these exchanges help you to understand the importance of setting SMART goals. By setting SMART goals, you can be more likely to achieve your goals, and you'll be more motivated to keep working towards them.",
+        "I need to write a report, but it seems so daunting.",
+        "Break the task into smaller steps! What are the different parts of the report? Once you know what needs to be done, you can start working on it one step at a time."
+      ],
+      "options": [
+        "Break tasks into smaller steps (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to clean my house, but I don't know where to start.",
+        "Break the task into smaller steps! What are the different rooms in your house? Once you know what needs to be cleaned, you can start working on it one room at a time."
+      ],
+      "options": [
+        "Break tasks into smaller steps (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to prepare for a presentation, but I don't know where to start.",
+        "Break the task into smaller steps! What are the different parts of the presentation? Once you know what needs to be done, you can start working on it one step at a time."
+      ],
+      "options": [
+        "Break tasks into smaller steps (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't seem to focus on my work. I keep getting distracted.",
+        "Try using the Pomodoro Technique! It's a time management method that can help you stay focused and productive. The basic idea is to work in 25-minute intervals, with short breaks in between. After four Pomodoros, take a longer break."
+      ],
+      "options": [
+        "Use the Pomodoro Technique (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm so tired all the time. I can't seem to get anything done.",
+        "Try using the Pomodoro Technique! It can help you stay focused and productive, even when you're feeling tired. The short breaks in between Pomodoros can help you to recharge and come back to your work refreshed."
+      ],
+      "options": [
+        "Use the Pomodoro Technique (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always feeling overwhelmed by my work. I don't know how to get everything done.",
+        "Try using the Pomodoro Technique! It can help you to break down your work into smaller, more manageable tasks. The short breaks in between Pomodoros can also help you to stay focused and avoid feeling overwhelmed."
+      ],
+      "options": [
+        "Use the Pomodoro Technique (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I hope these exchanges help you to understand the importance of using the Pomodoro Technique. By using the Pomodoro Technique, you can be more focused and productive, and you'll be less likely to feel overwhelmed.",
+        "I have so much work to do! I don't know how I'm going to get it all done.",
+        "Delegate some of your tasks to others! If you have too much on your plate, don't be afraid to ask for help. Your colleagues and subordinates are there to support you."
+      ],
+      "options": [
+        "Delegate tasks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm so busy! I don't have time to do everything myself.",
+        "Delegate some of your tasks to others! It's okay to ask for help. In fact, it's a sign of good leadership. When you delegate tasks, you're free to focus on the most important things."
+      ],
+      "options": [
+        "Delegate tasks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always feeling stressed and overworked. I don't know how to make things easier.",
+        "Delegate some of your tasks to others! It's a great way to reduce stress and improve your work-life balance. When you delegate tasks, you're able to focus on the things that you're best at, and you can let others take care of the rest."
+      ],
+      "options": [
+        "Delegate tasks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't seem to focus on my work. I keep getting distracted by my phone, email, and social media.",
+        "Minimize distractions! Turn off your phone, close your email, and log out of social media when you're working. If you need to check your phone or email, set a timer for 15 minutes and then come back to your work."
+      ],
+      "options": [
+        "Minimize distractions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always so busy. I can't seem to get anything done because I'm always being interrupted.",
+        "Minimize distractions! Let people know when you're working and that you need to focus. If you need to be undisturbed, put up a sign or close your door."
+      ],
+      "options": [
+        "Minimize distractions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't seem to get anything done. I'm always so tired.",
+        "Minimize distractions! Create a distraction-free environment where you can work. This could be a quiet room at home or a library."
+      ],
+      "options": [
+        "Minimize distractions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I hope these exchanges help you to understand the importance of minimizing distractions. By minimizing distractions, you can be more focused and productive, and you'll be less likely to feel overwhelmed.",
+        "I never seem to have enough time. I always feel like I'm running behind.",
+        "Schedule your day! At the end of each day, take a few minutes to plan out your next day. This will help you to stay on track and avoid feeling overwhelmed."
+      ],
+      "options": [
+        "Schedule your day (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always so busy. I don't know how to get everything done.",
+        "Schedule your day! Break down your tasks into smaller, more manageable steps. This will make them seem less daunting and more achievable."
+      ],
+      "options": [
+        "Schedule your day (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't seem to focus on my work. I'm always so tired.",
+        "Schedule your day! Schedule time for breaks and relaxation. This will help you to stay refreshed and focused."
+      ],
+      "options": [
+        "Schedule your day (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always saying yes to things, even when I don't have the time or energy.",
+        "Learn to say no! It's okay to say no to requests, even if they come from your boss or colleagues. If you're already feeling overwhelmed, saying yes will only make things worse."
+      ],
+      "options": [
+        "Learn to say no (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always feeling guilty when I say no to things.",
+        "Learn to say no! It's okay to put your own needs first. If you say yes to everything, you'll eventually burn out."
+      ],
+      "options": [
+        "Learn to say no (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm afraid that if I say no to things, people will think I'm not a team player.",
+        "Learn to say no! It's okay to say no to things, as long as you're polite and explain why you can't do them. If you're a valuable team member, people will understand."
+      ],
+      "options": [
+        "Learn to say no (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always working. I never have any time for myself.",
+        "Set boundaries! Let your boss, colleagues, and clients know when you're available and when you're not. This will help you to avoid feeling overwhelmed and stressed."
+      ],
+      "options": [
+        "Set boundaries (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always checking my work email and phone, even when I'm not at work.",
+        "Set boundaries! Turn off your work email and phone when you're not at work. This will help you to relax and enjoy your free time."
+      ],
+      "options": [
+        "Set boundaries (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always working on the weekends and evenings.",
+        "Set boundaries! Let your boss, colleagues, and clients know that you're not available to work outside of your normal working hours. This will help you to have a more balanced life."
+      ],
+      "options": [
+        "Set boundaries (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always feeling overwhelmed by all the work I have to do.",
+        "Use tools and technology! There are a lot of great productivity apps and software that can help you to manage your time and stay organized. This will help you to be more productive and less stressed."
+      ],
+      "options": [
+        "Use tools and technology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always forgetting things.",
+        "Use tools and technology! There are a lot of great note-taking apps and software that can help you to remember things. This will help you to be more productive and less stressed."
+      ],
+      "options": [
+        "Use tools and technology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always feeling disorganized.",
+        "Use tools and technology! There are a lot of great organizational apps and software that can help you to stay organized. This will help you to be more productive and less stressed."
+      ],
+      "options": [
+        "Use tools and technology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always feeling overwhelmed by all the work I have to do.",
+        "Batch similar tasks! This will help you to be more productive and less stressed. For example, if you have a lot of emails to send, batch them together and send them all at once. This will save you time and energy."
+      ],
+      "options": [
+        "Batch similar tasks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always feeling disorganized.",
+        "Batch similar tasks! This will help you to stay organized. For example, if you have a lot of documents to file, batch them together and file them all at once. This will save you time and energy."
+      ],
+      "options": [
+        "Batch similar tasks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always feeling stressed.",
+        "Batch similar tasks! This will help you to reduce stress. For example, if you have a lot of phone calls to make, batch them together and make them all at once. This will save you time and energy."
+      ],
+      "options": [
+        "Batch similar tasks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always feeling overwhelmed by all the work I have to do.",
+        "Develop a routine! This will help you to stay on track and avoid feeling overwhelmed. For example, you could start by waking up and going to bed at the same time each day. This will help to regulate your circadian rhythm and make it easier to fall asleep and wake up."
+      ],
+      "options": [
+        "Develop a routine (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always feeling disorganized.",
+        "Develop a routine! This will help you to stay organized and avoid feeling stressed. For example, you could start by creating a daily to-do list and sticking to it. This will help you to stay on track and avoid forgetting things."
+      ],
+      "options": [
+        "Develop a routine (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always feeling stressed.",
+        "Develop a routine! This will help you to reduce stress and improve your overall well-being. For example, you could start by taking some time for yourself each day to relax and de-stress. This could involve reading, taking a walk, or spending time with loved ones."
+      ],
+      "options": [
+        "Develop a routine (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always feeling distracted.",
+        "Optimize your environment! This will help you to stay focused and avoid distractions. For example, you could start by finding a quiet place to work where you won't be interrupted. You could also try using noise-canceling headphones or earplugs to block out distractions."
+      ],
+      "options": [
+        "Optimize your environment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always feeling tired.",
+        "Optimize your environment! This will help you to stay energized and focused. For example, you could start by making sure your workspace is well-lit and comfortable. You could also try using a standing desk or taking breaks to move around."
+      ],
+      "options": [
+        "Optimize your environment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm always feeling stressed.",
+        "Optimize your environment! This will help you to reduce stress and improve your overall well-being. For example, you could start by adding some plants to your workspace or playing calming music. You could also try using aromatherapy or taking breaks to relax and de-stress."
+      ],
+      "options": [
+        "Optimize your environment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm not sure if I'm making any progress.",
+        "Regularly review your progress! This will help you to stay on track and motivated. For example, you could start by setting some goals for yourself and tracking your progress towards those goals. This will help you to see how far you've come and stay motivated to keep going."
+      ],
+      "options": [
+        "Regularly review your progress (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm not sure if I'm doing things the right way.",
+        "Regularly review your progress! This will help you to identify areas where you can improve. For example, you could start by asking for feedback from your colleagues or supervisor. This will help you to get a different perspective on your work and identify areas where you can improve."
+      ],
+      "options": [
+        "Regularly review your progress (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm not sure if I'm happy with my progress.",
+        "Regularly review your progress! This will help you to make sure you're on the right track and achieving your goals. For example, you could start by setting some SMART goals for yourself and tracking your progress towards those goals. This will help you to see how far you've come and stay motivated to keep going."
+      ],
+      "options": [
+        "Regularly review your progress (correct answer)"
+      ]
+    }
+  ]
+}

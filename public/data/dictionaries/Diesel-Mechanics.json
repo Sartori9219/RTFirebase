@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Diesel Engine Basics",
+        "Engine Lubrication Systems",
+        "Cooling Systems",
+        "Engine Electrical Systems",
+        "Fuel Systems and Injection Systems",
+        "Emissions Control Systems",
+        "Engine Rebuilding and Overhaul",
+        "Shop Safety",
+        "Preventive Maintenance",
+        "Wheel Alignments",
+        "Tires and Wheels",
+        "Suspension Systems",
+        "Brake and Clutch Systems",
+        "Drive Train Systems",
+        "Special Tools and Equipment"
+    ],
+    "hints": {
+        "Diesel Engine Basics": "Understanding engine components, principles of operation, and the differences between diesel and gasoline engines.",
+        "Engine Lubrication Systems": "Understanding the purpose of lubrication systems, types of oil used, and oil filtration systems.",
+        "Cooling Systems": "Understanding the need for engine cooling, types of cooling systems used, and the importance of proper engine temperature.",
+        "Engine Electrical Systems": "Understanding the function and importance of electrical systems in diesel engines, such as batteries, starters, and alternators.",
+        "Fuel Systems and Injection Systems": "Understanding diesel fuel types, fuel delivery systems, and types of injection systems used in diesel engines.",
+        "Emissions Control Systems": "Understanding the need for emissions control in diesel engines, including the function of key systems such as diesel particulate filters and exhaust gas recirculation systems.",
+        "Engine Rebuilding and Overhaul": "Understanding the need for engine rebuilding, methods used to rebuild engines, and the importance of proper engine care in preventing costly repairs.",
+        "Shop Safety": "Understanding safety procedures in the diesel shop, including handling tools and equipment, and preventing accidents.",
+        "Preventive Maintenance": "Understanding the importance of maintaining diesel engines with regular services and inspections to prevent equipment failure.",
+        "Wheel Alignments": "Understanding the importance of proper alignment of wheels and axles, including types of alignment adjustments and tools used.",
+        "Tires and Wheels": "Understanding types of tires used on diesel vehicles, proper tire maintenance, and wheel sizing.",
+        "Suspension Systems": "Understanding types of suspension systems, types of suspension components, and the importance of maintaining proper suspension alignment.",
+        "Brake and Clutch Systems": "Understanding types of brake systems used on diesel vehicles, maintenance of brakes and clutches, and diagnosis and repair of brake and clutch components.",
+        "Drive Train Systems": "Understanding the function of drive train systems, including types of transmissions, differentials, and transfer cases.",
+        "Special Tools and Equipment": "Understanding specialized tools and equipment used for diesel engine repair and maintenance, including hand tools, power tools, and diagnostic equipment."
+    }
+}

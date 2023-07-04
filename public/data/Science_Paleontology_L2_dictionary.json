@@ -1,0 +1,406 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I can't believe my smartphone is already considered old!",
+        "You should see my fossil collection. They're from the 'Jurassic' era of smartphones!"
+      ],
+      "options": [
+        "Fossils (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I told my dog to play dead, and he just laid there, completely still.",
+        "Wow, he must be going for the fossil level of 'playing dead'."
+      ],
+      "options": [
+        "Fossils (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the fossil go to the party?",
+        "To have a 'rocking' good time!"
+      ],
+      "options": [
+        "Fossils (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the geologist break up with his girlfriend?",
+        "He said he needed more layers, like in stratigraphy!"
+      ],
+      "options": [
+        "Stratigraphy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to understand my feelings, it's like peeling an onion.",
+        "Sounds like emotional stratigraphy to me!"
+      ],
+      "options": [
+        "Stratigraphy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think my love life is like stratigraphy.",
+        "It's layered and complicated!"
+      ],
+      "options": [
+        "Stratigraphy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just bought a houseplant from the Jurassic period.",
+        "Don't you mean you bought a fern?"
+      ],
+      "options": [
+        "Paleoenvironments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the T-Rex bring a sunscreen?",
+        "Because the Cretaceous period was too hot!"
+      ],
+      "options": [
+        "Paleoenvironments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you know why mammoths loved the Ice Age?",
+        "I guess it was the perfect paleoenvironment for them!"
+      ],
+      "options": [
+        "Paleoenvironments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the trilobite go to the spa?",
+        "To get fossilized in style, of course!"
+      ],
+      "options": [
+        "Taphonomy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's a dinosaur's favorite stage of fossilization?",
+        "Burial and compaction. They love a good nap!"
+      ],
+      "options": [
+        "Taphonomy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do you make a fossil blush?",
+        "Talk about its taphonomy!"
+      ],
+      "options": [
+        "Taphonomy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the Jurassic period break up with the Cretaceous period?",
+        "It said it needed more 'time'!"
+      ],
+      "options": [
+        "Geologic Time Scale (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't geologists ever lose track of time?",
+        "Because they always keep an eye on the Geologic Time Scale!"
+      ],
+      "options": [
+        "Geologic Time Scale (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the Geologic Time Scale awarded a medal?",
+        "For outstanding service in the field of 'time' management!"
+      ],
+      "options": [
+        "Geologic Time Scale (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the dinosaur bring an umbrella?",
+        "Because he heard there's a chance of meteor showers!"
+      ],
+      "options": [
+        "Extinction Events (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the dodo bird never finish his dinner?",
+        "He was always worried about the next big extinction event!"
+      ],
+      "options": [
+        "Extinction Events (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the trilobite always so paranoid?",
+        "He always had a feeling an extinction event was just around the corner!"
+      ],
+      "options": [
+        "Extinction Events (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't bacteria play poker in the jungle?"
+      ],
+      "options": [
+        "Evolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't we ever see elephants hiding in trees?",
+        "Because they're really good at it!"
+      ],
+      "options": [
+        "Evolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the fish go to school?",
+        "He wanted to evolve into a higher class!"
+      ],
+      "options": [
+        "Evolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't dinosaurs ever forget?",
+        "Because no one ever tells them anything!"
+      ],
+      "options": [
+        "Paleobiogeography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the geography book always unhappy?",
+        "It had too many problems!"
+      ],
+      "options": [
+        "Paleobiogeography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the dinosaur cross the road?",
+        "Because chickens hadn't evolved yet!"
+      ],
+      "options": [
+        "Paleobiogeography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't dinosaurs write with their left hand?",
+        "Because they're all dead!"
+      ],
+      "options": [
+        "Trace Fossils (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a dinosaur with a great vocabulary?"
+      ],
+      "options": [
+        "Trace Fossils (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the dinosaur afraid to go to the library?",
+        "Because it was afraid of bookworms!"
+      ],
+      "options": [
+        "Trace Fossils (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What did one carbon atom say to the other on their date?",
+        "I think we have chemistry!"
+      ],
+      "options": [
+        "Carbon Dating (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the carbon atom a great date?",
+        "Because it always came with a couple of extra neutrons!"
+      ],
+      "options": [
+        "Carbon Dating (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the archaeologist break up with the carbon atom?",
+        "Because he found a younger one!"
+      ],
+      "options": [
+        "Carbon Dating (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the fossil go to the spa?",
+        "Because it needed some serious exfoliation and curation!"
+      ],
+      "options": [
+        "Fossil Preparation and Curation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the fossil go to the art gallery?",
+        "To get some curation ideas!"
+      ],
+      "options": [
+        "Fossil Preparation and Curation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are paleontologists good at organizing parties?",
+        "Because they are experts at preparation and curation!"
+      ],
+      "options": [
+        "Fossil Preparation and Curation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the dinosaur bring an umbrella?",
+        "Because according to paleoclimatology, it was going to rain a million years ago!"
+      ],
+      "options": [
+        "Paleoclimatology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the triceratops checking its calendar?",
+        "It was keeping track of paleoclimatology events!"
+      ],
+      "options": [
+        "Paleoclimatology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't paleoclimatologists make good weather forecasters?",
+        "Because their forecasts are a million years late!"
+      ],
+      "options": [
+        "Paleoclimatology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the fossilized plant go to the school?"
+      ],
+      "options": [
+        "Paleobotany (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't trees make good historians?",
+        "Because they leave everything to paleobotanists!"
+      ],
+      "options": [
+        "Paleobotany (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the tree get all dressed up?",
+        "Because it had a date with a paleobotanist!"
+      ],
+      "options": [
+        "Paleobotany (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a fossilized bug's autobiography?",
+        "An invertebrate paleontology!"
+      ],
+      "options": [
+        "Invertebrate Paleontology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the snail become a fossil?",
+        "It wanted to make a shell-shocking contribution to invertebrate paleontology!"
+      ],
+      "options": [
+        "Invertebrate Paleontology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the ancient octopus never get lost?",
+        "Because it left its mark in invertebrate paleontology!"
+      ],
+      "options": [
+        "Invertebrate Paleontology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the dinosaur on the basketball team?",
+        "He was a true star in vertebrate paleontology and had a great jump shot!"
+      ],
+      "options": [
+        "Vertebrate Paleontology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the archaeologist go to the party?",
+        "To have a roaring time talking about vertebrate paleontology!"
+      ],
+      "options": [
+        "Vertebrate Paleontology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the T-Rex become a music conductor?",
+        "He wanted to add rhythm to vertebrate paleontology!"
+      ],
+      "options": [
+        "Vertebrate Paleontology (correct answer)"
+      ]
+    }
+  ]
+}

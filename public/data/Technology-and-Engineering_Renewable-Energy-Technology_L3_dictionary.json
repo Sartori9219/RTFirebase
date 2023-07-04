@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Did you know that sunlight can be converted into electricity?",
+        "Whoa, like turning sunshine into power? That's like having a solar-powered superhero!"
+      ],
+      "options": [
+        "Solar Power (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard solar panels are made of tiny light-catching cells. It's like they have solar superheroes in them!",
+        "Absolutely! Those little heroes capture sunlight and turn it into electricity, saving the day for renewable energy!"
+      ],
+      "options": [
+        "Solar Power (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't believe solar power can generate electricity for homes. It's like having a secret solar wizard on your rooftop!",
+        "Haha, yeah! The solar wizard collects sunbeams and transforms them into power, casting renewable energy spells all around!"
+      ],
+      "options": [
+        "Solar Power (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that wind can be transformed into electricity?",
+        "Woah, it's like the wind is whispering secrets to the wind turbines, and they're like, \"Let's turn this into power!\""
+      ],
+      "options": [
+        "Wind Power (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you seen those massive wind turbines? They're like modern-day windmills on steroids!",
+        "Absolutely! It's like the wind is playing a game of spin the turbine, and electricity is the grand prize!"
+      ],
+      "options": [
+        "Wind Power (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard wind power can generate electricity for thousands of homes. It's like the wind is working overtime as an energy factory!",
+        "Yeah, it's like the wind is saying, \"I'm blowing you some power, folks. Enjoy the renewable energy breeze!\""
+      ],
+      "options": [
+        "Wind Power (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that water can be used to generate electricity?",
+        "Absolutely! It's like water is the ultimate multitasker, quenching our thirst and powering our homes at the same time!"
+      ],
+      "options": [
+        "Hydropower (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you ever seen those massive dams? They're like nature's way of saying, \"Hold my water while I generate some electricity!\"",
+        "Haha, that's a great way to put it! Dams are like superheroes that control the flow of water to produce clean and renewable energy."
+      ],
+      "options": [
+        "Hydropower (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard hydropower is one of the oldest sources of renewable energy.",
+        "Yep, it's like our ancestors figured out that water is not only for splashing around, but it can also spin turbines and light up our lives!"
+      ],
+      "options": [
+        "Hydropower (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that heat from the Earth can be used to generate electricity?",
+        "Yeah, it's like the Earth is giving us a warm, toasty hug while powering our homes!"
+      ],
+      "options": [
+        "Geothermal Energy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard about geothermal power plants? They're like giant hot tubs for generating electricity!",
+        "Haha, that's a fun way to think about it! Instead of relaxing in hot water, we're using it to create renewable energy!"
+      ],
+      "options": [
+        "Geothermal Energy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard geothermal energy is all about tapping into the Earth's natural heat.",
+        "Absolutely! It's like the Earth is a cozy blanket, and we're snuggling up to its warmth to power our world!"
+      ],
+      "options": [
+        "Geothermal Energy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that we can generate energy from organic matter like plants and waste?",
+        "Yeah, it's like turning leftovers into power! It's like the ultimate recycling superhero!"
+      ],
+      "options": [
+        "Biomass Energy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard about biomass power plants? They're like giant compost bins that magically produce electricity!",
+        "Haha, that's a funny way to think about it! It's like the plants and organic waste are having a party, and the byproduct is renewable energy!"
+      ],
+      "options": [
+        "Biomass Energy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard biomass energy can help reduce greenhouse gas emissions.",
+        "Absolutely! It's like giving a second chance to organic matter, saying, \"Hey, you didn't make it to the dinner table, but you can still contribute by powering our homes!\""
+      ],
+      "options": [
+        "Biomass Energy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that we can harness the power of tides to generate electricity?",
+        "Yeah, it's like the ocean is playing a never-ending game of \"push and pull\" with the turbines, creating renewable energy waves!"
+      ],
+      "options": [
+        "Tidal Power (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you seen those tidal turbines in action? They're like underwater windmills, but with the ocean doing all the spinning!",
+        "Haha, that's a cool way to imagine it! It's like the ocean is saying, \"I've got the power, and I'll make some waves in the name of renewable energy!\""
+      ],
+      "options": [
+        "Tidal Power (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard tidal power is a reliable source of renewable energy.",
+        "Absolutely! It's like the tides have an impeccable schedule, always showing up on time to provide a steady flow of electricity!"
+      ],
+      "options": [
+        "Tidal Power (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that we can capture energy from ocean waves to generate electricity?",
+        "Yeah, it's like the ocean is doing a never-ending dance routine, and we're tapping into its moves to power our homes!"
+      ],
+      "options": [
+        "Wave Power (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you seen those wave energy converters? They're like surfboards for generating electricity!",
+        "Haha, that's a fun way to think about it! It's like the waves are catching a ride on the surfboards, and in return, they're generating renewable energy!"
+      ],
+      "options": [
+        "Wave Power (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard wave power is a promising source of renewable energy.",
+        "Absolutely! It's like the ocean is a massive power station, constantly sending waves our way, ready to be transformed into clean and sustainable electricity!"
+      ],
+      "options": [
+        "Wave Power (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that we can make fuel from renewable sources like plants and waste?",
+        "Yeah, it's like turning leftovers into a fuel buffet! Who needs a salad bar when you can power your car with biofuels?"
+      ],
+      "options": [
+        "Biofuels (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard about bioethanol? It's like a party drink for cars, made from corn and sugarcane!",
+        "Haha, that's a creative way to think about it! Cars are like, \"Cheers to renewable energy!\" while sipping on bioethanol cocktails!"
+      ],
+      "options": [
+        "Biofuels (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard biofuels can help reduce greenhouse gas emissions from vehicles.",
+        "Absolutely! It's like the vehicles are swapping their regular fuel for a greener option, saying, \"Move aside, carbon emissions, we're going eco-friendly!\""
+      ],
+      "options": [
+        "Biofuels (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that we can use hydrogen fuel cells to power vehicles?",
+        "Yeah, it's like giving cars a breath of fresh air! Instead of coughing out pollution, they're exhaling water vapor!"
+      ],
+      "options": [
+        "Hydrogen Fuel Cells (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you seen those hydrogen-powered cars? They're like futuristic spaceships, silently cruising while emitting water instead of exhaust!",
+        "Haha, it's like they're saying, \"We're not just driving, we're on a mission to save the planet, one hydrogen molecule at a time!\""
+      ],
+      "options": [
+        "Hydrogen Fuel Cells (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard hydrogen fuel cells are highly efficient in converting hydrogen into electricity.",
+        "Absolutely! It's like they're the superheroes of energy conversion, taking hydrogen's superpowers and transforming them into clean, electric energy!"
+      ],
+      "options": [
+        "Hydrogen Fuel Cells (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that energy storage plays a crucial role in the renewable energy system?",
+        "Yeah, it's like having a superpower battery that can store the sun's energy for a rainy day!"
+      ],
+      "options": [
+        "Energy Storage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard about grid-scale energy storage? It's like a giant energy piggy bank, saving up electricity for when we need it most!",
+        "Haha, that's a fun way to imagine it! It's like the grid is saying, \"Save now, power later!\" with the help of energy storage technologies."
+      ],
+      "options": [
+        "Energy Storage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard energy storage technologies are advancing rapidly.",
+        "Absolutely! It's like they're on a race to become the superheroes of energy, saving the day by providing reliable and flexible power whenever it's needed!"
+      ],
+      "options": [
+        "Energy Storage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that energy efficiency is all about using less energy to achieve the same results?",
+        "Yeah, it's like the efficiency ninja sneaking into our appliances and saying, \"You shall not waste energy!\""
+      ],
+      "options": [
+        "Energy Efficiency (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard about smart thermostats? They're like the brainy sidekicks of energy efficiency, constantly optimizing our home's temperature.",
+        "Haha, it's like they're saying, \"Let's keep it cool without breaking the energy bank!\" Smart and efficient, just how we like it!"
+      ],
+      "options": [
+        "Energy Efficiency (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard energy-efficient lighting can save a lot of electricity.",
+        "Absolutely! It's like the light bulbs are going on an energy diet, shedding watts and lighting up our lives while reducing our carbon footprint!"
+      ],
+      "options": [
+        "Energy Efficiency (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that smart grids are revolutionizing the way we manage and distribute electricity?",
+        "Yeah, it's like giving the power grid a high-tech upgrade, turning it into a smart and savvy energy conductor!"
+      ],
+      "options": [
+        "Smart Grids (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard about the two-way communication in smart grids? It's like the grid is having a conversation with homes and appliances, optimizing energy usage!",
+        "Haha, it's like the grid is saying, \"Let's chat, homes! I'll tell you when the energy is cheap, and you can tell me when you need a power boost!\""
+      ],
+      "options": [
+        "Smart Grids (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard smart grids can integrate renewable energy sources more efficiently.",
+        "Absolutely! It's like the smart grids are the maestros of electricity, conducting the symphony of renewable energy while keeping everything in perfect harmony!"
+      ],
+      "options": [
+        "Smart Grids (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that electric vehicles (EVs) are becoming more popular?",
+        "Yeah, it's like they're the cool kids on the road, whispering, \"No gas, just electricity, baby!\""
+      ],
+      "options": [
+        "Electric Vehicles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you seen those sleek electric cars? They're like silent speed demons, zipping around with a touch of eco-friendly elegance!",
+        "Haha, it's like they're saying, \"Who needs a roaring engine when you can glide in electric style? Time to drive into the future!\""
+      ],
+      "options": [
+        "Electric Vehicles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard electric vehicles can help reduce air pollution in cities.",
+        "Absolutely! It's like they're the superheroes of clean transportation, fighting smog and emissions, while turning heads with their futuristic charm!"
+      ],
+      "options": [
+        "Electric Vehicles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that green buildings are designed to be environmentally friendly?",
+        "Yeah, it's like they're the chameleons of architecture, blending with nature while saving energy and looking stylish!"
+      ],
+      "options": [
+        "Green Buildings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you seen those green rooftops? It's like buildings are growing stylish hats that keep them cool and help the environment!",
+        "Haha, it's like they're saying, \"Let's top it off with some greenery and bring nature closer to urban living. Hats off to green buildings!\""
+      ],
+      "options": [
+        "Green Buildings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard green buildings can use renewable energy and reduce waste.",
+        "Absolutely! It's like they're the eco-warriors of construction, using the power of the sun and recycling materials, all while providing a sustainable and comfortable space to live or work in!"
+      ],
+      "options": [
+        "Green Buildings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that solar energy can be used for heating and cooling buildings?",
+        "Yeah, it's like the sun is playing a game of \"hot and cold,\" keeping us cozy in the winter and chilling out in the summer!"
+      ],
+      "options": [
+        "Solar Heating and Cooling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you seen those solar water heaters? They're like magic wands, turning sunlight into warm showers!",
+        "Haha, it's like they're saying, \"Let's turn up the heat, Mother Nature style! Hot water, courtesy of the sun!\""
+      ],
+      "options": [
+        "Solar Heating and Cooling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard solar heating and cooling systems can reduce energy consumption.",
+        "Absolutely! It's like they're the energy-saving superheroes, harnessing the power of the sun to keep us comfortable while giving the environment a break from excessive energy use!"
+      ],
+      "options": [
+        "Solar Heating and Cooling (correct answer)"
+      ]
+    }
+  ]
+}

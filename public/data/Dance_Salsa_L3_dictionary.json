@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Imagine you're an excitable chicken, stepping forward, then backward, in a hurry to find the juiciest worm!",
+        "So, I step forward on 1, replace my weight on 2, then step in place on 3. Pause. Then I do the same backward starting on 5?"
+      ],
+      "options": [
+        "Basic Step (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know how you can never decide which ice cream flavor to get at the parlor, so you step forward to the chocolate, but then immediately step back towards the vanilla?",
+        "Oh, so it's a forward and backward movement, with a pause when I can't decide which flavor I want?"
+      ],
+      "options": [
+        "Basic Step (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Pretend you're playing the floor is lava. The safe spots are one step ahead and one step behind. And remember, the lava tide comes in on count 4!",
+        "So, I take three steps starting with one foot, pause when the lava comes in, then three steps starting with the other foot?"
+      ],
+      "options": [
+        "Basic Step (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're a traffic cop. You've got to guide the oncoming car (your partner) smoothly across to the other side.",
+        "So, I step to the side, opening up a lane for my partner to move across?"
+      ],
+      "options": [
+        "Cross-Body Lead (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know when you're playing that video game and you have to lead the character across the screen to avoid the obstacles?",
+        "Ah, so it's like I'm the game controller, guiding my partner from one side of me to the other?"
+      ],
+      "options": [
+        "Cross-Body Lead (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think of it as if you're opening a grand door for a very important person, escorting them to pass through.",
+        "Oh, so I'm leading my partner from my right side to my left with a step to the side to clear the way?"
+      ],
+      "options": [
+        "Cross-Body Lead (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You remember that game we used to play? Red rover, red rover? We'd link hands and then suddenly break apart to let someone through?",
+        "Oh, so it's like we are holding hands and then both step back at the same time, breaking the link?"
+      ],
+      "options": [
+        "Open Break (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're pulling on a rubber band with both hands, then you suddenly let it spring back.",
+        "Ah, I see! So we're both stepping back and creating tension between us, like a rubber band!"
+      ],
+      "options": [
+        "Open Break (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know when you're opening a book right in the middle to split the pages evenly on both sides?",
+        "So, we're both stepping back simultaneously, like a book splitting open from the middle?"
+      ],
+      "options": [
+        "Open Break (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember that game we played as kids, 'spin the bottle'? Now think of yourself as the bottle, but only doing a half spin towards your arm.",
+        "Oh, so it's like turning into my own arm, like I'm trying to catch a glimpse of my watch?"
+      ],
+      "options": [
+        "Inside Turn (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're in a revolving door, but you only want to go halfway through.",
+        "So, it's like turning towards my arm, not going all the way around, but halfway."
+      ],
+      "options": [
+        "Inside Turn (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know how a dog chases its tail, but never quite catches it? Now imagine you're the dog, but you only want to chase it halfway.",
+        "Ah, so it's like I'm turning inwards, halfway around, towards my own arm?"
+      ],
+      "options": [
+        "Inside Turn (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know when you're trying to swat a fly away from your face but you don't want it to get caught in your hair? That's how you want to turn.",
+        "So I\u2019m turning away from my arm, like I\u2019m shooing away a pesky fly?"
+      ],
+      "options": [
+        "Outside Turn (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine trying to check if it's raining without stepping outside, you'd poke your head out first, right? That\u2019s the motion.",
+        "So it's like I'm turning outwards, like I\u2019m checking the weather?"
+      ],
+      "options": [
+        "Outside Turn (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember trying to spy on your siblings without being caught? You'd only pop your head around the corner. That's the idea.",
+        "Ah, so I'm turning away from my arm, as if I'm spying around a corner?"
+      ],
+      "options": [
+        "Outside Turn (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you remember playing 'Simon Says' as a kid? Now imagine Simon said, 'Put your arm behind your back'!",
+        "So, it's like playing 'Simon Says' but in a dance and Simon always says 'Put your arm behind your back'?"
+      ],
+      "options": [
+        "Hammerlock Position (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're trying to scratch an itch in the middle of your back, but you're too shy to use both hands.",
+        "Ah, so I keep one arm behind like I'm trying to reach an itch, but still act natural?"
+      ],
+      "options": [
+        "Hammerlock Position (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's like you're a superhero who got handcuffed but you're still ready to dance!",
+        "So, even if I'm in this 'handcuffed' position, I keep my groove on, right?"
+      ],
+      "options": [
+        "Hammerlock Position (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that there's a dance move that feels like you're in a revolving door?",
+        "I'd probably get dizzy, but it sounds fun!"
+      ],
+      "options": [
+        "Copa (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine spinning someone around like they're a revolving door to a grand hotel lobby!",
+        "Wait, so we're pretending to be doormen now?"
+      ],
+      "options": [
+        "Copa (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know those movies where the guy twirls the girl under his arm? That's kinda what it's like!",
+        "So, we're dancing like movie stars now?"
+      ],
+      "options": [
+        "Copa (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine shuffling your feet while you cross the street, but make it stylish.",
+        "So, like a crosswalk runway show?"
+      ],
+      "options": [
+        "Suzy Q (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know those old detective films where they walk all cool and mysterious? Picture doing that, but to a beat.",
+        "So, I'm a rhythmical detective now? I could get behind that!"
+      ],
+      "options": [
+        "Suzy Q (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's like playing hopscotch but you\u2019re crossing your feet, all while keeping to the beat of salsa music.",
+        "Sounds like hopscotch on a whole new level!"
+      ],
+      "options": [
+        "Suzy Q (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know when you're spinning in your office chair and you keep focusing on the stapler to not get dizzy?",
+        "Yeah, I almost flew off once but that stapler saved me."
+      ],
+      "options": [
+        "Spotting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're a superhero trying to lock onto a target while doing a cool spinning move.",
+        "So, like a salsa-dancing superhero focusing on a villain? Awesome!"
+      ],
+      "options": [
+        "Spotting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know when you're playing 'spin the bottle,' but you keep your eyes on the bottle so you don't miss who it points to?",
+        "So I'm playing 'spin the bottle' but in a salsa dance context? Sounds like a party."
+      ],
+      "options": [
+        "Spotting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine playing 'Musical Chairs,' but the music keeps playing tricks on you, changing rhythm unexpectedly.",
+        "So, like, playing 'Musical Chairs' while listening to salsa music, you mean?"
+      ],
+      "options": [
+        "Syncopation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know when you're stepping on sidewalk cracks on purpose, but you vary your steps to keep it interesting?",
+        "Ah, the thrill of childhood disobedience in rhythm."
+      ],
+      "options": [
+        "Syncopation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're typing an email, but instead of typing each letter consistently, you're adding extra spaces randomly.",
+        "Ah, so my salsa dance is like a typewriter with a mind of its own."
+      ],
+      "options": [
+        "Syncopation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think about when you throw a ball of paper into the trash from across the room. It's all about the perfect aim and smoothness.",
+        "So, you're saying salsa is like an office basketball game? I like the sound of that!"
+      ],
+      "options": [
+        "Hand Toss (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You remember playing 'Hot Potato,' right? Now, imagine you're the potato being passed around.",
+        "Wait, so I'm a human hot potato in salsa dancing? I never thought of it that way!"
+      ],
+      "options": [
+        "Hand Toss (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Visualize tossing a frisbee at the park, but the frisbee is your partner's hand.",
+        "If I throw my partner's hand like a frisbee, wouldn't that make me an incredible salsa dancer then?"
+      ],
+      "options": [
+        "Hand Toss (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You remember how we tried to catch that bus yesterday, but we missed it by a second? That's what off-timing salsa feels like.",
+        "Ah, so salsa is basically trying to catch the rhythm bus. Got it!"
+      ],
+      "options": [
+        "Timing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we cooked that pasta for 15 minutes instead of 10. That would be overcooked, right? Same with salsa, don't overcook your steps!",
+        "So, I need to al dente my salsa steps? That's an interesting recipe!"
+      ],
+      "options": [
+        "Timing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when we tried to synchronize our watches and you were a minute ahead? That's bad timing in salsa.",
+        "Oh no, I wouldn't want to be a time travel salsa dancer. Good point!"
+      ],
+      "options": [
+        "Timing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when we tried to dress up the dog in human clothes and he just looked... off? That's what salsa looks like without styling.",
+        "So salsa without styling is like a poodle in a tuxedo? I see your point."
+      ],
+      "options": [
+        "Styling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we threw a party and only played polka music. It wouldn't quite set the mood, would it? Styling in salsa is like choosing the right playlist for a party.",
+        "Ah, so good salsa styling is like swapping polka for some sizzling Latin tunes. Got it!"
+      ],
+      "options": [
+        "Styling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when we decorated the cake but used mustard instead of icing by mistake? That's how salsa can look without the right styling.",
+        "Mustard frosting? Yuck! Better get my salsa styling on point then!"
+      ],
+      "options": [
+        "Styling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when we tried to make a smoothie but used all the wrong ingredients? It was... not great. That's kind of like dancing salsa without understanding the musicality.",
+        "So salsa without musicality is like a spinach, ketchup, and chocolate smoothie? Yuck, point taken."
+      ],
+      "options": [
+        "Musicality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine trying to ride a bike with square wheels. That's what it's like trying to salsa without musicality.",
+        "Square wheels, huh? Not very efficient I suppose. Better tune my ears to the music then!"
+      ],
+      "options": [
+        "Musicality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Dancing salsa without musicality is like trying to eat soup with a fork, it just doesn't work.",
+        "So, I need to match my steps to the music like a spoon scoops soup, got it!"
+      ],
+      "options": [
+        "Musicality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know how ketchup and fries just... connect? That's what a good partner connection in salsa is like.",
+        "So, without connection, I'm just a lonely fry?"
+      ],
+      "options": [
+        "Partner Connection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine you're a glove without a hand. Pretty pointless, right? That's what salsa is like without a partner connection.",
+        "That's a weird thought, but I get it. No one wants to be a handless glove!"
+      ],
+      "options": [
+        "Partner Connection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know that scene in the movie where the character tries to build IKEA furniture but totally fails because they didn't follow the manual? That's like trying to salsa without a partner connection.",
+        "So you're saying I need my dance partner like I need IKEA instructions? Makes sense!"
+      ],
+      "options": [
+        "Partner Connection (correct answer)"
+      ]
+    }
+  ]
+}

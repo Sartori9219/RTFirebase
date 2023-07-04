@@ -1,0 +1,173 @@
+[
+  {
+    "Project objective": "Imagine you're starting a lemonade stand business for the summer. You will operate the stand for 30 days and plan to sell two types of lemonade: regular and strawberry-flavored.",
+    "Steps": [
+      "Create a spreadsheet: Open a new spreadsheet using a program like Microsoft Excel or Google Sheets. Name your file \"Lemonade Stand Budget.\"",
+      "Add headers: In the first column, list the following categories: Ingredients, Equipment, Marketing, Daily Sales, and Total Expenses.",
+      "List expenses: Under Ingredients, list expenses for lemons, sugar, strawberries, water, and ice. Under Equipment, list expenses for a lemonade stand, a lemon juicer, cups, and napkins. Under Marketing, list expenses for flyers and social media advertisements.",
+      "Calculate daily costs: For each expense item, research and input the unit cost and the estimated  quantity needed per day. Multiply the unit cost by the daily quantity to calculate the daily cost for each item.  It\u2019s ok to make up the numbers, but try to make them realistic.",
+      "Estimate daily sales: In the Daily Sales category, create two subcategories: Regular Lemonade Sales and Strawberry Lemonade Sales. Estimate the number of cups you will sell per day for each type and the selling price per cup. Multiply the daily quantity by the selling price to calculate the daily revenue for each type.",
+      "Total daily expenses: Sum the daily costs for all expense items (Ingredients, Equipment, and Marketing) to calculate your Total Daily Expenses.",
+      "Calculate daily profit: Subtract the Total Daily Expenses from the combined Daily Sales (Regular and Strawberry Lemonade) to find your Daily Profit.",
+      "Project monthly figures: Multiply the daily figures for sales, expenses, and profit by 30 to estimate your monthly figures.",
+      "Analyze and adjust: Review your Lemonade Stand Budget and consider adjusting your selling prices, costs, or sales projections to maximize your profit. Consider factors such as weather, competition, and customer preferences when making adjustments."
+    ]
+  },
+  {
+    "Project objective": "Imagine your school club is hosting a bake sale fundraiser to raise money for a field trip. You need to plan the budget and track sales and expenses for the event.",
+    "Steps": [
+      "Open a spreadsheet: Open a new spreadsheet and name your file \"Bake Sale Fundraiser Budget.\"",
+      "Set up categories: In the first column, list the following categories: Baked Goods, Ingredients, Supplies, Sales, and Total Expenses.",
+      "List baked goods: Under Baked Goods, list items you plan to sell, such cookies, brownies, and cupcakes.",
+      "Calculate ingredient costs: Under Ingredients, list the costs for ingredients needed for each baked good. Estimate the quantity of each ingredient needed and calculate the total cost per baked good.",
+      "Calculate supply costs: Under Supplies, list expenses for items like disposable plates, napkins, and packaging materials. Estimate the quantity needed and calculate the total cost.",
+      "Estimate sales: Under Sales, estimate the number of each baked good you expect to sell and the selling price per item. Multiply the quantity by the selling price to calculate the total revenue for each baked good.",
+      "Calculate total expenses: Sum the total costs for Ingredients and Supplies to find the Total Expenses.",
+      "Calculate profit: Subtract the Total Expenses from the combined Sales of each baked good to find the fundraiser's profit.",
+      "Analyze and adjust: Review your Bake Sale Fundraiser Budget and consider adjusting selling prices, ingredient costs, or sales projections to maximize profit. Take into account factors like competition, customer preferences, and event promotion."
+    ]
+  },
+  {
+    "Project objective": "Imagine you want to save money for a new bicycle that costs $350. You plan to save a portion of your allowance and money from odd jobs over the next six months.",
+    "Steps": [
+      "Open a spreadsheet: Open a new spreadsheet and name your file \"Personal Savings Plan.\"",
+      "Set up categories: In the first column, list the following categories: Monthly Income, Monthly Expenses, Monthly Savings, and Savings Goal.",
+      "Estimate monthly income: Under Monthly Income, list sources of income, such as allowance and odd jobs. Estimate the monthly amount for each source.",
+      "Estimate monthly expenses: Under Monthly Expenses, list your regular expenses, such as snacks, movie tickets, and mobile phone credit. Estimate the monthly cost for each item.",
+      "Calculate monthly savings: Subtract your Total Monthly Expenses from your Total Monthly Income to find your Monthly Savings.",
+      "Set a savings goal: Under Savings Goal, input the cost of the bicycle ($350) and the number of months you have to save (6).",
+      "Calculate required savings rate: Divide the savings goal by the number of months to find the required monthly savings rate.",
+      "Analyze and adjust: Compare your calculated Monthly Savings with the required savings rate. Adjust your income or expenses as needed to meet your savings goal.",
+      "Track progress: Each month, input your actual income, expenses, and savings to track your progress towards your goal.",
+      "Family Grocery Budget:"
+    ]
+  },
+  {
+    "Project objective": "Imagine your family wants to create a budget for their monthly grocery expenses to save money and make healthier food choices.",
+    "Steps": [
+      "Open a spreadsheet: Open a new spreadsheet and name your file \"Family Grocery Budget.\"",
+      "Set up categories: In the first column, list the following categories: Food Groups, Weekly Expenses, and Monthly Expenses.",
+      "List food groups: Under Food Groups, list categories like fruits, vegetables, meats, dairy, and grains.",
+      "Estimate weekly expenses: Under Weekly Expenses, estimate the amount your family spends on each food group per week.",
+      "Calculate monthly expenses: Multiply the Weekly Expenses by 4 (assuming 4 weeks per month) to",
+      "calculate the Monthly Expenses for each food group.",
+      "Set a monthly budget: Create a new category called \"Monthly Budget\" and input a target budget for each food group based on your family's preferences and nutritional needs.",
+      "Compare expenses with budget: Compare the calculated Monthly Expenses with the target Monthly Budget for each food group to identify areas where adjustments can be made.",
+      "Analyze and adjust: Review your Family Grocery Budget and discuss potential changes with your family, such as buying in-season produce, choosing store brands, or cutting back on unhealthy snacks.",
+      "Track progress: Each month, input your actual grocery expenses for each food group and compare them to your target budget. Adjust your budget and spending habits as needed to achieve your family's goals.",
+      "School Supplies Inventory:"
+    ]
+  },
+  {
+    "Project objective": "Imagine you're the class representative responsible for keeping track of the school supplies inventory for your class.",
+    "Steps": [
+      "Open a spreadsheet: Open a new spreadsheet and name your file \"School Supplies Inventory.\"",
+      "Set up categories: In the first column, list the following categories: Item, Initial Quantity, Current Quantity, and Reorder Level.",
+      "List supplies: Under Item, list school supplies such as pencils, erasers, notebooks, and glue sticks.",
+      "Record initial quantities: Under Initial Quantity, input the number of each item available at the beginning of the school year.",
+      "Track current quantities: Under Current Quantity, update the number of each item as they are used or replenished throughout the year.",
+      "Set reorder levels: Under Reorder Level, input a threshold for each item, indicating when more supplies should be ordered.",
+      "Conditional formatting: Use conditional formatting to highlight items that have reached or fallen below their reorder level.",
+      "Reorder supplies: When supplies reach their reorder level, communicate with the teacher or school administration to replenish the inventory.",
+      "Analyze and adjust: Review the School Supplies Inventory regularly and adjust reorder levels or quantities as needed based on usage patterns and class needs."
+    ]
+  },
+  {
+    "Project objective": "Imagine your class is planning a fundraiser to raise money for new classroom technology. The fundraiser will consist of a talent show with a silent auction and refreshments for sale.",
+    "Steps": [
+      "Open a spreadsheet: Open a new spreadsheet and name your file \"Classroom Fundraiser Budget.\"",
+      "Set up categories: In the first column, list the following categories: Talent Show, Silent Auction, Refreshments, Expenses, and Total Revenue.",
+      "Estimate talent show income: Under Talent Show, estimate the number of tickets you will sell and the ticket price. Multiply these numbers to calculate the total talent show revenue.",
+      "Estimate silent auction income: Under Silent Auction, list the items up for auction and their estimated selling prices. Add up the estimated selling prices to calculate the total silent auction revenue.",
+      "Estimate refreshment sales: Under Refreshments, list the items for sale, their selling prices, and the estimated number of units you will sell. Multiply the selling price by the number of units to calculate the total revenue for each item.",
+      "List expenses: Under Expenses, list the costs for organizing the fundraiser, such as venue rental, decorations, and refreshment supplies. Estimate the cost for each item.",
+      "Calculate total revenue: Sum the revenues from the Talent Show, Silent Auction, and Refreshments to find the Total Revenue.",
+      "Calculate profit: Subtract the total Expenses from the Total Revenue to calculate the fundraiser's profit.",
+      "Analyze and adjust: Review your Classroom Fundraiser Budget and consider adjusting ticket prices, auction item values, or refreshment offerings to maximize profit. Take into account factors like audience size, event promotion, and community involvement."
+    ]
+  },
+  {
+    "Project objective": "Imagine your school's drama club is organizing a movie night to raise funds for new stage equipment. The event will include ticket sales and a concession stand for snacks.",
+    "Steps": [
+      "Open a spreadsheet: Open a new spreadsheet and name your file \"Movie Night Profit Analysis.\"",
+      "Set up categories: In the first column, list the following categories: Ticket Sales, Concession Sales, Expenses, and Profit.",
+      "Estimate ticket sales: Under Ticket Sales, estimate the number of attendees and the price per ticket. Multiply these numbers to calculate the total ticket revenue.",
+      "Estimate concession sales: Under Concession Sales, list the snack items for sale, their selling prices, and the estimated number of units you will sell. Multiply the selling price by the number of units to calculate the total revenue for each item.",
+      "List expenses: Under Expenses, list the costs for organizing the movie night, such as venue rental, movie licensing fees, and snack supplies. Estimate the cost for each item.",
+      "Calculate total revenue: Sum the revenues from Ticket Sales and Concession Sales to find the Total Revenue.",
+      "Calculate profit: Subtract the total Expenses from the Total Revenue to calculate the movie night's profit.",
+      "Break-even analysis: Calculate the break-even point by dividing the fixed expenses by the contribution margin per ticket (ticket price minus variable cost per ticket).",
+      "Analyze and adjust: Review your Movie Night Profit Analysis and consider adjusting ticket prices, snack offerings, or audience size to maximize profit. Take into account factors like movie selection, event promotion, and community interest."
+    ]
+  },
+  {
+    "Project objective": "Imagine you're starting a pet sitting service to earn extra money during the summer. You will offer dog walking, cat sitting, and overnight pet care.",
+    "Steps": [
+      "Open a spreadsheet: Open a new spreadsheet and name your file \"Pet Sitting Service Budget.\"",
+      "Set up categories: In the first column, list the following categories: Services, Pricing, Clients, and Revenue.",
+      "List services: Under Services, list the pet sitting services you plan to offer, such as dog walking, cat sitting, and overnight care.",
+      "Set pricing: Under Pricing, research and set a price for each service based on market rates and your desired profit margin.",
+      "Estimate clients: Under Clients, create a table to input client information, such as name, contact details, pet type, and service requested.",
+      "Calculate revenue: Multiply the price of each service by the number of clients requesting that service to calculate the total revenue for each service.",
+      "Calculate total revenue: Sum the revenues from all services to find your Total Revenue.",
+      "Track expenses: Create an Expenses category and list any costs associated with running your pet sitting service, such as transportation, pet supplies, and advertising. Calculate the total expenses.",
+      "Analyze and adjust: Review your Pet Sitting Service Budget and consider adjusting your pricing, service offerings, or client acquisition strategies to maximize profit. Take into account factors like competition, customer satisfaction, and demand for services."
+    ]
+  },
+  {
+    "Project objective": "Imagine your sports team is organizing a car wash fundraiser to raise money for new uniforms and equipment.",
+    "Steps": [
+      "Open a spreadsheet: Open a new spreadsheet and name your file \"Car Wash Fundraiser Budget.\"",
+      "Set up categories: In the first column, list the following categories: Car Wash Sales, Expenses, and Profit.",
+      "Estimate car wash sales: Under Car Wash Sales, estimate the number of cars you will wash and the price per car wash. Multiply these numbers to calculate the total car wash revenue.",
+      "List expenses: Under Expenses, list the costs for organizing the car wash, such as water usage, soap, sponges, towels, and promotional materials. Estimate the cost for each iitem.",
+      "Calculate total revenue: Sum the revenues from Car Wash Sales to find the Total Revenue.",
+      "Calculate profit: Subtract the total Expenses from the Total Revenue to calculate the car wash fundraiser's profit.",
+      "Break-even analysis: Calculate the break-even point by dividing the fixed expenses by the contribution margin per car wash (car wash price minus variable cost per car wash).",
+      "Analyze and adjust: Review your Car Wash Fundraiser Budget and consider adjusting the car wash price, promotion strategies, or location to maximize profit. Take into account factors like competition, customer satisfaction, and community involvement.",
+      "Track progress: On the day of the fundraiser, input the actual number of cars washed, revenue, and expenses to compare your projections with actual results. Use this information to plan future fundraisers or make adjustments as needed."
+    ]
+  },
+  {
+    "Project objective": "Imagine your school is starting a recycling initiative to raise environmental awareness and earn money from recycling centers.",
+    "Steps": [
+      "Open a spreadsheet: Open a new spreadsheet and name your file \"Recycling Initiative Budget.\"",
+      "Set up categories: In the first column, list the following categories: Materials, Collection, Earnings, and Expenses.",
+      "List materials: Under Materials, list recyclable items such as paper, plastic, aluminum cans, and glass bottles.",
+      "Estimate collection: Under Collection, estimate the quantity of each material you expect to collect per month.",
+      "Research earnings: Under Earnings, research the payout rates for each material at local recycling centers. Multiply the payout rate by the estimated collected quantity to calculate the total earnings for each material.",
+      "List expenses: Under Expenses, list any costs associated with the recycling initiative, such as transportation to the recycling center, promotional materials, and collection bins. Estimate the cost for each item.",
+      "Calculate total earnings: Sum the earnings from all materials to find the Total Earnings.",
+      "Calculate profit: Subtract the total Expenses from the Total Earnings to calculate the recycling initiative's profit.",
+      "Analyze and adjust: Review your Recycling Initiative Budget and consider adjusting the collection methods, promotional strategies, or types of materials collected to maximize profit and environmental impact. Take into account factors like community involvement, available resources, and local recycling center policies."
+    ]
+  },
+  {
+    "Project objective": "Imagine you want to save money for a new computer or other personal goal, and you need to create a savings plan to achieve that goal.",
+    "Steps": [
+      "Open a spreadsheet: Open a new spreadsheet and name your file \"Personal Savings Plan.\"",
+      "Set up categories: In the first column, list the following categories: Goal, Monthly Savings, Months to Goal, and Total Savings.",
+      "Define your goal: Under Goal, input the cost of the item you want to purchase or the amount of money you want to save.",
+      "Determine monthly savings: Under Monthly Savings, estimate the amount of money you can save each month based on your allowance, chores, or part-time job.",
+      "Calculate months to goal: Divide the total goal amount by the monthly savings amount to determine the number of months it will take to reach your goal.",
+      "Create a savings tracker: In a new section, create a table to track your savings progress with columns for Date, Amount Saved, and Total Savings.",
+      "Update tracker: Each month, input the date and amount saved. Update the Total Savings column by adding the Amount Saved to the previous month's Total Savings.",
+      "Analyze and adjust: Review your Personal Savings Plan regularly and consider adjusting your monthly savings or target goal if needed. Take into account factors like unexpected expenses, new income sources, or changes in priorities.",
+      "Celebrate success: When you reach your savings goal, celebrate your achievement and consider setting a new goal or adjusting your savings plan for future financial success."
+    ]
+  },
+  {
+    "Project objective": "Imagine you want to help your family create a monthly grocery budget to save money and eat healthier.",
+    "Steps": [
+      "Open a spreadsheet: Open a new spreadsheet and name your file \"Family Grocery Budget.\"",
+      "Set up categories: In the first column, list the following categories: Food Group, Weekly Expenses, Monthly Expenses, and Monthly Budget.",
+      "List food groups: Under Food Group, list categories such as fruits, vegetables, grains, proteins, and dairy.",
+      "Estimate weekly expenses: Under Weekly Expenses, estimate the amount of money your family spends on each food group per week.",
+      "Calculate monthly expenses: Multiply the Weekly Expenses by 4 to estimate the Monthly Expenses for each food group.",
+      "Set a monthly budget: Create a new category called \"Monthly Budget\" and input a target budget for each food group based on your family's preferences and nutritional needs.",
+      "Compare expenses with budget: Compare the calculated Monthly Expenses with the target Monthly Budget for each food group to identify areas where adjustments can be made.",
+      "Analyze and adjust: Review your Family Grocery Budget and discuss potential changes with your family, such as buying in-season produce, choosing store brands, or cutting back on unhealthy snacks.",
+      "Track progress: Each month, input your actual grocery expenses for each food group and compare them to your target budget. Adjust your budget and spending habits as needed to achieve your family's goals."
+    ]
+  }
+]

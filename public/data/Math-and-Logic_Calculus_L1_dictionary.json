@@ -1,0 +1,509 @@
+{
+  "questions": [
+    {
+      "question": [
+        "When I try to catch my dog, he slows down as I get closer, but I can never actually catch him.",
+        "So, you're saying your speed is approaching your dog's speed, but you never quite reach it?"
+      ],
+      "options": [
+        "Limits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My dad told me that when you keep cutting a chocolate bar in half, you'll always have a smaller piece left, no matter how many times you cut it.",
+        "Oh, so the size of the chocolate piece approaches zero, but it never actually becomes zero?"
+      ],
+      "options": [
+        "Limits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When you climb higher up a mountain, the temperature keeps getting colder, but I wonder if there's a limit to how cold it can get.",
+        "Yeah, the temperature might approach a certain limit but never go below it."
+      ],
+      "options": [
+        "Limits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I was drawing a snake, and I didn't lift my pencil from the paper once!",
+        "So, you're saying the snake's body is continuous, just like a real snake, huh?"
+      ],
+      "options": [
+        "Continuity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried to hop on one foot across the entire bridge, but my foot got tired, so I had to stop and switch feet.",
+        "Aww, so you couldn't keep hopping continuously without a break?"
+      ],
+      "options": [
+        "Continuity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When we played musical chairs, the music kept going without any pauses or stops!",
+        "So, the music was continuous, and it must have been intense trying to find a chair when it stopped!"
+      ],
+      "options": [
+        "Continuity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When I slide down the hill, I notice I go faster and faster!",
+        "Sounds like your speed is changing! The slope of the hill must be your acceleration, which is the derivative of your speed!"
+      ],
+      "options": [
+        "Derivatives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been growing taller, but not at a steady rate. Some months I grow more, some less.",
+        "Your growth rate is like the derivative of your height! It changes over time, just like your height does."
+      ],
+      "options": [
+        "Derivatives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wonder how fast the volume of water in this bottle is decreasing as I drink it.",
+        "Oh, that's an interesting question! You're looking for the derivative of the volume with respect to time."
+      ],
+      "options": [
+        "Derivatives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found out that if I want to know how fast my toy car is going, I can use a magic math trick called the power rule!",
+        "Haha, yeah! Differentiation rules like the power rule can tell you how fast things are changing!"
+      ],
+      "options": [
+        "Differentiation rules (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that when two superheroes are flying at different speeds, you can use the product rule to figure out their combined speed.",
+        "That's right! The product rule is one of the differentiation rules that can help you find the derivative of their speeds multiplied together."
+      ],
+      "options": [
+        "Differentiation rules (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My brother says there's a rule for finding the rate of change when a ninja is climbing up and down a rope at the same time.",
+        "Your brother is talking about the quotient rule! It's one of the differentiation rules used to find the rate of change when two functions are dividing each other."
+      ],
+      "options": [
+        "Differentiation rules (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just discovered that if a pirate's treasure map is really complicated, you can still find the quickest way to the treasure using implicit differentiation!",
+        "Yarrr, matey! Implicit differentiation helps you find the slope of hidden functions without having to solve them directly!"
+      ],
+      "options": [
+        "Implicit differentiation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that to find out how fast the colors of a rainbow change, you need to use something called implicit differentiation.",
+        "That's right! Implicit differentiation can help you find the rate of change even when the relationship between the colors isn't explicit."
+      ],
+      "options": [
+        "Implicit differentiation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When two kangaroos are jumping together in a complicated pattern, how do we find out how fast their jumps change?",
+        "We can use implicit differentiation! It's a powerful technique to find the rate of change even when the relationship between their jumps is a bit tricky."
+      ],
+      "options": [
+        "Implicit differentiation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed that the acceleration of my toy car was changing, so I asked my teacher about it.",
+        "Ah, so you're curious about higher-order derivatives! They can tell you how much acceleration is changing over time."
+      ],
+      "options": [
+        "Higher-order derivatives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I was watching a snowboarder doing tricks, and I was wondering how much the rate of rotation was changing over time.",
+        "Sounds like you're interested in the second derivative! It can tell you how much the rate of rotation is changing."
+      ],
+      "options": [
+        "Higher-order derivatives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to find out how the curvature of a curve changes as you move along it.",
+        "You'll need to take the third derivative, which is also known as the derivative of the second derivative! It can tell you how much the curvature is changing."
+      ],
+      "options": [
+        "Higher-order derivatives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to find the steepest part of this hill to set up a water slide for the festival!",
+        "Good idea! Use the slope to make it as thrilling as possible!"
+      ],
+      "options": [
+        "Applications of derivatives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've noticed my chickens lay more eggs when I give them exactly 3 cups of feed!",
+        "Wow, you've found the sweet spot for maximum egg production!"
+      ],
+      "options": [
+        "Applications of derivatives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to figure out when I should harvest my pumpkins so they have the perfect roundness.",
+        "You'll want to find that moment when their growth rate slows down just right!"
+      ],
+      "options": [
+        "Applications of derivatives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How much water do you think we need to fill this pool?",
+        "Well, if we knew the shape, we could add up all the little bits of water to find the total amount!"
+      ],
+      "options": [
+        "Integrals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, my toy car is moving at a constant speed. How far will it travel in 5 seconds?",
+        "Let's add up all the tiny distances it covers over time to find the total distance!"
+      ],
+      "options": [
+        "Integrals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wonder how much paint we need to cover this entire wall.",
+        "We can add up the paint needed for each tiny area on the wall to get the total amount!"
+      ],
+      "options": [
+        "Integrals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard we can find the original function of a derivative. Is that true?",
+        "Sure is! We just have to work our way back from the derivative, like following a trail of breadcrumbs!"
+      ],
+      "options": [
+        "Indefinite integrals and antiderivatives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to figure out how high we've climbed from the base of the mountain.",
+        "Well, if we know the rate we're climbing, we can reverse engineer our way back to the height!"
+      ],
+      "options": [
+        "Indefinite integrals and antiderivatives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, we have a function that shows how fast a plant grows. How do we find its total growth?",
+        "Piece of cake! We just need to work our way back from the growth rate to the original growth function!"
+      ],
+      "options": [
+        "Indefinite integrals and antiderivatives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to find the exact amount of dough I need for making all these pies!",
+        "You could calculate the total dough by adding up all the bits from start to finish."
+      ],
+      "options": [
+        "Definite integrals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to know how much energy this rocket used during its flight!",
+        "Let's use the fuel consumption rate and find the total amount used over the entire flight time."
+      ],
+      "options": [
+        "Definite integrals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How far did that paper airplane travel horizontally before hitting the ground?",
+        "We can find the total distance by adding up all the little horizontal distances it traveled!"
+      ],
+      "options": [
+        "Definite integrals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can make indefinite integrals and derivatives disappear into thin air!",
+        "Oh really? What magical theorem do you use for that trick?"
+      ],
+      "options": [
+        "Fundamental theorem of calculus (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've discovered a way to travel between the world of derivatives and integrals!",
+        "That's incredible! What's the secret to your time-traveling abilities?",
+        "It's all thanks to the fundamental theorem of calculus!"
+      ],
+      "options": [
+        "Fundamental theorem of calculus (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to find a new way to slice this cake evenly.",
+        "Why not use integration techniques? They can help you divide the cake in the most creative ways!"
+      ],
+      "options": [
+        "Integration techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to paint this entire mural, but it has so many intricate details.",
+        "Don't worry, we can use integration techniques to tackle every little part of the design!"
+      ],
+      "options": [
+        "Integration techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How can I water all these plants with different needs efficiently?",
+        "You should try integration techniques! They'll help you find the best watering schedule for each plant!"
+      ],
+      "options": [
+        "Integration techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Houston, we have a problem! This integral doesn't have a proper limit!",
+        "Don't worry, we can handle it with improper integrals. Just be cautious with infinity!"
+      ],
+      "options": [
+        "Improper integrals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to find the perfect temperature for this new recipe, but my thermometer is broken!",
+        "Fear not! We can use improper integrals to estimate the temperature even with a wonky thermometer!"
+      ],
+      "options": [
+        "Improper integrals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to calculate the distance to the horizon, but it seems to go on forever!",
+        "Ahoy! With improper integrals, we can handle infinity and find the distance you seek!"
+      ],
+      "options": [
+        "Improper integrals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to calculate the force exerted by this oddly-shaped magnet.",
+        "No worries! Applications of integrals can help you find the force even with the strangest shapes!"
+      ],
+      "options": [
+        "Applications of integrals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to know how much energy I burn during my workout, but it varies so much!",
+        "We can use applications of integrals to find the total energy burned throughout your entire routine!"
+      ],
+      "options": [
+        "Applications of integrals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How can I figure out how much concrete I need for this curved wall?",
+        "Applications of integrals to the rescue! They'll help you calculate the exact amount for any shape!"
+      ],
+      "options": [
+        "Applications of integrals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My circuits are malfunctioning, and I can't figure out why!",
+        "Let's use differential equations to model your system and find the cause of the problem!"
+      ],
+      "options": [
+        "Differential equations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The population of these endangered animals is fluctuating, and I need to predict their future numbers.",
+        "Differential equations can help you model their population dynamics and make accurate predictions!"
+      ],
+      "options": [
+        "Differential equations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to predict the path of this hurricane, but the data is so complex!",
+        "Differential equations can save the day! They'll help us model the storm and anticipate its path!"
+      ],
+      "options": [
+        "Differential equations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to create a new magic trick using never-ending patterns!",
+        "Sequences and series can help you make mesmerizing patterns that will wow your audience!"
+      ],
+      "options": [
+        "Sequences and series (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to compose a song that has a repeating pattern, but I'm stuck!",
+        "Why not use sequences and series to create a catchy melody that keeps coming back?"
+      ],
+      "options": [
+        "Sequences and series (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to predict the growth of my investments, but the market is so unpredictable!",
+        "Sequences and series can help us model and analyze the trends for better decision-making!"
+      ],
+      "options": [
+        "Sequences and series (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to find a way to represent this alternating current as a function!",
+        "Power series can do the trick! They'll help you approximate the current with a series of terms!"
+      ],
+      "options": [
+        "Power series (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to perfect my souffl\u00e9 recipe, but the oven temperature fluctuates!",
+        "Let's use a power series to model the temperature changes and adjust your recipe accordingly!"
+      ],
+      "options": [
+        "Power series (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to create a movie with a special effect that makes objects appear wavy!",
+        "We can use a power series to generate the wavy effect and bring your vision to life!"
+      ],
+      "options": [
+        "Power series (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to approximate this complex function, but I don't know where to start!",
+        "Try using a Taylor or Maclaurin series! They're great for approximating functions near specific points."
+      ],
+      "options": [
+        "Taylor and Maclaurin series (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to calculate the drag force on this plane, but the function is too complicated.",
+        "No worries! We can use a Taylor or Maclaurin series to approximate the function and find the drag force."
+      ],
+      "options": [
+        "Taylor and Maclaurin series (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to predict the path of my golf ball, but the air resistance makes it tricky.",
+        "A Taylor or Maclaurin series can help approximate the trajectory and improve your shots!"
+      ],
+      "options": [
+        "Taylor and Maclaurin series (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to map out this winding river, but regular coordinates aren't cutting it!",
+        "Parametric and polar equations can help you accurately represent the river's twists and turns!"
+      ],
+      "options": [
+        "Parametric and polar equations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to design this spiral staircase, but I'm having trouble with the curves.",
+        "Parametric and polar equations to the rescue! They'll make designing those curves a breeze!"
+      ],
+      "options": [
+        "Parametric and polar equations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to create a masterpiece with circular patterns, but I'm struggling to make them perfect.",
+        "Parametric and polar equations can help you achieve those flawless circular designs!"
+      ],
+      "options": [
+        "Parametric and polar equations (correct answer)"
+      ]
+    }
+  ]
+}

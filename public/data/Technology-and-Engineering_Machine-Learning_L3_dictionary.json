@@ -1,0 +1,422 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, I heard you taught your model to recognize which type of sandwich is in a picture. How did you do that?",
+        "Oh, I fed it a bunch of pictures of sandwiches with labels like \"ham and cheese\" or \"PB&J\" and told it to learn the difference. After a while, it became a sandwich expert!"
+      ],
+      "options": [
+        "Supervised learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My model just learned to tell the difference between cats and dogs. It's so cool!",
+        "That's awesome! Did you show it a bunch of labeled pictures of cats and dogs so it knew what to look for?",
+        "Yeah, I basically became a pet photographer for a while, but it was worth it!"
+      ],
+      "options": [
+        "Supervised learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't believe my program can now predict if a song is a country song or a rap song just by looking at the lyrics!",
+        "Sounds like you've been busy labeling a bunch of song lyrics and training your model on them, huh?",
+        "Yup, I'm now an expert in both rap and country music. Who knew?!"
+      ],
+      "options": [
+        "Supervised learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard you managed to sort a huge pile of alien coins without knowing their values or anything about them!",
+        "Yeah, it was wild. I just let my model look at the coins and figure out how to group them by similarity. It did a pretty good job too!"
+      ],
+      "options": [
+        "Unsupervised learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, you're saying you can cluster these random doodles into different groups without any labels?",
+        "Exactly! My model just looks at the patterns and shapes in the doodles and groups similar ones together. Pretty neat, huh?"
+      ],
+      "options": [
+        "Unsupervised learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wait, you taught your model to organize my messy wardrobe without any guidance?",
+        "Yup! It just looked at the clothes and found ways to group them together based on their characteristics. Your socks have never been happier!"
+      ],
+      "options": [
+        "Unsupervised learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My AI just learned how to win at chess by playing games against itself! How cool is that?",
+        "That's awesome! I bet it got better each time by learning from its mistakes and figuring out which moves led to victory."
+      ],
+      "options": [
+        "Reinforcement learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't believe my robot vacuum learned to avoid the stairs all by itself!",
+        "Yeah, after it fell down the stairs a few times, it figured out that avoiding them was a much better idea. Ouch!"
+      ],
+      "options": [
+        "Reinforcement learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My AI learned to play the perfect game of Pac-Man by eating all the dots and avoiding the ghosts. It's unstoppable!",
+        "Sounds like it got really good at maximizing its score and learning from its experiences. Watch out, ghosts!"
+      ],
+      "options": [
+        "Reinforcement learning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My AI was having trouble telling the difference between apples and oranges until I realized it needed some help.",
+        "Did you come up with some new features for it to look at, like color, texture, or shape?",
+        "Yeah, I taught it about those things and now it's a fruit-sorting machine!"
+      ],
+      "options": [
+        "Feature engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My model couldn't predict house prices very well, so I had to get creative.",
+        "Oh, did you engineer some new features like distance to amenities, lot size, or number of bedrooms?",
+        "Yup, and now it's making much better predictions!"
+      ],
+      "options": [
+        "Feature engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I was struggling to train my AI to recognize bird species until I started thinking like a bird-watcher.",
+        "Ah, so you added features like beak shape, feather color, and song patterns to help it out?",
+        "Exactly! Now it's spotting rare birds like a pro."
+      ],
+      "options": [
+        "Feature engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My AI is so smart, it can predict the exact number of sprinkles on every cupcake I've ever made!",
+        "Wow, that's... specific. But can it predict the number of sprinkles on a new cupcake you make?",
+        "Hmm, now that you mention it, it's not so great with new cupcakes..."
+      ],
+      "options": [
+        "Overfitting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My model is amazing! It can memorize the entire history of weather patterns in my city!",
+        "That's impressive, but how well does it predict future weather patterns?",
+        "Uh, not so well. It's too busy remembering the past."
+      ],
+      "options": [
+        "Overfitting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's cool, but can it recognize the same song when it's played by a different band or in a different style?",
+        "Hmm, good point. It's pretty bad at that. Maybe it's focusing too much on the exact notes."
+      ],
+      "options": [
+        "Overfitting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My model says that all birds can fly. That's good enough, right?",
+        "Well, not all birds can fly, like ostriches and penguins. Your model might be too simplistic."
+      ],
+      "options": [
+        "Underfitting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My AI tried to predict the stock market by looking at the day of the week. It didn't work out so well.",
+        "Sounds like it didn't capture the complexity of the stock market. That's a classic case of underfitting."
+      ],
+      "options": [
+        "Underfitting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I built an AI to recognize shapes, but it just says everything is a circle.",
+        "Maybe your model is too simple and can't capture the variety of shapes out there. It's underfitting the data."
+      ],
+      "options": [
+        "Underfitting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My AI either learns everything about my training data or nothing at all. I can't find the sweet spot!",
+        "Sounds like you're struggling with the bias-variance tradeoff. You need to find a balance between model simplicity and sensitivity to data fluctuations."
+      ],
+      "options": [
+        "Bias-variance tradeoff (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried tweaking my AI's settings, but it's either too stubborn or too easily swayed by noise. What do I do?",
+        "It's all about the bias-variance tradeoff. You need to find the right balance between fitting your data and not overfitting it."
+      ],
+      "options": [
+        "Bias-variance tradeoff (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My model's predictions are either way off or way too precise. There's no middle ground!",
+        "You're dealing with the bias-variance tradeoff. Try to find a balance between a model that's too simple and one that's too complex."
+      ],
+      "options": [
+        "Bias-variance tradeoff (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to know how well my model will do on new data, but I only have one dataset to work with.",
+        "You should try cross-validation! You can split your data into different folds and train and test your model on each fold."
+      ],
+      "options": [
+        "Cross-validation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm worried that my AI's great performance is just a fluke. How can I be sure it's really good?",
+        "Use cross-validation! By training and testing your model on different parts of your data, you'll get a more reliable estimate of its performance."
+      ],
+      "options": [
+        "Cross-validation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to compare different AI models, but I don't want to waste time and data on separate testing sets.",
+        "Cross-validation to the rescue! You can use the same dataset to train and test all your models, giving you a fair comparison."
+      ],
+      "options": [
+        "Cross-validation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My model keeps memorizing the training data instead of learning the underlying patterns. Help!",
+        "Try adding regularization to your model. It'll penalize overly complex solutions and help your model generalize better."
+      ],
+      "options": [
+        "Regularization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't seem to stop my AI from overfitting the data. What should I do?",
+        "Regularization might be the answer! It adds a penalty to the model's complexity, helping it avoid overfitting."
+      ],
+      "options": [
+        "Regularization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My model is getting too complex, and I don't know how to simplify it without losing important information.",
+        "Regularization can help with that. It encourages your model to find simpler solutions while still capturing the important patterns in your data."
+      ],
+      "options": [
+        "Regularization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Decision trees, Ensemble methods, Neural networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Gradient descent.",
+        "I want to teach my AI to predict the weather, but I need a model that's easy to understand and visualize.",
+        "Decision trees could be a great choice! They're simple, intuitive, and you can visualize the whole decision-making process."
+      ],
+      "options": [
+        "Decision trees (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need a model that can help me decide which pizza toppings to choose based on my mood and the day of the week.",
+        "How about a decision tree? It can take into account different factors and make decisions based on simple rules."
+      ],
+      "options": [
+        "Decision trees (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My AI needs to predict whether a customer will like a product, but I want something more interpretable than a neural network.",
+        "Decision trees might be perfect for you. They make decisions based on a series of easy-to-understand questions."
+      ],
+      "options": [
+        "Decision trees (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ensemble methods, Neural networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Gradient descent.",
+        "I have several AI models, but none of them are perfect. Can I combine them to make a better one?",
+        "Absolutely! Ensemble methods let you combine the strengths of multiple models to create a more accurate and robust predictor."
+      ],
+      "options": [
+        "Ensemble methods (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My AI keeps making mistakes when it's faced with tricky problems. How can I improve its performance?",
+        "Try using ensemble methods! They combine the wisdom of multiple models to help your AI make better decisions."
+      ],
+      "options": [
+        "Ensemble methods (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want my AI to predict sports scores, but I don't want to put all my eggs in one basket. What should I do?",
+        "Ensemble methods are the way to go! You can use multiple models, each with their own strengths, to make more accurate predictions."
+      ],
+      "options": [
+        "Ensemble methods (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Neural networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Gradient descent.",
+        "I need an AI that can recognize different types of pasta just by looking at them. Is that even possible?",
+        "It sure is! Neural networks can learn to recognize complex patterns, like pasta shapes, from large amounts of data."
+      ],
+      "options": [
+        "Neural networks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My AI needs to learn how to predict movie box office results based on lots of factors. What should I use?",
+        "Neural networks are great for handling complex data with lots of variables. Give them a try!"
+      ],
+      "options": [
+        "Neural networks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can my AI learn to understand human handwriting, even when it's super messy?",
+        "Absolutely! Neural networks can learn to recognize even the messiest handwriting by training on lots of examples."
+      ],
+      "options": [
+        "Neural networks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Gradient descent.",
+        "I want my AI to recognize different dog breeds in photos, but regular neural networks aren't cutting it. What do I do?",
+        "Neural Network (CNN)! They're specifically designed for image recognition and can handle complex patterns in images."
+      ],
+      "options": [
+        "Convolutional Neural Networks (CNNs) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My AI needs to detect the presence of cats in videos, but I'm not sure what kind of model to use.",
+        "You should try a Convolutional Neural Network (CNN). They excel at processing and recognizing patterns in visual data like images and videos."
+      ],
+      "options": [
+        "Convolutional Neural Networks (CNNs) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to build a facial recognition system, but I don't know which AI model to use.",
+        "Convolutional Neural Networks (CNNs) are perfect for that! They're great at identifying patterns and features in images, like faces."
+      ],
+      "options": [
+        "Convolutional Neural Networks (CNNs) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Recurrent Neural Networks (RNNs), Gradient descent.",
+        "I need an AI that can predict the next word in a sentence, but I'm not sure which model to use.",
+        "Recurrent Neural Networks (RNNs) are great for sequence prediction tasks like that. They can handle data with temporal dependencies."
+      ],
+      "options": [
+        "Recurrent Neural Networks (RNNs) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm building a chatbot, but it keeps forgetting what we talked about earlier in the conversation. Help!",
+        "Try using a Recurrent Neural Network (RNN)! They're designed to remember information from previous steps in a sequence, like earlier parts of a conversation."
+      ],
+      "options": [
+        "Recurrent Neural Networks (RNNs) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want my AI to generate music that sounds like it was composed by Beethoven. What should I use?",
+        "A Recurrent Neural Network (RNN) would be a good choice! They can learn patterns in sequences, like notes in a piece of music, and generate new compositions based on those patterns."
+      ],
+      "options": [
+        "Recurrent Neural Networks (RNNs) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Gradient descent.",
+        "My AI model is struggling to find the best solution to a problem. Is there a method to guide it in the right direction?",
+        "Gradient descent can help! It's an optimization algorithm that helps your model find the best solution by following the gradient of the loss function."
+      ],
+      "options": [
+        "Gradient descent (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do AI models know when they've found the best possible answer to a problem?",
+        "They often use gradient descent, which helps them minimize their error by iteratively adjusting their parameters in the direction of the steepest decrease in the loss function."
+      ],
+      "options": [
+        "Gradient descent (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm having trouble training my AI to find the lowest point in a hilly landscape. What should I do?",
+        "Gradient descent is your friend! It'll help your AI find the lowest point by iteratively taking steps downhill in the direction of the steepest slope."
+      ],
+      "options": [
+        "Gradient descent (correct answer)"
+      ]
+    }
+  ]
+}

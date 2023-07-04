@@ -1,0 +1,1346 @@
+{
+  "questions": [
+    {
+      "question": "If x + 2 = 5, what is the value of x?",
+      "options": [
+        "1",
+        "2",
+        "3 (correct answer)",
+        "4"
+      ],
+      "hints": [
+        "We can solve for x by subtracting 2 from both sides of the equation to isolate x.",
+        "x + 2 - 2 = 5 - 2",
+        "x = 3"
+      ]
+    },
+    {
+      "question": "What is the value of y if 3y = 12?",
+      "options": [
+        "2",
+        "3",
+        "4 (correct answer)",
+        "5"
+      ],
+      "hints": [
+        "We can solve for y by dividing both sides of the equation by 3 to isolate y.",
+        "3y/3 = 12/3",
+        "y = 4"
+      ]
+    },
+    {
+      "question": "If 4x = 16, what is the value of x?",
+      "options": [
+        "1",
+        "2 (correct answer)",
+        "3",
+        "4"
+      ],
+      "hints": [
+        "We can solve for x by dividing both sides of the equation by 4 to isolate x.",
+        "4x/4 = 16/4",
+        "x = 4"
+      ]
+    },
+    {
+      "question": "If 5 = 2y - 3, what is the value of y?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4 (correct answer)"
+      ],
+      "hints": [
+        "We want to isolate the term with the variable y.",
+        "We can do this by adding 3 to both sides of the equation :5 + 3 = 2y - 3 + 3",
+        "This simplifies to: 8 = 2y",
+        "Now, we need to isolate y by dividing both sides by the coefficient of y, which is 2: 8 / 2 = 2y / 2",
+        "This simplifies to: 4 = y"
+      ]
+    },
+    {
+      "question": "If 6x - 3 = 9, what is the value of x?",
+      "options": [
+        "1",
+        "2 (correct answer)",
+        "3",
+        "4"
+      ],
+      "hints": [
+        "We want to isolate the term with the variable x. We can do this by adding 3 to both sides of the equation:",
+        "6x - 3 + 3 = 9 + 3",
+        "This simplifies to: 6x = 12",
+        "Now, we need to isolate x by dividing both sides by the coefficient of x, which is 6: 6x / 6 = 12 / 6",
+        "This simplifies to: x = 2"
+      ]
+    },
+    {
+      "question": "What is the value of z if z/3 = 4?",
+      "options": [
+        "6",
+        "9",
+        "12 (correct answer)",
+        "15"
+      ],
+      "hints": [
+        "To solve this equation, we want to isolate z.",
+        "We can do this by multiplying both sides of the equation by the denominator of the fraction, which is 3:",
+        "(z/3) * 3 = 4 * 3",
+        "This simplifies to: z = 12"
+      ]
+    },
+    {
+      "question": "Simplify the expression: 3(x + 2) + 4",
+      "options": [
+        "3x + 10 (correct answer)",
+        "3x + 6",
+        "4x + 6",
+        "7x + 6"
+      ],
+      "hints": [
+        "First, distribute the 3 to both x and 2 inside the parenthesis: 3(x + 2) = 3x + 6",
+        "Now, add the 4 to the simplified expression: 3x + 6 + 4 = 3x + 10"
+      ]
+    },
+    {
+      "question": "Simplify the expression: 2(3y - 1) - 5y",
+      "options": [
+        "y - 2 (correct answer)",
+        "11y - 2",
+        "6y - 5",
+        "6y - 2"
+      ],
+      "hints": [
+        "First, distribute the 2 to both 3y and -1 inside the parenthesis: 2(3y - 1) = 6y - 2",
+        "Now, subtract 5y from the simplified expression: 6y - 2 - 5y = 6y - 5y - 2 = 1y - 2=y-2"
+      ]
+    },
+    {
+      "question": "Simplify the expression: 4(2x - 3) + 5x",
+      "options": [
+        "13x - 12 (correct answer)",
+        "8x - 12",
+        "9x - 12",
+        "12x - 12"
+      ],
+      "hints": [
+        "First, distribute the 4 to both 2x and -3 inside the parenthesis: 4(2x - 3) = 8x - 12",
+        "Now, add the 5x to the simplified expression: 8x - 12 + 5x = 8x + 5x - 12 = 13x - 12"
+      ]
+    },
+    {
+      "question": "Simplify the expression: 3(4 - 2z) - z",
+      "options": [
+        "-5z + 12",
+        "5z + 12",
+        "2z + 12",
+        "-7z + 12(correct answer)"
+      ],
+      "hints": [
+        "First, distribute the 3 to both 4 and -2z inside the parenthesis: 3(4 - 2z) = 12 - 6z",
+        "Now, subtract z from the simplified expression: 12 - 6z - z = 12 - 6z - 1z = -7z + 12"
+      ]
+    },
+    {
+      "question": "Solve the inequality: 3x - 4 > 8",
+      "options": [
+        "x > 4",
+        "x < 4",
+        "x > 4 (correct answer)",
+        "x < 12"
+      ],
+      "hints": [
+        "First, add 4 to both sides of the inequality: 3x - 4 + 4 > 8 + 4",
+        "This simplifies to: 3x > 12",
+        "Now, divide both sides by the coefficient of x, which is 3: 3x / 3 > 12 / 3",
+        "This simplifies to: x > 4"
+      ]
+    },
+    {
+      "question": "Solve the inequality: 2y + 5 \u2264 11",
+      "options": [
+        "y \u2264 3 (correct answer)",
+        "y \u2265 3",
+        "y \u2264 8",
+        "y \u2265 8"
+      ],
+      "hints": [
+        "First, subtract 5 from both sides of the inequality: 2y + 5 - 5 \u2264 11 - 5",
+        "This simplifies to: 2y \u2264 6",
+        "Now, divide both sides by the coefficient of y, which is 2: 2y / 2 \u2264 6 / 2",
+        "This simplifies to: y \u2264 3"
+      ]
+    },
+    {
+      "question": "Solve the inequality: 4 - z < 7",
+      "options": [
+        "z > -3 (correct answer)",
+        "z < -3",
+        "z > 3",
+        "z < 3"
+      ],
+      "hints": [
+        "First, subtract 4 from both sides of the inequality: 4 - z - 4 < 7 - 4",
+        "This simplifies to: -z < 3",
+        "Now, to isolate z, we multiply both sides of the inequality by -1.",
+        "Remember to reverse the inequality sign when multiplying by a negative number: -z * -1 > 3 * -1",
+        "This simplifies to: z > -3"
+      ]
+    },
+    {
+      "question": "Solve the inequality: 5x + 2 \u2265 3x + 12",
+      "options": [
+        "x \u2265 5 (correct answer)",
+        "x \u2264 5",
+        "x \u2265 2",
+        "x \u2264 2"
+      ],
+      "hints": [
+        "First, subtract 3x from both sides of the inequality: 5x - 3x + 2 \u2265 3x - 3x + 12",
+        "This simplifies to: 2x + 2 \u2265 12",
+        "Now, subtract 2 from both sides of the inequality: 2x + 2 - 2 \u2265 12 - 2",
+        "This simplifies to: 2x \u2265 10",
+        "Finally, divide both sides by the coefficient of x, which is 2: 2x / 2 \u2265 10 / 2",
+        "This simplifies to: x \u2265 5"
+      ]
+    },
+    {
+      "question": "Combine like terms in the expression: 2x + 3y - x + 4y",
+      "options": [
+        "x + 7y (correct answer)",
+        "x - 7y",
+        "3x + 7y",
+        "3x - 7y"
+      ],
+      "hints": [
+        "Combine the like terms for x: 2x - x = 1x",
+        "Combine the like terms for y: 3y + 4y = 7y",
+        "The simplified expression is: x + 7y"
+      ]
+    },
+    {
+      "question": "Combine like terms in the expression: 5a - 3b + 2a + b",
+      "options": [
+        "7a - 2b (correct answer)",
+        "7a + 2b",
+        "3a - 2b",
+        "3a + 2b"
+      ],
+      "hints": [
+        "Combine the like terms for a: 5a + 2a = 7a",
+        "Combine the like terms for b: -3b + b = -2b",
+        "The simplified expression is: 7a - 2b"
+      ]
+    },
+    {
+      "question": "Combine like terms in the expression: -4x + 6y - 3x - 2y",
+      "options": [
+        "-7x + 4y (correct answer)",
+        "-7x - 4y",
+        "x + 4y",
+        "x - 4y"
+      ],
+      "hints": [
+        "Combine the like terms for x: -4x - 3x = -7x",
+        "Combine the like terms for y: 6y - 2y = 4y",
+        "The simplified expression is: -7x + 4y"
+      ]
+    },
+    {
+      "question": "Combine like terms in the expression: 7z - 5z + 3z",
+      "options": [
+        "z",
+        "2z",
+        "9z",
+        "5z (correct answer)"
+      ],
+      "hints": [
+        "Combine the like terms for z: 7z - 5z + 3z = 2z + 3z = 5z",
+        "The simplified expression is: 5z"
+      ]
+    },
+    {
+      "question": "Simplify the expression: 8 + 2(3 + 4)",
+      "options": [
+        "22 (correct answer)",
+        "28",
+        "14",
+        "18"
+      ],
+      "hints": [
+        "First, solve the expression inside the parenthesis: 3 + 4 = 7",
+        "Now, multiply the result by 2: 2 * 7 = 14",
+        "Finally, add 8 to the result: 8 + 14 = 22"
+      ]
+    },
+    {
+      "question": "Simplify the expression: (9 - 5) * 4 + 6",
+      "options": [
+        "22",
+        "16",
+        "18",
+        "22 (correct answer)"
+      ],
+      "hints": [
+        "First, solve the expression inside the parenthesis: 9 - 5 = 4",
+        "Now, multiply the result by 4: 4 * 4 = 16",
+        "Finally, add 6 to the result: 16 + 6 = 22"
+      ]
+    },
+    {
+      "question": "Simplify the expression: 3(2x + 5) - x",
+      "options": [
+        "5x + 15 (correct answer)",
+        "6x + 15",
+        "5x - 15",
+        "6x - 15"
+      ],
+      "hints": [
+        "First, distribute the 3 to both 2x and 5 inside the parenthesis: 3(2x + 5) = 6x + 15",
+        "Now, subtract x from the simplified expression: 6x + 15 - x = 6x - x + 15 = 5x + 15"
+      ]
+    },
+    {
+      "question": "Simplify the expression: (12 - 4) / 4 + 3",
+      "options": [
+        "5 (correct answer)",
+        "6",
+        "7",
+        "8"
+      ],
+      "hints": [
+        "First, solve the expression inside the parenthesis:12 - 4 = 8",
+        "Now, divide the result by 4: 8 / 4 = 2",
+        "Finally, add 3 to the result: 2 + 3 = 5"
+      ]
+    },
+    {
+      "question": "Simplify the expression using the distributive property: 3(x + 4)",
+      "options": [
+        "3x + 4",
+        "3x + 12 (correct answer)",
+        "x + 7",
+        "x + 12"
+      ],
+      "hints": [
+        "Apply the distributive property by multiplying 3 by both terms inside the parenthesis:",
+        "3(x + 4) = 3 * x + 3 * 4",
+        "This simplifies to: 3x + 12"
+      ]
+    },
+    {
+      "question": "Simplify the expression using the distributive property: 2(5y - 3)",
+      "options": [
+        "10y - 6 (correct answer)",
+        "10y + 6",
+        "7y - 6",
+        "7y + 6"
+      ],
+      "hints": [
+        "Apply the distributive property by multiplying 2 by both terms inside the parenthesis:",
+        "2(5y - 3) = 2 * 5y - 2 * 3",
+        "This simplifies to: 10y - 6"
+      ]
+    },
+    {
+      "question": "Simplify the expression using the distributive property: 4(3x - 2y)",
+      "options": [
+        "12x - 8y (correct answer)",
+        "12x + 8y",
+        "7x - 2y",
+        "7x + 2y"
+      ],
+      "hints": [
+        "Apply the distributive property by multiplying 4 by both terms inside the parenthesis:",
+        "4(3x - 2y) = 4 * 3x - 4 * 2y",
+        "This simplifies to: 12x - 8y"
+      ]
+    },
+    {
+      "question": "Simplify the expression using the distributive property: -3(z + 5)",
+      "options": [
+        "-3z - 15 (correct answer)",
+        "-3z + 15",
+        "-3z - 5",
+        "3z + 15"
+      ],
+      "hints": [
+        "Apply the distributive property by multiplying -3 by both terms inside the parenthesis:",
+        "-3(z + 5) = -3 * z + (-3) * 5",
+        "This simplifies to: -3z - 15"
+      ]
+    },
+    {
+      "question": "Which expression demonstrates the commutative property of addition?",
+      "options": [
+        "x + y = y + x (correct answer)",
+        "x * y = y / x",
+        "x - y = y - x",
+        "x / y = y * x"
+      ],
+      "hints": [
+        "The commutative property of addition states that:",
+        "The order of the numbers being added does not affect the sum.",
+        "In this case, x + y = y + x demonstrates the commutative property of addition."
+      ]
+    },
+    {
+      "question": "Which expression demonstrates the commutative property of multiplication?",
+      "options": [
+        "a * b = b * a (correct answer)",
+        "a + b = b - a",
+        "a - b = b / a",
+        "a / b = b + a"
+      ],
+      "hints": [
+        "The commutative property of multiplication states that:",
+        "The order of the numbers being multiplied does not affect the product.",
+        "In this case, a * b = b * a demonstrates the commutative property of multiplication."
+      ]
+    },
+    {
+      "question": "Which equation is an example of the commutative property of addition with numbers?",
+      "options": [
+        "6 + 3 = 3 + 6 (correct answer)",
+        "6 - 3 = 3 - 6",
+        "6 * 3 = 3 / 6",
+        "6 / 3 = 3 * 6"
+      ],
+      "hints": [
+        "The commutative property of addition states that:",
+        "The order of the numbers being added does not affect the sum.",
+        "In this case, 6 + 3 = 3 + 6 demonstrates the commutative property of addition with numbers."
+      ]
+    },
+    {
+      "question": "Which equation is an example of the commutative property of multiplication with numbers?",
+      "options": [
+        "4 * 7 = 7 * 4 (correct answer)",
+        "4 + 7 = 7 - 4",
+        "4 - 7 = 7 / 4",
+        "4 / 7 = 7 + 4"
+      ],
+      "hints": [
+        "The commutative property of multiplication states that:",
+        "The order of the numbers being multiplied does not affect the product.",
+        "In this case, 4 * 7 = 7 * 4 demonstrates the commutative property of multiplication with numbers."
+      ]
+    },
+    {
+      "question": "Which expression demonstrates the associative property of addition?",
+      "options": [
+        "(x + y) + z = x + (y + z) (correct answer)",
+        "x * (y + z) = (x * y) / z",
+        "(x - y) - z = x - (y - z)",
+        "x / (y + z) = (x / y) * z"
+      ],
+      "hints": [
+        "The associative property of addition states that:",
+        "The grouping of numbers being added does not affect the sum.",
+        "In this case, (x + y) + z = x + (y + z) demonstrates the associative property of addition."
+      ]
+    },
+    {
+      "question": "Which expression demonstrates the associative property of multiplication?",
+      "options": [
+        "(a * * c = a * (b * (correct answer)",
+        "a + (b * = (a + - c",
+        "(a - / c = a - (b / c)",
+        "a / (b * = (a / + c"
+      ],
+      "hints": [
+        "The associative property of multiplication states that:",
+        "The grouping of numbers being multiplied does not affect the product.",
+        "In this case, (a * * c = a * (b * demonstrates the associative property of multiplication."
+      ]
+    },
+    {
+      "question": "Which equation is an example of the associative property of addition with numbers?",
+      "options": [
+        "(2 + 3) + 4 = 2 + (3 + 4) (correct answer)",
+        "(2 - 3) - 4 = 2 - (3 - 4)",
+        "(2 * 3) / 4 = 2 * (3 / 4)",
+        "2 / (3 * 4) = (2 / 3) + 4"
+      ],
+      "hints": [
+        "The associative property of addition states that:",
+        "The grouping of numbers being added does not affect the sum.",
+        "In this case, (2 + 3) + 4 = 2 + (3 + 4) demonstrates the associative property of addition with numbers."
+      ]
+    },
+    {
+      "question": "Which equation is an example of the associative property of multiplication with numbers?",
+      "options": [
+        "(5 * 6) * 7 = 5 * (6 * 7) (correct answer)",
+        "5 + (6 * 7) = (5 + 6) - 7",
+        "(5 - 6) / 7 = 5 - (6 / 7)",
+        "5 / (6 * 7) = (5 / 6) + 7"
+      ],
+      "hints": [
+        "The associative property of multiplication states that:",
+        "The grouping of numbers being multiplied does not affect the product.",
+        "In this case, (5 * 6) * 7 = 5 * (6 * 7) demonstrates the associative property of multiplication with numbers."
+      ]
+    },
+    {
+      "question": "If x = 3 and y = 2, what is the value of x + y?",
+      "options": [
+        "3",
+        "5 (correct answer)",
+        "6",
+        "9"
+      ],
+      "hints": [
+        "Substitute the given values of x and y into the equation x + y: x + y = 3 + 2",
+        "The sum is 5."
+      ]
+    },
+    {
+      "question": "If a = 4 and b = -1, what is the value of 2a - b?",
+      "options": [
+        "9 (correct answer)",
+        "6",
+        "3",
+        "-1"
+      ],
+      "hints": [
+        "Substitute the given values of a and b into the equation 2a - b: 2a - b = 2(4) - (-1)",
+        "Calculate the expression: 8 + 1 = 9"
+      ]
+    },
+    {
+      "question": "If x = 2 and y = 3, what is the value of 4x - 3y?",
+      "options": [
+        "-1 (correct answer)",
+        "1",
+        "-3",
+        "3"
+      ],
+      "hints": [
+        "Substitute the given values of x and y into the equation 4x - 3y: 4x - 3y = 4(2) - 3(3)",
+        "Calculate the expression: 8 - 9 = -1"
+      ]
+    },
+    {
+      "question": "If m = 5 and n = 2, what is the value of 3m + n?",
+      "options": [
+        "13",
+        "15",
+        "16",
+        "17 (correct answer)"
+      ],
+      "hints": [
+        "Substitute the given values of m and n into the equation 3m + n: 3m + n = 3(5) + 2",
+        "Calculate the expression: 15 + 2 = 17"
+      ]
+    },
+    {
+      "question": "Solve the following system of equations using the elimination method:",
+      "options": [
+        "x + y = 5",
+        "x - y = 1",
+        "x = 3, y = 2 (correct answer)",
+        "x = 2, y = 3",
+        "x = 4, y = 1",
+        "x = 1, y = 4"
+      ],
+      "hints": [
+        "Add the two equations to eliminate y: (x + y) + (x - y) = 5 + 1",
+        "2x = 6",
+        "Now, divide by 2: x = 3",
+        "Substitute x back into either equation to find y: 3 + y = 5",
+        "y = 2"
+      ]
+    },
+    {
+      "question": "Solve the following system of equations using the elimination method:",
+      "options": [
+        "2x + y = 9",
+        "x + y = 5",
+        "x = 1, y = 4",
+        "x = 2, y = 3",
+        "x = 4, y = 1 (correct answer)",
+        "x = 3, y = 2"
+      ],
+      "hints": [
+        "Subtract the second equation from the first equation to eliminate y: (2x + y) - (x + y) = 9 - 5",
+        "x = 4",
+        "Substitute x back into either equation to find y: 4 + y = 5",
+        "y = 1"
+      ]
+    },
+    {
+      "question": "Solve the following system of equations using the elimination method:",
+      "options": [
+        "3x - 2y = 6",
+        "6x - 4y = 12",
+        "x = 2, y = -1",
+        "No unique solution (correct answer)",
+        "x = 3, y = 1",
+        "x = 1, y = 2"
+      ],
+      "hints": [
+        "Notice that the second equation is a multiple of the first equation: 6x - 4y = 2(3x - 2y) = 2(6)",
+        "Since the two equations are proportional, there is no unique solution."
+      ]
+    },
+    {
+      "question": "Solve the following system of equations using the elimination method:",
+      "options": [
+        "4x - 3y = 16",
+        "2x + 3y = 10",
+        "x = 13/3, y = 4/9 (correct answer)",
+        "x = 1/2, y = 1/3",
+        "x = 4, y = 1",
+        "x = 1, y = 4"
+      ],
+      "hints": [
+        "Add the two equations to eliminate y: (4x - 3y) + (2x + 3y) = 16 + 10",
+        "6x = 26",
+        "Now, divide by 6: x = 26 / 6 = 13 / 3",
+        "Substitute x back into either equation to find y: 2(13 / 3) + 3y = 10",
+        "Multiply both sides by 3 to eliminate the fraction: 26 + 9y = 30",
+        "Subtract 26 from both sides: 9y = 4",
+        "Now, divide by 9: y = 4 / 9"
+      ]
+    },
+    {
+      "question": "Factor the quadratic expression: x^2 - 5x + 6",
+      "options": [
+        "(x - 2)(x - 3) (correct answer)",
+        "(x - 1)(x - 6)",
+        "(x + 2)(x + 3)",
+        "(x + 1)(x + 6)"
+      ],
+      "hints": [
+        "Find two numbers whose product is equal to the constant term (6)",
+        "And whose sum is equal to the coefficient of the x term (-5)",
+        "(-2) * (-3) = 6",
+        "(-2) + (-3) = -5",
+        "Thus, the factored form is (x - 2)(x - 3)."
+      ]
+    },
+    {
+      "question": "Factor the quadratic expression: x^2 - x - 6",
+      "options": [
+        "(x - 3)(x + 2) (correct answer)",
+        "(x + 3)(x - 2)",
+        "(x + 1)(x + 6)",
+        "(x - 1)(x - 6)"
+      ],
+      "hints": [
+        "Find two numbers whose product is equal to the constant term (-6)",
+        "And whose sum is equal to the coefficient of the x term (-1)",
+        "(-3) * (2) = -6",
+        "(-3) + (2) = -1",
+        "Thus, the factored form is (x - 3)(x + 2)."
+      ]
+    },
+    {
+      "question": "Factor the quadratic expression: x^2 + 7x + 10",
+      "options": [
+        "(x + 2)(x + 5) (correct answer)",
+        "(x + 3)(x + 4)",
+        "(x - 2)(x - 5)",
+        "(x - 3)(x - 4)"
+      ],
+      "hints": [
+        "Find two numbers whose product is equal to the constant term (10)",
+        "And whose sum is equal to the coefficient of the x term (7)",
+        "(2) * (5) = 10",
+        "(2) + (5) = 7",
+        "Thus, the factored form is (x + 2)(x + 5)."
+      ]
+    },
+    {
+      "question": "Factor the quadratic expression: x^2 - 6x + 8",
+      "options": [
+        "(x - 2)(x - 4) (correct answer)",
+        "(x + 2)(x + 4)",
+        "(x - 1)(x - 8)",
+        "(x + 1)(x + 8)"
+      ],
+      "hints": [
+        "Find two numbers whose product is equal to the constant term (8)",
+        "And whose sum is equal to the coefficient of the x term (-6)",
+        "(-2) * (-4) = 8",
+        "(-2) + (-4) = -6",
+        "Thus, the factored form is (x - 2)(x - 4)."
+      ]
+    },
+    {
+      "question": "Solve the quadratic equation: x^2 - 4x + 3 = 0",
+      "options": [
+        "x = 1, x = 3 (correct answer)",
+        "x = 2, x = 4",
+        "x = -1, x = -3",
+        "x = -2, x = -4"
+      ],
+      "hints": [
+        "Factor the quadratic equation: x^2 - 4x + 3 = (x - 1)(x - 3)",
+        "Set each factor equal to zero and solve for x.",
+        "x - 1 = 0 => x = 1",
+        "x - 3 = 0 => x = 3"
+      ]
+    },
+    {
+      "question": "Solve the quadratic equation: x^2 + 6x + 8 = 0",
+      "options": [
+        "x = -2, x = -4 (correct answer)",
+        "x = 2, x = 4",
+        "x = -1, x = -8",
+        "x = 1, x = 8"
+      ],
+      "hints": [
+        "Factor the quadratic equation: x^2 + 6x + 8 = (x + 2)(x + 4)",
+        "Set each factor equal to zero and solve for x.",
+        "x + 2 = 0 => x = -2",
+        "x + 4 = 0 => x = -4"
+      ]
+    },
+    {
+      "question": "Solve the quadratic equation: x^2 - 2x - 15 = 0",
+      "options": [
+        "x = 3, x = -5",
+        "x = 5, x = -3 (correct answer)",
+        "x = -3, x = 5",
+        "x = 3, x = 5"
+      ],
+      "hints": [
+        "Factor the quadratic equation: x^2 - 2x - 15 = (x + 3)(x - 5)",
+        "Set each factor equal to zero and solve for x.",
+        "x + 3 = 0 => x = -3",
+        "x - 5 = 0 => x = 5"
+      ]
+    },
+    {
+      "question": "Solve the quadratic equation: x^2 - x - 6 = 0",
+      "options": [
+        "x = -2, x = 3 (correct answer)",
+        "x = 2, x = 3",
+        "x = -2, x = -3",
+        "x = 2, x = -3"
+      ],
+      "hints": [
+        "Factor the quadratic equation: x^2 - x - 6 = (x - 3)(x + 2)",
+        "Set each factor equal to zero and solve for x.",
+        "x - 3 = 0 => x = 3",
+        "x + 2 = 0 => x = -2"
+      ]
+    },
+    {
+      "question": "Solve the equation: x^2 = 16",
+      "options": [
+        "x = 2, x = -2",
+        "x = 4, x = -4 (correct answer)",
+        "x = 8, x = -8",
+        "x = 3, x = -3"
+      ],
+      "hints": [
+        "Find the square root of both sides of the equation: \u221a(x^2) = \u221a16",
+        "This gives us: x = \u00b14"
+      ]
+    },
+    {
+      "question": "Solve the equation: 2^x = 8",
+      "options": [
+        "x = 2",
+        "x = 3 (correct answer)",
+        "x = 4",
+        "x = 5"
+      ],
+      "hints": [
+        "We know that 2^3 = 8",
+        "So: 2^x = 2^3 => x = 3"
+      ]
+    },
+    {
+      "question": "Solve the equation: 3^(x + 1) = 81",
+      "options": [
+        "x = 1",
+        "x = 2",
+        "x = 3 (correct answer)",
+        "x = 4"
+      ],
+      "hints": [
+        "We know that 3^4 = 81",
+        "So: 3^(x + 1) = 3^4 => x + 1 = 4",
+        "Now, solve for x: x = 4 - 1 => x = 3"
+      ]
+    },
+    {
+      "question": "Solve the equation: x^3 = 27",
+      "options": [
+        "x = 2",
+        "x = 3 (correct answer)",
+        "x = 4",
+        "x = 5"
+      ],
+      "hints": [
+        "Find the cube root of both sides of the equation: \u221b(x^3) = \u221b27",
+        "We know that cube of 3 is 27: 3^3 = 27",
+        "So,\u221b(x^3) = \u221b(3^3)",
+        "This gives us: x = 3"
+      ]
+    },
+    {
+      "question": "What operation should we perform to solve the equation x^3 = 27?",
+      "options": [
+        "Square root",
+        "Cube root (correct answer)",
+        "Exponent of 2",
+        "Exponent of 3"
+      ],
+      "hints": [
+        "Since the equation involves x raised to the power of 3 (x^3)",
+        "We need to apply the cube root to both sides of the equation in order to solve for x."
+      ]
+    },
+    {
+      "question": "What is the cube root of 27?",
+      "options": [
+        "2",
+        "3 (correct answer)",
+        "4",
+        "5"
+      ],
+      "hints": [
+        "The cube root of 27 is the number that, when multiplied by itself three times, equals 27.",
+        "Since 3 * 3 * 3 = 27: \u221b27 = 3"
+      ]
+    },
+    {
+      "question": "Given the equation x^3 = 27, what is the value of x?",
+      "options": [
+        "2",
+        "3 (correct answer)",
+        "4",
+        "5"
+      ],
+      "hints": [
+        "We need to apply the cube root to both sides of the equation: \u221b(x^3) = \u221b27",
+        "And we know that the cube root of 27 is 3.",
+        "This gives us: x = 3"
+      ]
+    },
+    {
+      "question": "Which of the following is the correct definition of a radical in mathematics?",
+      "options": [
+        "A symbol used to represent an irrational number.",
+        "The process of finding the root of a number. (Correct answer)",
+        "The result of dividing one number by another.",
+        "A mathematical operation that involves the addition of two or more numbers."
+      ],
+      "hints": [
+        "A radical in mathematics is a symbol that indicates the root of a number or expression."
+      ]
+    },
+    {
+      "question": "Which of the following is equal to the square root of 81?",
+      "options": [
+        "3",
+        "9 (Correct answer)",
+        "27",
+        "81"
+      ],
+      "hints": [
+        "We can simplify this expression by finding the factors of 81: 81 = 9 x 9",
+        "So we can rewrite the expression as: \u221a(9 x 9)",
+        "And we know that the square root of a product is the product of the square roots",
+        "So we can write: \u221a(9 x 9) = \u221a9 x \u221a9",
+        "Simplifying the square root of 9 gives us: \u221a(9 x 9) = 3 x 3=9"
+      ]
+    },
+    {
+      "question": "What is the cube root of 27?",
+      "options": [
+        "9",
+        "6",
+        "4",
+        "3 (Correct answer)"
+      ],
+      "hints": [
+        "We can simplify this expression by finding the factors of 27: 27 = 3 x 3 x 3=3^3",
+        "Simplifying the cube root of 3 gives us: \u221b(3 ^3) = 3"
+      ]
+    },
+    {
+      "question": "Which of the following expressions is equivalent to the square root of 16?",
+      "options": [
+        "2^3",
+        "2^2",
+        "4 (Correct answer)",
+        "8"
+      ],
+      "hints": [
+        "We can simplify this expression by finding the factors of 16: 16 = 4x 4",
+        "So we can rewrite the expression as: \u221a(4 x 4)",
+        "And we know that the square root of a product is the product of the square roots",
+        "So we can write: \u221a(4 x 4) = \u221a4 x \u221a4",
+        "Simplifying the square root of 16 gives us: \u221a(4 x 4) = 2 x 2=4"
+      ]
+    },
+    {
+      "question": "What is the simplified form of the expression \u221a(25 * 9)?",
+      "options": [
+        "\u221a(225)",
+        "3\u221a25",
+        "15 (Correct answer)",
+        "45"
+      ],
+      "hints": [
+        "We can begin by simplifying the product inside the square root: 25 * 9 = 225=15 x 15",
+        "So we can rewrite the original expression as: \u221a(15 x 15) = \u221a(15 ^2) = 15"
+      ]
+    },
+    {
+      "question": "Which of the following radical expressions is equivalent to the fourth root of 16?",
+      "options": [
+        "\u221a16",
+        "16^(1/4) (Correct answer)",
+        "4\u221a16",
+        "16^(1/2)"
+      ],
+      "hints": [
+        "The fourth root of 16 is equivalent to the number that, when raised to the fourth power, gives 16.",
+        "We can express the fourth root of 16 as a fractional exponent",
+        "With a numerator of 1 and a denominator of 4:16^(1/4)"
+      ]
+    },
+    {
+      "question": "Which of the following is an example of a rational expression?",
+      "options": [
+        "(x^2 + 3x + 2) / (x + 1) (Correct answer)",
+        "sin(x)",
+        "e^x",
+        "\u221ax"
+      ],
+      "hints": [
+        "Rational expression can be written as a ratio of two polynomial functions",
+        "Where the denominator is not equal to zero."
+      ]
+    },
+    {
+      "question": "What is the excluded value for the rational expression (3x + 6) / (x - 2)?",
+      "options": [
+        "x = 2 (Correct answer)",
+        "x = -2",
+        "x = 3",
+        "x = 0"
+      ],
+      "hints": [
+        "To find the excluded value, we can set the denominator equal to zero and solve for x: x - 2 = 0",
+        "x = 2"
+      ]
+    },
+    {
+      "question": "What is the simplified form of the rational expression (4x^2 - 9) / (2x + 3)?",
+      "options": [
+        "2x - 3 (Correct answer)",
+        "2x + 3",
+        "x^2 + 3x",
+        "4x^2 - 9"
+      ],
+      "hints": [
+        "The numerator can be factored using the difference of squares formula:",
+        "4x^2 - 9 = (2x)^2 - 3^2 = (2x + 3)(2x - 3)",
+        "Substituting the factored forms, we have:",
+        "(4x^2 - 9) / (2x + 3) = [(2x + 3)(2x - 3)] / (2x + 3)",
+        "The (2x + 3) term in the numerator and denominator can be canceled out",
+        "Leaving: (4x^2 - 9) / (2x + 3) = 2x - 3"
+      ]
+    },
+    {
+      "question": "Which of the following is the result of adding the rational expressions (x + 2) / (x^2 - 1) and (x - 2) / (x+1)?",
+      "options": [
+        "(2x) / (x^2 - 1)",
+        "(2x) / (x^2 - 5x + 4)",
+        "1 / (x^2 - 4x + 4)",
+        "(x^2 - 2x + 4)/(x^2 - 1) (Correct answer)"
+      ],
+      "hints": [
+        "To add the given rational expressions, we need to find a common denominator.",
+        "Notice that the first denominator, x^2 - 1, can be factored as (x + 1)(x - 1)",
+        "while the second denominator, x + 1, is already in factored form.",
+        "Therefore, the common denominator is (x + 1)(x - 1).",
+        "We can write: (x + 2)/(x^2 - 1) + (x - 2)/(x + 1) = (x + 2)/((x + 1)(x - 1)) + (x - 2)/(x + 1)",
+        "To add the fractions, we first need to find the equivalent forms with the common denominator:",
+        "(x + 2)/(x + 1)(x - 1) + (x - 2)(x - 1)/(x + 1)(x - 1) = (x + 2) + (x - 2)(x - 1))/(x + 1)(x - 1)",
+        "Simplifying the numerator gives:",
+        "x + 2 + (x - 2)(x - 1) = x + 2 + (x^2 - 3x + 2) = x^2 - 2x + 4",
+        "Therefore, the final expression is:",
+        "(x + 2)/(x^2 - 1) + (x - 2)/(x + 1) = (x^2 - 2x + 4)/(x^2 - 1)"
+      ]
+    },
+    {
+      "question": "What is the result of multiplying the rational expressions (3x - 6) / (x + 2) and (x^2 - 4) / (3x)?",
+      "options": [
+        "(x - 2)^2 / x (Correct answer)",
+        "(x + 2) / x",
+        "(x^2 - 4) / (x + 2)",
+        "(3x - 6) / (x^2 - 4)"
+      ],
+      "hints": [
+        "Simplify the first expression (3x - 6) / (x + 2) to 3(x - 2) / (x + 2) by factoring out 3 from the numerator.",
+        "Simplify the second expression (x^2 - 4) / (3x) to [(x + 2)(x - 2)] / (3x) by factoring the numerator.",
+        "Multiply the simplified expressions: (3(x - 2)) / (x + 2) * [(x + 2)(x - 2)] / (3x)",
+        "Cancel the (x + 2) terms in the numerator and denominator: 3(x - 2) * (x - 2) / (3x)",
+        "Simplify: (x - 2)^2 / x"
+      ]
+    },
+    {
+      "question": "Which of the following equations represents a linear function?",
+      "options": [
+        "y = 2x + 5 (Correct answer)",
+        "y = x^2 + 3x + 2",
+        "y = 3x^3 - 4x",
+        "y = 2^x"
+      ],
+      "hints": [
+        "A linear function has a graph that is a straight line and can be written in the form y = mx + b",
+        "Where m is the slope of the line and b is the y-intercept."
+      ]
+    },
+    {
+      "question": "What is the slope of the linear function y = 3x - 7?",
+      "options": [
+        "3 (Correct answer)",
+        "-3",
+        "-7",
+        "7"
+      ],
+      "hints": [
+        "In general, the slope of a linear function in the form y = mx + b is equal to the coefficient of x"
+      ]
+    },
+    {
+      "question": "Which of the following is the correct equation for the linear function with slope 4 and y-intercept (0, 2)?",
+      "options": [
+        "y = 4x + 2 (Correct answer)",
+        "y = 4x - 2",
+        "y = 2x + 4",
+        "y = 2x - 4"
+      ],
+      "hints": [
+        "In general, the equation of a linear function can be written in the form y = mx + b",
+        "Where m is the slope of the line and b is the y-intercept.",
+        "In this case, the slope of the line is given as 4, and the y-intercept is given as (0, 2)",
+        "Which means that the line passes through the point (0, 2) on the y-axis.",
+        "Substituting these values into the equation y = mx + b gives y = 4x + 2 as the equation of the line."
+      ]
+    },
+    {
+      "question": "Given the two points (1, 3) and (4, 9), what is the slope of the linear function that passes through these points?",
+      "options": [
+        "2 (Correct answer)",
+        "3",
+        "4",
+        "6"
+      ],
+      "hints": [
+        "slope = (y2 - y1) / (x2 - x1)",
+        "Where (x1, y1) = (1, 3) and (x2, y2) = (4, 9)",
+        "Slope = (9 - 3) / (4 - 1) = 6 / 3 = 2"
+      ]
+    },
+    {
+      "question": "What is the x-intercept of the linear function y = -3x + 6?",
+      "options": [
+        "x = -3",
+        "x = -2",
+        "x = 0",
+        "x = 2 (Correct answer)"
+      ],
+      "hints": [
+        "To find the x-intercept of a linear function, we set y = 0 and solve for x.",
+        "So, in this case, we have: 0 = -3x + 6",
+        "Adding 3x to both sides, we get: 3x = 6",
+        "Dividing both sides by 3, we get: x = 2"
+      ]
+    },
+    {
+      "question": "What is the slope of a horizontal line?",
+      "options": [
+        "0 (Correct answer)",
+        "1",
+        "Undefined",
+        "-1"
+      ],
+      "hints": [
+        "The slope of a horizontal line is 0 because the numerator of the slope formula becomes zero"
+      ]
+    },
+    {
+      "question": "What is the slope of a vertical line?",
+      "options": [
+        "0",
+        "1",
+        "Undefined (Correct answer)",
+        "-1"
+      ],
+      "hints": [
+        "The slope of a vertical line is undefined because the denominator of the slope formula becomes zero"
+      ]
+    },
+    {
+      "question": "Given the two points (2, 4) and (5, 7), what is the slope (m) of the line that passes through these points?",
+      "options": [
+        "1 (Correct answer)",
+        "2",
+        "3",
+        "4"
+      ],
+      "hints": [
+        "slope = (y2 - y1) / (x2 - x1)",
+        "Where (x1, y1) = (2, 4) and (x2, y2) = (5, 7)",
+        "Slope = (7 - 4) / (5 - 2) = 3 / 3 = 1"
+      ]
+    },
+    {
+      "question": "If the slope of a line is 3 and it passes through the point (1, 2), what is the equation of the line in slope-intercept form (y = mx + b)?",
+      "options": [
+        "y = 3x - 1 (Correct answer)",
+        "y = 3x + 1",
+        "y = 3x - 2",
+        "y = 3x + 2"
+      ],
+      "hints": [
+        "Using the slope-intercept form of a linear equation, y = mx + b",
+        "Where m is the slope and b is the y-intercept",
+        "We can plug in the given slope m = 3 and the coordinates of the point (1, 2) to get:",
+        "2 = 3(1) + b",
+        "Solving for b, we get: b = -1",
+        "Therefore, the equation of the line in slope-intercept form is: y = 3x - 1"
+      ]
+    },
+    {
+      "question": "What is the relationship between the slopes of two perpendicular lines?",
+      "options": [
+        "They are equal.",
+        "They are negative reciprocals of each other. (Correct answer)",
+        "They are positive reciprocals of each other.",
+        "They add up to zero."
+      ],
+      "hints": [
+        "To find the relationship between the slopes of two perpendicular lines",
+        "Recall that the product of their slopes is equal to -1."
+      ]
+    },
+    {
+      "question": "What is the y-intercept of the linear equation y = 2x + 3?",
+      "options": [
+        "(0, 2)",
+        "(2, 0)",
+        "(0, 3) (Correct answer)",
+        "(3, 0)"
+      ],
+      "hints": [
+        "To find the y-intercept of a linear equation in the form y = mx + b",
+        "You can set x = 0 and solve for y.",
+        "In this case, when x = 0, we have y = 2(0) + 3 = 3."
+      ]
+    },
+    {
+      "question": "What is the y-intercept of the line that passes through the points (1, 4) and (2, 6)?",
+      "options": [
+        "(0, 2) (Correct answer)",
+        "(0, 3)",
+        "(0, 4)",
+        "(0, 6)"
+      ],
+      "hints": [
+        "Using the two points (1, 4) and (2, 6), we can find the slope of the line: (6 - 4) / (2 - 1) = 2",
+        "Next, we can use the point-slope form of the equation of a line to find the equation of the line:",
+        "y - y1 = m(x - x1)",
+        "Where m is the slope and (x1, y1) is one of the given points. Let's use the point (1, 4):",
+        "y - 4 = 2(x - 1)",
+        "Simplifying this equation, we get: y = 2x + 2",
+        "Now we can set x to zero and solve for y to find the y-intercept:",
+        "y = 2(0) + 2 = 2"
+      ]
+    },
+    {
+      "question": "Given the equation 3x - 2y = 6, what is the y-intercept when the equation is written in slope-intercept form (y = mx + b)?",
+      "options": [
+        "(0, -3) (Correct answer)",
+        "(0, 3)",
+        "(0, 2)",
+        "(0, -2)"
+      ],
+      "hints": [
+        "To write the equation in slope-intercept form, we need to isolate y: 3x - 2y = 6",
+        "First, we can subtract 3x from both sides: -2y = -3x + 6",
+        "Next, we can divide both sides by -2: y = (3/2)x - 3",
+        "So the slope of the line is 3/2, and the y-intercept is (0, -3)"
+      ]
+    },
+    {
+      "question": "If a linear equation has a slope of 4 and a y-intercept of (0, -5), what is the equation of the line in slope-intercept form (y = mx + b)?",
+      "options": [
+        "y = 4x - 5 (Correct answer)",
+        "y = -4x - 5",
+        "y = 4x + 5",
+        "y = -4x + 5"
+      ],
+      "hints": [
+        "The slope-intercept form of a linear equation is y = mx + b, where m is the slope and b is the y-intercept. ^^So if the slope is 4 and the y-intercept is (0, -5), then the equation is y = 4x - 5."
+      ]
+    },
+    {
+      "question": "Which of the following steps is necessary to graph the linear equation y = -2x + 4?",
+      "options": [
+        "Plot the y-intercept (0, 4) on the graph. (Correct answer)",
+        "Plot the x-intercept (0, -2) on the graph.",
+        "Find the slope of the vertical line.",
+        "Calculate the area under the curve."
+      ],
+      "hints": [
+        "To graph the linear equation y = -2x + 4, you need to plot the y-intercept (0, 4) on the graph",
+        "And then use the slope of -2 to find other points on the line."
+      ]
+    },
+    {
+      "question": "What is the y-intercept of the linear equation 4x - y = 8?",
+      "options": [
+        "(0, -8) (Correct answer)",
+        "(0, 8)",
+        "(2, 0)",
+        "(-2, 0)"
+      ],
+      "hints": [
+        "To find the y-intercept of the given linear equation 4x - y = 8",
+        "We need to determine the value of y when x equals 0.",
+        "So, we substitute x = 0 in the equation 4x - y = 8 and solve for y: 4(0) - y = 8",
+        "0 - y = 8",
+        "y = -8"
+      ]
+    },
+    {
+      "question": "Given the equation y = -3x + 5, what is the y-intercept?",
+      "options": [
+        "-3",
+        "3",
+        "5  (Correct answer)",
+        "-5"
+      ],
+      "hints": [
+        "The equation y = -3x + 5 is in slope-intercept form, y = mx + b",
+        "Where m is the slope and b is the y-intercept.",
+        "From the equation, we can see that the y-intercept is 5."
+      ]
+    },
+    {
+      "question": "Which of the following equations has a y-intercept of (0, -4) and a slope of 3?",
+      "options": [
+        "y = 3x - 4 (Correct answer)",
+        "y = -3x + 4",
+        "y = 4x + 4",
+        "y = -4x - 4"
+      ],
+      "hints": [
+        "To have a y-intercept of (0, -4), the equation must be in the form y = mx - 4, where m is the slope.",
+        "From the given options, only the equation y = 3x - 4 satisfies this condition."
+      ]
+    },
+    {
+      "question": "What is the y-intercept of the equation 5x + 10y = 20?",
+      "options": [
+        "(0, 2) (Correct answer)",
+        "(0, 4)",
+        "(2, 0)",
+        "(4, 0)"
+      ],
+      "hints": [
+        "To find the y-intercept of the given equation 5x + 10y = 20",
+        "We need to determine the value of y when x equals 0.",
+        "So, we substitute x = 0 in the equation 5x + 10y = 20 and solve for y: 5(0) + 10y = 20",
+        "10y = 20",
+        "y = 2"
+      ]
+    },
+    {
+      "question": "If a linear equation has a slope of -1/2 and passes through the point (4, -2), what is the y-intercept?",
+      "options": [
+        "(0, 0)  (Correct answer)",
+        "(0, 1)",
+        "(0, -3)",
+        "(0, 3)"
+      ],
+      "hints": [
+        "To find the y-intercept of the linear equation, we need to use the point-slope form of the equation:",
+        "y - y1 = m(x - x1)",
+        "Where m is the slope of the line and (x1, y1) is the given point.",
+        "Substituting the values we know, we get: y - (-2) = (-1/2)(x - 4)",
+        "y + 2 = (-1/2)x + 2",
+        "y = (-1/2)x + 0"
+      ]
+    },
+    {
+      "question": "When graphing the linear equation y = -x + 3, what is the slope and the y-intercept?",
+      "options": [
+        "Slope: -1, y-intercept: (0, 3) (Correct answer)",
+        "Slope: 1, y-intercept: (0, -3)",
+        "Slope: 3, y-intercept: (0, -1)",
+        "Slope: -3, y-intercept: (0, 1)"
+      ],
+      "hints": [
+        "The slope-intercept form of a linear equation is y = mx + b, where m is the slope and b is the y-intercept.",
+        "For the equation y = -x + 3, the slope is -1 and the y-intercept is 3.",
+        "Therefore, the graph of this line will intersect the y-axis at the point (0, 3), and it will have a slope of -1"
+      ]
+    },
+    {
+      "question": "What point should be plotted first when graphing the linear equation y = 2x - 4?",
+      "options": [
+        "The y-intercept, (0, -4) (Correct answer)",
+        "The x-intercept, (0, 2)",
+        "The point (2, -4)",
+        "The point (-4, 2)"
+      ],
+      "hints": [
+        "When graphing a linear equation in slope-intercept form (y = mx + b)",
+        "The y-intercept should always be plotted first."
+      ]
+    },
+    {
+      "question": "Which of the following is a point on the line y = 3x + 1?",
+      "options": [
+        "(2, 7) (Correct answer)",
+        "(1, 4)",
+        "(3, 10)",
+        "(0, 3)"
+      ],
+      "hints": [
+        "To verify this, we can substitute x = 2 into the equation and see if it satisfies the equation: y = 3x + 1",
+        "y = 3(2) + 1",
+        "y = 6 + 1",
+        "y = 7"
+      ]
+    },
+    {
+      "question": "Given the equation 6x - 3y = 12, what is the first step in graphing the line in slope-intercept form (y = mx + b)?",
+      "options": [
+        "Solve for y. (Correct answer)",
+        "Solve for x.",
+        "Find the midpoint.",
+        "Calculate the area under the curve."
+      ],
+      "hints": [
+        "When graphing a linear equation in slope-intercept form (y = mx + b)",
+        "The y-intercept should always be plotted first."
+      ]
+    },
+    {
+      "question": "When graphing the linear equation y = -1/2x + 5, which of the following points should be plotted after plotting the y-intercept?",
+      "options": [
+        "(1, 4.5) (Correct answer)",
+        "(2, 3)",
+        "(3, 6)",
+        "(4, 7)"
+      ],
+      "hints": [
+        "To find the closest option, we can plug in x = 1 into the equation to get y = 4.5."
+      ]
+    }
+  ]
+}

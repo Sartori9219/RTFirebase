@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "What if cleaning the kitchen was like having a superpower to defeat foodborne villains? \ud83e\uddb8",
+        "You're onto something! Proper sanitation helps keep bacteria and germs at bay, protecting us from foodborne illnesses! \ud83d\ude04"
+      ],
+      "options": [
+        "Food Safety and Sanitation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we could see bacteria with the naked eye. We'd be like, \"Not today, little germs!\" \ud83d\udeab",
+        "Haha, true! But we can still outsmart them by following proper handwashing, storage, and cooking techniques! \ud83e\uddfc"
+      ],
+      "options": [
+        "Food Safety and Sanitation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If food safety was a video game, what would be the ultimate boss battle? \ud83c\udfae",
+        "I'd say fighting cross-contamination! Mixing raw and cooked foods can lead to some serious foodborne foes! \ud83d\ude05"
+      ],
+      "options": [
+        "Food Safety and Sanitation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If knife skills were like a dance, what would be your signature move? \ud83d\udc83",
+        "I'd say the \"Julienne Jive\" \u2013 slicing veggies into thin, uniform matchsticks with precision and grace! \ud83e\udd55"
+      ],
+      "options": [
+        "Knife Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we had a superhero power to chop ingredients at lightning speed? \u26a1",
+        "That would be cool! But with practice and proper knife techniques, we can still become kitchen ninjas! \ud83e\udd77"
+      ],
+      "options": [
+        "Knife Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if our knives were like magic wands, transforming ingredients with a flick of the wrist! \u2728",
+        "It might not be magic, but mastering knife skills can definitely make our food prep more efficient and enjoyable! \ud83c\udf1f"
+      ],
+      "options": [
+        "Knife Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If cooking methods were like a band, which instrument would you play? \ud83c\udfb8",
+        "I'd choose the drums, representing the sizzle and rhythm of saut\u00e9ing! It's all about that high heat and quick moves. \ud83d\udd25"
+      ],
+      "options": [
+        "Cooking Methods (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we had a cooking superpower to instantly transform raw ingredients into delicious dishes? \ud83e\uddb8\u200d\u2642\ufe0f",
+        "That would be amazing! But mastering various cooking methods can help us create culinary masterpieces in no time! \ud83c\udf7d\ufe0f"
+      ],
+      "options": [
+        "Cooking Methods (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if our cooking methods were like different dance styles, each with its own unique flair! \ud83d\udc83",
+        "You're right! From the elegance of poaching to the high-energy flamenco of frying, each method brings its own charm to the table. \ud83d\udd7a"
+      ],
+      "options": [
+        "Cooking Methods (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If baking techniques were like a magical spell, what would be your incantation? \u2728",
+        "\"Whiskus Foldus!\" Mastering the art of mixing and folding ingredients to create perfectly fluffy and delicious baked goods! \ud83d\ude0b"
+      ],
+      "options": [
+        "Baking Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could bake treats by simply snapping our fingers, like a culinary genie? \ud83e\uddde\u200d\u2640\ufe0f",
+        "That would be fun! But learning different baking techniques can still make us feel like wizards in the kitchen! \ud83e\uddd9\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Baking Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if our baking techniques were like different dance moves, each adding its own flavor to the final performance! \ud83d\udc83",
+        "Absolutely! From the graceful waltz of creaming butter and sugar to the energetic tap dance of kneading dough, each technique has its own rhythm. \ud83d\udd7a"
+      ],
+      "options": [
+        "Baking Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If sauce making was like painting, what masterpiece would you create? \ud83c\udfa8",
+        "I'd paint the \"Mona Bechamel\" \u2013 a classic white sauce with a mysterious depth of flavor and velvety texture. \ud83d\ude01"
+      ],
+      "options": [
+        "Sauce Making (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could create magical sauces that granted us special powers? \u2728",
+        "That'd be awesome! But hey, mastering sauce making can still add some enchanting flavors to our culinary creations! \ud83e\uddd9\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Sauce Making (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if sauce making was like composing music, each ingredient playing its own note in harmony! \ud83c\udfb5",
+        "Absolutely! From tangy tomato to creamy alfredo, each sauce is like a symphony of flavors working together in perfect harmony. \ud83c\udfb6"
+      ],
+      "options": [
+        "Sauce Making (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If plating and presentation were like a fashion show, what style would your dishes wear? \ud83d\udc57",
+        "My dishes would strut down the runway in elegant, minimalist attire, making every ingredient shine like a star! \ud83c\udf1f"
+      ],
+      "options": [
+        "Plating and Presentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could plate our dishes using telekinesis, levitating ingredients onto the plate? \ud83e\udde0",
+        "That would be amazing! But with practice and creativity, we can still arrange our dishes like culinary magicians! \ud83c\udfa9"
+      ],
+      "options": [
+        "Plating and Presentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if plating and presentation were like choreographing a dance, each element moving in harmony! \ud83d\udc83",
+        "You're right! Balancing colors, textures, and shapes on the plate is like crafting a visually stunning performance. \ud83d\udd7a"
+      ],
+      "options": [
+        "Plating and Presentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If menu planning was like directing a movie, what kind of blockbuster would you create? \ud83c\udfac",
+        "I'd produce an epic culinary adventure, taking taste buds on a journey through different flavors, textures, and cuisines! \ud83c\udf7d\ufe0f"
+      ],
+      "options": [
+        "Menu Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could plan menus by simply dreaming up the perfect dishes while we sleep? \ud83d\ude34",
+        "That'd be so cool! But with some creativity and knowledge of ingredients, we can still craft dreamy menus while we're awake! \ud83d\ude04"
+      ],
+      "options": [
+        "Menu Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if menu planning was like composing a playlist, each dish a song that sets the mood for the meal! \ud83c\udfb5",
+        "Absolutely! Crafting a well-balanced menu is like creating the perfect soundtrack for a memorable dining experience. \ud83c\udfb6"
+      ],
+      "options": [
+        "Menu Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If nutrition was like a superhero team, which hero would you want on your side? \ud83d\udcaa",
+        "I'd choose Captain Vitamin, fighting for a balanced diet and helping me make healthier food choices! \ud83e\udd66"
+      ],
+      "options": [
+        "Nutrition and Dietary Considerations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we had magical forks that transformed any dish into a perfectly balanced and nutritious meal? \u2728",
+        "That would be amazing! But until then, we can still learn about nutrition and make smart choices when planning our meals. \ud83d\ude0a"
+      ],
+      "options": [
+        "Nutrition and Dietary Considerations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if nutrition and dietary considerations were like a puzzle, each piece fitting together to create a healthy lifestyle! \ud83e\udde9",
+        "You're right! Understanding nutrients, portion sizes, and dietary needs is key to solving the puzzle of a well-balanced diet. \ud83c\udf7d\ufe0f"
+      ],
+      "options": [
+        "Nutrition and Dietary Considerations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If recipe development was like a science experiment, what amazing concoction would you create? \u2697\ufe0f",
+        "I'd invent a flavor-packed fusion dish that defies the laws of culinary physics \u2013 a true taste explosion! \ud83d\udca5"
+      ],
+      "options": [
+        "Recipe Development and Scaling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could develop recipes by simply thinking of the perfect dish, and it magically appeared? \ud83e\uddde\u200d\u2642\ufe0f",
+        "That would be incredible! But experimenting with ingredients and techniques can still lead us to create our own culinary magic. \ud83c\udfa9"
+      ],
+      "options": [
+        "Recipe Development and Scaling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if recipe scaling was like a game of Tetris, fitting different quantities together to create the perfect meal! \ud83d\udd79\ufe0f",
+        "That's a fun way to think about it! Adjusting recipes for different servings is all about finding the right balance and proportions. \ud83c\udf7d\ufe0f"
+      ],
+      "options": [
+        "Recipe Development and Scaling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If food costing was like a treasure hunt, what would be your strategy for finding the best loot? \ud83c\udff4\u200d\u2620\ufe0f",
+        "I'd navigate the culinary seas by comparing prices, using seasonal ingredients, and maximizing the value of each ingredient! \ud83d\udcb0"
+      ],
+      "options": [
+        "Food Costing and Budgeting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could manage food budgets with a magical calculator that made everything affordable? \u2728",
+        "That would be amazing! But until then, we can still learn to plan cost-effective menus and shop smart to stay within our budget. \ud83d\ude0a"
+      ],
+      "options": [
+        "Food Costing and Budgeting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if food costing and budgeting were like a game show, where we compete to create the most delicious meal on a budget! \ud83d\udcfa",
+        "That's a great idea! It would put our skills to the test and teach us how to make the most of our culinary resources. \ud83c\udf7d\ufe0f"
+      ],
+      "options": [
+        "Food Costing and Budgeting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If kitchen organization was like a dance, what steps would you choreograph? \ud83d\udc83",
+        "I'd create the \"Mise en Place Mambo\" \u2013 a dance that keeps all ingredients and tools in perfect harmony for an efficient cooking performance! \ud83d\udd7a"
+      ],
+      "options": [
+        "Kitchen Organization and Time Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could control time in the kitchen, making meals appear instantly or slowing down the clock? \u23f0",
+        "That would be a dream come true! But learning good time management skills can still help us conquer the culinary race against the clock. \ud83c\udfc3\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Kitchen Organization and Time Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if kitchen organization was like a well-orchestrated symphony, each element playing its part in perfect harmony! \ud83c\udfb5",
+        "Absolutely! A well-organized kitchen sets the stage for a seamless and enjoyable cooking experience. \ud83c\udfb6"
+      ],
+      "options": [
+        "Kitchen Organization and Time Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that sushi from Japan is like an edible art form? \ud83c\udf63",
+        "Yeah! It's amazing how they combine raw fish, rice, and other ingredients into such beautiful and delicious creations. \ud83d\ude0b"
+      ],
+      "options": [
+        "International Cuisine (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried making Italian pasta from scratch last night. It was so much fun! \ud83c\udf5d",
+        "Homemade pasta is the best! You can really taste the love and effort put into it. \u2764\ufe0f"
+      ],
+      "options": [
+        "International Cuisine (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let's explore Indian cuisine tonight! Did you know that they use a wide variety of spices in their dishes? \ud83c\udf36\ufe0f",
+        "Absolutely! The complex flavors and aromas make every dish so unique and mouth-watering. Can't wait! \ud83d\ude0d"
+      ],
+      "options": [
+        "International Cuisine (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard you're planning a party! What's the theme? \ud83c\udf89",
+        "It's a mystery dinner party! Guests have to solve clues while enjoying a delicious meal. \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83c\udf7d\ufe0f"
+      ],
+      "options": [
+        "Catering and Event Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I went to a wedding with an amazing dessert table! \ud83c\udf70",
+        "I love that idea! It's like having a sweet adventure at an event. \ud83d\ude0b"
+      ],
+      "options": [
+        "Catering and Event Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that some event planners use color psychology for their events? \ud83c\udf08",
+        "Yeah! They choose colors that evoke specific emotions, like excitement or calmness. Clever, huh? \ud83d\ude04"
+      ],
+      "options": [
+        "Catering and Event Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that onions make us cry because of a chemical reaction? \ud83d\ude22",
+        "Yeah! Cutting onions releases a gas that reacts with the moisture in our eyes, causing tears. Who knew chemistry could be so emotional? \ud83d\ude02"
+      ],
+      "options": [
+        "Food Science and Chemistry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I learned that chocolate has a melting point close to our body temperature. \ud83c\udf6b",
+        "No wonder it melts in our mouths so perfectly! It's like a warm hug for our taste buds. \ud83d\ude0d"
+      ],
+      "options": [
+        "Food Science and Chemistry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that adding salt to water actually raises its boiling point? \ud83e\uddc2",
+        "Really? That's why my pasta always cooks better when I add salt to the water! Science for the win! \ud83c\udf5d"
+      ],
+      "options": [
+        "Food Science and Chemistry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking about becoming a pastry chef. I love making sweet treats! \ud83e\uddc1",
+        "That's awesome! You could create delicious masterpieces and bring joy to people's lives. Sweet dreams do come true! \ud83d\ude0b"
+      ],
+      "options": [
+        "Culinary Career Exploration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know some chefs specialize in creating dishes for people with food allergies? \ud83e\udd57",
+        "Yeah! It's amazing how they can make tasty meals that cater to everyone's needs. Talk about inclusive cooking! \ud83d\udc4f"
+      ],
+      "options": [
+        "Culinary Career Exploration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to be a food stylist. Imagine making food look so good, it belongs in a magazine! \ud83d\udcf8",
+        "That's a great career choice! You'd be the master of culinary illusions, making every dish a feast for the eyes. \ud83d\ude0e"
+      ],
+      "options": [
+        "Culinary Career Exploration (correct answer)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Did you know that circuit diagrams are like treasure maps for electricians? They show paths for currents to flow! \ud83d\uddfa\ufe0f",
+        "Absolutely! They help us navigate the world of components, making sure we connect everything correctly. X marks the spot! \u26a1"
+      ],
+      "options": [
+        "Circuit Diagrams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know, resistors in circuit diagrams look like tiny little speed bumps on the road of electricity! \ud83d\udea7",
+        "Yeah, they slow down the current just enough to keep our gadgets safe and sound. Slow and steady wins the race! \ud83d\udc22"
+      ],
+      "options": [
+        "Circuit Diagrams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love how capacitors in circuit diagrams look like two parallel lines with a gap between them. \ud83d\udccf",
+        "Totally! It's as if they're holding hands, storing energy, and releasing it when needed. Teamwork makes the dream work! \ud83e\udd1d"
+      ],
+      "options": [
+        "Circuit Diagrams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that using a multimeter is like having superpowers? You can see the invisible world of electricity! \ud83e\uddb8",
+        "Absolutely! With it, we can measure voltage, current, and resistance. It's like having x-ray vision for circuits! \ud83d\udd0d"
+      ],
+      "options": [
+        "Multimeter Use (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Multimeters are like translators for our electronics, helping us understand what's going on inside. \ud83d\udde3\ufe0f",
+        "Yeah, they speak the language of volts, amps, and ohms. Talk about being multilingual! \ud83c\udf10"
+      ],
+      "options": [
+        "Multimeter Use (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think of multimeters as the Swiss Army knives of electronics. So many functions in one handy tool! \ud83d\udee0\ufe0f",
+        "Totally! They're the ultimate sidekick for any electronic superhero. To the circuit-mobile! \ud83c\udfce\ufe0f"
+      ],
+      "options": [
+        "Multimeter Use (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Soldering is like a tiny dance between metal and heat, creating a solid bond that lasts. \ud83d\udc83\ud83d\udd7a",
+        "Absolutely! It's all about precision and control, making sure the joint is strong and conductive. Let's tango! \ud83c\udfb6"
+      ],
+      "options": [
+        "Soldering Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When I solder, I feel like a sculptor, shaping and molding molten metal to bring circuits to life. \ud83d\uddff",
+        "Yeah, it's an art form that requires patience and skill. We're the Michelangelos of electronics! \ud83c\udfa8"
+      ],
+      "options": [
+        "Soldering Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Soldering is like playing \"hot potato\" with metal. You've got to be quick and precise, or things can get messy! \ud83d\udd25",
+        "Totally! It's all about finding that sweet spot where the solder flows smoothly and the joint is secure. Game on! \ud83c\udfae"
+      ],
+      "options": [
+        "Soldering Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Component testing is like being a detective, searching for clues to solve the mystery of malfunctioning gadgets. \ud83d\udd0d",
+        "Absolutely! We examine each component closely, looking for any signs of trouble. The game is afoot! \ud83d\udd75\ufe0f\u200d\u2640\ufe0f"
+      ],
+      "options": [
+        "Component Testing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When I test components, I feel like I'm conducting interviews with electronic suspects. \"Where were you on the night of the short circuit?\" \ud83c\udfa4",
+        "Yeah, we're trying to find the weak link in the chain. No faulty component shall escape our watchful eye! \ud83d\udc41\ufe0f"
+      ],
+      "options": [
+        "Component Testing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Component testing is like playing \"20 Questions\" with your electronics. \"Are you a resistor? Do you work properly?\" \ud83e\uddd0",
+        "Totally! We're narrowing down the possibilities until we find the culprit. Let the interrogation begin! \u2696\ufe0f"
+      ],
+      "options": [
+        "Component Testing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Power supply repair is like being a doctor for electronics, finding and fixing whatever ails them. \ud83d\udc89",
+        "Absolutely! We diagnose the issue, prescribe the right fix, and nurse our gadgets back to health. Paging Dr. Volt! \u26a1"
+      ],
+      "options": [
+        "Power Supply Repair (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Repairing power supplies is like tending a garden, nurturing our electronics and helping them grow strong and efficient. \ud83c\udf31",
+        "Yeah, it's all about maintaining balance and harmony in the system. Let's cultivate some happy circuits! \ud83c\udf3a"
+      ],
+      "options": [
+        "Power Supply Repair (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Fixing a power supply is like being a superhero, swooping in to save the day when electronics are in distress. \ud83e\uddb8\u200d\u2642\ufe0f",
+        "Totally! With great power comes great responsibility. It's time to put on our capes and get to work! \ud83c\udf1f",
+        "Power supply repair is like being a doctor for electronics, finding and fixing whatever ails them. \ud83d\udc89",
+        "Absolutely! We diagnose the issue, prescribe the right fix, and nurse our gadgets back to health. Paging Dr. Volt! \u26a1"
+      ],
+      "options": [
+        "Power Supply Repair (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Repairing power supplies is like tending a garden, nurturing our electronics and helping them grow strong and efficient. \ud83c\udf31",
+        "Yeah, it's all about maintaining balance and harmony in the system. Let's cultivate some happy circuits! \ud83c\udf3a"
+      ],
+      "options": [
+        "Power Supply Repair (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Repairing PCBs is like solving a jigsaw puzzle, finding the right pieces to make everything fit and work together. \ud83e\udde9",
+        "Absolutely! We carefully examine each trace and component, making sure everything is connected and functioning properly. Puzzle masters unite! \ud83d\ude4c"
+      ],
+      "options": [
+        "Printed Circuit Board (PCB) Repair (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "PCB repair is like being an archaeologist, uncovering hidden treasures beneath layers of solder and components. \ud83d\udd0d",
+        "Yeah, it's all about digging deep to find the root of the problem and restoring the board to its former glory. Indiana Jones, eat your heart out! \ud83c\udffa"
+      ],
+      "options": [
+        "Printed Circuit Board (PCB) Repair (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Fixing a PCB is like being a conductor, orchestrating the harmony between all the electronic components on the board. \ud83c\udfbc",
+        "Totally! We ensure that each part plays its role perfectly, creating a symphony of seamless function. Maestro, cue the soldering iron! \ud83c\udfb6"
+      ],
+      "options": [
+        "Printed Circuit Board (PCB) Repair (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Resistor replacements are like auditions for an electronic play, finding the right actor for the part. \ud83c\udfad",
+        "Absolutely! We need to choose the perfect resistor with the right resistance value to keep the show going smoothly. Break a leg! \ud83c\udfac"
+      ],
+      "options": [
+        "Resistor Functions and Replacement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Swapping out resistors is like changing the guard at a palace, ensuring the new one can handle the responsibility. \ud83d\udc82",
+        "Yeah, it's all about making sure the new resistor can control the current flow just as well as the old one. Hail to the resistor! \ud83d\udc51"
+      ],
+      "options": [
+        "Resistor Functions and Replacement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Replacing a resistor is like swapping out a goalie in a soccer match, keeping the team's defense strong. \u26bd",
+        "Totally! We need to find the right resistor that can handle the voltage and current to protect the circuit. Game on! \ud83e\udd45"
+      ],
+      "options": [
+        "Resistor Functions and Replacement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Transistor testing is like playing \"Guess Who?\" with electronics, asking questions to find the right character. \ud83d\udd75\ufe0f\u200d\u2640\ufe0f",
+        "Absolutely! We need to check if they're working properly and replace them if they're not. \"Is your transistor an NPN or PNP?\" \ud83c\udfb2"
+      ],
+      "options": [
+        "Transistor Testing and Replacement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Swapping transistors is like switching out relay runners in a race, ensuring the team keeps up the pace. \ud83c\udfc3\u200d\u2642\ufe0f",
+        "Yeah, we need to find the right transistor with the correct specifications to keep our circuits running smoothly. On your marks, get set, go! \ud83c\udfc1"
+      ],
+      "options": [
+        "Transistor Testing and Replacement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Testing and replacing transistors is like being a talent scout for the electronic world, looking for the next big star. \ud83c\udf1f",
+        "Totally! We search for the best transistor that can amplify or switch signals like a pro. Here's to discovering the next top transistor! \ud83c\udfc6"
+      ],
+      "options": [
+        "Transistor Testing and Replacement (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Microcontroller programming is like writing a script for an electronic movie, directing the action scene by scene. \ud83c\udfa5",
+        "Absolutely! And debugging is like editing out any bloopers or mistakes to create a flawless performance. Lights, camera, action! \ud83c\udf1f"
+      ],
+      "options": [
+        "Microcontroller Programming and Debugging (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Programming microcontrollers is like teaching a robot how to dance, choreographing its every move. \ud83e\udd16",
+        "Yeah, and debugging is making sure it doesn't trip over its own feet! Let's get those robots grooving! \ud83d\udc83"
+      ],
+      "options": [
+        "Microcontroller Programming and Debugging (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Working with microcontrollers is like being a puppeteer, pulling the strings to make our electronic creations come alive. \ud83c\udfad",
+        "Totally! Debugging is just fine-tuning the performance to ensure a smooth and captivating show. Masterfully orchestrated! \ud83c\udfbb"
+      ],
+      "options": [
+        "Microcontroller Programming and Debugging (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "IC testing is like playing a game of \"Where's Waldo?\" with electronics, searching for any hidden issues. \ud83d\udd0d",
+        "Absolutely! We carefully examine each pin to make sure they're all functioning as they should. Found you, faulty pin! \ud83c\udfaf"
+      ],
+      "options": [
+        "Integrated Circuit (IC) Testing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Testing ICs is like being a quality control inspector at a tiny electronic factory, ensuring all products meet the highest standards. \ud83c\udfed",
+        "Yeah, we need to make sure every component within the IC is working in harmony. No weak links allowed! \ud83d\udcaa"
+      ],
+      "options": [
+        "Integrated Circuit (IC) Testing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "ESD safety is like being a bodyguard for our sensitive electronic components, shielding them from harm. \ud83d\udd76\ufe0f",
+        "Absolutely! We need to make sure we're grounded and using the right tools to prevent any accidental zaps. Protect and serve! \u26a1"
+      ],
+      "options": [
+        "Electrostatic Discharge (ESD) Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Practicing ESD safety is like taming a tiny lightning storm while working with electronics. \ud83c\udf29\ufe0f",
+        "Yeah, we need to control our environment and use proper techniques to keep those pesky static charges at bay. Storm chasers unite! \ud83c\udf00"
+      ],
+      "options": [
+        "Electrostatic Discharge (ESD) Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "ESD safety is like being a superhero with the power to neutralize static electricity. Zap-proof! \ud83d\udca5",
+        "Totally! With our anti-static wrist straps and mats, we can save our gadgets from the perils of ESD. To the workbench! \ud83e\uddb8\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Electrostatic Discharge (ESD) Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Using an oscilloscope is like having a time machine for electronic signals, traveling through waves of voltage and time. \u231b",
+        "Absolutely! We can analyze the behavior of circuits in real-time and uncover hidden mysteries. Time travelers, assemble! \ud83d\ude80"
+      ],
+      "options": [
+        "Oscilloscope Use (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "An oscilloscope is like a window into the secret life of electronic signals, giving us a glimpse of their ups and downs. \ud83c\udf0a",
+        "Yeah, it's our key to understanding how components interact and respond to different conditions. Unlocking the secrets of the waveform! \ud83d\udd13"
+      ],
+      "options": [
+        "Oscilloscope Use (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Working with an oscilloscope is like being a conductor for an electronic symphony, watching the notes of voltage dance across the screen. \ud83c\udfb6",
+        "Totally! We can fine-tune our circuits and create harmony between all the parts. Maestro, raise your probes! \ud83c\udfbc"
+      ],
+      "options": [
+        "Oscilloscope Use (correct answer)"
+      ]
+    }
+  ]
+}

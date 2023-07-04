@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Sovereignty",
+        "Treaty Law",
+        "Customary International Law",
+        "Diplomatic Relations",
+        "International Humanitarian Law",
+        "Human Rights Law",
+        "Law of the Sea",
+        "Environmental Law",
+        "International Criminal Law",
+        "Jurisdiction",
+        "State Responsibility",
+        "Peaceful Settlement of Disputes",
+        "Use of Force",
+        "International Organizations",
+        "International Trade Law"
+    ],
+    "hints": {
+        "Sovereignty": "The principle that each nation has supreme authority over its territory and domestic affairs, free from external intervention.",
+        "Treaty Law": "The body of law that governs the formation, interpretation, and enforcement of treaties, which are international agreements between countries.",
+        "Customary International Law": "Rules derived from the consistent and general practice of nations, followed out of a sense of legal obligation.",
+        "Diplomatic Relations": "The formal interactions and communications between countries, including the establishment of embassies and consulates.",
+        "International Humanitarian Law": "The set of rules that seek to limit the effects of armed conflict, protecting persons who are not participating in hostilities and restricting the means and methods of warfare.",
+        "Human Rights Law": "The body of international law that aims to protect the fundamental rights and freedoms of individuals, including civil, political, social, and economic rights.",
+        "Law of the Sea": "A branch of international law that governs the use and conservation of marine resources, navigation, and the delimitation of maritime boundaries.",
+        "Environmental Law": "The collection of international rules and principles aimed at protecting the environment and promoting sustainable development.",
+        "International Criminal Law": "The body of law that deals with the prosecution and punishment of individuals for committing crimes under international law, such as genocide, war crimes, and crimes against humanity.",
+        "Jurisdiction": "The authority of a state to exercise legal control over its territory, citizens, and certain matters involving other states.",
+        "State Responsibility": "The principle that states are responsible for ensuring that their actions comply with international law and that they may be held accountable for any violations.",
+        "Peaceful Settlement of Disputes": "The resolution of conflicts between states through negotiation, mediation, arbitration, or adjudication by international courts and tribunals.",
+        "Use of Force": "The rules governing when and how states can use military force, including the prohibition on the use of force except in self-defense or with the authorization of the United Nations Security Council.",
+        "International Organizations": "Institutions created by treaty or other agreements between states to address common goals and concerns, such as the United Nations, the World Trade Organization, and the International Criminal Court.",
+        "International Trade Law": "The body of rules and principles that govern international trade relations, including the regulation of tariffs, quotas, and subsidies."
+    }
+}

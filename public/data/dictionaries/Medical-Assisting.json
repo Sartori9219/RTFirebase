@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Anatomy and Physiology",
+        "Medical Terminology",
+        "Patient Intake",
+        "Vital Signs",
+        "Infection Control",
+        "Phlebotomy",
+        "Administering Medications",
+        "EKGs and Diagnostic Tests",
+        "Medical Billing and Coding",
+        "Electronic Health Records (EHR)",
+        "Office Management",
+        "Professional Communication",
+        "Ethics and Legal Issues",
+        "Health Promotion and Disease Prevention",
+        "First Aid and CPR"
+    ],
+    "hints": {
+        "Anatomy and Physiology": "Study of the human body's structure and functions, essential for understanding medical procedures and patient care.",
+        "Medical Terminology": "Specialized language used in healthcare settings to accurately describe diagnoses, treatments, and procedures.",
+        "Patient Intake": "Process of gathering important information about a patient, including medical history, insurance details, and reason for the visit.",
+        "Vital Signs": "Measurements that provide essential information about a patient's health, such as blood pressure, heart rate, respiratory rate, and temperature.",
+        "Infection Control": "Methods and practices to prevent the spread of infectious diseases within a healthcare setting.",
+        "Phlebotomy": "The practice of drawing blood samples from patients for diagnostic testing or treatment purposes.",
+        "Administering Medications": "Safely providing medications to patients, following the five rights - right patient, right medication, right dose, right route, and right time.",
+        "EKGs and Diagnostic Tests": "Performing electrocardiograms (EKGs) and other diagnostic tests to assess a patient's heart function or detect health issues.",
+        "Medical Billing and Coding": "The process of translating medical services into codes for billing and insurance purposes.",
+        "Electronic Health Records (EHR)": "Digital version of a patient's medical history, including diagnoses, treatments, and test results, accessible by authorized healthcare providers.",
+        "Office Management": "Organizing and managing the daily operations of a medical office, including appointment scheduling, inventory management, and staff coordination.",
+        "Professional Communication": "Effective verbal and nonverbal communication skills for interacting with patients, colleagues, and other healthcare professionals.",
+        "Ethics and Legal Issues": "Understanding and adhering to ethical principles and legal guidelines in the healthcare field to protect both patients and healthcare providers.",
+        "Health Promotion and Disease Prevention": "Educating patients about healthy behaviors and preventive measures to improve overall health and reduce the risk of illness.",
+        "First Aid and CPR": "Providing immediate care for injuries and emergencies, including cardiopulmonary resuscitation (CPR) and basic life support techniques."
+    }
+}

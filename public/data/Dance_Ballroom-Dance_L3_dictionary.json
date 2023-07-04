@@ -1,0 +1,382 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I can't get my dog to dance with me. He just flops over.",
+        "Try offering a strong frame to hold onto instead of a belly rub."
+      ],
+      "options": [
+        "Frame (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Think of your dance frame as the boundaries of a painting.",
+        "So, I'm basically the Mona Lisa of the dance floor?"
+      ],
+      "options": [
+        "Frame (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Is a strong dance frame like having good posture?",
+        "Exactly! But instead of holding up a book on your head, you're leading your partner in a dance."
+      ],
+      "options": [
+        "Frame (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know, dancing is a lot like walking a playful puppy.",
+        "Oh, because you've got to be able to lead but also know when to let them run off and chase a squirrel?"
+      ],
+      "options": [
+        "Lead and Follow (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is it when we dance, you always get to be the GPS?",
+        "Because in ballroom dance, one person has to lead the direction and the other person follows. But don't worry, I promise I won't lead us off a cliff."
+      ],
+      "options": [
+        "Lead and Follow (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine dancing is like driving a car.",
+        "So, one of us is the driver and the other one is the passenger who keeps trying to grab the wheel?"
+      ],
+      "options": [
+        "Lead and Follow (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the Ballroom dancer bring a stopwatch to the dance floor?",
+        "Because he knew timing was key to nail the dance, not because he was training for a sprint!"
+      ],
+      "options": [
+        "Timing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ballroom dance is like baking a cake.",
+        "Oh, because if you don't get the timing right, everything falls flat?"
+      ],
+      "options": [
+        "Timing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can we play 'beat the clock' while dancing?",
+        "Well, I suppose that's one way to keep time. Just don't forget to also feel the rhythm."
+      ],
+      "options": [
+        "Timing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the Ballroom dancer bring a drum to the dance floor?",
+        "Because he wanted to beat out the rhythm, not because he's joining a band!"
+      ],
+      "options": [
+        "Rhythm (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If ballroom dancing was a soup, what would it be?",
+        "Hmm, maybe minestrone, because it's all about mixing different rhythms together?"
+      ],
+      "options": [
+        "Rhythm (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are Ballroom dancers good at multitasking?",
+        "Because they can talk, listen, and still keep rhythm!"
+      ],
+      "options": [
+        "Rhythm (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the ballroom dancer bring a pair of extra shoes to the beach?",
+        "Because she wanted to practice her footwork in the sand!"
+      ],
+      "options": [
+        "Footwork (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the ballroom dancer refuse to play soccer?",
+        "Because he didn't want to mess up his footwork!"
+      ],
+      "options": [
+        "Footwork (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't ballroom dancers make good thieves?",
+        "Because they always leave footwork behind!"
+      ],
+      "options": [
+        "Footwork (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the ballroom dancer never play hunchback in the school play?",
+        "Because he has perfect posture and can't hunch over!"
+      ],
+      "options": [
+        "Posture (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the ballroom dancer appointed as the queen in the chess club?",
+        "Because she always maintains an upright and regal posture!"
+      ],
+      "options": [
+        "Posture (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't ballroom dancers make good secret agents?",
+        "Because their posture is so good, they always stand out in a crowd!"
+      ],
+      "options": [
+        "Posture (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the ballroom dancer always asked to host dinner parties?",
+        "Because her dance etiquette transferred so well to table manners, she was the perfect host!"
+      ],
+      "options": [
+        "Dance Etiquette (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why didn't the ballroom dancer enjoy the mosh pit at the rock concert?",
+        "Because in ballroom, the dance etiquette is a bit different, mosh pits are somewhat frowned upon!"
+      ],
+      "options": [
+        "Dance Etiquette (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are ballroom dancers always invited to royal functions?",
+        "Because their dance etiquette is so top-notch, they fit right in with the high-society crowd!"
+      ],
+      "options": [
+        "Dance Etiquette (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the ballroom dancer have such trouble at the starting blocks during the track meet?",
+        "Well, because in dance position is different from a sprinter's starting position!"
+      ],
+      "options": [
+        "Dance Position (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the ballroom dancer always win at Twister?",
+        "She was excellent at assuming various dance positions, which came in handy during the game!"
+      ],
+      "options": [
+        "Dance Position (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the ballroom dancer fail his driving test?",
+        "Because he kept trying to assume a dance position instead of a driving position!"
+      ],
+      "options": [
+        "Dance Position (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the ballroom dancer make such an excellent detective?",
+        "Must be her expertise in spotting. She can identify the smallest details while spinning at high speed, imagine what she can do while standing still!"
+      ],
+      "options": [
+        "Spotting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't ballroom dancers get dizzy when they're on the merry-go-round?",
+        "Well, because they're already so used to spotting while they spin on the dance floor, a merry-go-round is child's play!"
+      ],
+      "options": [
+        "Spotting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the ballroom dancer win at hide-and-seek?",
+        "Because his spotting skills are top notch. He can locate his friends easily even amidst chaos!"
+      ],
+      "options": [
+        "Spotting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the ballroom dancer always win at fashion shows?",
+        "Because they've got styling down to a science. They can strike a pose or add a flourish with as much precision as their dance steps!"
+      ],
+      "options": [
+        "Styling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do ballroom dancers make such good Instagram influencers?",
+        "Because they understand styling so well. From their perfect dance poses to their impeccable costumes, everything is #InstaPerfect!"
+      ],
+      "options": [
+        "Styling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do ballroom dancers always look so cool even in the middle of a dance?",
+        "Because styling isn't just about looking good, it's about feeling good and expressing yourself. And that, my friend, is the essence of cool!"
+      ],
+      "options": [
+        "Styling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are ballroom dancers the worst at musical chairs?",
+        "Because they're too tuned in to the musicality! They can't ignore the beat and just sit when the music stops."
+      ],
+      "options": [
+        "Musicality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do ballroom dancers make great DJs?",
+        "Because they've got musicality in their veins. They understand every beat and rhythm, and know just when to drop the bass!"
+      ],
+      "options": [
+        "Musicality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the ballroom dancer bring a metronome to the party?",
+        "Because they never miss an opportunity to practice their musicality. Even at a party, they're in sync with the beat!"
+      ],
+      "options": [
+        "Musicality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the ballroom dancer a terrible football player?",
+        "Because they kept following the line of dance instead of the line of scrimmage!"
+      ],
+      "options": [
+        "Line of Dance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the ballroom dancer get lost on the hiking trail?",
+        "I guess they tried to follow the line of dance instead of the trail markers!"
+      ],
+      "options": [
+        "Line of Dance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do ballroom dancers make poor race car drivers?",
+        "They tend to follow the line of dance, not the racing line. Imagine a waltz down the pit straight!"
+      ],
+      "options": [
+        "Line of Dance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't ballroom dancers make good tightrope walkers?",
+        "Well, they keep trying to execute a chass\u00e9 instead of focusing on balance!"
+      ],
+      "options": [
+        "Balance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the ballroom dancer bring a seesaw to the class?",
+        "They probably misunderstood when they were told they need to work on balance!"
+      ],
+      "options": [
+        "Balance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't ballroom dancers be accountants?",
+        "Because when you ask them about balance, they start talking about foot positions and weight distribution, not financial statements!"
+      ],
+      "options": [
+        "Balance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the ballroom dancer bring a protractor to the dance class?",
+        "Because they were told we were going to work on pivoting today!"
+      ],
+      "options": [
+        "Pivoting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the ballroom dancer spinning like a top?",
+        "They probably heard we were working on pivots today and decided to take it literally!"
+      ],
+      "options": [
+        "Pivoting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the ballroom dancer stuck at the revolving door?",
+        "They were probably practicing their pivoting!"
+      ],
+      "options": [
+        "Pivoting (correct answer)"
+      ]
+    }
+  ]
+}

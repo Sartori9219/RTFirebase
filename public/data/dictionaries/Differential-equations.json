@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Ordinary Differential Equations (ODE)",
+        "Partial Differential Equations (PDE)",
+        "First-Order Differential Equations",
+        "Second-Order Differential Equations",
+        "Linear Differential Equations",
+        "Nonlinear Differential Equations",
+        "Homogeneous Differential Equations",
+        "Nonhomogeneous Differential Equations",
+        "Separable Differential Equations",
+        "Exact Differential Equations",
+        "Integrating Factors",
+        "Initial Value Problems (IVP)",
+        "Boundary Value Problems (BVP)",
+        "Laplace Transform",
+        "Euler's Method"
+    ],
+    "hints": {
+        "Ordinary Differential Equations (ODE)": "Equations involving derivatives of a function with respect to only one independent variable.",
+        "Partial Differential Equations (PDE)": "Equations involving partial derivatives of a function with respect to multiple independent variables.",
+        "First-Order Differential Equations": "Equations involving the first derivative of a function.",
+        "Second-Order Differential Equations": "Equations involving the second derivative of a function.",
+        "Linear Differential Equations": "Equations where the dependent variable and its derivatives appear linearly.",
+        "Nonlinear Differential Equations": "Equations involving nonlinear terms of the dependent variable or its derivatives.",
+        "Homogeneous Differential Equations": "Equations where all the terms containing the dependent variable have the same degree.",
+        "Nonhomogeneous Differential Equations": "Equations that are not homogeneous but can be converted into homogeneous form.",
+        "Separable Differential Equations": "Equations where the variables can be separated, allowing for direct integration.",
+        "Exact Differential Equations": "Equations that can be written as an exact differential, which can be solved using path integrals.",
+        "Integrating Factors": "Techniques used to convert non-exact differential equations into exact ones by multiplying both sides by a suitable function.",
+        "Initial Value Problems (IVP)": "Differential equations with specified initial conditions for the dependent variable.",
+        "Boundary Value Problems (BVP)": "Differential equations with specified boundary conditions for the dependent variable.",
+        "Laplace Transform": "A method for solving linear differential equations by transforming them into algebraic equations in another domain.",
+        "Euler's Method": "A numerical method for approximating solutions to first-order differential equations, using a step-by-step approach."
+    }
+}

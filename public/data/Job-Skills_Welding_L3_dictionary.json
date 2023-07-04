@@ -1,0 +1,346 @@
+{
+  "questions": [
+    {
+      "question": [
+        "What's the superhero costume for a welder to protect them from welding dangers?",
+        "Great question! A welder's superhero outfit includes a welding helmet with a protective lens, fire-resistant clothing, gloves, and safety boots. This gear shields them from heat, sparks, and harmful rays!"
+      ],
+      "options": [
+        "Welding safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If welding were a video game, what power-ups would I need to collect to stay safe?",
+        "a well-ventilated workspace to clear away fumes, an auto-darkening helmet to protect your eyes, and a trusty fire extinguisher to put out any surprise flames!"
+      ],
+      "options": [
+        "Welding safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do I summon the Welding Safety Forcefield to protect myself while welding?",
+        "To activate your safety forcefield, make sure you're wearing proper PPE, follow all safety guidelines, and never forget to check your equipment before starting. With these powers combined, you'll be a welding safety champion!"
+      ],
+      "options": [
+        "Welding safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do I use the power of fire and oxygen to cut through metal like a hot knife through butter?",
+        "You've got the spirit! With Oxyfuel Cutting (OFC), you mix fuel gases like acetylene or propane with oxygen, creating a super-hot flame that melts the metal. Just guide the torch along your cutting path and watch the magic happen!"
+      ],
+      "options": [
+        "Oxyfuel cutting (OFC) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I want to be a metal-slicing superhero, what's my go-to weapon for cutting through thick metals?",
+        "Time to wield the mighty Oxyfuel Cutting (OFC) torch! Unleash a fierce combination of fuel gas and oxygen to produce a flame hot enough to melt and cut through even the toughest metals."
+      ],
+      "options": [
+        "Oxyfuel cutting (OFC) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the recipe for creating a metal-cutting firestorm using just fuel and oxygen?",
+        "Cook up some Oxyfuel Cutting (OFC) action! Combine fuel gases like acetylene or propane with oxygen to create an ultra-hot flame, then skillfully control the torch to slice through metal like a master chef carving a roast!"
+      ],
+      "options": [
+        "Oxyfuel cutting (OFC) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do I become a welding wizard, conjuring up strong metal bonds using just an electrode and some electricity?",
+        "Embrace the art of Shielded Metal Arc Welding (SMAW)! With a consumable electrode coated in flux, you'll create an electric arc that melts both the electrode and the workpiece, fusing them together like a magical spell!"
+      ],
+      "options": [
+        "Shielded Metal Arc Welding (SMAW) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I want to be a metal fusion superhero, what's my go-to power for joining metals with an arc and a shield?",
+        "Your superpower is Shielded Metal Arc Welding (SMAW)! Wield a flux-coated consumable electrode to generate an electric arc, melting the electrode and the workpiece. The flux shield protects your weld from contamination, ensuring a strong bond!"
+      ],
+      "options": [
+        "Shielded Metal Arc Welding (SMAW) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the secret to creating a powerful bond between metals using just a stick, some sparks, and a shield?",
+        "Unleash the hidden power of Shielded Metal Arc Welding (SMAW)! Use a flux-coated consumable electrode to strike an electric arc, melting the metals together. The flux shield keeps impurities at bay, forging a mighty bond between the metals!"
+      ],
+      "options": [
+        "Shielded Metal Arc Welding (SMAW) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do I master the art of metal fusion using a continuous wire, electricity, and an invisible shield?",
+        "You're ready for Gas Metal Arc Welding (GMAW)! Feed a continuous wire electrode through your welding gun while an inert shielding gas protects the weld from contamination. It's like painting with molten metal and an invisible force field!"
+      ],
+      "options": [
+        "Gas Metal Arc Welding (GMAW) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do I master the art of metal fusion using a continuous wire, electricity, and an invisible shield?",
+        "You're ready for Gas Metal Arc Welding (GMAW)! Feed a continuous wire electrode through your welding gun while an inert shielding gas protects the weld from contamination. It's like painting with molten metal and an invisible force field!"
+      ],
+      "options": [
+        "Gas Metal Arc Welding (GMAW) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How can I become a welding wizard who doesn't need an external gas shield to protect my magical metal fusions?",
+        "Embrace the power of Flux-Cored Arc Welding (FCAW)! Use a special tubular wire filled with flux that provides its own shielding. It's like having an all-in-one magic wand for creating strong, protected welds!"
+      ],
+      "options": [
+        "Flux-Cored Arc Welding (FCAW) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I want to be a metal fusion superhero in windy outdoor conditions, what's my go-to welding power?",
+        "Your superpower is Flux-Cored Arc Welding (FCAW)! The flux-filled wire creates its own protective shield, so you don't need an external gas supply. Now you can save the day and weld strong bonds even in challenging environments!"
+      ],
+      "options": [
+        "Flux-Cored Arc Welding (FCAW) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the secret to welding with a self-shielding wire that provides its own protection against contamination?",
+        "Unravel the mystery of Flux-Cored Arc Welding (FCAW)! With a special flux-filled wire, you create a protective shield around the weld as you work. It's like having a built-in force field to ensure strong, clean welds every time!"
+      ],
+      "options": [
+        "Flux-Cored Arc Welding (FCAW) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that welding joints are like the Avengers of metalwork? They unite pieces of metal to create something stronger!",
+        "Haha, that's a creative way to look at it! Remember, there are different types of joints, each with their unique superpowers."
+      ],
+      "options": [
+        "Welding joints (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if butt joints are the basic, no-frills kind of joint, what would be the Hulk version?",
+        "I'd say that's the groove joint! It's designed for heavy-duty applications and can handle some serious weight!"
+      ],
+      "options": [
+        "Welding joints (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think I figured out a cool way to remember T-joints. They're like a high five between two pieces of metal!",
+        "That's a great mnemonic! Just remember, the high-five is strongest when the weld is placed on the perpendicular connection."
+      ],
+      "options": [
+        "Welding joints (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, I heard that welding positions are like dance moves. Is that true?",
+        "Haha, you could say that! Each position requires a different technique and skill level, just like dancing!"
+      ],
+      "options": [
+        "Welding positions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So if flat position welding is like the waltz, what's the tango of welding positions?",
+        "That would be overhead welding! It's more challenging and requires extra finesse to avoid gravity pulling down the molten metal."
+      ],
+      "options": [
+        "Welding positions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I think vertical welding is like climbing a mountain. You have to keep adjusting your angle as you go up!",
+        "That's an adventurous way to look at it! Just make sure you maintain control and keep the weld pool balanced."
+      ],
+      "options": [
+        "Welding positions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Welding symbols are like secret codes for welders, right?",
+        "Absolutely! They convey specific instructions on how to join the metals together, just like a secret language among welding agents."
+      ],
+      "options": [
+        "Welding symbols (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If welding symbols were emojis, what would the arrow symbol be?",
+        "The arrow would be like a pointing finger emoji, directing you where to apply the weld and which side of the joint to focus on!"
+      ],
+      "options": [
+        "Welding symbols (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've heard that there's a \"tail\" in welding symbols. Does it wag when the weld is done perfectly?",
+        "Haha, not quite! But the tail does contain important information about the welding process, like a helpful sidekick guiding you through the job."
+      ],
+      "options": [
+        "Welding symbols (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, welding techniques are like cooking methods, right? Each metal dish needs a special recipe!",
+        "You've got it! Just like chefs use different techniques for various dishes, welders use various techniques to create strong and durable bonds between metals."
+      ],
+      "options": [
+        "Welding techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If TIG welding were a superhero, what would its superpower be?",
+        "TIG welding would have the power of precision! It's known for creating clean, high-quality welds that even other superheroes would admire."
+      ],
+      "options": [
+        "Welding techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I imagine MIG welding as a friendly robot that helps you out by feeding the filler metal automatically. Am I close?",
+        "That's a fun way to think about it! MIG welding does involve a wire feed system that continuously supplies filler metal, making it easier and faster than some other techniques."
+      ],
+      "options": [
+        "Welding techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Welding metallurgy sounds like a magical potion class at Hogwarts for metal enthusiasts!",
+        "Haha, that's an entertaining way to see it! It's indeed the science behind how metals react and transform during the welding process."
+      ],
+      "options": [
+        "Welding metallurgy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if welding metallurgy were a movie genre, would it be a thrilling action-adventure or a romantic drama?",
+        "I'd say it's more like a fascinating mystery! It's all about uncovering the secrets of how metals behave when they're joined together under intense heat."
+      ],
+      "options": [
+        "Welding metallurgy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that some metals don't get along well in the welding world. Is it like a high school clique situation?",
+        "You could say that! Certain metals have different properties and don't mix well, so welders need to understand their compatibility before creating a successful joint."
+      ],
+      "options": [
+        "Welding metallurgy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are electrodes like the magic wands of welding, casting sparks and joining metals together?",
+        "That's a fun analogy! Electrodes do play a crucial role in creating an electric arc to melt the metals and form a strong bond."
+      ],
+      "options": [
+        "Electrodes and filler metals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If filler metals were a type of food, what would they be?",
+        "They'd probably be the glue that holds a sandwich together \u2013 like peanut butter or mayo. Just as those ingredients keep your sandwich intact, filler metals ensure a strong and sturdy bond between the welded metals."
+      ],
+      "options": [
+        "Electrodes and filler metals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I imagine electrodes as the DJs of the welding party, setting the beat and getting everyone moving!",
+        "Haha, that's an interesting way to see it! Electrodes do set the stage for the welding process by establishing the right temperature and conditions for the metals to fuse together."
+      ],
+      "options": [
+        "Electrodes and filler metals (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if welding equipment were pets, would maintenance be like grooming and taking them for walks?",
+        "That's an amusing analogy! Just as you care for your pets, maintaining your welding equipment ensures it stays in good working condition and performs at its best."
+      ],
+      "options": [
+        "Welding equipment maintenance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Welding equipment maintenance sounds like a spa day for our gear. Does it get a massage too?",
+        "Haha, not quite! But giving your equipment a thorough cleaning and inspection is like pampering it, so it continues to work smoothly and efficiently."
+      ],
+      "options": [
+        "Welding equipment maintenance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If welding equipment were cars, would maintenance be like a pit stop in a race?",
+        "That's a great comparison! Regular maintenance checks are essential to keep your welding equipment running at top speed and avoid any unexpected breakdowns during critical projects."
+      ],
+      "options": [
+        "Welding equipment maintenance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Is welding inspection like being a detective, searching for clues to solve the case of the perfect weld?",
+        "That's an entertaining way to think about it! Inspectors do examine welds closely for any signs of defects or issues, ensuring the highest quality and safety standards."
+      ],
+      "options": [
+        "Welding inspection and quality control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if welding quality control were a superhero, what would its mission be?",
+        "Its mission would be to protect the world from faulty welds and ensure the strength and durability of every welded structure!"
+      ],
+      "options": [
+        "Welding inspection and quality control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I imagine weld inspectors as art critics, evaluating the beauty and skill behind every weld.",
+        "That's a creative perspective! While aesthetics may not be their primary concern, weld inspectors do assess the craftsmanship and integrity of each weld, much like an art critic evaluates a masterpiece."
+      ],
+      "options": [
+        "Welding inspection and quality control (correct answer)"
+      ]
+    }
+  ]
+}

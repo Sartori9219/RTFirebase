@@ -1,0 +1,407 @@
+{
+  "questions": [
+    {
+      "question": [
+        "So you're saying that with more resistance in the circuit, less current will flow, right?",
+        "Exactly! It's like trying to squeeze a watermelon through a straw. More resistance, less flow!"
+      ],
+      "options": [
+        "Ohm's Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I get it! If we increase the voltage, we'll get more current flowing!",
+        "You've got it! Just like turning up the pressure in a water hose."
+      ],
+      "options": [
+        "Ohm's Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So if the resistance is like a rock in a river, the current is like the water flowing around it?",
+        "Spot on! And the voltage is like the steepness of the river. Steeper river, faster water!"
+      ],
+      "options": [
+        "Ohm's Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "DC is like a marathon runner, always going in one direction, right?",
+        "That's right! And AC is like a dancer, constantly changing direction to the rhythm of the music."
+      ],
+      "options": [
+        "Direct Current (DC) vs Alternating Current (AC) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, DC is the disciplined one, always moving in a straight line while AC can't make up its mind?",
+        "You could say that! AC likes to keep things exciting by changing its mind 60 times a second!"
+      ],
+      "options": [
+        "Direct Current (DC) vs Alternating Current (AC) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "AC is like my little brother playing with his toy car \u2013 back and forth, back and forth!",
+        "Perfect analogy! And DC is like your toy train, always going forward on its track."
+      ],
+      "options": [
+        "Direct Current (DC) vs Alternating Current (AC) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So an electrical circuit is like a race track for electrons, right?",
+        "Exactly! And just like a race track, it needs to be a closed loop for the electrons to keep running."
+      ],
+      "options": [
+        "Electrical Circuits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let me guess, an electrical circuit is like a pizza delivery route, the delivery can only happen if the route is complete?",
+        "Perfect! And if there's a break in the route, the pizza \u2013 or the electric current \u2013 can't reach its destination."
+      ],
+      "options": [
+        "Electrical Circuits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, a circuit is like a round trip ticket for the electrons, huh?",
+        "You got it! They get to sightsee through the wires, components, and back to the power source!"
+      ],
+      "options": [
+        "Electrical Circuits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So in a series circuit, the current is like a one-lane highway. It can only go one way, right?",
+        "Exactly! But in a parallel circuit, the current has options, like multiple lanes on a freeway."
+      ],
+      "options": [
+        "Series and Parallel Circuits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A series circuit is like waiting in line for ice cream. We all get our turn, but if someone leaves, no ice cream for the rest?",
+        "Right on! But in a parallel circuit, it's like having multiple ice cream stands. If one closes, you can still get your treat from the others."
+      ],
+      "options": [
+        "Series and Parallel Circuits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Series circuits are like a treasure hunt. The current has to pass through every component in order, right?",
+        "Absolutely! And parallel circuits are like a mall. The current can visit any store \u2013 or component \u2013 it wants, in any order."
+      ],
+      "options": [
+        "Series and Parallel Circuits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So a circuit breaker is like a referee in a game, stopping the play when things get too intense?",
+        "You got it! And a fuse is like a sacrificial player, taking one for the team and going out of the game to protect the rest."
+      ],
+      "options": [
+        "Circuit Breakers and Fuses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are circuit breakers and fuses like the bouncers of an electrical system, keeping the unruly currents out?",
+        "Exactly! They ensure the party doesn't get out of hand by cutting off the power when things start to heat up."
+      ],
+      "options": [
+        "Circuit Breakers and Fuses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So a circuit breaker is the parent who sends the kids to time-out when they misbehave?",
+        "That's one way to put it! And a fuse is like a toy that breaks to prevent the kids from causing more chaos."
+      ],
+      "options": [
+        "Circuit Breakers and Fuses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, working with electricity is like dealing with a wild animal. You have to respect it and take precautions, right?",
+        "Exactly! And just like you wouldn't poke a bear, you don't mess around with live wires."
+      ],
+      "options": [
+        "Electrical Safety and Precautions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Electrical safety is like the rules of a swimming pool. No running, no horseplay, and always have a buddy, right?",
+        "You've got it! And never, ever jump in if you can't see the bottom - or in this case, if you don't fully understand the circuit."
+      ],
+      "options": [
+        "Electrical Safety and Precautions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So dealing with electricity is like handling a delicate piece of art, we should be careful and avoid causing any damage?",
+        "Correct! And always remember, the most important piece of art you're protecting is you!"
+      ],
+      "options": [
+        "Electrical Safety and Precautions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Electrical symbols are like a secret code, only cool electrician spies can understand them, right?",
+        "You could say that! Each symbol is a clue that helps us understand the big picture of the circuit."
+      ],
+      "options": [
+        "Electrical Symbols and Diagrams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, reading an electrical diagram is like following a treasure map, each symbol leading us to the next component?",
+        "Absolutely! And just like a treasure map, the 'X' (or in our case, the symbol) marks the spot!"
+      ],
+      "options": [
+        "Electrical Symbols and Diagrams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Drawing an electrical diagram is like painting, but instead of colors, we use symbols to create our masterpiece?",
+        "Indeed! And every great masterpiece starts with understanding the meaning of each brush stroke - or in our case, symbol."
+      ],
+      "options": [
+        "Electrical Symbols and Diagrams (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, a multimeter is like the Swiss Army knife of electrical tools, right?",
+        "Absolutely! It can measure voltage, current, and resistance \u2013 it's the jack of all trades in your toolbox!"
+      ],
+      "options": [
+        "Electrical Measuring Instruments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "An ammeter is like a doctor's stethoscope, but for electrical current, isn't it?",
+        "Perfect analogy! Just like a doctor listens to your heart, an ammeter measures the heart of the circuit - the current."
+      ],
+      "options": [
+        "Electrical Measuring Instruments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A voltmeter is like a mountain guide, helping us understand the 'height' or voltage drop in our circuit?",
+        "Exactly! And like a guide, it can help prevent us from getting lost in the hills of high voltage."
+      ],
+      "options": [
+        "Electrical Measuring Instruments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So voltage is like the pressure in a water hose, and current is the water flowing out, right?",
+        "Exactly! And resistance is like a kink in the hose, slowing down the water flow."
+      ],
+      "options": [
+        "Voltage, Current, and Resistance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Is voltage like the height of a waterfall, and current is the amount of water falling down?",
+        "You got it! And resistance is like rocks in the waterfall, disrupting the smooth flow of water."
+      ],
+      "options": [
+        "Voltage, Current, and Resistance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, voltage is the push behind the electrons, current is the electrons' movement, and resistance is anything that slows them down?"
+      ],
+      "options": [
+        "Voltage, Current, and Resistance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So electrical power is like the strength of a weightlifter, and energy is the total weight lifted over time?",
+        "Exactly! The stronger the weightlifter (higher power), the more weight they can lift (more energy) in the same time."
+      ],
+      "options": [
+        "Power and Energy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Power is like the speed of a car, and energy is the distance it can travel over time, right?",
+        "You got it! A faster car (higher power) can travel a greater distance (more energy) in the same time."
+      ],
+      "options": [
+        "Power and Energy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If power is like a baker baking cookies, then energy is the total cookies baked over time?",
+        "Spot on! The more cookies the baker can bake per hour (higher power), the more cookies you'll have at the end of the day (more energy)."
+      ],
+      "options": [
+        "Power and Energy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So a conductor is like a highway for electrons, and an insulator is like a roadblock?",
+        "Exactly! Conductors let electrons zoom along, while insulators tell them 'you shall not pass!'"
+      ],
+      "options": [
+        "Conductors and Insulators (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, conductors are like open doors for electrons and insulators are like walls?",
+        "Right on! Conductors welcome electrons with open arms, but insulators are the party poopers that say 'no entry.'"
+      ],
+      "options": [
+        "Conductors and Insulators (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A conductor is like a really good gossip, spreading the news (current) quickly, and an insulator keeps the secret safe?",
+        "Perfect analogy! Conductors can't wait to pass the current along, while insulators keep it to themselves."
+      ],
+      "options": [
+        "Conductors and Insulators (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Electromagnetic induction is like magic, isn't it? You move a magnet, and voila, you have electricity!",
+        "Exactly! It's like pulling a rabbit out of a hat, except the rabbit is an electric current, and the hat is a coil of wire."
+      ],
+      "options": [
+        "Electromagnetic Induction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, electromagnetic induction is like a dance. The magnet moves, and the electric current follows its lead?",
+        "You got it! It's like a cosmic waltz between magnetism and electricity."
+      ],
+      "options": [
+        "Electromagnetic Induction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Is electromagnetic induction like a wind-up toy? You give the magnet a spin, and it powers up the electric current?",
+        "Spot on! But remember, just like a wind-up toy, the electricity only flows as long as the magnet is moving."
+      ],
+      "options": [
+        "Electromagnetic Induction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So a capacitor is like a small water tank, storing charge for later use, and an inductor is like a spring, resisting changes in current?"
+      ],
+      "options": [
+        "Capacitors and Inductors (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are capacitors like squirrels, storing nuts (charge) for winter, and inductors like grumpy old men, hating change?",
+        "That's one way to put it! Capacitors do love to store charge, and inductors definitely resist any change in current."
+      ],
+      "options": [
+        "Capacitors and Inductors (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Capacitors are like savings accounts, storing charge for future use, and inductors are like conservative investors, preferring steady currents?",
+        "Spot on! A capacitor is all about saving for the future, and an inductor prefers the 'slow and steady wins the race' approach."
+      ],
+      "options": [
+        "Capacitors and Inductors (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, a transformer is like a personal trainer, it can help pump up the voltage or slim it down, right?",
+        "Exactly! Just like a trainer, a transformer can help you achieve your voltage goals, whether that's stepping it up or toning it down."
+      ],
+      "options": [
+        "Transformers (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Transformers...they're like those shape-shifting robots, changing high voltage into low voltage, and vice versa?",
+        "You got it! But instead of turning into cars or planes, these transformers turn high voltage into low voltage, and low voltage into high voltage."
+      ],
+      "options": [
+        "Transformers (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A transformer is like an elevator, isn't it? It can take the voltage up or bring it down.",
+        "Spot on! And just like an elevator, a transformer does its job smoothly and efficiently."
+      ],
+      "options": [
+        "Transformers (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Electrical wiring standards are like the rules of a board game, right? You have to follow them, or things can go wrong?",
+        "Absolutely! If you don't follow the standards, it's like trying to play chess with checkers rules. It's not going to end well."
+      ],
+      "options": [
+        "Electrical Wiring Standards (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, electrical wiring standards are like a cookbook. You follow the recipe for a safe and tasty result?",
+        "Exactly! And just like in cooking, ignoring the recipe in wiring can lead to a disastrous 'meal.'"
+      ],
+      "options": [
+        "Electrical Wiring Standards (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wiring standards are like the dress code at school. They set the rules for what's acceptable and what's not?",
+        "Spot on! But instead of deciding between a tie and a t-shirt, it's about ensuring safety and efficiency in electrical systems."
+      ],
+      "options": [
+        "Electrical Wiring Standards (correct answer)"
+      ]
+    }
+  ]
+}

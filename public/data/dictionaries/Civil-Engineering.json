@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Structural Dynamics",
+        "Earthquake Engineering",
+        "Traffic Engineering",
+        "Pavement Design",
+        "Urban Planning",
+        "Coastal Engineering",
+        "Water Resources Management",
+        "Sustainability in Civil Engineering",
+        "Bridge Design",
+        "Tunnel Engineering",
+        "Stormwater Management",
+        "Site Grading",
+        "Wastewater Treatment",
+        "Flood Control",
+        "Land Reclamation"
+    ],
+    "hints": {
+        "Structural Dynamics": "Examines structures' response to dynamic loads (e.g., wind, seismic) and ensures their stability under such forces.",
+        "Earthquake Engineering": "Focuses on designing and constructing earthquake-resistant structures to minimize damage during seismic events.",
+        "Traffic Engineering": "Involves analyzing, planning, and designing transportation systems to optimize traffic flow and safety.",
+        "Pavement Design": "Deals with designing and constructing durable and cost-effective pavement systems for various transportation infrastructures.",
+        "Urban Planning": "Manages the design and organization of urban spaces, including land use, transportation systems, and public amenities.",
+        "Coastal Engineering": "Addresses coastal processes and designs structures to protect and manage coastal areas (e.g., shoreline stabilization, erosion control).",
+        "Water Resources Management": "Involves planning, development, and management of water resources, including water supply, distribution, treatment, flood control, and watershed management.",
+        "Sustainability in Civil Engineering": "Implements sustainable practices in civil engineering projects to minimize environmental impact and ensure long-term viability.",
+        "Bridge Design": "Focuses on designing, constructing, and maintaining bridges that are safe, durable, and aesthetically pleasing.",
+        "Tunnel Engineering": "Involves designing, constructing, and maintaining tunnels to ensure safety and efficiency.",
+        "Stormwater Management": "Manages stormwater runoff to prevent flooding and protect water quality.",
+        "Site Grading": "Designs site grading plans to control drainage, prevent erosion, and create stable building platforms.",
+        "Wastewater Treatment": "Involves designing and managing wastewater treatment systems to protect public health and the environment.",
+        "Flood Control": "Develops infrastructure and strategies to mitigate flood risks and protect properties.",
+        "Land Reclamation": "Utilizes engineering techniques to create new land from sea or riverbeds for development purposes."
+    }
+}

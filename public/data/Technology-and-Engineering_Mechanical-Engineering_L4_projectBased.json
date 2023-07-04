@@ -1,0 +1,44 @@
+[
+  {
+    "Project objective": "You're a new engineer in Astromech City, a bustling metropolis powered by astoundingly advanced machinery. However, recently, there have been reports of mechanical malfunctions around the city. From wobbly bridges (Statics and Mechanics of Materials) to runaway cable cars (Dynamics), overheating power plants (Thermodynamics), and even water supply hiccups (Fluid Mechanics), Astromech City needs your help!",
+    "Steps": [
+      "Dynamic Dilemma: Investigate the principles of dynamics. Why might a cable car be running out of control?",
+      "Material Matters: Delve into the mechanics of materials. How does the choice of building material affect the stability of structures like bridges?",
+      "Thermo Trouble: Brush up on thermodynamics. What might cause a power plant to overheat?",
+      "Fluid Frustration: Understand the basics of fluid mechanics. What could be causing the city's water supply issues?",
+      "Bridge Blueprint: Using your knowledge of statics and mechanics of materials, design a solution to stabilize the city's wobbly bridge.",
+      "Cable Car Control: Apply your understanding of dynamics to propose a way to stop the runaway cable car.",
+      "Power Plant Proposal: Using thermodynamics principles, propose a solution to prevent the power plant from overheating.",
+      "Water Work: With your knowledge of fluid mechanics, devise a plan to resolve the city's water supply issues.",
+      "Final Presentation: Consolidate your findings and proposed solutions into a presentation. Share it with a classmate or family member and revise based on their feedback."
+    ]
+  },
+  {
+    "Project objective": "Welcome to the Mechanical Dance Club, a unique venue where machines boogie, shake, and groove all night long. But alas, the club has run into some engineering snags. The main dancing robot's control systems are haywire, causing unwanted vibrations. The club's heating system isn't properly transferring heat, leading to chilly dance floors. The DJ turntable, a marvel of machine design, has a faulty component. Lastly, the club's decor, made of various materials, isn't holding up.",
+    "Steps": [
+      "Heat Hurdles: Research heat transfer principles. Why might the club's heating system not be working efficiently?",
+      "Control Conundrum: Understand control systems. What could be causing the main dancing robot to go haywire?",
+      "Vibration Variations: Delve into mechanical vibrations. How might these be affecting the dancing robot?",
+      "Material Mysteries: Learn about materials science. What might be causing the club's decor to fail?",
+      "Heating Harmony: Using your knowledge of heat transfer, draft a plan to improve the club's heating system.",
+      "Turntable Tune-up: Apply what you've learned about machine design to propose improvements for the DJ turntable.",
+      "Robot Revamp: Using your understanding of control systems and mechanical vibrations, devise a solution to fix the main dancing robot.",
+      "Decor Durable: With your knowledge of materials science, suggest more durable materials for the club's decor.",
+      "Final Presentation: Compile your findings and proposed solutions into a fun presentation. Share it with a classmate or family member and revise based on their feedback."
+    ]
+  },
+  {
+    "Project objective": "Welcome to the year 3000, where robotic race cars have taken over NASCAR! You've been hired by the fictional company \"MechaSpeed Inc.\" to create a new design for their next-generation race car. These cars are cutting-edge and use robotics, mechatronics, and innovative manufacturing processes. Your task is to design a new model using engineering drawing skills and then map out its manufacturing process. Let's get ready to race into the future!",
+    "Steps": [
+      "Robo Racing Basics: Start by researching the basics of robotics, mechatronics, and automotive engineering.",
+      "Mechanical Marvels: Study the current state-of-the-art in robotic race cars.",
+      "Drawing Dash: Learn about engineering drawing, and sketch your initial car design.",
+      "Manufacturing Magic: Study different manufacturing processes, and choose which ones you would use to make your car.",
+      "Mechatronic Mastery: Using your knowledge of mechatronics, develop a subsystem for the car (like steering or braking).",
+      "Robotics Run: Design a robotic feature for your car. Maybe it changes shape for optimal aerodynamics?",
+      "Revised Render: Using feedback from your initial sketches, create a more detailed engineering drawing of your car.",
+      "Pit Stop: Review your design and manufacturing plan. Is there anything you can improve or streamline?",
+      "Finish Line: Make a final presentation of your design and manufacturing plan. Share it with classmates, friends, or family and get their feedback!"
+    ]
+  }
+]

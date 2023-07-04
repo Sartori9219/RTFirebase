@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Basics of Industrial Maintenance",
+        "Safety and Personal Protective Equipment (PPE)",
+        "Mechanical Systems and Components",
+        "Electrical Systems and Components",
+        "Hydraulic Systems and Components",
+        "Pneumatic Systems and Components",
+        "Preventive Maintenance and Inspection",
+        "Troubleshooting and Problem Solving",
+        "Lubrication and Bearings",
+        "Welding and Fabrication",
+        "Pumps and Motors",
+        "Conveyor Systems",
+        "Programmable Logic Controllers (PLCs)",
+        "Energy Efficiency and Management",
+        "Career Opportunities in Industrial Maintenance"
+    ],
+    "hints": {
+        "Basics of Industrial Maintenance": "Introduction to the fundamentals of maintaining and repairing industrial machinery and equipment.",
+        "Safety and Personal Protective Equipment (PPE)": "Importance of safety procedures and proper use of PPE to prevent accidents and injuries in the workplace.",
+        "Mechanical Systems and Components": "Overview of various mechanical systems, their components, and how they function within industrial settings.",
+        "Electrical Systems and Components": "Understanding electrical systems, wiring, and components used in industrial machinery and equipment.",
+        "Hydraulic Systems and Components": "Study of hydraulic systems, their components, and how they transfer power using pressurized fluids.",
+        "Pneumatic Systems and Components": "Exploration of pneumatic systems, their components, and how they use compressed air to transfer power.",
+        "Preventive Maintenance and Inspection": "Techniques for regular maintenance and inspection of industrial machinery to ensure optimal performance and prevent breakdowns.",
+        "Troubleshooting and Problem Solving": "Strategies for identifying and resolving common issues in industrial machinery and equipment.",
+        "Lubrication and Bearings": "Proper selection and application of lubricants and bearings to reduce friction and wear in machinery.",
+        "Welding and Fabrication": "Introduction to welding techniques and fabrication methods used in industrial maintenance and repair.",
+        "Pumps and Motors": "Overview of various types of pumps and motors used in industrial machinery and their maintenance requirements.",
+        "Conveyor Systems": "Understanding the components and maintenance of conveyor systems used for material handling in industrial settings.",
+        "Programmable Logic Controllers (PLCs)": "Introduction to PLCs, their programming, and their role in controlling industrial machinery and processes.",
+        "Energy Efficiency and Management": "Strategies for optimizing energy use in industrial facilities, including equipment selection, maintenance, and monitoring.",
+        "Career Opportunities in Industrial Maintenance": "Exploration of various career paths within industrial maintenance, including technician, supervisor, and management roles."
+    }
+}

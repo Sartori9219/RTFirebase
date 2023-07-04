@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Ecosystems",
+        "Biodiversity",
+        "Climate change",
+        "Renewable energy",
+        "Pollution",
+        "Conservation",
+        "Deforestation",
+        "Soil erosion",
+        "Water cycle",
+        "Air quality",
+        "Ozone depletion",
+        "Waste management",
+        "Sustainable agriculture",
+        "Habitat loss",
+        "Endangered species"
+    ],
+    "hints": {
+        "Ecosystems": "Interconnected communities of living organisms and their physical environment, all interacting as a system.",
+        "Biodiversity": "The variety of life on Earth, including the variety of species, ecosystems, and genetic diversity within species.",
+        "Climate change": "Long-term changes in Earth's climate, primarily due to human activities such as burning fossil fuels and deforestation.",
+        "Renewable energy": "Energy sources that are replenished naturally and can be used indefinitely, such as solar, wind, and hydroelectric power.",
+        "Pollution": "The release of harmful substances into the environment, negatively affecting air, water, and soil quality.",
+        "Conservation": "The protection and preservation of natural resources and ecosystems for future generations.",
+        "Deforestation": "The removal of large areas of forest, often for agriculture or urban development, resulting in habitat loss and increased greenhouse gas emissions.",
+        "Soil erosion": "The wearing away of topsoil by wind, water, or other natural processes, which can reduce soil fertility and contribute to water pollution.",
+        "Water cycle": "The continuous movement of water on, above, and below the Earth's surface, including evaporation, precipitation, and runoff.",
+        "Air quality": "The cleanliness of the air we breathe, influenced by natural and human-caused factors such as emissions from vehicles and industrial processes.",
+        "Ozone depletion": "The thinning of Earth's ozone layer, mainly caused by the release of chlorofluorocarbons (CFCs) and other ozone-depleting substances.",
+        "Waste management": "The collection, transportation, treatment, and disposal of waste materials in a way that minimizes their impact on the environment.",
+        "Sustainable agriculture": "Farming practices that meet the needs of the present without compromising the ability of future generations to meet their own needs.",
+        "Habitat loss": "The destruction or degradation of natural habitats, often due to human activities such as deforestation and urban development, which can threaten the survival of species.",
+        "Endangered species": "Plants and animals whose populations have declined so much that they are at risk of extinction."
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Literary Genres",
+        "Plot Structure",
+        "Character Development",
+        "Literary Devices",
+        "Themes and Motifs",
+        "Point of View",
+        "Conflict",
+        "Setting",
+        "Tone and Mood",
+        "Symbolism",
+        "Imagery",
+        "Foreshadowing",
+        "Irony",
+        "Metaphor and Simile",
+        "Allusion"
+    ],
+    "hints": {
+        "Literary Genres": "These are categories of literature, including fiction, non-fiction, poetry, drama, etc.",
+        "Plot Structure": "The organization of events in a story, often including exposition, rising action, climax, falling action, and resolution.",
+        "Character Development": "The process by which a character is introduced, changes, and grows throughout a story.",
+        "Literary Devices": "Techniques used to produce a specific effect, such as symbolism, metaphor, and personification.",
+        "Themes and Motifs": "Themes are central ideas or messages in a work, while motifs are recurring symbols or elements that support these themes.",
+        "Point of View": "The perspective from which a story is told, such as first person, third person, or omniscient.",
+        "Conflict": "The struggle or challenges faced by the characters, which drive the plot. This could be internal (within a character) or external (between characters or between a character and their environment).",
+        "Setting": "The time and place where a story occurs.",
+        "Tone and Mood": "Tone refers to the author's attitude toward the subject, while mood is the emotion evoked in the reader.",
+        "Symbolism": "The use of symbols to represent deeper meanings or abstract ideas.",
+        "Imagery": "Descriptive language that appeals to the senses and helps to create a mental picture.",
+        "Foreshadowing": "The use of hints or clues to suggest events that will occur later in the story.",
+        "Irony": "A contrast between expectation and reality. This could be verbal irony (saying one thing but meaning another), dramatic irony (when the audience knows something the characters do not), or situational irony (when the opposite of what's expected happens).",
+        "Metaphor and Simile": "A metaphor is a direct comparison (e.g., \"Her eyes are stars\"), while a simile uses \"like\" or \"as\" to make a comparison (e.g., \"Her eyes are like stars\").",
+        "Allusion": "A reference to a well-known person, place, event, or work of literature. This often requires some outside knowledge to understand."
+    }
+}

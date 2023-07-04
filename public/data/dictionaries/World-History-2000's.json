@@ -1,0 +1,36 @@
+{
+    "options": [
+        "9/11 Attacks",
+        "War on Terror",
+        "Afghanistan Invasion (2001)",
+        "Iraq War (2003-2011)",
+        "Arab Spring (2010-2012)",
+        "Global Financial Crisis (2008)",
+        "European Refugee Crisis (2015-present)",
+        "Rise of China as a global power",
+        "Election of Barack Obama (2008)",
+        "Brexit (2016)",
+        "Paris Climate Agreement (2015)",
+        "Social Media Revolution",
+        "The rise of cryptocurrencies",
+        "Space Exploration advancements",
+        "International Criminal Court establishment (2002)"
+    ],
+    "hints": {
+        "9/11 Attacks": "The terrorist attacks on September 11, 2001, where the World Trade Center towers in New York City and the Pentagon in Washington D.C. were targeted by hijacked airplanes, killing nearly 3,000 people.",
+        "War on Terror": "A global military, political, and ideological struggle initiated by the United States and its allies after the 9/11 attacks to counter terrorism and dismantle terrorist organizations.",
+        "Afghanistan Invasion (2001)": "The U.S.-led coalition's invasion of Afghanistan to dismantle the Taliban regime and al-Qaeda following the 9/11 attacks.",
+        "Iraq War (2003-2011)": "The U.S.-led invasion and subsequent occupation of Iraq aimed at toppling Saddam Hussein's regime and eliminating weapons of mass destruction.",
+        "Arab Spring (2010-2012)": "A series of uprisings, protests, and revolutions across the Arab world demanding political and social reform.",
+        "Global Financial Crisis (2008)": "The worst economic downturn since the Great Depression, triggered by the collapse of the housing market and the failure of major financial institutions.",
+        "European Refugee Crisis (2015-present)": "The mass displacement of people from war-torn regions such as Syria, Iraq, and Afghanistan seeking refuge in Europe.",
+        "Rise of China as a global power": "The rapid economic growth and military expansion of China, challenging the global dominance of the United States and other Western powers.",
+        "Election of Barack Obama (2008)": "The historic election of the first African-American president of the United States, signifying a milestone in civil rights progress.",
+        "Brexit (2016)": "The United Kingdom's decision to leave the European Union, leading to ongoing political and economic consequences.",
+        "Paris Climate Agreement (2015)": "A global pact aimed at combating climate change by reducing greenhouse gas emissions and limiting global temperature increases.",
+        "Social Media Revolution": "The rise of social media platforms such as Facebook, Twitter, and Instagram, transforming communication, politics, and the spread of information.",
+        "The rise of cryptocurrencies": "The emergence and increasing popularity of digital currencies like Bitcoin, which use decentralized technology for secure financial transactions.",
+        "Space Exploration advancements": "Notable developments in space exploration, including the Mars Rover missions, the International Space Station, and the rise of private companies such as SpaceX.",
+        "International Criminal Court establishment (2002)": "The creation of a permanent international tribunal to prosecute individuals for war crimes, crimes against humanity, and genocide."
+    }
+}

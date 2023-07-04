@@ -1,0 +1,28 @@
+{
+    "options": [
+        "Deflect tactic",
+        "Redirect tactic",
+        "Socratic tactic",
+        "Compliment tactic",
+        "Anecdote tactic",
+        "Humor tactic",
+        "Honesty tactic",
+        "Expert referral tactic",
+        "Time constraint tactic",
+        "Common ground tactic",
+        "Counterexample tactic"
+    ],
+    "hints": {
+        "Redirect tactic": "Shift the focus onto another aspect of the topic or bring up a new, related subject to avoid answering the hard question directly.",
+        "Socratic tactic": "Respond to the hard question with another question, prompting the asker to think more deeply about the issue and possibly answer it themselves.",
+        "Compliment tactic": "Praise the asker for their insightful question before moving on to another topic, giving the impression that you're acknowledging their curiosity without actually answering the question.",
+        "Anecdote tactic": "Share a personal story or experience related to the topic, allowing you to engage with the asker without directly addressing the hard question.",
+        "Humor tactic": "Lighten the mood by making a joke or a witty remark related to the question, easing tension and potentially steering the conversation in a different direction.",
+        "Honesty tactic": "Admit that you don't know the answer or that you're not comfortable discussing the topic, showing vulnerability and potentially prompting the asker to move on to another question.",
+        "Expert referral tactic": "Suggest that someone else in the room or an external expert may be better equipped to answer the hard question, shifting responsibility for addressing the issue.",
+        "Time constraint tactic": "Mention that you don't have enough time to fully address the hard question, but offer to discuss it further at a later time or provide resources for the asker to explore on their own.",
+        "Common ground tactic": "Find an area of agreement or shared understanding with the asker, focusing on that aspect of the conversation instead of the hard question.",
+        "Counterexample tactic": "Provide an example that challenges the assumptions or premises behind the hard question, encouraging the asker to reconsider their line of inquiry.",
+        "Deflect tactic": "The deflect tactic involves steering the conversation away from the hard question by subtly changing the subject or focusing on a different aspect of the discussion."
+    }
+}

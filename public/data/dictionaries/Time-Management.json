@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Prioritize tasks",
+        "Set SMART goals",
+        "Break tasks into smaller steps",
+        "Use the Pomodoro Technique",
+        "Delegate tasks",
+        "Minimize distractions",
+        "Schedule your day",
+        "Learn to say no",
+        "Set boundaries",
+        "Use tools and technology",
+        "Batch similar tasks",
+        "Develop a routine",
+        "Optimize your environment",
+        "Regularly review your progress",
+        "Take breaks and rest"
+    ],
+    "hints": {
+        "Prioritize tasks": "Make a to-do list and prioritize tasks based on their importance and deadlines. Complete high-priority tasks first.",
+        "Set SMART goals": "Make sure your goals are Specific, Measurable, Achievable, Relevant, and Time-bound.",
+        "Break tasks into smaller steps": "Break complex tasks into smaller, more manageable steps to make them easier to tackle.",
+        "Use the Pomodoro Technique": "Work in focused, 25-minute intervals (called Pomodoros) with a 5-minute break in between. After four Pomodoros, take a longer break.",
+        "Delegate tasks": "If possible, delegate tasks to others when you have too much on your plate or when someone else is better suited to handle the task.",
+        "Minimize distractions": "Identify and eliminate distractions, such as social media, email notifications, or a noisy environment, to stay focused on your work.",
+        "Schedule your day": "Allocate specific time slots for each task in your calendar or planner. This helps ensure you stay on track and manage your time effectively.",
+        "Learn to say no": "Know your limits and avoid taking on additional responsibilities when your schedule is already full.",
+        "Set boundaries": "Communicate your working hours and availability to colleagues and clients to avoid interruptions and maintain a work-life balance.",
+        "Use tools and technology": "Utilize productivity apps, time tracking tools, and project management software to stay organized and manage your time efficiently.",
+        "Batch similar tasks": "Group similar tasks together and complete them in one sitting to improve focus and efficiency.",
+        "Develop a routine": "Establish a daily routine to maintain consistency and structure in your workday.",
+        "Optimize your environment": "Create a comfortable and organized workspace to enhance your productivity.",
+        "Regularly review your progress": "Reflect on your accomplishments and identify areas for improvement to optimize your time management strategies.",
+        "Take breaks and rest": "Make sure to take regular breaks and get enough sleep to maintain your mental and physical well-being, leading to better productivity and focus."
+    }
+}

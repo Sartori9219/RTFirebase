@@ -1,0 +1,35 @@
+{
+    "options": [
+        "Atomic Structure",
+        "Crystallography",
+        "Mechanical Properties",
+        "Electrical Properties",
+        "Thermal Properties",
+        "Magnetic Properties",
+        "Polymers",
+        "Ceramics",
+        "Metals and Alloys",
+        "Composite Materials",
+        "Nanomaterials",
+        "Corrosion",
+        "Material Processing",
+        "Material Testing"
+    ],
+    "hints": {
+        "Atomic Structure": "This refers to the arrangement of subatomic particles (protons, neutrons, and electrons) in an atom, which largely influences the properties of materials.",
+        "Crystallography": "This is the study of crystals and their structure. In materials science, it's important because many materials are crystalline at the atomic level.",
+        "Mechanical Properties": "These are the characteristics of a material that respond to applied forces, such as strength, hardness, ductility, and toughness.",
+        "Electrical Properties": "These are characteristics related to how a material responds to electric fields, such as conductivity, resistivity, and dielectric constant.",
+        "Thermal Properties": "These characteristics describe how a material responds to changes in temperature and to heat, including thermal conductivity and thermal expansion.",
+        "Magnetic Properties": "These properties pertain to the magnetization of a material and its interaction with external magnetic fields.",
+        "Chemical Properties": "This involves how a material interacts with various chemicals and the environment, including its reactivity and corrosion resistance.",
+        "Polymers": "These are large molecules made up of repeating subunits, often used in plastics, rubber, and fibers.",
+        "Ceramics": "These are nonmetallic, inorganic materials that are typically brittle and hard, and used in applications that require heat resistance.",
+        "Metals and Alloys": "Metals are materials that are typically malleable, ductile, and conductive. Alloys are mixtures of two or more metals, designed to have specific properties.",
+        "Composite Materials": "These are materials made from two or more constituent materials with significantly different physical or chemical properties, that when combined, produce a material with characteristics different from the individual components.",
+        "Nanomaterials": "These are materials that have one or more dimensions at the nanoscale (1-100 nanometers). They often have unique properties because of their size.",
+        "Corrosion": "This is the degradation of materials due to reactions with their environment. It's a key concern in materials engineering.",
+        "Material Processing": "This refers to the series of steps that converts raw materials into usable forms, such as casting, welding, and heat treatment.",
+        "Material Testing": "This involves various techniques used to evaluate the properties of a material, which can include tensile testing, hardness testing, and impact testing."
+    }
+}

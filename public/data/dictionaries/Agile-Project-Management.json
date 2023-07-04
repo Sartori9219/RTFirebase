@@ -1,0 +1,38 @@
+{
+    "options": [
+        "Agile emphasizes the importance of people working together effectively, rather than relying solely on processes and tools.",
+        "Agile focuses on delivering functional software quickly, rather than spending excessive time on documentation.",
+        "Agile encourages close collaboration with customers throughout the project, instead of focusing on rigid contract terms.",
+        "Agile is about adapting to change and continuously improving, rather than strictly adhering to a predefined plan.",
+        "Agile emphasizes the importance of delivering useful software to customers as quickly as possible.",
+        "Agile processes are flexible and adaptive, allowing for changes in requirements throughout the project.",
+        "Agile projects aim to release new features or updates regularly, rather than waiting for a single, large release.",
+        "Collaboration between business stakeholders and developers is essential for effective Agile development.",
+        "Agile teams are built with motivated individuals, who are empowered to make decisions and have the necessary resources to succeed.",
+        "Agile encourages direct communication among team members, which helps to minimize misunderstandings and keep the project moving forward.",
+        "Agile teams focus on delivering functional software as the main indicator of project success.",
+        "Agile development seeks to balance productivity and sustainability, ensuring that team members avoid burnout and can maintain a consistent pace.",
+        "Agile teams are committed to improving their skills and delivering high-quality software, which helps to maintain flexibility and adaptability.",
+        "Agile development aims to reduce complexity and focus on the most critical tasks, increasing efficiency and effectiveness.",
+        "Agile teams are empowered to make decisions, enabling them to develop the best solutions for the project.",
+        "Agile teams continually evaluate their performance and look for ways to improve their processes."
+    ],
+    "hints": {
+        "Individuals and interactions over processes and tools": "Agile emphasizes the importance of people working together effectively, rather than relying solely on processes and tools.",
+        "Working software over comprehensive documentation": "Agile focuses on delivering functional software quickly, rather than spending excessive time on documentation.",
+        "Customer collaboration over contract negotiation": "Agile encourages close collaboration with customers throughout the project, instead of focusing on rigid contract terms.",
+        "Responding to change over following a plan": "Agile is about adapting to change and continuously improving, rather than strictly adhering to a predefined plan.",
+        "Emphasizing Speedy Delivery": "Agile emphasizes the importance of delivering useful software to customers as quickly as possible.",
+        "Flexibility and Adaptability": "Agile processes are flexible and adaptive, allowing for changes in requirements throughout the project.",
+        "Frequent and Incremental Releases": "Agile projects aim to release new features or updates regularly, rather than waiting for a single, large release.",
+        "Collaboration": "Collaboration between business stakeholders and developers is essential for effective Agile development.",
+        "Empowered Teams": "Agile teams are built with motivated individuals, who are empowered to make decisions and have the necessary resources to succeed.",
+        "Direct Communication": "Agile encourages direct communication among team members, which helps to minimize misunderstandings and keep the project moving forward.",
+        "Delivery Focus": "Agile teams focus on delivering functional software as the main indicator of project success.",
+        "Sustainable Productivity": "Agile development seeks to balance productivity and sustainability, ensuring that team members avoid burnout and can maintain a consistent pace.",
+        "Continuous Improvement": "Agile teams are committed to improving their skills and delivering high-quality software, which helps to maintain flexibility and adaptability.",
+        "Simplicity and Efficiency": "Agile development aims to reduce complexity and focus on the most critical tasks, increasing efficiency and effectiveness.",
+        "Decision-making Authority": "Agile teams are empowered to make decisions, enabling them to develop the best solutions for the project.",
+        "Performance Evaluation and Improvement": "Agile teams continually evaluate their performance and look for ways to improve their processes."
+    }
+}

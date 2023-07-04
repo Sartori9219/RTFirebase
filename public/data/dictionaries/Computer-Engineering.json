@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Algorithms",
+        "Data Structures",
+        "Computer Architecture",
+        "Operating Systems",
+        "Computer Networks",
+        "Software Engineering",
+        "Programming Languages",
+        "Cybersecurity",
+        "Database Systems",
+        "Embedded Systems",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Computer Graphics",
+        "Human-Computer Interaction",
+        "High Performance Computing"
+    ],
+    "hints": {
+        "Algorithms": "A set of instructions designed to perform a specific task. This can range from data processing, mathematical computations to automated reasoning tasks.",
+        "Data Structures": "A data structure is a particular way of organizing and storing data in a computer so that it can be accessed and modified efficiently.",
+        "Computer Architecture": "This refers to the design of computers, including their instruction sets, hardware components and system organization.",
+        "Operating Systems": "An operating system is system software that manages computer hardware, software resources, and provides various services for computer programs.",
+        "Computer Networks": "The study of how computers can be linked to share data and resources despite geographical distance.",
+        "Software Engineering": "The application of engineering to the development of software in a systematic method.",
+        "Programming Languages": "A formal language comprising a set of instructions that produce various kinds of output.",
+        "Cybersecurity": "This involves protecting computer systems from theft or damage to their hardware, software, or electronic data.",
+        "Database Systems": "A structured set of data. So, a computer database is a structured set of data.",
+        "Embedded Systems": "A computer system with a dedicated function within a larger mechanical or electrical system.",
+        "Artificial Intelligence": "The simulation of human intelligence processes by machines, especially computer systems.",
+        "Machine Learning": "A type of artificial intelligence that allows software applications to become more accurate in predicting outcomes without being explicitly programmed.",
+        "Computer Graphics": "The branch of computer science that deals with generating images with the aid of computers.",
+        "Human-Computer Interaction": "A multidisciplinary field of study focusing on the design of computer technology and, in particular, the interaction between humans and computers.",
+        "High Performance Computing": "The use of parallel processing for running advanced application programs efficiently, reliably and quickly."
+    }
+}

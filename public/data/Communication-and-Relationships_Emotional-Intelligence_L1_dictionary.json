@@ -1,0 +1,535 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, did you see me accidentally mix up salt and sugar in my coffee? It was like drinking ocean water!",
+        "Haha, yeah! It's great that you can laugh about it and not get too upset."
+      ],
+      "options": [
+        "Self-awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just realized that whenever I feel stressed, I start doodling tiny penguins wearing bowties on my notepad.",
+        "That's a funny and creative way to cope! Recognizing your own patterns is so important."
+      ],
+      "options": [
+        "Self-awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know, I'm really good at organizing, but I struggle with public speaking. I think I'll focus on improving that skill.",
+        "That's awesome! Being aware of your own strengths and weaknesses can really help you grow."
+      ],
+      "options": [
+        "Self-awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I almost lost my cool in that meeting, but I took a deep breath and counted to 10.",
+        "Nice job! Keeping your emotions in check can make a big difference in the workplace."
+      ],
+      "options": [
+        "Self-regulation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I saw that you were feeling down, so I brought you your favorite snack to cheer you up.",
+        "Thanks! You really know how to put yourself in someone else's shoes."
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When I was telling you about my problem, you really made me feel heard and understood.",
+        "I'm glad! I always try to be fully present when someone's talking to me."
+      ],
+      "options": [
+        "Active listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I could tell you were excited about the project just by the way your eyes lit up!",
+        "Haha, yeah! Sometimes our expressions say more than words ever could."
+      ],
+      "options": [
+        "Nonverbal communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I loved your happy dance after we reached our sales goal! It was so genuine and contagious.",
+        "Thanks! I believe in celebrating our victories and expressing our emotions."
+      ],
+      "options": [
+        "Emotional expression (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I appreciated how you stood up for our team's ideas in the meeting today.",
+        "Thanks! It's important to express our opinions confidently while respecting others."
+      ],
+      "options": [
+        "Assertiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "We disagreed on that issue, but you helped us find a solution that worked for everyone.",
+        "I'm glad we could resolve it! It's important to address conflicts constructively."
+      ],
+      "options": [
+        "Conflict resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't believe we had to change our entire presentation last minute, but you handled it so well!",
+        "Thanks! When things don't go as planned, being adaptable is key."
+      ],
+      "options": [
+        "Adaptability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You always know how to make everyone feel included and valued on the team.",
+        "Thank you! I believe maintaining positive relationships is essential for success."
+      ],
+      "options": [
+        "Relationship management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "We all had different ideas, but you helped us combine them into a fantastic project!",
+        "Teamwork makes the dream work!"
+      ],
+      "options": [
+        "Teamwork (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You noticed that our coworker was overwhelmed and stepped in to help without being asked.",
+        "It's important to be aware of others' needs and offer support."
+      ],
+      "options": [
+        "Social awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Even though we lost that big client, you bounced back and kept a positive attitude.",
+        "Thanks! Staying resilient helps us overcome setbacks and keep moving forward."
+      ],
+      "options": [
+        "Emotional resilience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You're always so enthusiastic about your work, even when the tasks are challenging.",
+        "Having a strong motivation helps me stay focused and driven!"
+      ],
+      "options": [
+        "Motivation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I was impressed with how you considered all the options and made a thoughtful decision.",
+        "Thanks! I try to use both my emotions and logic to make the best choices."
+      ],
+      "options": [
+        "Decision-making (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I was tempted to eat all the donuts in the break room, but I stopped myself after just one.",
+        "Wow, you must have a strong willpower to resist that temptation!"
+      ],
+      "options": [
+        "Self-regulation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I felt annoyed when I received that passive-aggressive email, but I decided to respond professionally and calmly.",
+        "Good call! It's smart to keep your emotions in check when dealing with tricky situations."
+      ],
+      "options": [
+        "Self-regulation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I was so frustrated in traffic today, but instead of honking my horn, I listened to my favorite podcast and stayed calm.",
+        "Nice job! Managing your emotions can make a big difference in your day."
+      ],
+      "options": [
+        "Self-regulation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When you saw that I was nervous before my presentation, you shared your own funny story about stage fright. It really helped!",
+        "I'm glad I could help. We've all been there, and it's important to support each other."
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You always seem to know when someone's having a bad day and offer a listening ear.",
+        "I just try to be there for my coworkers. We're all in this together!"
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When you noticed I was struggling with my workload, you offered to help me out. That was so thoughtful.",
+        "Of course! It's important to show understanding and empathy towards our colleagues."
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love how you always ask thoughtful questions during our conversations. It makes me feel heard.",
+        "Thanks! I believe that active listening is key to understanding others and building strong relationships."
+      ],
+      "options": [
+        "Active listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I really appreciate that you took the time to listen to my concerns about the project and provided constructive feedback.",
+        "You're welcome! It's important to be present and attentive when someone's sharing their thoughts."
+      ],
+      "options": [
+        "Active listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed that when people talk to you, you always give them your full attention and respond thoughtfully.",
+        "Thank you! Active listening is a skill I value and try to practice regularly."
+      ],
+      "options": [
+        "Active listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The way you high-fived everyone after our team's win was such a fun and positive way to celebrate.",
+        "Thanks! Sometimes a simple gesture can say more than words."
+      ],
+      "options": [
+        "Nonverbal communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I appreciated your reassuring smile when I was presenting my ideas in the meeting. It helped me feel more confident.",
+        "I'm glad I could help! Nonverbal communication can be a powerful way to support others."
+      ],
+      "options": [
+        "Nonverbal communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed that you always make eye contact when talking to someone. It really shows that you're engaged and interested.",
+        "Thank you! I believe that nonverbal cues are an important part of communication."
+      ],
+      "options": [
+        "Nonverbal communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know, when you dressed up as a superhero after finishing that tough project, it really lightened the mood!",
+        "Thanks! I'm a firm believer in celebrating our successes, even if it means getting a little goofy."
+      ],
+      "options": [
+        "Emotional expression (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That time you shared your excitement about the new office snacks made everyone else excited too!",
+        "I can't help it. I just love avocados! It's important to express our emotions, even the little joys in life."
+      ],
+      "options": [
+        "Emotional expression (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I loved how you created a fun meme to express your feelings about our new software update.",
+        "Haha, thanks! Sometimes a bit of humor can help us all relate to each other's emotions."
+      ],
+      "options": [
+        "Emotional expression (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I like how you confidently shared your idea in the meeting, even when others were skeptical.",
+        "Thanks! It's important to stand up for our beliefs while also being open to others' opinions."
+      ],
+      "options": [
+        "Assertiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed you calmly and respectfully disagreed with our manager. It takes courage to do that.",
+        "Thank you. I think assertiveness is about finding a balance between expressing our thoughts and respecting others."
+      ],
+      "options": [
+        "Assertiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When you asked for a deadline extension, you were firm but polite. It's a great example of assertiveness.",
+        "Thanks! I've learned that being assertive can help us communicate our needs more effectively."
+      ],
+      "options": [
+        "Assertiveness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when you broke the tension between two coworkers by suggesting a dance-off? That was hilarious!",
+        "Haha, yeah! Sometimes a little humor can help resolve conflicts and bring people together."
+      ],
+      "options": [
+        "Conflict resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You handled that disagreement in the meeting by finding a creative solution that made everyone happy.",
+        "Thanks! It's important to look for win-win situations when resolving conflicts."
+      ],
+      "options": [
+        "Conflict resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I loved how you used a game of rock-paper-scissors to settle the office debate about where to order lunch from.",
+        "Why not have some fun while resolving conflicts, right?"
+      ],
+      "options": [
+        "Conflict resolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When our presentation tech failed, you quickly switched to an interpretive dance version. It was so entertaining!",
+        "Thanks! When things go wrong, you've got to think on your feet and adapt."
+      ],
+      "options": [
+        "Adaptability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You didn't panic when we had to work from home unexpectedly. Instead, you organized an online karaoke party for team bonding!",
+        "Adapting to change can be fun! We just have to make the best of every situation."
+      ],
+      "options": [
+        "Adaptability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I was amazed by how quickly you learned to use that new software after our old one was discontinued.",
+        "Thank you! In this fast-paced world, being adaptable is key to staying ahead."
+      ],
+      "options": [
+        "Adaptability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your surprise office ice cream party really brought everyone closer together. It was a sweet way to build relationships!",
+        "Thank you! I think creating positive experiences helps strengthen our connections."
+      ],
+      "options": [
+        "Relationship management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You always remember everyone's birthdays and arrange a little celebration. It's such a nice gesture!",
+        "I believe that celebrating milestones together fosters better relationships among coworkers."
+      ],
+      "options": [
+        "Relationship management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love how you started a weekly game night for the team. It's a fun way to unwind and connect outside of work.",
+        "Thanks! Spending quality time together helps build stronger relationships."
+      ],
+      "options": [
+        "Relationship management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Remember when we were all stuck on that puzzle in the escape room, and you suggested we each try a different section? It really helped!",
+        "Teamwork is all about finding ways to combine our strengths for better results."
+      ],
+      "options": [
+        "Teamwork (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I loved how you created a team mascot and cheer to keep our spirits high during the company sports day.",
+        "Haha, thanks! A little team spirit can make all the difference!"
+      ],
+      "options": [
+        "Teamwork (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your idea to have a team potluck lunch where everyone brought a dish from their culture was both delicious and team-building!",
+        "Thank you! Sharing our diverse backgrounds helps us bond as a team."
+      ],
+      "options": [
+        "Teamwork (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When you noticed the new hire was feeling left out, you made sure to include them in our conversations. It was really considerate.",
+        "It's important to be aware of others' feelings and make them feel welcome."
+      ],
+      "options": [
+        "Social awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You always seem to sense when someone needs a pick-me-up and offer a kind word or gesture.",
+        "Thanks! I believe that being socially aware helps create a supportive work environment."
+      ],
+      "options": [
+        "Social awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You recognized that our coworker was feeling overwhelmed and discreetly offered to help without embarrassing them.",
+        "Being socially aware means looking out for each other and offering support when needed."
+      ],
+      "options": [
+        "Social awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You bounced back so quickly after that project setback. You even made a joke about it to lighten the mood!",
+        "Thanks! Emotional resilience helps us recover from challenges and keep a positive attitude."
+      ],
+      "options": [
+        "Emotional resilience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I admire how you managed to stay focused and motivated even after receiving some tough feedback.",
+        "Thank you! Building emotional resilience is key to overcoming obstacles and growing."
+      ],
+      "options": [
+        "Emotional resilience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You didn't let that difficult client get to you. Instead, you kept your cool and found a solution.",
+        "Being emotionally resilient helps me stay in control and navigate tough situations."
+      ],
+      "options": [
+        "Emotional resilience (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You always bring so much energy and enthusiasm to our team meetings. It's contagious!",
+        "I believe staying motivated is crucial for success, and I love sharing that energy with others."
+      ],
+      "options": [
+        "Motivation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your dedication to learning new skills and improving yourself is truly inspiring.",
+        "Thanks! Motivation is what keeps me pushing forward and striving for growth."
+      ],
+      "options": [
+        "Motivation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love how you turned our sales goals into a friendly competition with fun rewards. It really boosted our motivation!",
+        "A little friendly rivalry can help fuel our motivation and make work more enjoyable."
+      ],
+      "options": [
+        "Motivation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When we couldn't decide which vendor to choose, you created that hilarious 'Vendor Battle Royale' chart to weigh the pros and cons.",
+        "Sometimes a fun and visual approach can help make better decisions!"
+      ],
+      "options": [
+        "Decision-making (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You made a tough decision to reassign some tasks, but it ended up improving our team's productivity. Your decisiveness was impressive.",
+        "Thank you! Making informed decisions is key to managing projects effectively."
+      ],
+      "options": [
+        "Decision-making (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You took the time to gather everyone's opinions before deciding on our team outing destination. It shows you value everyone's input.",
+        "I believe that inclusive decision-making leads to better outcomes and happier team members."
+      ],
+      "options": [
+        "Decision-making (correct answer)"
+      ]
+    }
+  ]
+}

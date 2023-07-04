@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, did you hear about the time I accidentally spilled my lunch all over myself in the cafeteria?",
+        "Oh no, that must have been so embarrassing for you! I remember when I tripped on stage during the talent show \u2013 it's tough to be in those situations."
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm so stressed about the math exam coming up. I just can't seem to understand these equations!",
+        "Yeah, math can be really challenging sometimes. I struggled with it too last semester. If you want, we can study together and help each other out?"
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My dog, Fluffy, passed away last night. I'm feeling really sad.",
+        "I'm so sorry to hear about Fluffy. Losing a pet is really hard. When my cat Whiskers passed away, I felt the same way. If you need someone to talk to, I'm here for you."
+      ],
+      "options": [
+        "Empathy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't believe I got a C on my history paper! I spent so much time researching and writing it.",
+        "You got a C? That's rough, especially after putting in all that effort. What was the feedback from the teacher?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm feeling really nervous about trying out for the school play. What if I mess up?",
+        "So you're worried about making a mistake during the audition? Have you thought about practicing with a friend to boost your confidence?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My little sister keeps taking my stuff without asking, and it's driving me crazy!",
+        "It sounds like your sister's behavior is really bothering you. Have you talked to her about how it makes you feel when she takes your things?"
+      ],
+      "options": [
+        "Active Listening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I got invited to my friend's Diwali celebration, but I don't know anything about the holiday or what to wear.",
+        "That's cool! Diwali is a Hindu festival of lights, and people usually wear colorful, traditional clothes. You could ask your friend for advice on what to wear, and maybe read up on the holiday to understand its significance."
+      ],
+      "options": [
+        "Cultural Competence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My new classmate is from Mexico, and he was talking about something called \"D\u00eda de los Muertos.\" It sounds interesting!",
+        "Oh, that's Day of the Dead! It's a Mexican holiday where families remember and honor their deceased loved ones. They create beautiful altars and celebrate with food and music. It's a fascinating tradition!"
+      ],
+      "options": [
+        "Cultural Competence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm going to my friend's house for dinner, and her family is Muslim. Are there any dietary restrictions I should be aware of?",
+        "Yes, Muslims typically follow halal dietary guidelines, which means they don't eat pork or consume alcohol. It's great that you're being considerate of their beliefs \u2013 just make sure to avoid bringing any food or drinks containing those items."
+      ],
+      "options": [
+        "Cultural Competence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just realized that I tend to get defensive when someone criticizes me, even if it's constructive.",
+        "That's a great observation! Being aware of how you react to criticism can help you improve your communication skills and grow as a person."
+      ],
+      "options": [
+        "Self-Awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Every time I have to give a presentation, my hands start shaking, and I feel like I'm going to pass out.",
+        "It sounds like you're aware of your anxiety around public speaking. Maybe you could try some relaxation techniques or practice more to overcome your fears."
+      ],
+      "options": [
+        "Self-Awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've noticed that I tend to interrupt people during conversations. I think it's because I get excited and want to share my thoughts right away.",
+        "It's great that you're recognizing this habit. Now that you're aware of it, you can work on being more patient and letting others finish their thoughts before jumping in."
+      ],
+      "options": [
+        "Self-Awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a wallet on the ground with $50 in it. What should I do?",
+        "Well, think about how you'd feel if you lost your wallet. It would be best to try to find the owner or turn it into the lost and found."
+      ],
+      "options": [
+        "Ethics and Values (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I overheard some kids planning to cheat on the upcoming test. I don't know if I should tell the teacher or not.",
+        "Cheating undermines the value of hard work and honesty. You could talk to the teacher anonymously or encourage the kids to reconsider their decision."
+      ],
+      "options": [
+        "Ethics and Values (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend wants me to lie for her so she can go to a party without her parents knowing. I'm not sure what to do.",
+        "It's important to consider the consequences of lying and whether it aligns with your values. Maybe you could help your friend find a different solution that doesn't involve dishonesty."
+      ],
+      "options": [
+        "Ethics and Values (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend told me a secret about their crush, but it's so juicy! I really want to share it with someone.",
+        "Remember, your friend trusted you with that information. It's important to respect their privacy and keep it confidential."
+      ],
+      "options": [
+        "Confidentiality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I accidentally saw my classmate's test score, and it wasn't very good. I feel bad for them.",
+        "It's best to keep that information to yourself \u2013 sharing it with others could embarrass them or damage your relationship."
+      ],
+      "options": [
+        "Confidentiality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I overheard our teacher talking about a surprise party for another teacher. I want to tell everyone!",
+        "Hold on! That's supposed to be a surprise, right? It's better to keep it confidential and let the organizers reveal the plan when they're ready."
+      ],
+      "options": [
+        "Confidentiality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend wants to borrow my favorite hoodie, but I'm really attached to it. I don't know what to say.",
+        "It's okay to set boundaries and let your friend know that you're not comfortable lending out your favorite hoodie. They should understand."
+      ],
+      "options": [
+        "Boundaries (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I told my classmate that I need some alone time during lunch to recharge, but they keep sitting with me anyway.",
+        "It's important to communicate your boundaries clearly. Remind your classmate that you appreciate their company, but you'd like some quiet time during lunch."
+      ],
+      "options": [
+        "Boundaries (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My neighbor keeps asking me to walk their dog every day after school, but I'm already swamped with homework and extracurriculars.",
+        "You have the right to set limits on your time and energy. Politely let your neighbor know that you can't help out every day and suggest they find another solution."
+      ],
+      "options": [
+        "Boundaries (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed that the school doesn't have a recycling program. We're just throwing away so much potential recyclable material!",
+        "That's a great point! You could advocate for a recycling program by talking to the school administration or starting a petition to show there's interest in it."
+      ],
+      "options": [
+        "Advocacy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a really talented artist in our class, but their work isn't getting the recognition it deserves.",
+        "Why not become an advocate for their art? Share their work on social media, talk to the school newspaper, or suggest they participate in local art events."
+      ],
+      "options": [
+        "Advocacy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm upset that the school's budget cuts are affecting the music program. Music is so important to many of us!",
+        "You should advocate for the music program! Speak up at a school board meeting, write a letter to the administration, or organize a fundraiser to show your support."
+      ],
+      "options": [
+        "Advocacy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm struggling with math, but I'm really good at writing essays. I don't know how to improve my math skills.",
+        "Let's use your strengths! You could try writing a step-by-step guide for solving math problems, which might help you understand the concepts better while using your writing skills."
+      ],
+      "options": [
+        "Strengths-Based Approach (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to join the soccer team, but I'm not very fast. I do have great hand-eye coordination, though.",
+        "You could focus on your strength and work on becoming an excellent goalie! They need great hand-eye coordination to block those shots."
+      ],
+      "options": [
+        "Strengths-Based Approach (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm terrible at remembering dates and names for history class, but I love making up stories in my head.",
+        "Why not use your storytelling ability to create memorable stories around historical events? It could help you remember the details more easily."
+      ],
+      "options": [
+        "Strengths-Based Approach (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend's grades have been dropping lately, but they used to be a straight-A student. I don't know what's going on.",
+        "It's important to consider their environment \u2013 maybe something changed at home or they're facing new challenges. Offer your support and try to understand their situation."
+      ],
+      "options": [
+        "Person-in-Environment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've noticed that I'm more confident and outgoing when I'm in my drama club than when I'm in my regular classes.",
+        "That's interesting! It shows how the environment can affect our behavior. Maybe you could find ways to bring that confidence into other areas of your life."
+      ],
+      "options": [
+        "Person-in-Environment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't understand why some kids are always causing trouble in class. Why can't they just behave?",
+        "We should remember the person-in-environment concept \u2013 there might be factors outside of school affecting their behavior. Instead of judging, it's better to empathize and offer help if we can."
+      ],
+      "options": [
+        "Person-in-Environment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why one student skipping class affects the whole class's learning experience.",
+        "It's like systems theory \u2013 everything is interconnected. When one student misses class, it can disrupt group discussions or lead to gaps in shared knowledge."
+      ],
+      "options": [
+        "Systems Theory (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our school's soccer team hasn't been performing well lately. I wonder if it's because of the new coach.",
+        "It could be, but remember, a team's performance is influenced by multiple factors, like player morale, training methods, and even school support. Systems theory helps us see the bigger picture."
+      ],
+      "options": [
+        "Systems Theory (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend has been feeling overwhelmed with stress from school and family issues. How can I help them?",
+        "Keep in mind that their stress is part of a larger system, including school, family, and personal experiences. You can help by offering support in different areas, like tutoring, listening, or just spending time together."
+      ],
+      "options": [
+        "Systems Theory (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed that our school doesn't have many extracurricular activities for students with disabilities. It seems unfair.",
+        "You're right! Social justice means ensuring equal opportunities for everyone. Maybe we could start a club or suggest new inclusive activities to the school administration."
+      ],
+      "options": [
+        "Social Justice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been thinking about how some kids at school can't afford lunch, and it bothers me.",
+        "That's definitely a social justice issue. We could organize a fundraiser or advocate for a free or reduced-cost lunch program to help those in need."
+      ],
+      "options": [
+        "Social Justice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our school's dress code seems to disproportionately target certain groups of students, especially girls and students from specific cultural backgrounds.",
+        "Addressing this issue would be an act of social justice. We could work together to create a more inclusive and fair dress code policy and present it to the school administration."
+      ],
+      "options": [
+        "Social Justice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm struggling in chemistry, but I don't know which specific areas I need to work on.",
+        "You could try doing an assessment of your skills by going through past quizzes and assignments to identify the topics you find most challenging. Then, focus on improving those areas!"
+      ],
+      "options": [
+        "Assessment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to join a club at school, but I'm not sure which one would be a good fit for me.",
+        "Take some time to assess your interests, strengths, and availability. Make a list and compare it with the clubs offered, and you'll likely find one that suits you best!"
+      ],
+      "options": [
+        "Assessment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't know if I should take the advanced math class next semester. What if it's too difficult?",
+        "To help you decide, assess your current math skills and your willingness to put in extra effort if needed. Talk to your teacher or students who have taken the class to get more insight."
+      ],
+      "options": [
+        "Assessment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed my friend has been really down lately, and they're not talking to anyone. I'm worried about them.",
+        "It might be a good idea to intervene and let them know you're there for them. Sometimes people just need someone to listen and offer support."
+      ],
+      "options": [
+        "Intervention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a group of kids who always pick on the new students. It's not fair, but I don't know what to do.",
+        "You could try intervening by standing up for the new students or reporting the situation to a teacher who can address the issue."
+      ],
+      "options": [
+        "Intervention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My little brother is struggling with reading, and it's affecting his schoolwork. How can I help?",
+        "You could intervene by offering to read with him regularly or finding fun activities that encourage reading, like games or joining a book club together."
+      ],
+      "options": [
+        "Intervention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our school started a new recycling program, but I'm not sure if it's making a difference.",
+        "To find out, we could evaluate the program by measuring the amount of recycled materials collected and comparing it to previous waste levels. That way, we'll know if it's effective!"
+      ],
+      "options": [
+        "Evaluation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been practicing my guitar every day, but I don't know if I'm getting any better.",
+        "You could evaluate your progress by recording yourself playing and comparing it to older recordings. Or, ask for feedback from a teacher or friend who plays guitar."
+      ],
+      "options": [
+        "Evaluation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our school started a new tutoring program, but how do we know if it's helping students?",
+        "We can evaluate the program by tracking students' grades and progress before and after participating in the tutoring sessions. This will give us an idea of its effectiveness."
+      ],
+      "options": [
+        "Evaluation (correct answer)"
+      ]
+    }
+  ]
+}

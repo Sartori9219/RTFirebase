@@ -1,0 +1,32 @@
+{
+    "options": [
+        "Sarcastic compliment",
+        "Fake compliment",
+        "Backhanded compliment",
+        "Sincere compliment",
+        "Observational compliment",
+        "Skill-based compliment",
+        "Personality compliment",
+        "Effort-based compliment",
+        "Achievement-based compliment",
+        "Taste-based compliment",
+        "Relational compliment",
+        "Intellectual compliment",
+        "Empathetic compliment"
+    ],
+    "hints": {
+        "Sarcastic compliment": "A type of compliment where the speaker says something positive but actually means the opposite or something different, often to mock or make fun of the person or situation.",
+        "Fake compliment": "A compliment that isn't honest, given just to be nice or to get something in return. The person giving it doesn't really mean what they're saying.",
+        "Backhanded compliment": "A tricky kind of compliment that seems nice at first but also seems insulting.",
+        "Sincere compliment": "A true and kind compliment that comes from the heart. The person giving it really means it and wants to make the person receiving it feel good.",
+        "Observational compliment": "A compliment based on an observation, such as a person's appearance, clothing, or accessory.",
+        "Skill-based compliment": "A compliment that acknowledges someone's talent, skill, or ability, e.g., playing an instrument, sports, or cooking.",
+        "Personality compliment": "A compliment focusing on someone's character traits, such as kindness, honesty, or humor.",
+        "Effort-based compliment": "A compliment that recognizes the hard work or dedication someone has put into a task or project.",
+        "Achievement-based compliment": "A compliment that celebrates someone's accomplishments, such as graduating, getting a promotion, or reaching a personal goal.",
+        "Taste-based compliment": "A compliment that appreciates someone's preferences, such as their taste in music, fashion, or art.",
+        "Relational compliment": "A compliment that highlights someone's ability to build and maintain strong relationships, e.g., being a good friend, partner, or team player.",
+        "Intellectual compliment": "A compliment that acknowledges someone's intelligence, wisdom, or insight.",
+        "Empathetic compliment": "A compliment that recognizes someone's ability to understand and empathize with the feelings of others."
+    }
+}

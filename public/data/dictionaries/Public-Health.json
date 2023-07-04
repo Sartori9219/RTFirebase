@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Epidemiology",
+        "Health promotion",
+        "Disease prevention",
+        "Environmental health",
+        "Global health",
+        "Health disparities",
+        "Health policy and management",
+        "Infectious diseases",
+        "Non-communicable diseases",
+        "Nutrition",
+        "Mental health",
+        "Social determinants of health",
+        "Biostatistics",
+        "Vaccination",
+        "Community health"
+    ],
+    "hints": {
+        "Epidemiology": "The study of patterns, causes, and effects of health and disease conditions in populations, which helps inform public health interventions and policies.",
+        "Health promotion": "Efforts to encourage healthy behaviors and lifestyles, aiming to improve overall well-being and prevent illness.",
+        "Disease prevention": "Strategies to reduce the occurrence of diseases and illnesses by addressing risk factors and implementing early detection methods.",
+        "Environmental health": "The branch of public health that focuses on how environmental factors, such as pollution and climate change, impact human health.",
+        "Global health": "The study and practice of improving health and achieving equity in health for all people worldwide, regardless of national borders.",
+        "Health disparities": "Differences in health outcomes among different population groups, often influenced by social, economic, and environmental factors.",
+        "Health policy and management": "The development, implementation, and evaluation of policies and programs to address public health issues and improve healthcare systems.",
+        "Infectious diseases": "Illnesses caused by microorganisms, such as bacteria, viruses, and parasites, that can spread from person to person or through the environment.",
+        "Non-communicable diseases": "Chronic diseases that are not transmitted between individuals, such as heart disease, cancer, and diabetes.",
+        "Nutrition": "The study of how diet impacts health, with a focus on promoting healthy eating habits and addressing malnutrition.",
+        "Mental health": "The state of emotional, psychological, and social well-being, and its impact on overall health and quality of life.",
+        "Social determinants of health": "Conditions in which people are born, grow, live, work, and age that influence their health outcomes, such as income, education, and social support.",
+        "Biostatistics": "The application of statistical methods to analyze and interpret public health data, supporting evidence-based decision-making.",
+        "Vaccination": "The use of vaccines to protect individuals and populations from infectious diseases by stimulating the immune system to recognize and fight specific pathogens.",
+        "Community health": "The practice of identifying and addressing health concerns within specific communities or populations to improve overall well-being."
+    }
+}

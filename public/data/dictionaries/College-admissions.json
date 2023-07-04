@@ -1,0 +1,36 @@
+{
+    "options": [
+        "College Application",
+        "Early Decision",
+        "Early Action",
+        "Regular Decision",
+        "Rolling Admissions",
+        "Common Application",
+        "Coalition Application",
+        "College Essay",
+        "Letters of Recommendation",
+        "Standardized Tests (SAT/ACT)",
+        "Extracurricular Activities",
+        "High School Transcript",
+        "Grade Point Average (GPA)",
+        "Class Rank",
+        "Financial Aid"
+    ],
+    "hints": {
+        "College Application": "The form students fill out to apply for admission to a college or university, including personal and academic information.",
+        "Early Decision": "A binding application process where a student applies early to their top-choice school and, if accepted, must commit to attending.",
+        "Early Action": "A non-binding application process where a student applies early and receives a decision before the regular decision deadline.",
+        "Regular Decision": "The standard application process with a later deadline, allowing students to submit applications to multiple schools and compare offers.",
+        "Rolling Admissions": "An application process where colleges review applications as they are submitted and make decisions on a rolling basis until all spots are filled.",
+        "Common Application": "A standardized college application used by many schools, allowing students to apply to multiple colleges with one form.",
+        "Coalition Application": "An alternative to the Common Application, offering a shared application platform for a group of colleges and universities.",
+        "College Essay": "A personal statement written by the student as part of the college application, showcasing their personality, experiences, and writing skills.",
+        "Letters of Recommendation": "Written endorsements from teachers, counselors, or other adults who can speak to a student's character and abilities, submitted with the college application.",
+        "Standardized Tests (SAT/ACT)": "Exams that measure a student's academic skills, often required for college admissions to compare applicants from different schools.",
+        "Extracurricular Activities": "Non-academic pursuits, such as clubs, sports, or volunteer work, that demonstrate a student's interests and skills outside the classroom.",
+        "High School Transcript": "A record of a student's academic performance, including courses taken, grades, and any honors or awards received.",
+        "Grade Point Average (GPA)": "A numerical representation of a student's academic performance, calculated by averaging their grades on a 4.0 scale.",
+        "Class Rank": "A measure of a student's academic performance compared to their peers, often used by colleges to evaluate applicants from the same high school.",
+        "Financial Aid": "Money awarded to students to help pay for college expenses, including scholarships, grants, work-study programs, and loans."
+    }
+}

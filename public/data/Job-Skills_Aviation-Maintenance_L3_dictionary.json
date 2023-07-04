@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why can't we just build planes from steel? Why do we need special aircraft materials?",
+        "Sure, if you want to fly a tank! But if you prefer something that actually takes off, aircraft structures and materials are your plane's personal 'gym trainer', keeping it strong and light."
+      ],
+      "options": [
+        "Aircraft Structures and Materials (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need composite materials in aircraft. Can't we just use aluminum?",
+        "Aluminum is great, but for strength and weight savings, composite materials are like your aircraft's 'wardrobe upgrade', keeping it sleek and modern."
+      ],
+      "options": [
+        "Aircraft Structures and Materials (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use wood to build planes like in the old days? Why do we need these new materials?",
+        "Nostalgia's cool, but if you want a plane that lasts, modern aircraft materials are like your plane's 'vitamin supplements', keeping it healthy and fit for flight."
+      ],
+      "options": [
+        "Aircraft Structures and Materials (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use maps and compasses for navigation? Why do we need avionics systems?",
+        "Sure, if you're a pirate hunting for treasure! But if you're piloting an aircraft, avionics systems are like your personal 'GPS and Siri' combined."
+      ],
+      "options": [
+        "Avionics Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need avionics. Can't we just use radios and manual controls?",
+        "Radios and manual controls are classic, but for precision and multitasking, avionics systems are your aircraft's 'smartphone', keeping everything at your fingertips."
+      ],
+      "options": [
+        "Avionics Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just fly by sight? Why do we need all this fancy avionics?",
+        "Flying by sight is great on a clear day, but if you want to navigate in all weather, avionics systems are like your aircraft's 'night vision goggles'."
+      ],
+      "options": [
+        "Avionics Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just stick with piston engines? Why do we need turbine engines?",
+        "Sure, if you want to fly like it's 1923! But if you want speed and altitude, turbine engines are your aircraft's personal 'jetpack'."
+      ],
+      "options": [
+        "Turbine Engines (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need turbines. Can't we just use propellers?",
+        "Propellers are great, but for real power and speed, turbine engines are like your aircraft's 'turbo boost'."
+      ],
+      "options": [
+        "Turbine Engines (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use rocket engines for everything? Why do we need turbines?",
+        "Rocket engines? Sure, if you want to go to space! But for regular flight, turbine engines are your aircraft's 'marathon runner' - they're in it for the long haul."
+      ],
+      "options": [
+        "Turbine Engines (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use turbines for everything? Why do we need piston engines?",
+        "Turbines are powerful, but if you want to enjoy a leisurely flight, piston engines are your aircraft's 'bicycle' - simple and reliable."
+      ],
+      "options": [
+        "Piston Engines (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need pistons. Can't we just use electric engines?",
+        "Electric engines are the future, but for cost-effectiveness and fuel availability, piston engines are your aircraft's 'reliable old friend'."
+      ],
+      "options": [
+        "Piston Engines (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use jet engines for all planes? Why do we need pistons?",
+        "Jet engines are great for speed, but for smaller planes and training, piston engines are like your aircraft's 'training wheels'."
+      ],
+      "options": [
+        "Piston Engines (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use regular car fuel for planes? Why do we need a specific aircraft fuel system?",
+        "Sure, if you're flying a flying car! But if you're piloting a real plane, the aircraft fuel system is like your 'personal chef', cooking up the right fuel mix for every situation."
+      ],
+      "options": [
+        "Aircraft Fuel Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need a complicated fuel system. Can't we just have a simple fuel tank and engine?",
+        "That's one way to do it, but if you want efficiency and safety, the aircraft fuel system is like your plane's 'circulatory system', pumping life-giving fuel to every part that needs it."
+      ],
+      "options": [
+        "Aircraft Fuel Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use solar power for aircraft? Why do we need a fuel system?",
+        "Solar power is awesome, but until we can store enough of it for long flights, the aircraft fuel system is your plane's 'lunchbox', storing energy for when it's needed."
+      ],
+      "options": [
+        "Aircraft Fuel Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use batteries for everything in planes? Why do we need an aircraft electrical system?",
+        "Batteries are great, but if you want all your gadgets and systems working, the aircraft electrical system is like your plane's 'power grid', keeping the lights on and the wheels turning."
+      ],
+      "options": [
+        "Aircraft Electrical Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need an electrical system. Can't we just use mechanical systems?",
+        "Mechanical systems have their place, but for modern controls and comfort, the aircraft electrical system is like your plane's 'nervous system', sending signals to every part of the plane."
+      ],
+      "options": [
+        "Aircraft Electrical Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just have a simple electrical system? Why do we need a complex aircraft electrical system?",
+        "Simplicity is great, but for safety and redundancy, the aircraft electrical system is like your plane's 'backup band', ready to step in if the main performer fails."
+      ],
+      "options": [
+        "Aircraft Electrical Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use electric systems for everything in planes? Why do we need an aircraft hydraulic system?",
+        "Electric systems are essential, but for major force and power, the aircraft hydraulic system is like your plane's 'bodybuilder', flexing its muscles when heavy lifting is needed."
+      ],
+      "options": [
+        "Aircraft Hydraulic Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need a hydraulic system. Can't we just use physical controls?",
+        "Physical controls are classic, but for the heavy-duty tasks, the aircraft hydraulic system is like your plane's 'Superman', saving the day when extra strength is required."
+      ],
+      "options": [
+        "Aircraft Hydraulic Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use air pressure for everything? Why do we need hydraulics?",
+        "Air pressure is useful, but for precise, high-force actions, the aircraft hydraulic system is like your plane's 'precision tool kit', handling delicate operations with brute strength."
+      ],
+      "options": [
+        "Aircraft Hydraulic Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just land planes like birds do? Why do we need a landing gear system?",
+        "Great idea, but until we invent anti-gravity, the landing gear system is like your plane's 'sturdy shoes', making sure every landing is a smooth one."
+      ],
+      "options": [
+        "Landing Gear Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need a landing gear. Can't we just use balloons or airbags?",
+        "That could be fun, but for reliability and safety, the landing gear system is like your plane's 'safety belt', ensuring a secure touchdown every time."
+      ],
+      "options": [
+        "Landing Gear Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use skis for landing? Why do we need wheels and landing gears?",
+        "Skis would be cool, but unless you're landing on snow or water every time, the landing gear system is your plane's 'all-terrain vehicle', ready for any type of landing surface."
+      ],
+      "options": [
+        "Landing Gear Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use jet engines for all planes? Why do we need propellers?",
+        "Jet engines are fast, but if you want energy efficiency at lower speeds, the propeller system is like your plane's 'energy-conscious friend', making the most of every drop of fuel."
+      ],
+      "options": [
+        "Propeller Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need a propeller. Can't we just use wings and a tail?",
+        "Wings and tail are essential for control, but for forward thrust, the propeller system is like your plane's 'rowing team', pulling you through the air."
+      ],
+      "options": [
+        "Propeller Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use solar power for propulsion? Why do we need propellers?",
+        "Solar power is promising, but until we can convert sunlight into thrust, the propeller system is your plane's 'trusty steed', carrying you to your destination."
+      ],
+      "options": [
+        "Propeller Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use a compass and a map for navigation? Why do we need an aircraft navigation system?",
+        "Map and compass are classic, but if you want precision and global coverage, the aircraft navigation system is like your plane's 'GPS', always knowing where you are."
+      ],
+      "options": [
+        "Aircraft Navigation Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need a navigation system. Can't we just use landmarks?",
+        "Landmarks are great for visual navigation, but for night flying or over the ocean, the aircraft navigation system is like your plane's 'night vision goggles', guiding you when you can't see the ground."
+      ],
+      "options": [
+        "Aircraft Navigation Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just follow roads or rivers? Why do we need a navigation system?",
+        "Following roads or rivers works in some cases, but for cross-country or international flights, the aircraft navigation system is your plane's 'world tour guide', leading you across continents and oceans."
+      ],
+      "options": [
+        "Aircraft Navigation Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use mobile phones for communication in planes? Why do we need an aircraft communication system?",
+        "Mobile phones are handy, but for reliable, long-range contact, the aircraft communication system is like your plane's 'megaphone', reaching out when you're miles high."
+      ],
+      "options": [
+        "Aircraft Communication Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need a communication system. Can't we just use flags or lights?",
+        "Flags and lights can signal, but for voice communication and data sharing, the aircraft communication system is like your plane's 'internet', connecting you to the ground and other planes."
+      ],
+      "options": [
+        "Aircraft Communication Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use walkie-talkies? Why do we need a complex communication system?",
+        "Walkie-talkies have their charm, but for communicating over hundreds of miles, the aircraft communication system is your plane's 'long-distance call service', ensuring you're never out of touch."
+      ],
+      "options": [
+        "Aircraft Communication Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use our senses to fly? Why do we need instrument systems?",
+        "Your senses are great, but for accuracy and safety in all conditions, aircraft instrument systems are like your plane's 'superpowers', giving you data your senses can't."
+      ],
+      "options": [
+        "Aircraft Instrument Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need instrument systems. Can't we just fly by the seat of our pants?",
+        "That's a gutsy approach, but for precise navigation and control, aircraft instrument systems are like your plane's 'math whiz', providing exact measurements and calculations."
+      ],
+      "options": [
+        "Aircraft Instrument Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use a smartphone app for all the instruments? Why do we need an instrument system?",
+        "Smartphone apps are handy, but for reliability and integration, aircraft instrument systems are like your plane's 'smart home', seamlessly working together to provide vital flight information."
+      ],
+      "options": [
+        "Aircraft Instrument Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just open a window if it gets hot? Why do we need heating and cooling systems?",
+        "Opening a window at 30,000 feet is a breezy idea, but for climate control and comfort, the aircraft's heating and cooling systems are like your plane's 'personal weatherman', creating a cozy environment."
+      ],
+      "options": [
+        "Aircraft Heating and Cooling Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need heating and cooling systems. Can't we just dress warmly or coolly?",
+        "Dressing up for the weather is practical, but for dealing with extreme temperature changes, aircraft heating and cooling systems are like your plane's 'wardrobe assistant', ensuring you don't freeze or overheat."
+      ],
+      "options": [
+        "Aircraft Heating and Cooling Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use fans and heaters? Why do we need complex heating and cooling systems?",
+        "Fans and heaters can help, but for maintaining optimal cabin temperature, aircraft heating and cooling systems are like your plane's 'thermostat', maintaining a comfortable temperature throughout the flight."
+      ],
+      "options": [
+        "Aircraft Heating and Cooling Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use common sense for safety? Why do we need safety and emergency procedures?",
+        "Common sense is crucial, but for handling unexpected situations, safety and emergency procedures are like your plane's 'emergency playbook', guiding you through every scenario."
+      ],
+      "options": [
+        "Safety and Emergency Procedures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need emergency procedures. Can't we just do what feels right at the moment?",
+        "Trust your instincts, but in a crisis, safety and emergency procedures are like your plane's 'crisis counselor', providing calm and orderly guidance."
+      ],
+      "options": [
+        "Safety and Emergency Procedures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just wing it if there's an emergency? Why do we need procedures?",
+        "Winging it can be risky, but with safety and emergency procedures, it's like your plane's 'emergency rehearsal', preparing you for the unexpected."
+      ],
+      "options": [
+        "Safety and Emergency Procedures (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just fly freestyle? Why do we need Federal Aviation Regulations?",
+        "Flying freestyle sounds adventurous, but for safety and order in the skies, Federal Aviation Regulations are like your plane's 'rulebook', keeping everyone on the same flight path."
+      ],
+      "options": [
+        "Federal Aviation Regulations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need aviation regulations. Can't we just trust pilots to do the right thing?",
+        "Trust is important, but for setting standards and procedures, Federal Aviation Regulations are like your plane's 'traffic cop', ensuring smooth and safe operations."
+      ],
+      "options": [
+        "Federal Aviation Regulations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just rely on pilot's judgment? Why do we need Federal Aviation Regulations?",
+        "Pilot's judgment is key, but for a unified approach to aviation safety, Federal Aviation Regulations are like your plane's 'coach', ensuring everyone plays by the same rules."
+      ],
+      "options": [
+        "Federal Aviation Regulations (correct answer)"
+      ]
+    }
+  ]
+}

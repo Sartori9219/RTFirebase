@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Safety procedures",
+        "Equipment inspection",
+        "Machine controls and operation",
+        "Soil classification",
+        "Trenching and excavation",
+        "Grading and leveling",
+        "Loading and unloading",
+        "Lifting and rigging",
+        "Equipment maintenance",
+        "Fueling and lubrication",
+        "Attachments and accessories",
+        "Site planning and preparation",
+        "Equipment transport",
+        "Communication and signaling",
+        "Environmental considerations"
+    ],
+    "hints": {
+        "Safety procedures": "Understanding and following safety guidelines to prevent accidents and ensure the well-being of operators and others on-site.",
+        "Equipment inspection": "Performing thorough pre-operation checks to identify potential issues and ensure optimal performance.",
+        "Machine controls and operation": "Learning the functions of various controls and how to operate heavy equipment efficiently and safely.",
+        "Soil classification": "Identifying different soil types and their properties to determine the best equipment and techniques for a specific job.",
+        "Trenching and excavation": "Properly digging trenches and excavating sites while maintaining safety and avoiding utility lines.",
+        "Grading and leveling": "Adjusting the elevation and slope of surfaces to ensure proper drainage and stability.",
+        "Loading and unloading": "Safely moving materials using heavy equipment, such as loaders and excavators.",
+        "Lifting and rigging": "Using cranes and other lifting equipment to move heavy objects securely and accurately.",
+        "Equipment maintenance": "Performing routine maintenance tasks, such as fluid changes and filter replacements, to keep equipment in good working condition.",
+        "Fueling and lubrication": "Understanding the proper fueling and lubrication procedures to maintain equipment efficiency and longevity.",
+        "Attachments and accessories": "Familiarizing oneself with various equipment attachments and their uses to enhance machine versatility.",
+        "Site planning and preparation": "Assessing site conditions and creating a plan to optimize equipment usage and work efficiency.",
+        "Equipment transport": "Safely transporting heavy equipment to and from job sites using trailers and other methods.",
+        "Communication and signaling": "Using hand signals and other forms of communication to coordinate operations with other crew members.",
+        "Environmental considerations": "Minimizing the environmental impact of heavy equipment operations through proper planning and execution."
+    }
+}

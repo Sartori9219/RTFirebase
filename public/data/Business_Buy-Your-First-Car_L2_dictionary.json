@@ -1,0 +1,301 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I just found a car that's perfect for me, but it's shaped like a hotdog!",
+        "That sounds fun, but have you considered how much you can actually afford? Don't relish the car too much and forget your budget!"
+      ],
+      "options": [
+        "Set a budget (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to buy a car with wings, so I can fly to work!",
+        "That'd be amazing, but remember, sky-high features might come with sky-high prices. Stick to your budget, even if it means staying grounded."
+      ],
+      "options": [
+        "Set a budget (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a car that's covered in glitter and has a built-in karaoke machine!",
+        "Sounds like a party on wheels! But before you sing your heart out, make sure the price tag doesn't hit a sour note. Keep your budget in mind!"
+      ],
+      "options": [
+        "Set a budget (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I discovered a car that runs on chocolate syrup instead of gas!",
+        "Sweet! But don't let the tasty fuel option distract you from sticking to a reasonable budget. Remember, too much sugar can be bad for your wallet!"
+      ],
+      "options": [
+        "Set a budget (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a car that can transform into a giant robot to help me with chores!",
+        "That's pretty cool, but think about the cost of robot maintenance. Keep your budget in mind, even if it means doing the dishes yourself."
+      ],
+      "options": [
+        "Set a budget (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I saw a car with a built-in pizza oven, so I can have fresh pizza whenever I want!",
+        "Delicious idea, but remember that pizza toppings can add up. Make sure the price of the car doesn't burn a hole in your budget!"
+      ],
+      "options": [
+        "Set a budget (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a car that's shaped like a giant cheeseburger! Isn't that hilarious?",
+        "Ha! But remember to research actual car models, too. You don't want to get stuck with a car that can't ketchup to your needs!"
+      ],
+      "options": [
+        "Research models (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard about a car that has a built-in aquarium! I could drive around with my pet fish!",
+        "That's quite the catch! But make sure to research practical car models, too. You don't want your car's value to sink like a fishbowl."
+      ],
+      "options": [
+        "Research models (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I spotted a car that looks like a giant roller skate! How fun would that be?",
+        "Certainly a conversation starter! But don't forget to research real car models, so you can roll smoothly into the perfect choice."
+      ],
+      "options": [
+        "Research models (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking about getting a car with a built-in disco ball! Dance parties on the go!",
+        "That sounds groovy, but don't forget to consider your actual needs versus your wants when buying a car."
+      ],
+      "options": [
+        "Consider needs vs wants (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a car that comes with its own popcorn machine! Movie nights, here I come!",
+        "Popcorn is great, but remember to consider your essential needs versus your fun wants when choosing a car."
+      ],
+      "options": [
+        "Consider needs vs wants (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I saw a car with a built-in karaoke machine! We could have singing sessions every drive!",
+        "That's a fun idea! But make sure to prioritize your needs over your wants when picking out a car."
+      ],
+      "options": [
+        "Consider needs vs wants (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a car that can transform into a giant robot! It's brand new and super cool!",
+        "Sounds amazing, but don't forget to weigh the pros and cons of buying new versus used cars."
+      ],
+      "options": [
+        "Compare new vs used (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm considering a car that doubles as a hot dog stand! It's never been used before.",
+        "Interesting choice! Just remember to compare the benefits of new cars with the potential savings of buying used."
+      ],
+      "options": [
+        "Compare new vs used (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a car with a mini aquarium built in! It's fresh off the production line!",
+        "A car-quarium sounds fun, but make sure to compare new cars with used ones to get the best deal."
+      ],
+      "options": [
+        "Compare new vs used (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a bank that will finance my car purchase with a 50% interest rate if I wear a chicken suit every day!",
+        "Hold up, you might want to shop around for better financing options before committing to the poultry life."
+      ],
+      "options": [
+        "Shop around for financing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just saw a commercial for a car loan that includes a lifetime supply of cheese puffs!",
+        "That's tempting, but remember to compare financing offers from different sources to find the best deal."
+      ],
+      "options": [
+        "Shop around for financing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My neighbor said he'll lend me the money to buy a car if I mow his lawn for the next five years.",
+        "It's nice to have options, but make sure to shop around and compare financing offers from banks and dealerships too."
+      ],
+      "options": [
+        "Shop around for financing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found the perfect car! It's a rocket-powered skateboard!",
+        "Sounds fun, but you should check insurance costs before making a decision. Rocket-powered vehicles might be pricey to insure."
+      ],
+      "options": [
+        "Check insurance costs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to buy a car that comes with a built-in cotton candy machine!",
+        "Sweet idea, but don't forget to factor in the insurance costs. Extra features might increase your premiums."
+      ],
+      "options": [
+        "Check insurance costs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm thinking of getting a car that doubles as a submarine!",
+        "That's pretty cool, but remember to check the insurance costs. Underwater adventures could affect your rates."
+      ],
+      "options": [
+        "Check insurance costs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to buy a car that's powered by rubber bands!",
+        "Interesting idea, but make sure to test drive it first. You'll want to know how well those rubber bands perform on the road."
+      ],
+      "options": [
+        "Test drive options (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a car that can transform into a giant robot!",
+        "Sounds like a blockbuster movie! Just remember to test drive it to see how it handles as both a car and a robot."
+      ],
+      "options": [
+        "Test drive options (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm considering a car that runs on maple syrup.",
+        "Sweet ride! Be sure to test drive it, though. You'll want to see how it handles sticky situations."
+      ],
+      "options": [
+        "Test drive options (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a car made entirely of marshmallows!",
+        "Sounds soft and squishy, but don't forget to inspect it! You wouldn't want any surprise meltdowns on hot days."
+      ],
+      "options": [
+        "Inspect the vehicle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I discovered a car with an engine that runs on laughter!",
+        "Sounds like a fun ride, but make sure to inspect it! Check if it can handle a variety of jokes and chuckles."
+      ],
+      "options": [
+        "Inspect the vehicle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a car that only moves when you sing opera!",
+        "How dramatic! Remember to inspect it, though. You'll want to make sure it's in tune with your vocal range."
+      ],
+      "options": [
+        "Inspect the vehicle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a car that accepts payment in interpretive dance moves!",
+        "Dance your way to a deal, but don't forget to negotiate the price! See if you can shimmy your way to a discount."
+      ],
+      "options": [
+        "Negotiate the price (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm buying a car that can only be purchased by telling the seller a captivating story!",
+        "Spin a good yarn, but make sure to negotiate the price! A compelling tale might just lower the cost."
+      ],
+      "options": [
+        "Negotiate the price (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a car that comes with a pet unicorn!",
+        "Magical! But don't get too carried away\u2014negotiate the price. Maybe offer some fairy dust as a bargaining chip."
+      ],
+      "options": [
+        "Negotiate the price (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a car that comes with a secret treasure map in the paperwork!",
+        "How adventurous! Just make sure you review the paperwork for any hidden clauses before chasing that treasure."
+      ],
+      "options": [
+        "Review the paperwork (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The car I want to buy has a contract written in invisible ink!",
+        "That's mysterious! Just remember to review the paperwork carefully. Use a lemon juice decoder if needed!"
+      ],
+      "options": [
+        "Review the paperwork (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My car's paperwork includes a poem about the mystical land of Carburetoria!",
+        "Sounds enchanting! Just ensure you review the paperwork thoroughly\u2014there might be a hidden message about the terms and conditions."
+      ],
+      "options": [
+        "Review the paperwork (correct answer)"
+      ]
+    }
+  ]
+}

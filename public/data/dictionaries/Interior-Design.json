@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Color theory",
+        "Space planning",
+        "Lighting design",
+        "Furniture selection",
+        "Textiles and fabrics",
+        "Window treatments",
+        "Wall coverings",
+        "Flooring options",
+        "Decorative accessories",
+        "Artwork selection",
+        "Architectural elements",
+        "Room styles",
+        "Sustainability and eco-friendly design",
+        "Universal design",
+        "Design psychology"
+    ],
+    "hints": {
+        "Color theory": "Understanding the use of colors, their relationships, and the effects they have on emotions and perceptions in interior spaces.",
+        "Space planning": "Optimizing the layout and functionality of a room to meet the needs of its occupants.",
+        "Lighting design": "Incorporating different types of lighting, such as ambient, task, and accent lighting, to create a balanced and visually pleasing atmosphere.",
+        "Furniture selection": "Choosing appropriate furniture pieces that complement the room's style, function, and overall design.",
+        "Textiles and fabrics": "Selecting suitable materials for upholstery, window treatments, and other decorative elements.",
+        "Window treatments": "Designing and selecting appropriate window coverings, such as curtains, blinds, and shades, to enhance aesthetics and provide privacy or light control.",
+        "Wall coverings": "Exploring various options for wall decoration, including paint, wallpaper, paneling, and decorative moldings.",
+        "Flooring options": "Evaluating different flooring materials, such as hardwood, tile, carpet, and laminate, to suit the room's function and design style.",
+        "Decorative accessories": "Incorporating elements like pillows, rugs, and artwork to add personality and visual interest to a space.",
+        "Artwork selection": "Choosing appropriate art pieces that complement the room's style, color scheme, and overall design.",
+        "Architectural elements": "Integrating features such as built-in shelving, fireplaces, or columns to enhance the room's aesthetics and functionality.",
+        "Room styles": "Understanding various interior design styles, such as modern, traditional, and eclectic, to create cohesive and visually appealing spaces.",
+        "Sustainability and eco-friendly design": "Incorporating sustainable materials, energy-efficient lighting, and environmentally friendly practices into interior design projects.",
+        "Universal design": "Designing spaces that are accessible and functional for people of all ages and abilities.",
+        "Design psychology": "Applying principles of human behavior and perception to create spaces that evoke particular emotions and support wellbeing."
+    }
+}

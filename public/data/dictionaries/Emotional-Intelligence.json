@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Self-awareness",
+        "Self-regulation",
+        "Empathy",
+        "Active listening",
+        "Nonverbal communication",
+        "Emotional expression",
+        "Assertiveness",
+        "Conflict resolution",
+        "Adaptability",
+        "Relationship management",
+        "Teamwork",
+        "Social awareness",
+        "Emotional resilience",
+        "Motivation",
+        "Decision-making"
+    ],
+    "hints": {
+        "Self-awareness": "The ability to recognize and understand one's own emotions, strengths, weaknesses, and needs.",
+        "Self-regulation": "The ability to manage one's own emotions, thoughts, and behaviors effectively in various situations.",
+        "Empathy": "The ability to understand and share the feelings of others, and to respond compassionately to their needs.",
+        "Active listening": "The practice of fully concentrating on the speaker, understanding their message, and responding thoughtfully.",
+        "Nonverbal communication": "The ability to interpret and express feelings through body language, facial expressions, and tone of voice.",
+        "Emotional expression": "The ability to convey one's emotions in a healthy and appropriate manner.",
+        "Assertiveness": "The skill of expressing one's thoughts, feelings, and beliefs confidently and respectfully, while considering the perspectives of others.",
+        "Conflict resolution": "The ability to address disagreements and misunderstandings effectively, working toward a mutually beneficial outcome.",
+        "Adaptability": "The capacity to adjust to new or changing situations and to manage stress effectively.",
+        "Relationship management": "The ability to establish and maintain positive relationships with others, both personally and professionally.",
+        "Teamwork": "The skill of working collaboratively with others to achieve shared goals.",
+        "Social awareness": "The ability to accurately perceive and understand the emotions, needs, and perspectives of others in a social context.",
+        "Emotional resilience": "The capacity to cope with emotional challenges, recover from setbacks, and maintain emotional well-being.",
+        "Motivation": "The ability to set and pursue personal and professional goals with determination and persistence.",
+        "Decision-making": "The skill of using emotions and rational thinking to make informed, objective choices."
+    }
+}

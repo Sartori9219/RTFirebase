@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Tax breaks",
+        "Subsidies",
+        "Rebates",
+        "Grants",
+        "Low-interest loans",
+        "Discounts",
+        "Free products or services",
+        "Loyalty programs",
+        "Employee benefits",
+        "Performance bonuses",
+        "Sales commissions",
+        "Contests and sweepstakes",
+        "Environmental incentives",
+        "Public recognition and awards",
+        "Regulatory incentives"
+    ],
+    "hints": {
+        "Tax breaks": "Reductions in the amount of taxes owed, often provided to encourage specific actions, such as investing in renewable energy.",
+        "Subsidies": "Financial support from the government to businesses or individuals to promote a desired economic or social outcome.",
+        "Rebates": "Partial refunds offered to consumers for purchasing specific products or services.",
+        "Grants": "Funds provided by the government or organizations to support projects, research, or education.",
+        "Low-interest loans": "Loans with reduced interest rates, often provided by the government, to encourage specific investments or behaviors.",
+        "Discounts": "Reduced prices on goods or services to encourage purchases.",
+        "Free products or services": "Offering complimentary items or services to attract customers or support a particular cause.",
+        "Loyalty programs": "Reward systems designed to encourage repeat business from customers, often through points or other incentives.",
+        "Employee benefits": "Additional perks offered to employees, such as health insurance, retirement plans, or paid time off, to attract and retain talent.",
+        "Performance bonuses": "Extra compensation provided to employees for achieving specific goals or targets.",
+        "Sales commissions": "Payments made to salespeople based on the value or volume of products they sell.",
+        "Contests and sweepstakes": "Promotional events that offer prizes to participants, often used to generate interest in a product or service.",
+        "Environmental incentives": "Financial rewards or other benefits provided to encourage environmentally friendly practices or technologies.",
+        "Public recognition and awards": "Acknowledging individuals, businesses, or organizations for their achievements, often used as a form of motivation.",
+        "Regulatory incentives": "Government policies that encourage compliance with regulations, such as reduced fines or penalties for businesses that meet certain standards."
+    }
+}

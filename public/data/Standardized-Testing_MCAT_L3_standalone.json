@@ -1,0 +1,1011 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following subatomic particles contributes to an atom's atomic mass but has no charge?",
+      "options": [
+        "Proton",
+        "Electron",
+        "Neutron (Correct answer)",
+        "Quark"
+      ],
+      "hints": [
+        "This particle is found in the nucleus.",
+        "Its existence was theorized by Ernest Rutherford.",
+        "It was discovered by James Chadwick."
+      ]
+    },
+    {
+      "question": "The atomic number of an element is determined by the number of _______________.",
+      "options": [
+        "Neutrons",
+        "Electrons",
+        "Protons (Correct answer)",
+        "Neutrons and Protons"
+      ],
+      "hints": [
+        "This number is also the same as the number of electrons in a neutral atom.",
+        "This number is unique for each element.",
+        "This particle carries a positive charge."
+      ]
+    },
+    {
+      "question": "Isotopes of a particular element have the same number of ___________ but different numbers of ___________.",
+      "options": [
+        "Electrons, Protons",
+        "Protons, Neutrons (Correct answer)",
+        "Neutrons, Protons",
+        "Protons, Electrons"
+      ],
+      "hints": [
+        "This feature contributes to the creation of radioisotopes.",
+        "This difference among isotopes leads to different atomic masses.",
+        "Isotopes do not change the element's atomic number."
+      ]
+    },
+    {
+      "question": "The maximum number of electrons that can be found in the second shell (n=2) of an atom is ___________.",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8 (Correct answer)",
+        "Hints:",
+        "Recall the 2n^2 rule for the maximum number of electrons in an energy level.",
+        "This shell includes the 2s and 2p orbitals.",
+        "The first shell (n=1) can only accommodate two electrons.",
+        "Which atomic model proposed the concept of energy levels or shells where electrons can exist?",
+        "Rutherford model",
+        "Bohr model (Correct answer)",
+        "Dalton model",
+        "Thomson model"
+      ],
+      "hints": [
+        "This model was suggested by a Danish physicist.",
+        "It improved upon Rutherford's model by adding more detail about electron behavior.",
+        "This model was proposed in the early 20th century."
+      ]
+    },
+    {
+      "question": "Which type of chemical bond is formed by the sharing of electrons between two atoms?",
+      "options": [
+        "Ionic bond",
+        "Covalent bond (Correct answer)",
+        "Metallic bond",
+        "Hydrogen bond"
+      ],
+      "hints": [
+        "It can be single, double, or triple.",
+        "It can occur between similar or different types of atoms.",
+        "This bond is common in organic molecules."
+      ]
+    },
+    {
+      "question": "In a Lewis Dot Structure, the dots around the element symbol represent what?",
+      "options": [
+        "Protons",
+        "Neutrons",
+        "Electrons in the nucleus",
+        "Valence electrons (Correct answer)"
+      ],
+      "hints": [
+        "They occupy the outermost shell of an atom.",
+        "They are the electrons involved in bonding.",
+        "This concept is especially useful in predicting the shape and structure of molecules."
+      ]
+    },
+    {
+      "question": "Which of the following best describes a polar covalent bond?",
+      "options": [
+        "A bond where electrons are shared equally between two atoms.",
+        "A bond where electrons are transferred from one atom to another.",
+        "A bond where electrons are shared unequally between two atoms. (Correct answer)",
+        "A bond that exists between metal atoms."
+      ],
+      "hints": [
+        "This bond results in dipole moments.",
+        "Water molecules have this type of bond.",
+        "This bond leads to a charge separation, with one end of the bond having a slight negative charge and the other a slight positive charge."
+      ]
+    },
+    {
+      "question": "Which type of bond is formed between a metal and a nonmetal?",
+      "options": [
+        "Covalent bond",
+        "Hydrogen bond",
+        "Ionic bond (Correct answer)",
+        "Metallic bond"
+      ],
+      "hints": [
+        "This bond generates ions.",
+        "Table salt (NaCl) is an example of a compound formed by this type of bond.",
+        "This bond involves the complete transfer of electrons."
+      ]
+    },
+    {
+      "question": "What type of bond is primarily responsible for the unique properties of water, such as its high boiling point and heat capacity?",
+      "options": [
+        "Ionic bond",
+        "Covalent bond",
+        "Metallic bond",
+        "Hydrogen bond (Correct answer)"
+      ],
+      "hints": [
+        "It occurs between a hydrogen atom in one molecule and a more electronegative atom in another molecule.",
+        "It is a type of dipole-dipole interaction.",
+        "This bond is weaker than both ionic and covalent bonds."
+      ]
+    },
+    {
+      "question": "User",
+      "options": [
+        "Write 5 easy MCAT multiple choice questions about Gas Laws",
+        "with 4 possible choices.  No explanations.  Add \"(Correct answer)\" to the right of the correct answer.  Add three hints below each question, but be careful not to give away the correct answer.",
+        "ChatGPT",
+        "According to Boyle's law, if the volume of a gas is decreased at constant temperature, what happens to the pressure?",
+        "The pressure decreases.",
+        "The pressure increases. (Correct answer)",
+        "The pressure remains the same.",
+        "The pressure becomes zero."
+      ],
+      "hints": [
+        "Boyle's law states that the product of pressure and volume for a given mass of confined gas is constant.",
+        "Think about what happens when you try to compress a gas in a confined space.",
+        "Boyle's law involves two variables: volume and pressure."
+      ]
+    },
+    {
+      "question": "Charles' law states that the volume of a gas is directly proportional to its temperature, given that the pressure and the amount of gas remain constant. If the temperature of a given amount of gas is doubled, while the pressure remains constant, what will happen to the volume?",
+      "options": [
+        "It will halve.",
+        "It will remain the same.",
+        "It will double. (Correct answer)",
+        "It will quadruple."
+      ],
+      "hints": [
+        "Imagine heating up a balloon and what happens to its volume.",
+        "Remember to consider the temperature in Kelvin.",
+        "Charles' law describes a direct relationship between temperature and volume."
+      ]
+    },
+    {
+      "question": "Avogadro's Law states that equal volumes of all gases, at the same temperature and pressure, contain an equal number of ___________.",
+      "options": [
+        "Protons",
+        "Molecules (Correct answer)",
+        "Atoms",
+        "Electrons"
+      ],
+      "hints": [
+        "This law explains why a liter of oxygen and a liter of hydrogen at the same temperature and pressure have the same number of particles.",
+        "This is the principle behind the idea of a \"mole\" of gas.",
+        "Avogadro's law applies regardless of the type or nature of the gas."
+      ]
+    },
+    {
+      "question": "According to the Ideal Gas Law, which of the following variables is directly proportional to the number of moles of gas, given constant temperature and volume?",
+      "options": [
+        "Pressure (Correct answer)",
+        "Density",
+        "Specific heat capacity",
+        "Atomic number"
+      ],
+      "hints": [
+        "The combined gas law combines Charles's law, Boyle's law, and Gay-Lussac's law. It states that the ratio",
+        "If you increase the amount of gas in a container without changing the container's size or the gas's temperature, what would increase?",
+        "\"n\" in the equation stands for the number of moles.",
+        "The Ideal Gas Law equation is PV = nRT."
+      ]
+    },
+    {
+      "question": "PV/T is constant. If the volume and temperature both double, while the amount of gas stays the same, what happens to the pressure?",
+      "options": [
+        "It doubles.",
+        "It halves.",
+        "It remains the same. (Correct answer)",
+        "It quadruples."
+      ],
+      "hints": [
+        "If volume and temperature change in the same proportion, the ratio remains constant.",
+        "Consider the formula P1V1/T1 = P2V2/T2 for this situation.",
+        "The combined gas law allows you to calculate the change in one state variable, given changes in other state variables."
+      ]
+    },
+    {
+      "question": "Which of the following substances is considered a strong acid?",
+      "options": [
+        "Acetic acid",
+        "Hydrochloric acid (Correct answer)",
+        "Ammonia",
+        "Water"
+      ],
+      "hints": [
+        "Its formula is HCl.",
+        "This acid is found in the stomach.",
+        "Strong acids ionize completely in aqueous solution."
+      ]
+    },
+    {
+      "question": "According to the Arrhenius definition, a base is a substance that:",
+      "options": [
+        "Donates protons.",
+        "Accepts protons.",
+        "Produces hydroxide ions in solution. (Correct answer)",
+        "Produces hydrogen ions in solution."
+      ],
+      "hints": [
+        "Sodium hydroxide (NaOH) is an example according to this definition.",
+        "This definition of a base is based on the type of ions it produces.",
+        "Arrhenius's theory is focused on substances in aqueous solutions."
+      ]
+    },
+    {
+      "question": "What is the pH of a neutral solution at 25 degrees Celsius?",
+      "options": [
+        "0",
+        "7 (Correct answer)",
+        "10",
+        "14"
+      ],
+      "hints": [
+        "The pH scale ranges from 0 to 14.",
+        "Pure water at this temperature is neutral.",
+        "The pH scale measures how acidic or basic a substance is."
+      ]
+    },
+    {
+      "question": "Which of the following solutions has the highest concentration of hydroxide ions?",
+      "options": [
+        "pH 2",
+        "pH 7",
+        "pH 11 (Correct answer)",
+        "pH 4"
+      ],
+      "hints": [
+        "Recall the relationship between pH, pOH, and 14 at 25 degrees Celsius.",
+        "The concentration of hydroxide ions increases as the solution becomes more basic.",
+        "A solution with a pH above 7 is basic."
+      ]
+    },
+    {
+      "question": "What does a Lewis acid do?",
+      "options": [
+        "Donate a pair of electrons",
+        "Accept a pair of electrons (Correct answer)",
+        "Donate a proton",
+        "Accept a proton"
+      ],
+      "hints": [
+        "BF3 is an example of this type of acid.",
+        "This definition is broader and includes more substances than the Arrhenius or Br\u00f8nsted-Lowry definitions.",
+        "Lewis's definitions of acids and bases focus on electron pairs rather than protons."
+      ]
+    },
+    {
+      "question": "What type of hybridization occurs in the carbon atom of methane (CH4)?",
+      "options": [
+        "sp",
+        "sp2",
+        "sp3 (Correct answer)",
+        "dsp3"
+      ],
+      "hints": [
+        "The carbon atom in methane forms four single bonds.",
+        "Consider the number of sigma bonds and lone pairs on the carbon atom.",
+        "Methane is a tetrahedral molecule."
+      ]
+    },
+    {
+      "question": "In organic chemistry, a functional group consisting of a carbon atom double-bonded to an oxygen atom and single bonded to a hydrogen atom is known as a(n) ___________.",
+      "options": [
+        "Ether",
+        "Aldehyde (Correct answer)",
+        "Ester",
+        "Amide"
+      ],
+      "hints": [
+        "This group contains a carbonyl (C=O).",
+        "This functional group is often found at the end of a carbon chain.",
+        "Formaldehyde (H2CO) is an example."
+      ]
+    },
+    {
+      "question": "Which of the following describes a primary (1\u00b0) carbon atom?",
+      "options": [
+        "A carbon atom bonded to no other carbon atoms.",
+        "A carbon atom bonded to one other carbon atom. (Correct answer)",
+        "A carbon atom bonded to two other carbon atoms.",
+        "A carbon atom bonded to three other carbon atoms."
+      ],
+      "hints": [
+        "The classification of carbon atoms (primary, secondary, tertiary, quaternary) is based on the number of carbon atoms they are bonded to.",
+        "This type of carbon atom is at the end of a chain in a linear alkane.",
+        "Consider the carbon atoms in methane, ethane, propane, and isobutane."
+      ]
+    },
+    {
+      "question": "The IUPAC name for the organic compound with the formula CH3CH2CH2CH2CH3 is ________.",
+      "options": [
+        "Methane",
+        "Ethane",
+        "Propane",
+        "Pentane (Correct answer)"
+      ],
+      "hints": [
+        "The prefix \"pent-\" in the IUPAC system denotes five.",
+        "It has five carbon atoms.",
+        "This compound is an alkane."
+      ]
+    },
+    {
+      "question": "What type of isomerism exists between two compounds that have the same molecular formula but different connectivity of atoms?",
+      "options": [
+        "Conformational isomerism",
+        "Geometric isomerism",
+        "Structural (or constitutional) isomerism (Correct answer)",
+        "Enantiomerism"
+      ],
+      "hints": [
+        "They have different physical and chemical properties.",
+        "An example would be the difference between n-butane and isobutane.",
+        "These isomers differ in how their atoms are linked together."
+      ]
+    },
+    {
+      "question": "Which of the following cellular organelles is responsible for protein synthesis?",
+      "options": [
+        "Mitochondria",
+        "Ribosome (Correct answer)",
+        "Endoplasmic reticulum",
+        "Lysosome"
+      ],
+      "hints": [
+        "This organelle reads the instructions from mRNA to create polypeptides.",
+        "It can be free-floating in the cytoplasm or attached to another organelle.",
+        "This organelle can be found in both prokaryotes and eukaryotes."
+      ]
+    },
+    {
+      "question": "Which cellular structure is primarily involved in the process of cellular division and is responsible for the formation of the mitotic spindle?",
+      "options": [
+        "Centriole (Correct answer)",
+        "Golgi apparatus",
+        "Nucleolus",
+        "Peroxisome"
+      ],
+      "hints": [
+        "It is made of microtubules.",
+        "It plays a crucial role in the separation of chromosomes during cell division.",
+        "This structure is found in animal cells but generally not in plant cells."
+      ]
+    },
+    {
+      "question": "Which of the following best describes the function of the smooth endoplasmic reticulum?",
+      "options": [
+        "Synthesis of proteins",
+        "Digestion of cellular waste products",
+        "Synthesis of lipids and detoxification of toxins (Correct answer)",
+        "Energy production through oxidative phosphorylation"
+      ],
+      "hints": [
+        "It helps detoxify drugs and poisons in liver cells.",
+        "It plays a key role in lipid metabolism.",
+        "It lacks ribosomes, hence its \"smooth\" nature."
+      ]
+    },
+    {
+      "question": "What is the result of DNA replication?",
+      "options": [
+        "Two identical RNA strands",
+        "Two identical DNA strands (Correct answer)",
+        "Two different DNA strands",
+        "Two different RNA strands"
+      ],
+      "hints": [
+        "The result is necessary for the transmission of genetic information to daughter cells.",
+        "It involves enzymes such as DNA polymerase and helicase.",
+        "DNA replication is a process that takes place before cell division."
+      ]
+    },
+    {
+      "question": "Which of the following best describes the process of transcription?",
+      "options": [
+        "Synthesis of a protein based on an mRNA template",
+        "Synthesis of an mRNA molecule based on a DNA template (Correct answer)",
+        "Replication of DNA to create two identical DNA molecules",
+        "Synthesis of a tRNA molecule based on an rRNA template"
+      ],
+      "hints": [
+        "The result of transcription is needed for protein synthesis.",
+        "The process is initiated at a promoter region on the DNA template.",
+        "Transcription takes place in the nucleus in eukaryotic cells."
+      ]
+    },
+    {
+      "question": "In a heterozygous individual, the allele being expressed is the ________.",
+      "options": [
+        "Recessive allele",
+        "Dominant allele (Correct answer)",
+        "Both alleles are expressed equally",
+        "Neither allele is expressed"
+      ],
+      "hints": [
+        "For example, in the case of flower color, if red (R) is dominant over white (r), a heterozygous plant (Rr) would be red.",
+        "This term refers to the trait that is visible in the phenotype."
+      ]
+    },
+    {
+      "question": "The other allele is \"hidden\" in the phenotype.",
+      "options": [
+        "What is the role of tRNA during translation?",
+        "It carries the genetic code from DNA to the ribosome.",
+        "It brings amino acids to the ribosome. (Correct answer)",
+        "It forms the main structure of the ribosome.",
+        "It decodes the genetic information into a protein."
+      ],
+      "hints": [
+        "The process of translation occurs in the cytoplasm at the ribosomes.",
+        "Each tRNA molecule has a specific anticodon that matches with an mRNA codon.",
+        "Translation is the process of protein synthesis."
+      ]
+    },
+    {
+      "question": "What mechanism did Charles Darwin propose to explain how evolution occurs?",
+      "options": [
+        "Inheritance of acquired characteristics",
+        "Genetic drift",
+        "Mutation",
+        "Natural selection (Correct answer)"
+      ],
+      "hints": [
+        "According to this theory, those organisms with traits best suited to their environment are more likely to survive and reproduce.",
+        "This mechanism depends on the variation in traits and the struggle for existence.",
+        "Darwin's theory was published in \"On the Origin of Species.\""
+      ]
+    },
+    {
+      "question": "Genetic drift is a mechanism of evolution that:",
+      "options": [
+        "Favors the survival of the fittest individuals",
+        "Causes changes in a population through differential reproduction rates",
+        "Causes random changes in allele frequencies in a population (Correct answer)",
+        "Favors the survival of individuals with more advantageous mutations"
+      ],
+      "hints": [
+        "Genetic drift can lead to the loss of genetic variation in a population.",
+        "Genetic drift includes the founder effect and the bottleneck effect.",
+        "Genetic drift can have a larger effect in smaller populations."
+      ]
+    },
+    {
+      "question": "What is the biological concept of fitness?",
+      "options": [
+        "The ability of an organism to survive",
+        "The strength and speed of an organism",
+        "The reproductive success of an organism (Correct answer)",
+        "The ability of an organism to adapt to its environment"
+      ],
+      "hints": [
+        "Fitness involves not just survival but also the passing on of genes to the next generation.",
+        "The term \"survival of the fittest\" is somewhat misleading.",
+        "In biology, the concept of fitness is related to genes and offspring."
+      ]
+    },
+    {
+      "question": "A group of interbreeding individuals of the same species living in the same area at the same time is known as a:",
+      "options": [
+        "Community",
+        "Ecosystem",
+        "Population (Correct answer)",
+        "Trophic level"
+      ],
+      "hints": [
+        "The Hardy-Weinberg equilibrium is a model that applies to this group.",
+        "Evolution occurs within this group of individuals.",
+        "This term is used in population genetics."
+      ]
+    },
+    {
+      "question": "What is the primary source of genetic variation in populations?",
+      "options": [
+        "Genetic drift",
+        "Migration",
+        "Mutation (Correct answer)",
+        "Non-random mating"
+      ],
+      "hints": [
+        "Without this process, evolution could not occur.",
+        "This process can be caused by errors during DNA replication or by environmental factors.",
+        "This process leads to new alleles in a population."
+      ]
+    },
+    {
+      "question": "What is the primary function of the myelin sheath in neurons?",
+      "options": [
+        "Initiating the action potential",
+        "Speeding up the transmission of action potentials (Correct answer)",
+        "Secreting neurotransmitters",
+        "Receiving signals from other neurons"
+      ],
+      "hints": [
+        "Multiple sclerosis is a disease that involves the destruction of myelin.",
+        "It is formed by Schwann cells in the peripheral nervous system and oligodendrocytes in the central nervous system.",
+        "Myelin is a fatty substance."
+      ]
+    },
+    {
+      "question": "Which part of the neuron receives incoming signals from other neurons?",
+      "options": [
+        "Axon",
+        "Dendrites (Correct answer)",
+        "Myelin sheath",
+        "Node of Ranvier"
+      ],
+      "hints": [
+        "They carry signals towards the cell body.",
+        "They can be numerous and highly branched.",
+        "These are tree-like structures extending from the neuron."
+      ]
+    },
+    {
+      "question": "The sodium-potassium pump plays a role in maintaining the resting potential of a neuron by:",
+      "options": [
+        "Moving 3 sodium ions out of the neuron for every 2 potassium ions it moves in. (Correct answer)",
+        "Moving 2 sodium ions out of the neuron for every 3 potassium ions it moves in.",
+        "Moving 3 sodium ions into the neuron for every 2 potassium ions it moves out.",
+        "Moving 2 sodium ions into the neuron for every 3 potassium ions it moves out."
+      ],
+      "hints": [
+        "It is an ATP-dependent process.",
+        "The action of this pump results in a net negative charge inside the neuron.",
+        "This pump creates an electrochemical gradient."
+      ]
+    },
+    {
+      "question": "What type of neurotransmitter is dopamine?",
+      "options": [
+        "Inhibitory neurotransmitter",
+        "Excitatory neurotransmitter",
+        "Can function as both an excitatory and inhibitory neurotransmitter (Correct answer)",
+        "Neither excitatory nor inhibitory neurotransmitter"
+      ],
+      "hints": [
+        "Dysfunction in dopamine signaling is associated with disorders like Parkinson's disease and schizophrenia.",
+        "Its function can depend on the type of receptor it binds to.",
+        "Dopamine is involved in reward and pleasure systems in the brain."
+      ]
+    },
+    {
+      "question": "Which part of the brain is primarily involved in the coordination and precision of voluntary movements?",
+      "options": [
+        "Medulla oblongata",
+        "Hypothalamus",
+        "Cerebellum (Correct answer)",
+        "Thalamus"
+      ],
+      "hints": [
+        "This part of the brain can also play a role in learning and memory, particularly for motor skills.",
+        "Damage to this area can result in problems with balance and motor control.",
+        "This part of the brain is located at the back of the skull, beneath the cerebrum."
+      ]
+    },
+    {
+      "question": "Which component of the circulatory system carries oxygenated blood away from the heart to the body?",
+      "options": [
+        "Veins",
+        "Capillaries",
+        "Arteries (Correct answer)",
+        "Venules"
+      ],
+      "hints": [
+        "Exceptions are the pulmonary and umbilical ones, which carry deoxygenated blood.",
+        "The major one of these leaves the left ventricle of the heart.",
+        "This component of the circulatory system has muscular and elastic walls to withstand high pressure."
+      ]
+    },
+    {
+      "question": "The heart chamber that receives deoxygenated blood from the body via the vena cava is the:",
+      "options": [
+        "Left atrium",
+        "Left ventricle",
+        "Right atrium (Correct answer)",
+        "Right ventricle"
+      ],
+      "hints": [
+        "The tricuspid valve is located between this chamber and the one below it.",
+        "This chamber is one of the two upper chambers of the heart.",
+        "The blood in this chamber will be pumped to the lungs to receive oxygen."
+      ]
+    },
+    {
+      "question": "Which of the following represents the correct path of blood flow through the heart?",
+      "options": [
+        "Right atrium -> right ventricle -> lungs -> left atrium -> left ventricle -> body (Correct answer)",
+        "Left atrium -> left ventricle -> lungs -> right atrium -> right ventricle -> body",
+        "Right atrium -> right ventricle -> body -> left atrium -> left ventricle -> lungs",
+        "Left atrium -> left ventricle -> body -> right atrium -> right ventricle -> lungs"
+      ],
+      "hints": [
+        "After blood has been oxygenated in the lungs, it returns to the heart before being pumped out to the body.",
+        "The left side of the heart pumps blood to the rest of the body.",
+        "The right side of the heart pumps blood to the lungs."
+      ]
+    },
+    {
+      "question": "Which type of blood vessel allows for exchange of gases and nutrients between the blood and body tissues?",
+      "options": [
+        "Arteries",
+        "Veins",
+        "Capillaries (Correct answer)",
+        "Arterioles"
+      ],
+      "hints": [
+        "Their thin walls allow for diffusion.",
+        "They connect arterioles to venules.",
+        "These are the smallest blood vessels in the body."
+      ]
+    },
+    {
+      "question": "Which heart valve prevents backflow of blood into the left atrium when the left ventricle contracts?",
+      "options": [
+        "Tricuspid valve",
+        "Pulmonary valve",
+        "Mitral (or bicuspid) valve (Correct answer)",
+        "Aortic valve"
+      ],
+      "hints": [
+        "Diseases of this valve can lead to heart murmurs.",
+        "It has two flaps (or cusps).",
+        "This valve is located on the left side of the heart."
+      ]
+    },
+    {
+      "question": "According to Erikson's stages of psychosocial development, which conflict is experienced during adolescence?",
+      "options": [
+        "Trust vs. Mistrust",
+        "Autonomy vs. Shame and Doubt",
+        "Industry vs. Inferiority",
+        "Identity vs. Role Confusion (Correct answer)"
+      ],
+      "hints": [
+        "This stage often involves exploring different roles and ideologies.",
+        "This stage involves developing a consistent sense of self.",
+        "Adolescence is generally considered the period from 12 to 18 years of age."
+      ]
+    },
+    {
+      "question": "The \"looking-glass self\" concept, a social theory coined by Charles Cooley, refers to:",
+      "options": [
+        "The way we perceive ourselves based on our own introspection",
+        "The self being a product of social interaction and perceptions (Correct answer)",
+        "The way we perceive ourselves based on objective facts",
+        "The way we perceive others based on our own experiences"
+      ],
+      "hints": [
+        "It's about perception, not necessarily the actual judgment of others.",
+        "The theory emphasizes the social nature of our self.",
+        "The looking-glass self has three components: how we imagine we appear to others, how we imagine the judgment of that appearance, and how we feel about this perceived judgment."
+      ]
+    },
+    {
+      "question": "According to George Herbert Mead, the \"generalized other\" refers to:",
+      "options": [
+        "The widespread stereotypes about a particular group.",
+        "The individual's perception of societal norms and expectations. (Correct answer)",
+        "The commonalities that exist among all individuals in a society.",
+        "The shared characteristics of one's peer group."
+      ],
+      "hints": [
+        "The generalized other represents an individual's awareness of the common expectations or attitudes held by society.",
+        "The concept is part of Mead's theory of social behaviorism.",
+        "The generalized other helps individuals shape their behavior based on social norms."
+      ]
+    },
+    {
+      "question": "What does the Thomas theorem state in sociology?",
+      "options": [
+        "If people define situations as real, they are real in their consequences. (Correct answer)",
+        "Society is a reflection of the individual's mind.",
+        "The self is a product of social interactions.",
+        "Class struggle is the main cause of social change."
+      ],
+      "hints": [
+        "This theorem is key in symbolic interactionism.",
+        "It was formulated by W.Thomas and D.Thomas.",
+        "The theorem emphasizes the importance of perception in shaping social reality."
+      ]
+    },
+    {
+      "question": "According to Karl Marx's theory, what drives societal change?",
+      "options": [
+        "Social interaction",
+        "Class conflict (Correct answer)",
+        "Religious beliefs",
+        "Individual self-interest"
+      ],
+      "hints": [
+        "The bourgeoisie and proletariat are key classes in Marx's theory.",
+        "Marx's theory is foundational to conflict theory in sociology.",
+        "Marx viewed society in terms of those who own the means of production and those who do not."
+      ]
+    },
+    {
+      "question": "Which type of study design allows for the establishment of causality?",
+      "options": [
+        "Correlational study",
+        "Case study",
+        "Observational study",
+        "Experimental study (Correct answer)"
+      ],
+      "hints": [
+        "This study design often involves a control group.",
+        "In this type of study, researchers control and manipulate the conditions of the experiment.",
+        "This type of study involves independent and dependent variables."
+      ]
+    },
+    {
+      "question": "In a psychological experiment, the variable that the experimenter manipulates is known as the:",
+      "options": [
+        "Dependent variable",
+        "Control variable",
+        "Confounding variable",
+        "Independent variable (Correct answer)"
+      ],
+      "hints": [
+        "The independent variable is what differentiates the experimental and control groups.",
+        "The effect of changing this variable is observed in the dependent variable.",
+        "Researchers alter this variable to observe its effect on another variable."
+      ]
+    },
+    {
+      "question": "What type of research method involves an in-depth investigation of a single individual or a small group?",
+      "options": [
+        "Correlational study",
+        "Case study (Correct answer)",
+        "Survey study",
+        "Experimental study"
+      ],
+      "hints": [
+        "Famous examples include Freud's study of Little Hans and the study of patient H.^^This method provides detailed qualitative data.",
+        "This method is often used in clinical psychology."
+      ]
+    },
+    {
+      "question": "Which of the following is a limitation of a correlational study?",
+      "options": [
+        "It cannot determine cause and effect relationships (Correct answer)",
+        "It cannot be used to study a single individual or group",
+        "It cannot use statistical methods",
+        "It cannot measure the strength of a relationship between two variables"
+      ],
+      "hints": [
+        "The limitation is inherent in the design of correlational studies.",
+        "A correlational study can indicate whether two variables are related, but not whether one causes the other.",
+        "Correlation does not imply causation."
+      ]
+    },
+    {
+      "question": "What is a confounding variable in a research study?",
+      "options": [
+        "The variable that the researcher intentionally changes",
+        "The variable that is measured as an outcome",
+        "An unintended variable that influences the outcome of an experiment (Correct answer)",
+        "A variable that does not change throughout the experiment"
+      ],
+      "hints": [
+        "A well-designed experiment aims to control for confounding variables.",
+        "They can interfere with the effects of the independent variable on the dependent variable.",
+        "Confounding variables can lead to false conclusions about cause and effect relationships."
+      ]
+    },
+    {
+      "question": "Which measure of central tendency is most affected by extreme scores or outliers?",
+      "options": [
+        "Mode",
+        "Median",
+        "Mean (Correct answer)",
+        "All of them are affected equally"
+      ],
+      "hints": [
+        "The mean of a distribution is also known as the average.",
+        "An extreme score can significantly change the sum of the values.",
+        "This measure involves summing all values and dividing by the number of values."
+      ]
+    },
+    {
+      "question": "A research study finds that as study hours increase, exam scores also increase. This relationship can best be described as:",
+      "options": [
+        "A negative correlation",
+        "A positive correlation (Correct answer)",
+        "No correlation",
+        "An inverse correlation"
+      ],
+      "hints": [
+        "The relationship described is direct, not inverse.",
+        "A correlation of 0 indicates no relationship between the variables.",
+        "Correlation coefficients range from -1 to 1."
+      ]
+    },
+    {
+      "question": "Which of the following best describes the standard deviation of a data set?",
+      "options": [
+        "It represents the range of scores in the data set.",
+        "It represents the typical deviation of scores from the mean. (Correct answer)",
+        "It represents the middle value of the data set.",
+        "It represents the most frequent score in the data set."
+      ],
+      "hints": [
+        "It is calculated as the square root of the variance.",
+        "The lower the standard deviation, the closer the scores are to the mean.",
+        "This measure is commonly used in statistics to quantify variability or dispersion."
+      ]
+    },
+    {
+      "question": "Which type of statistical test is used to compare the means of two independent groups?",
+      "options": [
+        "Chi-square test",
+        "T-test (Correct answer)",
+        "Analysis of Variance (ANOVA)",
+        "Pearson's correlation"
+      ],
+      "hints": [
+        "It can help determine if differences between groups are statistically significant.",
+        "It's used when the researcher has a control group and an experimental group.",
+        "This test assumes that the data are normally distributed."
+      ]
+    },
+    {
+      "question": "What is a Type I error in the context of hypothesis testing?",
+      "options": [
+        "Failing to reject a false null hypothesis",
+        "Rejecting a true null hypothesis (Correct answer)",
+        "Failing to reject a true null hypothesis",
+        "Rejecting a false null hypothesis"
+      ],
+      "hints": [
+        "It involves incorrectly concluding that there is an effect when there isn't one.",
+        "The probability of making this type of error is denoted by alpha (\u03b1).",
+        "This type of error is also known as a \"false positive.\""
+      ]
+    },
+    {
+      "question": "Which of the following is a key principle of medical ethics that involves doing good for the patient?",
+      "options": [
+        "Autonomy",
+        "Beneficence (Correct answer)",
+        "Justice",
+        "Nonmaleficence"
+      ],
+      "hints": [
+        "The principle can sometimes conflict with patient autonomy.",
+        "This principle is often paired with nonmaleficence (\"do no harm\").",
+        "This principle asks physicians to act in the best interest of the patient."
+      ]
+    },
+    {
+      "question": "The principle of autonomy in medical ethics means:",
+      "options": [
+        "Patients should be treated equally",
+        "Physicians should do no harm",
+        "Patients should be treated in their best interest",
+        "Patients have the right to make their own healthcare decisions (Correct answer)"
+      ],
+      "hints": [
+        "This principle recognizes patients as individuals with their own will.",
+        "Autonomy involves respecting the patient's values and choices.",
+        "This principle supports the concept of informed consent."
+      ]
+    },
+    {
+      "question": "Informed consent in medicine requires all of the following EXCEPT:",
+      "options": [
+        "Understanding of the procedure and its risks and benefits",
+        "Voluntary decision-making without coercion",
+        "Ability to pay for the procedure (Correct answer)",
+        "Capacity to make the decision"
+      ],
+      "hints": [
+        "It is necessary for medical procedures, research participation, and other interventions.",
+        "This concept is based on the principle of patient autonomy.",
+        "Informed consent is not about the financial aspects of care."
+      ]
+    },
+    {
+      "question": "Which of the following best describes the concept of \"justice\" in medical ethics?",
+      "options": [
+        "Ensuring that medical care is distributed fairly (Correct answer)",
+        "Ensuring that patients understand their treatment options",
+        "Ensuring that patients have the right to refuse treatment",
+        "Ensuring that medical treatment does not harm the patient"
+      ],
+      "hints": [
+        "It is a key principle in public health and healthcare policy.",
+        "Justice often involves considerations of healthcare access and resource allocation.",
+        "This principle involves considerations of equity and fairness in healthcare."
+      ]
+    },
+    {
+      "question": "A medical procedure is performed without the patient's consent. This is an example of:",
+      "options": [
+        "Beneficence",
+        "Justice",
+        "Negligence",
+        "Violation of autonomy (Correct answer)"
+      ],
+      "hints": [
+        "This could lead to legal and ethical issues in medicine.",
+        "The principle of informed consent is crucial here.",
+        "This situation ignores the patient's right to make decisions about their own health."
+      ]
+    },
+    {
+      "question": "Which molecule is the final electron acceptor in the electron transport chain during cellular respiration?",
+      "options": [
+        "NAD+",
+        "ATP",
+        "Oxygen (Correct answer)",
+        "Pyruvate"
+      ],
+      "hints": [
+        "It forms water when it accepts electrons.",
+        "Without this molecule, the electron transport chain would not be able to function efficiently.",
+        "This molecule is crucial for aerobic respiration."
+      ]
+    },
+    {
+      "question": "Glycolysis, the first step in cellular respiration, results in the production of:",
+      "options": [
+        "Glucose",
+        "Lactic acid",
+        "Pyruvate (Correct answer)",
+        "Acetyl-CoA"
+      ],
+      "hints": [
+        "It is the initial step in both aerobic and anaerobic respiration.",
+        "This process occurs in the cytoplasm.",
+        "Glycolysis involves the breakdown of a six-carbon sugar molecule."
+      ]
+    },
+    {
+      "question": "Which stage of cellular respiration produces the most ATP?",
+      "options": [
+        "Glycolysis",
+        "Citric acid cycle",
+        "Oxidative phosphorylation (Correct answer)",
+        "Pyruvate decarboxylation"
+      ],
+      "hints": [
+        "A large number of ATP molecules are synthesized in this stage due to the proton gradient.",
+        "This stage takes place in the inner mitochondrial membrane.",
+        "This stage involves the electron transport chain and chemiosmosis."
+      ]
+    },
+    {
+      "question": "In the absence of oxygen, some cells can use ________ to regenerate NAD+ from NADH.",
+      "options": [
+        "Citric acid cycle",
+        "Fermentation (Correct answer)",
+        "Oxidative phosphorylation",
+        "Glycolysis"
+      ],
+      "hints": [
+        "This process leads to the production of lactic acid in muscle cells or ethanol in yeast.",
+        "It allows glycolysis to continue by recycling NAD+.",
+        "This process is a crucial alternative pathway for energy production in anaerobic conditions."
+      ]
+    },
+    {
+      "question": "Where does the citric acid cycle (also known as Krebs cycle or TCA cycle) take place in the cell?",
+      "options": [
+        "Cytoplasm",
+        "Nucleus",
+        "Mitochondrial matrix (Correct answer)",
+        "Endoplasmic reticulum"
+      ],
+      "hints": [
+        "This cycle results in the release of CO2 and the production of NADH and FADH2.",
+        "The citric acid cycle directly follows pyruvate decarboxylation.",
+        "This location is inside a double-membraned organelle responsible for ATP production."
+      ]
+    }
+  ]
+}

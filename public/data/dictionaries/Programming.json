@@ -1,0 +1,34 @@
+{
+    "options": [
+        "Variables",
+        "Data Types",
+        "Control Structures",
+        "Functions",
+        "Arrays",
+        "Object-Oriented Programming",
+        "Algorithms",
+        "Recursion",
+        "Debugging",
+        "Syntax",
+        "Testing",
+        "Libraries and Frameworks",
+        "Databases",
+        "Version Control"
+    ],
+    "hints": {
+        "Variables": "These are used to store information that can be referenced and manipulated in a computer program.",
+        "Data Types": "Different types of data that can be used in a program, such as integers, strings, boolean, etc.",
+        "Control Structures": "These are used to control the flow of a program. This includes things like if-else statements, for loops, and while loops.",
+        "Functions": "A self-contained block of code designed to perform a specific task.",
+        "Arrays": "A data structure used to store multiple values in a single variable.",
+        "Object-Oriented Programming": "A programming paradigm based on the concept of 'objects', which can contain data and code: data in the form of fields, and code, in the form of procedures.",
+        "Algorithms": "A set of instructions designed to perform a specific task.",
+        "Recursion": "The process where a function calls itself as a subroutine.",
+        "Debugging": "The process of finding and resolving defects or problems within the program that prevent correct operation of computer software or a system.",
+        "Syntax": "The set of rules that defines the combinations of symbols that are considered to be correctly structured programs in that language.",
+        "Testing": "The process of evaluating a system or its components with the intent to find errors.",
+        "Libraries and Frameworks": "A collection of precompiled routines that a program can use. The routines, sometimes called modules, are stored in object format.",
+        "Databases": "A structured set of data. So, a working knowledge of databases and database management systems is very important.",
+        "Version Control": "The task of keeping a software system consisting of many versions and configurations well organized."
+    }
+}

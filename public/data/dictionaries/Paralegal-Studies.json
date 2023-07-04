@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Legal Terminology",
+        "Legal Research",
+        "Legal Writing",
+        "Civil Procedure",
+        "Criminal Procedure",
+        "Contract Law",
+        "Family Law",
+        "Tort Law",
+        "Intellectual Property Law",
+        "Corporate Law",
+        "Real Estate Law",
+        "Ethics and Professional Responsibility",
+        "Litigation Support",
+        "Legal Document Preparation",
+        "Client Communication"
+    ],
+    "hints": {
+        "Legal Terminology": "Learning the specific vocabulary, terms, and phrases used in the legal field to better understand and communicate in a paralegal role.",
+        "Legal Research": "Developing skills in finding, analyzing, and understanding laws, regulations, court cases, and other legal resources to support attorneys in their work.",
+        "Legal Writing": "Mastering the ability to write clear, concise, and persuasive legal documents, such as memos, briefs, and contracts.",
+        "Civil Procedure": "Understanding the rules and processes that govern civil lawsuits, from the initial filing to appeals.",
+        "Criminal Procedure": "Gaining knowledge of the steps and procedures involved in criminal cases, including arrests, trials, and sentencing.",
+        "Contract Law": "Learning the principles and elements of legally binding contracts, including formation, interpretation, and enforcement.",
+        "Family Law": "Exploring the laws and regulations related to marriage, divorce, child custody, and other family-related matters.",
+        "Tort Law": "Studying the area of law that deals with civil wrongs, such as negligence, defamation, and personal injury.",
+        "Intellectual Property Law": "Understanding the legal protections for copyrights, trademarks, patents, and trade secrets.",
+        "Corporate Law": "Familiarizing oneself with the laws governing corporations, including formation, governance, and dissolution.",
+        "Real Estate Law": "Learning about the laws and regulations related to property ownership, transfers, and disputes.",
+        "Ethics and Professional Responsibility": "Grasping the ethical guidelines and professional standards that paralegals must adhere to in their work.",
+        "Litigation Support": "Assisting attorneys in preparing for trials by organizing documents, conducting research, and managing evidence.",
+        "Legal Document Preparation": "Drafting and formatting various legal documents, such as pleadings, contracts, and wills, according to specific guidelines and requirements.",
+        "Client Communication": "Developing effective communication skills to interact with clients professionally, empathetically, and confidentially."
+    }
+}

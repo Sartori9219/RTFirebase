@@ -1,0 +1,392 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why can't we just run cars on water? It's everywhere!",
+        "Great idea, if we were building a steamboat! But for cars, we need the power of tiny explosions - that's what an internal combustion engine does. Boom!"
+      ],
+      "options": [
+        "Internal Combustion Engine (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why engines are so complicated. Can't we just have one big part that does everything?"
+      ],
+      "options": [
+        "Internal Combustion Engine (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just have electric cars? Why bother with all the engine stuff?"
+      ],
+      "options": [
+        "Internal Combustion Engine (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't cars just go when I press the gas? Why do we need a transmission?",
+        "Ever tried to start a jog in full sprint? Not so fun, right? A transmission helps your car 'warm up' before it hits top speed."
+      ],
+      "options": [
+        "Transmission System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need different gears. Can't I just drive in one gear all the time?"
+      ],
+      "options": [
+        "Transmission System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just have an automatic car? Why bother with all the shifting?",
+        "Well, if driving was a dance, an automatic would be the waltz \u2013 easy and elegant. But sometimes, you might want to salsa or tango with a manual!"
+      ],
+      "options": [
+        "Transmission System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do we need a suspension system? Can't the tires handle the bumps?"
+      ],
+      "options": [
+        "Suspension System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why suspension is important. Isn't it just for comfort?",
+        "Think of it as your car's yoga instructor - keeping everything flexible and balanced. And yes, it makes the ride more comfy too!"
+      ],
+      "options": [
+        "Suspension System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just have bigger tires instead of a suspension system?"
+      ],
+      "options": [
+        "Suspension System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just use my feet to stop the car like in the Flintstones?"
+      ],
+      "options": [
+        "Brake System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why brakes are so important. Can't I just slow down and avoid things?",
+        "Sure, and we can also just shout louder instead of using a phone. But for a quick and safe stop, brakes are your car's best 'call'."
+      ],
+      "options": [
+        "Brake System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just have simpler brakes? Why are there so many parts?",
+        "Ever tried to stop a rolling boulder with just your hands? Brakes need all their parts to work together to stop your car-sized 'boulder'."
+      ],
+      "options": [
+        "Brake System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just start my car with a button? Why do we need an ignition system?",
+        "Well, the button is the 'hello', but the ignition system is the whole conversation! It gets your engine talking and walking."
+      ],
+      "options": [
+        "Ignition System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why there's a whole system just to start the car. Isn't it simple?",
+        "Ever tried to wake up without an alarm clock? The ignition system is like your car's alarm clock, making sure it's ready to roll."
+      ],
+      "options": [
+        "Ignition System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just have an electric start? Why bother with spark plugs and stuff?"
+      ],
+      "options": [
+        "Ignition System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just fill up my car with water? It's cheaper than gas!",
+        "If only! But think of your car as a picky eater. It likes its meals - or fuel - a certain way. Water just doesn't satisfy its appetite."
+      ],
+      "options": [
+        "Fuel System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need a whole system for fuel. Can't I just pour gas into the engine?"
+      ],
+      "options": [
+        "Fuel System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use any kind of fuel? Why does it have to be gasoline or diesel?",
+        "You wouldn't eat cat food, right? Different engines need different fuels. It's all about what makes your car purr."
+      ],
+      "options": [
+        "Fuel System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just keep the exhaust in the car? Why do we need a system to get rid of it?",
+        "Ever tried to hold your breath forever? Not so fun, right? Your car needs to breathe out too, and that's where the exhaust system comes in!"
+      ],
+      "options": [
+        "Exhaust System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need an exhaust system. Can't the engine handle the waste?",
+        "Sure, if you're okay with your car sounding like a popcorn machine. The exhaust system helps keep things quiet and clean."
+      ],
+      "options": [
+        "Exhaust System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use the exhaust for something useful instead of getting rid of it?",
+        "Great idea! But until you invent a car that runs on its own fumes, the exhaust system is the best way to manage the waste."
+      ],
+      "options": [
+        "Exhaust System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just power my car with a giant battery? Why do we need an electrical system?",
+        "Well, unless you want to drive a remote control car, you'll need an electrical system. It's like your car's personal power grid!"
+      ],
+      "options": [
+        "Electrical System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why there are so many wires in a car. Can't we just have one?"
+      ],
+      "options": [
+        "Electrical System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use solar power for everything in the car?",
+        "Until we have mini suns for every car, we need an electrical system. It's like your car's personal power plant."
+      ],
+      "options": [
+        "Electrical System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't cars just cool off naturally? Why do we need a cooling system?",
+        "Ever tried to cool down after a workout by just standing still? Not very effective, right? A car's cooling system is like its personal fan club!"
+      ],
+      "options": [
+        "Cooling System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need a radiator. Can't the engine just chill out on its own?",
+        "Sure, if it were on a beach vacation! But with all the hard work it does, the engine needs a radiator to keep the 'sweat' off."
+      ],
+      "options": [
+        "Cooling System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use air conditioning to cool the engine?",
+        "That's like using a tiny fan to cool a volcano! For all the heat an engine produces, it needs a heavy-duty cooling system."
+      ],
+      "options": [
+        "Cooling System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use the car's windows for air conditioning? Why do we need a system?",
+        "Ever tried to cool down in a traffic jam with only the windows? It's like trying to use a straw to drink a milkshake - just not enough!"
+      ],
+      "options": [
+        "Air Conditioning System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need a separate system for air conditioning. Can't we just use the engine?",
+        "Sure, and you can also use a hairdryer to cool down. But unless you like hot air, an air conditioning system is your car's personal 'ice cream truck'."
+      ],
+      "options": [
+        "Air Conditioning System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use solar power to cool the car? Why do we need an air conditioning system?",
+        "That's a cool idea! But until we can harness the sun's 'cool side', we'll need an air conditioning system for a breezy ride."
+      ],
+      "options": [
+        "Air Conditioning System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just use my hands to steer the car directly? Why do we need a steering system?"
+      ],
+      "options": [
+        "Steering System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need power steering. Can't we just use regular steering?",
+        "Ever tried to open a tightly sealed jar? Now imagine that effort but every time you turn. Power steering is your car's 'jar opener'."
+      ],
+      "options": [
+        "Steering System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just have a joystick to steer? Why do we need a whole wheel?",
+        "If you want to feel like you're in a video game, sure! But for precision and comfort, the steering wheel is your car's best 'handshake'."
+      ],
+      "options": [
+        "Steering System (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just make cars like bricks? Why do we need aerodynamics?"
+      ],
+      "options": [
+        "Vehicle Aerodynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need aerodynamics. Can't the engine just work harder?",
+        "Sure, and you could also just run faster in a potato sack race. But for smooth and easy travel, aerodynamics is your car's 'slip 'n slide'."
+      ],
+      "options": [
+        "Vehicle Aerodynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use bigger engines to overcome wind resistance? Why do we need aerodynamics?"
+      ],
+      "options": [
+        "Vehicle Aerodynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just stick with regular engines? Why do we need hybrid technology?"
+      ],
+      "options": [
+        "Hybrid Technology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need hybrids. Can't we just use electric cars?"
+      ],
+      "options": [
+        "Hybrid Technology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use solar power for everything in the car? Why do we need hybrids?"
+      ],
+      "options": [
+        "Hybrid Technology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just rely on our own driving skills? Why do we need Electronic Stability Control?",
+        "Sure, if you're a circus tightrope walker! But for the rest of us, ESC is like your car's personal 'balance beam' trainer."
+      ],
+      "options": [
+        "Electronic Stability Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need ESC. Can't we just use good tires?"
+      ],
+      "options": [
+        "Electronic Stability Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just drive slower to stay safe? Why do we need ESC?",
+        "That's one way to do it. But if you want to maintain speed AND safety, ESC is like your car's 'tightrope-walking' lessons."
+      ],
+      "options": [
+        "Electronic Stability Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just use regular brakes? Why do we need Anti-lock Braking Systems?"
+      ],
+      "options": [
+        "Anti-lock Braking System (ABS) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I don't get why we need ABS. Can't we just use good tires?",
+        "Good tires are great, but when you're braking hard, ABS is like your car's 'dance partner', keeping it from stepping on its own toes."
+      ],
+      "options": [
+        "Anti-lock Braking System (ABS) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't we just brake slowly to avoid skidding? Why do we need ABS?",
+        "That's one way to do it. But if you want to stop quickly AND safely, ABS is like your car's 'parachute', slowing it down without the drama."
+      ],
+      "options": [
+        "Anti-lock Braking System (ABS) (correct answer)"
+      ]
+    }
+  ]
+}

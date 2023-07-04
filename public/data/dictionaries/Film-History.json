@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Silent Era",
+        "Golden Age of Hollywood",
+        "Film Noir",
+        "New Wave Cinema",
+        "Animation in Film",
+        "Documentary Filmmaking",
+        "Rise of the Blockbuster",
+        "Independent Cinema",
+        "Technological Innovations in Film",
+        "Role of Censorship",
+        "Evolution of Special Effects",
+        "Impact of Television",
+        "Global Cinema Movements",
+        "Rise of Digital Cinema",
+        "Representation in Film"
+    ],
+    "hints": {
+        "Silent Era": "The early period of film history when movies didn't have recorded, synchronized sound.",
+        "Golden Age of Hollywood": "A period from the 1930s to 1960s when the studio system in Hollywood reached its peak, producing many of the most beloved classic films.",
+        "Film Noir": "A genre and style of film that emerged in the 1940s and 1950s characterized by moody black and white imagery, morally ambiguous characters, and complex narratives.",
+        "New Wave Cinema": "A filmmaking movement of the 1960s and 1970s, first popularized in France, that broke with traditional narrative techniques.",
+        "Animation in Film": "The evolution and history of animated movies, from early hand-drawn cartoons to modern computer-generated imagery.",
+        "Documentary Filmmaking": "The production and impact of non-fiction, reality-based filmmaking.",
+        "Rise of the Blockbuster": "The shift in the 1970s and 1980s towards high-budget, high-spectacle films designed to earn large box office returns.",
+        "Independent Cinema": "Films produced outside of the major studio system, often characterized by lower budgets and more creative freedom.",
+        "Technological Innovations in Film": "The various advancements that have influenced filmmaking, such as the introduction of sound, color, widescreen formats, and digital technology.",
+        "Role of Censorship": "The impact of content restrictions and film ratings on the industry and the art of filmmaking.",
+        "Evolution of Special Effects": "The development and progression of special effects techniques, from practical effects to computer-generated imagery.",
+        "Impact of Television": "The influence that the rise of television has had on the film industry, from competition to the blending of the mediums.",
+        "Global Cinema Movements": "The significant movements and styles that have emerged from various countries around the world.",
+        "Rise of Digital Cinema": "The transition from film to digital in the production, distribution, and projection of movies.",
+        "Representation in Film": "The portrayal and development of characters from diverse backgrounds in terms of gender, race, sexuality, and more."
+    }
+}

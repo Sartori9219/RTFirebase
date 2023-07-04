@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Cultural identity",
+        "Intersectionality",
+        "Social justice",
+        "Privilege and oppression",
+        "Race and ethnicity",
+        "Prejudice and discrimination",
+        "Stereotypes and bias",
+        "Immigration and migration",
+        "Indigenous cultures and history",
+        "Colonialism and imperialism",
+        "Language and communication",
+        "Cultural appropriation",
+        "Multiculturalism and diversity",
+        "Ethnic conflict and reconciliation",
+        "Social movements and activism"
+    ],
+    "hints": {
+        "Cultural identity": "The sense of belonging to a specific culture or group, shaped by factors such as language, traditions, and beliefs.",
+        "Intersectionality": "A framework for understanding how various social identities (such as race, gender, and class) intersect and interact to shape individual experiences and societal structures.",
+        "Social justice": "The pursuit of fairness and equality in society, addressing issues such as discrimination, oppression, and access to resources and opportunities.",
+        "Privilege and oppression": "The examination of the advantages some individuals or groups have in society, and the systematic disadvantages faced by others due to factors such as race, gender, or socioeconomic status.",
+        "Race and ethnicity": "The exploration of racial and ethnic categories, their social construction, and their impact on individuals and communities.",
+        "Prejudice and discrimination": "The study of unfair treatment or negative attitudes towards individuals or groups based on their race, ethnicity, or other social characteristics.",
+        "Stereotypes and bias": "The analysis of oversimplified or distorted generalizations about groups of people, and the ways these stereotypes can influence perceptions and behavior.",
+        "Immigration and migration": "An examination of the movement of people across borders, the reasons behind migration, and the impact on both sending and receiving communities.",
+        "Indigenous cultures and history": "The study of the diverse cultures, histories, and experiences of Indigenous peoples, including their relationships with settler societies and the impact of colonization.",
+        "Colonialism and imperialism": "The exploration of the historical processes through which countries established, maintained, and expanded their control over other territories and peoples.",
+        "Language and communication": "The investigation of the role of language in shaping cultural identity, social relationships, and power dynamics within and between different ethnic groups.",
+        "Cultural appropriation": "The examination of how elements from one culture are taken, often without permission or understanding, and used by members of another culture in ways that may be disrespectful or harmful.",
+        "Multiculturalism and diversity": "The celebration and recognition of the diverse cultures and perspectives that make up a society, and the promotion of inclusivity and respect for all individuals.",
+        "Ethnic conflict and reconciliation": "The study of tensions and conflicts between different ethnic groups, as well as efforts to promote healing, understanding, and cooperation.",
+        "Social movements and activism": "An examination of the various ways people have organized and advocated for social change, with a focus on the role of ethnic communities in shaping these movements."
+    }
+}

@@ -1,0 +1,953 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is an example of a chemical property of matter?",
+      "options": [
+        "Color",
+        "Mass",
+        "Reactivity with acid (Correct answer)",
+        "Volume"
+      ],
+      "hints": [
+        "It's not a physical property.",
+        "This property involves changes in the composition of matter.",
+        "It involves interaction with another substance."
+      ]
+    },
+    {
+      "question": "What is the smallest unit of an element that maintains the properties of that element?",
+      "options": [
+        "Compound",
+        "Molecule",
+        "Atom (Correct answer)",
+        "Electron"
+      ],
+      "hints": [
+        "It's not a subatomic particle.",
+        "This unit can exist independently.",
+        "The answer starts with 'A'."
+      ]
+    },
+    {
+      "question": "Which state of matter has a definite volume but no definite shape?",
+      "options": [
+        "Solid",
+        "Gas",
+        "Liquid (Correct answer)",
+        "Plasma"
+      ],
+      "hints": [
+        "It takes the shape of its container.",
+        "It's neither completely rigid nor completely free-flowing.",
+        "The answer starts with 'L'."
+      ]
+    },
+    {
+      "question": "Which of the following best describes the density of a substance?",
+      "options": [
+        "The mass of the substance divided by its volume (Correct answer)",
+        "The volume of the substance divided by its mass",
+        "The mass of the substance times its volume",
+        "The volume of the substance times its mass"
+      ],
+      "hints": [
+        "Density is a ratio.",
+        "The units are often g/cm\u00b3.",
+        "Mass comes before volume in the formula."
+      ]
+    },
+    {
+      "question": "Which of the following elements is a noble gas?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Neon (Correct answer)",
+        "Hydrogen"
+      ],
+      "hints": [
+        "Noble gases are in group 18 of the periodic table.",
+        "This element is colorless, odorless, and tasteless.",
+        "The answer starts with 'N'."
+      ]
+    },
+    {
+      "question": "Which of the following represents a balanced chemical equation?",
+      "options": [
+        "2H2 + O2 -> H2O",
+        "H2 + O2 -> 2H2O (Correct answer)",
+        "2H2 + 2O2 -> H2O",
+        "H2 + O2 -> H2O"
+      ],
+      "hints": [
+        "The same number of each type of atom appears in the reactants and the products.",
+        "Oxygen is diatomic in its elemental form.",
+        "Water molecule consists of two hydrogen atoms and one oxygen atom."
+      ]
+    },
+    {
+      "question": "What is the product of a combustion reaction of methane (CH4)?",
+      "options": [
+        "CO2 + H2",
+        "CO2 + 2H2",
+        "CO2 + 2H2O (Correct answer)",
+        "CO + 2H2O"
+      ],
+      "hints": [
+        "Combustion reactions produce water.",
+        "Methane has 4 hydrogen atoms, how many water molecules could be formed?",
+        "The reaction also produces a common greenhouse gas."
+      ]
+    },
+    {
+      "question": "Which type of reaction occurs when an acid reacts with a base?",
+      "options": [
+        "Decomposition",
+        "Neutralization (Correct answer)",
+        "Oxidation",
+        "Reduction"
+      ],
+      "hints": [
+        "The resulting pH is closer to 7.",
+        "The reaction usually forms water and a salt.",
+        "This reaction type has a name that suggests balance or cancelling out."
+      ]
+    },
+    {
+      "question": "What is the term for a substance that speeds up a chemical reaction without being consumed in the reaction?",
+      "options": [
+        "Reactant",
+        "Product",
+        "Catalyst (Correct answer)",
+        "Inhibitor"
+      ],
+      "hints": [
+        "This substance can be used over and over again.",
+        "It helps to lower the activation energy of a reaction.",
+        "The answer starts with 'C'."
+      ]
+    },
+    {
+      "question": "What happens to the atoms in a chemical reaction?",
+      "options": [
+        "They are destroyed",
+        "They are created",
+        "They are changed into different types of atoms",
+        "They are rearranged (Correct answer)"
+      ],
+      "hints": [
+        "Think about the law of conservation of mass.",
+        "Atoms cannot be created or destroyed.",
+        "The answer involves a change in the structure, not the nature of the atoms."
+      ]
+    },
+    {
+      "question": "If two objects have the same mass but one has twice the acceleration of the other, how does the force applied on the first object compare to the second?",
+      "options": [
+        "The force is the same on both objects.",
+        "The force is twice as large on the first object.",
+        "The force is half as large on the first object.",
+        "The force is four times as large on the first object. (Correct answer)"
+      ],
+      "hints": [
+        "Remember Newton's second law.",
+        "Force is directly proportional to acceleration.",
+        "If acceleration doubles, what happens to the force?"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a fundamental force in physics?",
+      "options": [
+        "Gravitational force",
+        "Electromagnetic force",
+        "Strong nuclear force",
+        "Frictional force (Correct answer)"
+      ],
+      "hints": [
+        "There are four fundamental forces in physics.",
+        "The fundamental forces act at the subatomic level.",
+        "Friction is a result of electromagnetic interactions, not a fundamental force."
+      ]
+    },
+    {
+      "question": "If the gravitational force between two objects suddenly triples, which of the following must have occurred?",
+      "options": [
+        "The distance between the objects decreased to one third.",
+        "One or both of the objects' masses tripled.",
+        "The distance between the objects increased to one third.",
+        "One or both of the objects' masses increased by nine times. (Correct answer)"
+      ],
+      "hints": [
+        "Recall the equation for gravitational force.",
+        "Gravitational force is proportional to the product of the masses.",
+        "The force is inversely proportional to the square of the distance."
+      ]
+    },
+    {
+      "question": "A block slides down a frictionless incline. What is the force that is acting to move the block down the incline?",
+      "options": [
+        "Friction",
+        "Normal force",
+        "Gravitational force",
+        "Component of gravitational force along the incline (Correct answer)"
+      ],
+      "hints": [
+        "There is no friction to influence the movement.",
+        "The force responsible is a component of another force.",
+        "The force acts parallel to the incline."
+      ]
+    },
+    {
+      "question": "What happens to the gravitational force between two objects if the mass of one object doubles and the distance between them also doubles?",
+      "options": [
+        "The force remains the same.",
+        "The force is halved.",
+        "The force doubles. (Correct answer)",
+        "The force is quadrupled."
+      ],
+      "hints": [
+        "Gravitational force depends on mass and distance.",
+        "Doubling the mass will double the force, but what does doubling the distance do?",
+        "Distance has an inverse square relationship with the force."
+      ]
+    },
+    {
+      "question": "Which of the following types of energy is associated with objects in motion?",
+      "options": [
+        "Kinetic energy (Correct answer)",
+        "Potential energy",
+        "Chemical energy",
+        "Nuclear energy"
+      ],
+      "hints": [
+        "Think about the energy of moving objects.",
+        "This type of energy depends on an object's speed and mass.",
+        "This energy is the opposite of potential energy."
+      ]
+    },
+    {
+      "question": "In a perfectly elastic collision, which of the following quantities is conserved?",
+      "options": [
+        "Total energy (Correct answer)",
+        "Total mass",
+        "Total velocity",
+        "Total force"
+      ],
+      "hints": [
+        "Remember the law of conservation of energy.",
+        "An elastic collision is one where energy is not lost to other forms like heat.",
+        "In this type of collision, energy stays in the system."
+      ]
+    },
+    {
+      "question": "Which of the following energy transformations occurs in a battery-powered flashlight?",
+      "options": [
+        "Mechanical to electrical",
+        "Electrical to mechanical",
+        "Chemical to electrical and then to light (Correct answer)",
+        "Thermal to light"
+      ],
+      "hints": [
+        "A battery stores a certain type of energy.",
+        "A flashlight emits light energy.",
+        "Think about the two-step energy transformation process in a flashlight."
+      ]
+    },
+    {
+      "question": "If the potential energy of an object in a field is negative, what does this suggest about the object's position?",
+      "options": [
+        "It is at its highest point in the field.",
+        "It is at an equilibrium position.",
+        "It is bound within the field. (Correct answer)",
+        "It is outside the field."
+      ],
+      "hints": [
+        "Negative potential energy usually has a specific meaning.",
+        "If an object is bound, it's held in place by a force.",
+        "Negative potential energy implies the object is within a certain boundary."
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a form of potential energy?",
+      "options": [
+        "Gravitational energy",
+        "Elastic energy",
+        "Thermal energy (Correct answer)",
+        "Chemical energy"
+      ],
+      "hints": [
+        "Potential energy is stored energy.",
+        "One of the options is related to heat and movement of particles.",
+        "This form of energy increases as temperature increases."
+      ]
+    },
+    {
+      "question": "What is the frequency of a wave that has a speed of 300 m/s and a wavelength of 30 m?",
+      "options": [
+        "10 Hz (Correct answer)",
+        "20 Hz",
+        "30 Hz",
+        "40 Hz"
+      ],
+      "hints": [
+        "Frequency is calculated as the speed divided by the wavelength.",
+        "The unit for frequency is Hz.",
+        "A lower wavelength would result in a higher frequency."
+      ]
+    },
+    {
+      "question": "Which of the following types of waves requires a medium to travel?",
+      "options": [
+        "Sound waves (Correct answer)",
+        "Light waves",
+        "X-rays",
+        "Radio waves"
+      ],
+      "hints": [
+        "Some waves can travel through space, which is a vacuum.",
+        "This type of wave is mechanical.",
+        "You can't hear in space, right?"
+      ]
+    },
+    {
+      "question": "Which of the following colors of light has the highest energy?",
+      "options": [
+        "Red",
+        "Orange",
+        "Green",
+        "Violet (Correct answer)"
+      ],
+      "hints": [
+        "Energy is related to the wavelength of light.",
+        "Shorter wavelengths have higher energy.",
+        "This color is at one end of the visible spectrum."
+      ]
+    },
+    {
+      "question": "If a wave's frequency doubles, what happens to its wavelength, assuming the speed of the wave remains constant?",
+      "options": [
+        "The wavelength doubles.",
+        "The wavelength halves. (Correct answer)",
+        "The wavelength remains the same.",
+        "The wavelength quadruples."
+      ],
+      "hints": [
+        "Frequency and wavelength are inversely proportional.",
+        "As one goes up, the other must come down.",
+        "If the frequency doubles, the wavelength must go in the opposite direction."
+      ]
+    },
+    {
+      "question": "What type of wave is a light wave?",
+      "options": [
+        "Longitudinal wave",
+        "Transverse wave (Correct answer)",
+        "Mechanical wave",
+        "Seismic wave"
+      ],
+      "hints": [
+        "This type of wave is characterized by oscillations that are perpendicular to the direction of energy transfer.",
+        "Longitudinal waves include things like sound waves.",
+        "Light is not a mechanical wave."
+      ]
+    },
+    {
+      "question": "What is the term for a relationship in an ecosystem where both species benefit?",
+      "options": [
+        "Commensalism",
+        "Mutualism (Correct answer)",
+        "Parasitism",
+        "Competition"
+      ],
+      "hints": [
+        "This relationship is positive-positive.",
+        "An example might include bees and flowers.",
+        "Neither species is harmed in this relationship."
+      ]
+    },
+    {
+      "question": "Which organism in a food chain is responsible for converting solar energy into usable energy?",
+      "options": [
+        "Primary consumer",
+        "Secondary consumer",
+        "Producer (Correct answer)",
+        "Decomposer"
+      ],
+      "hints": [
+        "These organisms are typically plants.",
+        "They start the energy flow in a food chain.",
+        "They convert sunlight through a process called photosynthesis."
+      ]
+    },
+    {
+      "question": "What type of organism breaks down dead organic material in an ecosystem?",
+      "options": [
+        "Herbivore",
+        "Predator",
+        "Prey",
+        "Decomposer (Correct answer)"
+      ],
+      "hints": [
+        "These organisms serve a vital role in recycling nutrients.",
+        "Examples might include fungi or bacteria.",
+        "They turn dead things into nutrients in the soil."
+      ]
+    },
+    {
+      "question": "Which term describes the variety of life within an ecosystem?",
+      "options": [
+        "Habituation",
+        "Symbiosis",
+        "Biodiversity (Correct answer)",
+        "Speciation"
+      ],
+      "hints": [
+        "This term encompasses the range of species, genes, and ecosystems.",
+        "Higher levels of this term can lead to ecosystem stability.",
+        "Think about the many different types of life on earth."
+      ]
+    },
+    {
+      "question": "In a food chain, what is the term for animals that eat only plants?",
+      "options": [
+        "Carnivores",
+        "Omnivores",
+        "Detritivores",
+        "Herbivores (Correct answer)"
+      ],
+      "hints": [
+        "These organisms are plant-eaters.",
+        "Examples might include deer or rabbits.",
+        "They are often the primary consumers in a food chain."
+      ]
+    },
+    {
+      "question": "What is the process by which plants convert light energy into chemical energy?",
+      "options": [
+        "Respiration",
+        "Fermentation",
+        "Decomposition",
+        "Photosynthesis (Correct answer)"
+      ],
+      "hints": [
+        "This process occurs in plants.",
+        "It's how plants make their food.",
+        "The result is oxygen and glucose."
+      ]
+    },
+    {
+      "question": "Which cycle involves the transformation of gaseous nitrogen into usable forms by bacteria?",
+      "options": [
+        "Water cycle",
+        "Carbon cycle",
+        "Nitrogen cycle (Correct answer)",
+        "Oxygen cycle"
+      ],
+      "hints": [
+        "This cycle is essential for all forms of life.",
+        "The atmosphere is the main reservoir.",
+        "It involves bacteria."
+      ]
+    },
+    {
+      "question": "Which process is the main source of oxygen in the atmosphere?",
+      "options": [
+        "Fermentation",
+        "Nitrogen fixation",
+        "Photosynthesis (Correct answer)",
+        "Cellular respiration"
+      ],
+      "hints": [
+        "It involves plants.",
+        "It happens when sunlight is abundant.",
+        "It's part of the carbon cycle."
+      ]
+    },
+    {
+      "question": "In an ecosystem, what role does a decomposer play in the nutrient cycle?",
+      "options": [
+        "It converts sunlight into glucose.",
+        "It breaks down dead organisms and waste, returning nutrients to the soil. (Correct answer)",
+        "It consumes other organisms for energy.",
+        "It fixes nitrogen from the atmosphere."
+      ],
+      "hints": [
+        "This role involves breaking things down.",
+        "It's part of recycling nutrients.",
+        "They are often fungi or bacteria."
+      ]
+    },
+    {
+      "question": "Which process describes the movement of water from the Earth's surface to the atmosphere and back?",
+      "options": [
+        "Carbon cycle",
+        "Nitrogen cycle",
+        "Water cycle (Correct answer)",
+        "Oxygen cycle"
+      ],
+      "hints": [
+        "It involves evaporation and precipitation.",
+        "It's a key part of the earth's climate system.",
+        "It starts with the sun's energy."
+      ]
+    },
+    {
+      "question": "What is the term for the physical appearance of an organism's genes?",
+      "options": [
+        "Genotype",
+        "Phenotype (Correct answer)",
+        "Karyotype",
+        "Genomic"
+      ],
+      "hints": [
+        "It's not about the genetic code, but how it manifests.",
+        "For example, the color of your eyes.",
+        "Starts with a P."
+      ]
+    },
+    {
+      "question": "Which law of Mendel states that allele pairs separate during gamete formation?",
+      "options": [
+        "Law of Independent Assortment",
+        "Law of Dominance",
+        "Law of Segregation (Correct answer)",
+        "Law of Variation"
+      ],
+      "hints": [
+        "It's all about separation during a specific type of cell formation.",
+        "It's one of Mendel's basic principles.",
+        "Think about gametes."
+      ]
+    },
+    {
+      "question": "Which type of inheritance pattern is exhibited when a heterozygous individual expresses both alleles simultaneously without any blending?",
+      "options": [
+        "Dominant",
+        "Codominance (Correct answer)",
+        "Incomplete dominance",
+        "Recessive"
+      ],
+      "hints": [
+        "Not one trait dominates the other.",
+        "Both traits can be seen clearly in the phenotype.",
+        "It's a co- situation."
+      ]
+    },
+    {
+      "question": "In humans, which chromosome determines the sex of an individual?",
+      "options": [
+        "Chromosome 21",
+        "Chromosome 1",
+        "X chromosome (Correct answer)",
+        "Y chromosome"
+      ],
+      "hints": [
+        "It's not about a specific number.",
+        "One of the sex chromosomes.",
+        "It's part of the pair that determines sex."
+      ]
+    },
+    {
+      "question": "If two parents are carriers (heterozygous) for a recessive genetic disorder, what is the probability that their child will have the disorder?",
+      "options": [
+        "25% (Correct answer)",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "hints": [
+        "Think about a Punnett square.",
+        "Only one combination out of four will result in the disorder.",
+        "It's less than 50%."
+      ]
+    },
+    {
+      "question": "Which of the following terms describes the process by which new species evolve from a common ancestral species?",
+      "options": [
+        "Genetic drift",
+        "Mutation",
+        "Speciation (Correct answer)",
+        "Adaptation"
+      ],
+      "hints": [
+        "It's not a random process or event.",
+        "It's about the birth of new species.",
+        "Think about the process that results in biodiversity."
+      ]
+    },
+    {
+      "question": "Which theory explains the wide diversity of life on Earth, with all species descending from common ancestors?",
+      "options": [
+        "Theory of Inheritance",
+        "Theory of Evolution (Correct answer)",
+        "Theory of Relativity",
+        "Theory of Plate Tectonics"
+      ],
+      "hints": [
+        "It's the big theory in biology.",
+        "Charles Darwin is associated with this theory.",
+        "It's about changes and adaptation over time."
+      ]
+    },
+    {
+      "question": "Which term describes the gradual change in a species over a long period of time?",
+      "options": [
+        "Genetic drift",
+        "Microevolution",
+        "Macroevolution (Correct answer)",
+        "Punctuated equilibrium"
+      ],
+      "hints": [
+        "It's not about short-term changes.",
+        "It's about large-scale evolution.",
+        "Think big time scales and significant evolutionary changes."
+      ]
+    },
+    {
+      "question": "What term describes the ability of an organism to survive and reproduce in its environment?",
+      "options": [
+        "Adaptation",
+        "Fitness (Correct answer)",
+        "Mutation",
+        "Speciation"
+      ],
+      "hints": [
+        "It's about being well-suited to one's environment.",
+        "Survival of the fittest.",
+        "It's about reproductive success."
+      ]
+    },
+    {
+      "question": "Which of the following is a source of genetic variation within a population?",
+      "options": [
+        "Genetic drift",
+        "Mutation (Correct answer)",
+        "Gene flow",
+        "All of the above"
+      ],
+      "hints": [
+        "It's a sudden change in the genetic code.",
+        "It can be caused by errors in DNA replication.",
+        "It's one way new genetic material is introduced into a gene pool"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT considered one of the four major systems (spheres) of the Earth?",
+      "options": [
+        "Hydrosphere",
+        "Lithosphere",
+        "Atmosphere",
+        "Thermosphere (Correct answer)"
+      ],
+      "hints": [
+        "The correct answer is not a typical layer we discuss in Earth sciences.",
+        "The term relates to temperature.",
+        "It's a part of a larger sphere."
+      ]
+    },
+    {
+      "question": "What sphere of the Earth system encompasses all of Earth's water, including oceans, lakes, and groundwater?",
+      "options": [
+        "Lithosphere",
+        "Atmosphere",
+        "Biosphere",
+        "Hydrosphere (Correct answer)"
+      ],
+      "hints": [
+        "It's about water.",
+        "Hydro- is the prefix for water.",
+        "It includes all water bodies on the planet."
+      ]
+    },
+    {
+      "question": "The _____ includes the solid earth that forms continents and ocean basins.",
+      "options": [
+        "Hydrosphere",
+        "Lithosphere (Correct answer)",
+        "Atmosphere",
+        "Biosphere"
+      ],
+      "hints": [
+        "This sphere is related to rocks.",
+        "It includes the Earth's crust.",
+        "It forms the foundation for life on Earth."
+      ]
+    },
+    {
+      "question": "Which of Earth's systems is described as the global sum of all ecosystems and living organisms?",
+      "options": [
+        "Hydrosphere",
+        "Atmosphere",
+        "Biosphere (Correct answer)",
+        "Lithosphere"
+      ],
+      "hints": [
+        "It's about life.",
+        "Bio- is the prefix for life.",
+        "It includes all living things, from microorganisms to humans."
+      ]
+    },
+    {
+      "question": "What human activity is the largest contributor to the increase in atmospheric carbon dioxide?",
+      "options": [
+        "Deforestation",
+        "Burning fossil fuels (Correct answer)",
+        "Agriculture",
+        "Urbanization"
+      ],
+      "hints": [
+        "Think about the Industrial Revolution.",
+        "Cars and power plants contribute to this activity.",
+        "This activity releases greenhouse gases into the atmosphere."
+      ]
+    },
+    {
+      "question": "The construction of dams is primarily intended for what purpose?",
+      "options": [
+        "Increasing soil erosion",
+        "Decreasing fish populations",
+        "Creating reservoirs for water storage (Correct answer)",
+        "Increasing carbon dioxide levels"
+      ],
+      "hints": [
+        "It's about water management.",
+        "This action can help produce a type of renewable energy.",
+        "This activity can also control flooding."
+      ]
+    },
+    {
+      "question": "Which human activity is primarily responsible for habitat loss?",
+      "options": [
+        "Solar energy production",
+        "Land development (Correct answer)",
+        "Wind energy production",
+        "Rainwater harvesting"
+      ],
+      "hints": [
+        "Think about where buildings and cities are built.",
+        "Deforestation is a part of this process.",
+        "This activity reduces biodiversity."
+      ]
+    },
+    {
+      "question": "Which of the following is a renewable resource?",
+      "options": [
+        "Coal",
+        "Natural Gas",
+        "Wind (Correct answer)",
+        "Petroleum"
+      ],
+      "hints": [
+        "It's not a fossil fuel.",
+        "It's a source of green energy.",
+        "It's invisible and felt rather than seen."
+      ]
+    },
+    {
+      "question": "Which human activity has led to an increase in the size of the ozone hole?",
+      "options": [
+        "Use of chlorofluorocarbons (CFCs) (Correct answer)",
+        "Organic farming",
+        "Wind energy production",
+        "Rainwater harvesting"
+      ],
+      "hints": [
+        "It involves chemicals that were commonly used in air conditioning and refrigeration.",
+        "The Montreal Protocol sought to phase out these substances.",
+        "This activity affects the atmosphere."
+      ]
+    },
+    {
+      "question": "In the engineering design process, what is the first step?",
+      "options": [
+        "Build a prototype",
+        "Identify the problem (Correct answer)",
+        "Test and evaluate the design",
+        "Design a solution"
+      ],
+      "hints": [
+        "You can't find a solution without knowing what this is.",
+        "It's all about defining what needs to be solved.",
+        "Without this step, you wouldn't know where to start."
+      ]
+    },
+    {
+      "question": "During which phase of the engineering design process would a prototype most likely be created?",
+      "options": [
+        "Defining the problem",
+        "Researching the problem",
+        "Designing the solution (Correct answer)",
+        "Evaluating the solution"
+      ],
+      "hints": [
+        "It's a creative stage."
+      ]
+    },
+    {
+      "question": "What is the primary purpose of engineering?",
+      "options": [
+        "To improve society by solving real-world problems (Correct answer)",
+        "To make money",
+        "To create scientific theories",
+        "To disprove scientific theories"
+      ],
+      "hints": [
+        "It's about solving problems.",
+        "It has a strong societal impact.",
+        "Think about bridges, roads, and buildings."
+      ]
+    },
+    {
+      "question": "How has technology impacted society's communication?",
+      "options": [
+        "Made communication more difficult",
+        "Reduced the speed of communication",
+        "Increased global communication (Correct answer)",
+        "Made communication impossible"
+      ],
+      "hints": [
+        "Think about the internet and smartphones.",
+        "It has made communication faster and easier.",
+        "It's about connecting people globally."
+      ]
+    },
+    {
+      "question": "Which is a common result of scientific discovery?",
+      "options": [
+        "Decreased technology development",
+        "New engineering solutions (Correct answer)",
+        "No impact on society",
+        "Increased poverty"
+      ],
+      "hints": [
+        "It often leads to new innovations.",
+        "It helps solve real-world problems.",
+        "Scientific discoveries often enable new designs or systems."
+      ]
+    },
+    {
+      "question": "Which field primarily uses technology to apply scientific knowledge?",
+      "options": [
+        "History",
+        "Literature",
+        "Engineering (Correct answer)",
+        "Art"
+      ],
+      "hints": [
+        "It's about problem-solving.",
+        "Bridges, roads, and buildings are examples.",
+        "It applies scientific theories to create practical solutions."
+      ]
+    },
+    {
+      "question": "Which of the following is an example of a societal influence on engineering?",
+      "options": [
+        "The creation of electric cars due to environmental concerns (Correct answer)",
+        "The theory of relativity",
+        "The invention of the wheel",
+        "The discovery of DNA"
+      ],
+      "hints": [
+        "It's about responding to societal needs and issues.",
+        "Environmental sustainability is a key concern today.",
+        "This innovation helps to reduce carbon emissions."
+      ]
+    },
+    {
+      "question": "What form of energy is stored in chemical bonds?",
+      "options": [
+        "Thermal energy",
+        "Potential energy",
+        "Kinetic energy",
+        "Chemical energy (Correct answer)"
+      ],
+      "hints": [
+        "It's about molecules and atoms.",
+        "It's released during chemical reactions.",
+        "This energy is stored in the bonds between atoms."
+      ]
+    },
+    {
+      "question": "In an exothermic reaction, what happens to the energy?",
+      "options": [
+        "Energy is absorbed from the surroundings",
+        "Energy is neither absorbed nor released",
+        "Energy is released into the surroundings (Correct answer)",
+        "Energy disappears"
+      ],
+      "hints": [
+        "Think about heat and chemical reactions.",
+        "Burning wood in a fireplace is an example of this type of reaction."
+      ]
+    },
+    {
+      "question": "What term describes the process by which water changes from a liquid state to a gaseous state?",
+      "options": [
+        "Condensation",
+        "Sublimation",
+        "Evaporation (Correct answer)",
+        "Transpiration"
+      ],
+      "hints": [
+        "This process often occurs under the sun.",
+        "This is part of the water cycle.",
+        "When you boil water, you observe this process."
+      ]
+    },
+    {
+      "question": "Which of the following processes is primarily responsible for the creation of river valleys?",
+      "options": [
+        "Erosion (Correct answer)",
+        "Deposition",
+        "Subduction",
+        "Metamorphism"
+      ],
+      "hints": [
+        "It's a process that shapes landscapes over time.",
+        "It involves the movement of soil and rock.",
+        "Fast-flowing water is often involved."
+      ]
+    },
+    {
+      "question": "What process describes water's movement across the land surface into streams and rivers?",
+      "options": [
+        "Transpiration",
+        "Evaporation",
+        "Condensation",
+        "Runoff (Correct answer)"
+      ],
+      "hints": [
+        "This process occurs after a rainstorm.",
+        "It's a part of the water cycle.",
+        "It can cause erosion."
+      ]
+    },
+    {
+      "question": "What term describes the process by which water is transferred from the land to the atmosphere by evaporation from the soil and other surfaces and by transpiration from plants?",
+      "options": [
+        "Runoff",
+        "Sublimation",
+        "Evapotranspiration (Correct answer)",
+        "Precipitation"
+      ],
+      "hints": [
+        "It's a combination of two processes in the water cycle.",
+        "It involves plants.",
+        "It includes evaporation."
+      ]
+    },
+    {
+      "question": "Which of the following processes involves water seeping into the ground to become part of the groundwater system?",
+      "options": [
+        "Runoff",
+        "Evaporation",
+        "Infiltration (Correct answer)",
+        "Transpiration"
+      ],
+      "hints": [
+        "It happens after rain falls on the ground.",
+        "It's the opposite of runoff.",
+        "It replenishes underground water resources."
+      ]
+    }
+  ]
+}

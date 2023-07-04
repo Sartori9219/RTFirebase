@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Ocean Currents",
+        "Tides",
+        "Waves",
+        "Sea Level Rise",
+        "Oceanic Zones",
+        "Marine Ecosystems",
+        "Coral Reefs",
+        "Ocean Acidification",
+        "Thermohaline Circulation",
+        "Ocean Floor Topography",
+        "Plate Tectonics and Oceanic Crust",
+        "Marine Pollution",
+        "Coastal Erosion",
+        "Tsunamis",
+        "El Ni\u00f1o and La Ni\u00f1a Phenomena"
+    ],
+    "hints": {
+        "Ocean Currents": "These are continuous, directed movements of sea water. They can be caused by wind, temperature, salinity differences, and the Coriolis effect due to the Earth's rotation.",
+        "Tides": "The rise and fall of sea levels caused by the gravitational forces exerted by the Moon and the Sun, and the rotation of Earth.",
+        "Waves": "These are disturbances that travel through the ocean, driven by the wind.",
+        "Sea Level Rise": "An increase in the volume of water in the world's oceans, resulting in an increase in sea level. This is typically caused by global warming.",
+        "Oceanic Zones": "Different regions of the ocean, categorized based on their depth, proximity to land, and amount of sunlight they receive.",
+        "Marine Ecosystems": "Communities of organisms and their interactions in the ocean environment.",
+        "Coral Reefs": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+        "Ocean Acidification": "A reduction in the pH of the ocean over an extended period, primarily caused by uptake of carbon dioxide from the atmosphere.",
+        "Thermohaline Circulation": "A part of the large-scale ocean circulation that is driven by global density gradients created by surface heat and freshwater fluxes.",
+        "Ocean Floor Topography": "The study of the ocean floor, its features and processes.",
+        "Plate Tectonics and Oceanic Crust": "The study of the movement of large plates of the earth's crust and how this affects the ocean floor.",
+        "Marine Pollution": "The introduction of harmful materials into the ocean.",
+        "Coastal Erosion": "The loss of coastal lands due to the movement of wind, water, and ice.",
+        "Tsunamis": "A series of waves in a water body caused by the displacement of a large volume of water, generally in an ocean or a large lake.",
+        "El Ni\u00f1o and La Ni\u00f1a Phenomena": "These are complex weather patterns resulting from variations in ocean temperatures in the Equatorial Pacific. El Ni\u00f1o is associated with warm and La Ni\u00f1a with cooler than average sea surface temperatures."
+    }
+}

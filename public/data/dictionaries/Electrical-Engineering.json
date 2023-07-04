@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Circuit Analysis",
+        "Electromagnetism",
+        "Signal Processing",
+        "Power Systems",
+        "Electronic Devices",
+        "Control Systems",
+        "Communications",
+        "Digital Systems",
+        "Electromechanical Energy Conversion",
+        "Power Electronics",
+        "High Voltage Engineering",
+        "Antenna and Wave Propagation",
+        "Analog Electronics",
+        "Embedded Systems",
+        "Optical Fiber Communication"
+    ],
+    "hints": {
+        "Circuit Analysis": "The study of methods to solve linear systems for unknown variables such as the voltage at a certain node or the current through a certain branch of a network.",
+        "Electromagnetism": "The study of the forces between electrically charged particles that occur due to their charge and the movement of these particles.",
+        "Signal Processing": "The analysis, interpretation, and manipulation of signals which are used in a wide variety of systems, including telecommunications, image processing, and digital audio.",
+        "Power Systems": "The study of the generation, transmission, and distribution of electrical power, including the design and management of power grids.",
+        "Electronic Devices": "The study of electronic components such as transistors and diodes, used in the design and construction of electronic circuits.",
+        "Control Systems": "The study of systems designed to manage, command, direct, or regulate the behavior of other systems.",
+        "Communications": "The study of transmitting information from one location to another, including the use of modems, fiber optics, satellites, radio, and television broadcasting.",
+        "Digital Systems": "The study of systems based on discrete signals, such as binary code, and the hardware used to process these signals.",
+        "Electromechanical Energy Conversion": "The study of methods and processes to convert electrical energy into mechanical energy and vice versa.",
+        "Power Electronics": "The study of electronics that deal with power conversion and control in high-power applications, such as converters and inverters.",
+        "High Voltage Engineering": "The study of electrical components and systems that operate at high voltages, such as power transmission and distribution systems.",
+        "Antenna and Wave Propagation": "The study of how radio waves are transmitted and received by antennas, and how they propagate through different mediums.",
+        "Analog Electronics": "The study of electronic systems with a continuously variable signal, as opposed to digital electronics where signals usually take only two different levels.",
+        "Embedded Systems": "The study of computer systems designed to perform one or a few dedicated functions, often embedded as part of a complete device including hardware and mechanical parts.",
+        "Optical Fiber Communication": "The study of transmitting information from one place to another by sending pulses of light through an optical fiber."
+    }
+}

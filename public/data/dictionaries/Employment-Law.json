@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Minimum Wage",
+        "Overtime Pay",
+        "Child Labor Laws",
+        "Workplace Discrimination",
+        "Workplace Harassment",
+        "Family and Medical Leave Act (FMLA)",
+        "Workers' Compensation",
+        "Employee vs. Independent Contractor",
+        "Equal Pay Act",
+        "Occupational Safety and Health Act (OSHA)",
+        "Unemployment Insurance",
+        "Employee Privacy Rights",
+        "Employment Contracts",
+        "At-Will Employment",
+        "Whistleblower Protection"
+    ],
+    "hints": {
+        "Minimum Wage": "The lowest hourly pay rate that employers are legally required to pay their workers, which can vary by state or country.",
+        "Overtime Pay": "Additional compensation that must be paid to eligible employees who work more than a certain number of hours in a workweek or workday.",
+        "Child Labor Laws": "Regulations that protect the rights of young workers by specifying the types of jobs they can do, the hours they can work, and the conditions under which they can work.",
+        "Workplace Discrimination": "Unfair treatment of employees based on factors such as race, gender, age, religion, or disability, which is prohibited under various laws.",
+        "Workplace Harassment": "Unwelcome behavior, comments, or actions that create a hostile work environment or interfere with an individual's job performance.",
+        "Family and Medical Leave Act (FMLA)": "A federal law that allows eligible employees to take unpaid, job-protected leave for certain family or medical reasons.",
+        "Workers' Compensation": "A form of insurance that provides wage replacement and medical benefits to employees who are injured on the job.",
+        "Employee vs. Independent Contractor": "The distinction between two types of workers, with employees receiving certain legal protections and benefits while independent contractors typically do not.",
+        "Equal Pay Act": "A law that prohibits employers from paying workers of one gender less than workers of the opposite gender for equal work.",
+        "Occupational Safety and Health Act (OSHA)": "A federal law that requires employers to provide a safe and healthy workplace for their employees.",
+        "Unemployment Insurance": "A government program that provides temporary financial support to workers who lose their jobs through no fault of their own.",
+        "Employee Privacy Rights": "The rights of employees to maintain their personal privacy in the workplace, including protection from unreasonable searches or monitoring.",
+        "Employment Contracts": "Agreements between employers and employees that outline the terms and conditions of employment, such as job duties, salary, and benefits.",
+        "At-Will Employment": "A legal doctrine in many U.S. states that allows employers to terminate employees at any time for any reason, as long as it's not illegal or discriminatory.",
+        "Whistleblower Protection": "Laws that protect employees who report illegal or unethical activities within their organization from retaliation or job loss."
+    }
+}

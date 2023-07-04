@@ -1,0 +1,484 @@
+{
+  "questions": [
+    {
+      "question": "What comes next in this sequence pattern? \ud83c\udf4e \ud83c\udf4f \ud83c\udf4e \ud83c\udf4f",
+      "options": [
+        "\ud83c\udf4e (Correct answer)",
+        "\ud83c\udf4f",
+        "\ud83c\udf4a",
+        "\ud83c\udf4c"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji is missing in this sequence pattern? \ud83d\ude97 \ud83d\ude95 \ud83d\ude99 _ \ud83d\ude97 \ud83d\ude95",
+      "options": [
+        "\ud83d\ude9a",
+        "\ud83d\ude93",
+        "\ud83d\ude99 (Correct answer)",
+        "\ud83d\ude96"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the next emoji in this sequence pattern? \ud83d\ude04 \ud83d\ude1e \ud83d\ude04 \ud83d\ude1e",
+      "options": [
+        "\ud83d\ude03",
+        "\ud83d\ude1e (Correct answer)",
+        "\ud83d\ude06",
+        "\ud83d\ude14"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What comes next in this sequence pattern? \ud83c\udf1e \ud83c\udf1a \ud83c\udf1e \ud83c\udf1a",
+      "options": [
+        "\ud83c\udf1e (Correct answer)",
+        "\ud83c\udf1a",
+        "\ud83c\udf1d",
+        "\ud83c\udf1b"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which option continues the spatial pattern? \ud83d\udd34\ud83d\udd35\ud83d\udd34\ud83d\udd35",
+      "options": [
+        "\ud83d\udd34 (Correct answer)",
+        "\ud83d\udd35",
+        "\ud83d\udfe1",
+        "\ud83d\udfe2"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What comes next in this spatial pattern? \ud83d\udfe9\ud83d\udfe9\ud83d\udfe5\ud83d\udfe9\ud83d\udfe5\ud83d\udfe5",
+      "options": [
+        "\ud83d\udfe9\ud83d\udfe9 (Correct answer)",
+        "\ud83d\udfe5\ud83d\udfe9",
+        "\ud83d\udfe9\ud83d\udfe5",
+        "\ud83d\udfe5\ud83d\udfe5"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji is missing in this spatial pattern? \ud83d\udfe6\ud83d\udfe7\ud83d\udfe7\ud83d\udfe6_\ud83d\udfe6\ud83d\udfe7",
+      "options": [
+        "\ud83d\udfe7",
+        "\ud83d\udfe6",
+        "\ud83d\udfe8",
+        "\ud83d\udfe6\ud83d\udfe7 (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What is the next emoji in this spatial pattern? \u2b1b\u2b1c\u2b1b\u2b1c",
+      "options": [
+        "\u2b1b (Correct answer)",
+        "\u2b1c",
+        "\ud83d\udfe9",
+        "\ud83d\udfeb"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji doesn't belong in the following categorical pattern? \ud83d\udc36\ud83d\udc31\ud83d\udc39\ud83d\ude97",
+      "options": [
+        "\ud83d\udc36",
+        "\ud83d\udc31",
+        "\ud83d\udc39",
+        "\ud83d\ude97 (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji fits the categorical pattern? \ud83c\udf4f\ud83c\udf4a\ud83c\udf47_",
+      "options": [
+        "\ud83c\udf49 (Correct answer)",
+        "\ud83c\udf55",
+        "\ud83e\uddc1",
+        "\ud83c\udf5f"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What's the odd one out in this categorical pattern? \ud83d\ude80\u2708\ufe0f\ud83d\ude81\ud83d\udea4",
+      "options": [
+        "\ud83d\ude80",
+        "\u2708\ufe0f",
+        "\ud83d\ude81",
+        "\ud83d\udea4 (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji completes the categorical pattern? \ud83c\udf27\ufe0f\u2744\ufe0f\u2600\ufe0f_",
+      "options": [
+        "\ud83c\udf42",
+        "\ud83c\udf08",
+        "\ud83c\udf2a\ufe0f",
+        "\ud83c\udf41 (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji has vertical symmetry?",
+      "options": [
+        "\ud83c\udf55",
+        "\ud83c\udf5f",
+        "\ud83c\udf69",
+        "\ud83c\udf57 (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji has horizontal symmetry?",
+      "options": [
+        "\ud83d\ude04 (Correct answer)",
+        "\ud83d\ude0f",
+        "\ud83d\ude05",
+        "\ud83e\udd28"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji has rotational symmetry?",
+      "options": [
+        "\u2728 (Correct answer)",
+        "\ud83c\udfe0",
+        "\ud83d\udcd0",
+        "\ud83d\udcd5"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji has both vertical and horizontal symmetry?",
+      "options": [
+        "\ud83c\udf4e",
+        "\ud83d\uded1 (Correct answer)",
+        "\ud83d\ude97",
+        "\ud83c\udf54"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji represents recursion?",
+      "options": [
+        "\ud83c\udf81",
+        "\ud83d\udce6 (Correct answer)",
+        "\ud83c\udf88",
+        "\ud83e\uddf8"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji best represents a recursive structure in nature?",
+      "options": [
+        "\ud83d\udc1a (Correct answer)",
+        "\ud83c\udf38",
+        "\ud83c\udf42",
+        "\ud83c\udf32"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji shows a recursive pattern?",
+      "options": [
+        "\ud83c\udf1e",
+        "\ud83c\udf08",
+        "\ud83c\udf00 (Correct answer)",
+        "\ud83c\udf27\ufe0f"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji suggests a recursive process?",
+      "options": [
+        "\ud83c\udf33",
+        "\ud83c\udf3b",
+        "\ud83d\udca7",
+        "\ud83e\udeb1 (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji represents periodicity in nature?",
+      "options": [
+        "\ud83c\udf15 (Correct answer)",
+        "\ud83c\udf2a\ufe0f",
+        "\ud83c\udf08",
+        "\ud83c\udf42"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What comes next in this periodic sequence? \ud83c\udf37\u2744\ufe0f\ud83c\udf37\u2744\ufe0f",
+      "options": [
+        "\ud83c\udf37 (Correct answer)",
+        "\u2744\ufe0f",
+        "\ud83c\udf41",
+        "\ud83c\udf26\ufe0f"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji best represents a periodic event in our lives?",
+      "options": [
+        "\ud83c\udf82 (Correct answer)",
+        "\ud83d\ude80",
+        "\ud83c\udf0a",
+        "\ud83d\udeb2"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What comes next in this periodic sequence? \ud83c\udf7d\ufe0f\ud83d\ude34\ud83c\udf7d\ufe0f\ud83d\ude34",
+      "options": [
+        "\ud83c\udf7d\ufe0f (Correct answer)",
+        "\ud83d\ude34",
+        "\ud83d\udecc",
+        "\ud83e\udd64"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji pair represents an analogy with \ud83c\udf1e:\ud83c\udf1d?",
+      "options": [
+        "\ud83d\udc08:\ud83d\udc15 (Correct answer)",
+        "\ud83c\udf4e:\ud83c\udf4e",
+        "\ud83c\udfe0:\ud83c\udfe1",
+        "\ud83d\ude80:\ud83d\udef8"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji pair represents an analogy with \ud83c\udf32:\ud83c\udf33?",
+      "options": [
+        "\ud83d\ude97:\ud83d\ude95 (Correct answer)",
+        "\ud83d\udc31:\ud83d\udc31",
+        "\ud83c\udf27\ufe0f:\ud83c\udf26\ufe0f",
+        "\ud83e\udd81:\ud83e\udd8a"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What analogy matches with \ud83c\udfb5:\ud83c\udfb6?",
+      "options": [
+        "\ud83c\udf4f:\ud83c\udf4e (Correct answer)",
+        "\ud83d\ude80:\ud83d\ude81",
+        "\u26bd:\ud83c\udfc0",
+        "\ud83d\udc1f:\ud83d\udc20"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji pair represents an analogy with \ud83d\udd25:\ud83d\udca7?",
+      "options": [
+        "\u26a1:\ud83c\udf2c\ufe0f (Correct answer)",
+        "\ud83e\udd81:\ud83d\udc2f",
+        "\ud83c\udf66:\ud83c\udf67",
+        "\ud83c\udf08:\u2601\ufe0f"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji sequence demonstrates inductive reasoning about weather? \u26c5\u2601\ufe0f\u2614_",
+      "options": [
+        "\u26c8\ufe0f (Correct answer)",
+        "\ud83c\udf24\ufe0f",
+        "\ud83c\udf2a\ufe0f",
+        "\ud83c\udf08"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What emoji is likely to come next in this inductive sequence? \ud83c\udf55\ud83c\udf54\ud83c\udf5f_",
+      "options": [
+        "\ud83c\udf63",
+        "\ud83c\udf69",
+        "\ud83c\udf2d (Correct answer)",
+        "\ud83c\udf47"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji sequence suggests inductive reasoning about animal sizes? \ud83d\udc01\ud83d\udc07\ud83d\udc08_",
+      "options": [
+        "\ud83e\udd81 (Correct answer)",
+        "\ud83e\udd9f",
+        "\ud83e\udd9c",
+        "\ud83e\udda2"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What emoji is likely to come next in this inductive sequence? \ud83d\udeb6\ud83c\udfc3\ud83d\udeb4_",
+      "options": [
+        "\ud83c\udfca (Correct answer)",
+        "\ud83d\udecc",
+        "\ud83d\ude97",
+        "\ud83c\udfb3"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji represents deductive reasoning? \ud83e\udde0",
+      "options": [
+        "\ud83d\udca1",
+        "\ud83d\udcda",
+        "\u2696\ufe0f (Correct answer)",
+        "\ud83c\udf93"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji pair represents a deductive reasoning statement? \ud83c\udf1e:\ud83c\udf1b",
+      "options": [
+        "\ud83c\udf38:\ud83c\udf3c",
+        "\ud83e\udd81:\ud83d\udc2f",
+        "\ud83d\udd25:\u2744\ufe0f (Correct answer)",
+        "\ud83d\ude80:\ud83d\ude81"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What emoji pair represents a deductive reasoning statement with \ud83d\udc26:\ud83d\udc27?",
+      "options": [
+        "\ud83e\udd86:\ud83e\udda2 (Correct answer)",
+        "\ud83d\udc0d:\ud83e\udd8e",
+        "\ud83c\udf32:\ud83c\udf33",
+        "\ud83c\udf4e:\ud83c\udf47"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji pair represents a deductive reasoning statement? \ud83d\udcd7:\ud83d\udcd8",
+      "options": [
+        "\ud83d\udcd5:\ud83d\udcd9 (Correct answer)",
+        "\ud83c\udfa4:\ud83c\udfa7",
+        "\ud83c\udf54:\ud83c\udf5f",
+        "\ud83d\ude95:\ud83d\ude97"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji sequence best represents algorithmic thinking for getting dressed? \ud83d\udc56\ud83d\udc55\ud83e\udde6_",
+      "options": [
+        "\ud83d\udc5f (Correct answer)",
+        "\ud83c\udfa9",
+        "\ud83e\udde3",
+        "\ud83e\udde4"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What emoji represents the next step in the algorithm for making a sandwich? \ud83c\udf5e\ud83e\uddc0\ud83c\udf45_",
+      "options": [
+        "\ud83e\udd53 (Correct answer)",
+        "\ud83c\udf66",
+        "\ud83c\udf6a",
+        "\ud83c\udf6b"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which emoji sequence demonstrates algorithmic thinking for baking a cake? \ud83e\udd5a\ud83e\udd63\ud83c\udf70_",
+      "options": [
+        "\ud83c\udf74",
+        "\ud83e\uddca",
+        "\ud83c\udf7d\ufe0f",
+        "\ud83c\udf82 (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What emoji represents the next step in the algorithm for planting a garden? \ud83c\udf31\ud83d\udca7\u2600\ufe0f_",
+      "options": [
+        "\ud83c\udf3f (Correct answer)",
+        "\u2744\ufe0f",
+        "\ud83c\udf2a\ufe0f",
+        "\ud83c\udf08"
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all cats have tails and Fluffy is a cat, then...",
+      "options": [
+        "Fluffy has wings.",
+        "Fluffy has a tail. (Correct answer)",
+        "Fluffy is a dog.",
+        "Fluffy has fins."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all apples are fruits and this is an apple, then this is a...",
+      "options": [
+        "Vegetable.",
+        "Mineral.",
+        "Fruit. (Correct answer)",
+        "Car."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If it always rains when there are dark clouds, and there are dark clouds outside, then...",
+      "options": [
+        "It's sunny outside.",
+        "There are no clouds.",
+        "It's raining outside. (Correct answer)",
+        "It's snowing outside."
+      ],
+      "hints": []
+    },
+    {
+      "question": "If all dogs bark and Rover is a dog, then...",
+      "options": [
+        "Rover meows.",
+        "Rover barks. (Correct answer)",
+        "Rover is a cat.",
+        "Rover is silent."
+      ],
+      "hints": []
+    },
+    {
+      "question": "When making a sandwich, which step comes first?",
+      "options": [
+        "Add lettuce",
+        "Spread butter on the bread (Correct answer)",
+        "Put the sandwich in the fridge",
+        "Eat the sandwich"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What's the first step in doing laundry?",
+      "options": [
+        "Fold the clothes",
+        "Iron the clothes",
+        "Put the clothes in the washing machine (Correct answer)",
+        "Hang the clothes to dry"
+      ],
+      "hints": []
+    },
+    {
+      "question": "When preparing to paint a room, what should you do first?",
+      "options": [
+        "Start painting the walls",
+        "Buy paint and supplies (Correct answer)",
+        "Hang up artwork",
+        "Vacuum the room"
+      ],
+      "hints": []
+    },
+    {
+      "question": "What's the first step in baking cookies?",
+      "options": [
+        "Preheat the oven (Correct answer)",
+        "Put the cookies in the oven",
+        "Eat the cookies",
+        "Cool the cookies on a wire rack"
+      ],
+      "hints": []
+    }
+  ]
+}

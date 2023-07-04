@@ -1,0 +1,42 @@
+[
+  {
+    "Project objective": "The Bionic Buddy: An Exploration in Biomedical Engineering",
+    "Steps": [
+      "You're tasked with creating a concept design for a bionic pet \u2014 a blend of biomechanics, bioinformatics, tissue engineering, medical imaging, and biomedical devices.",
+      "Choose an animal that you'd like to transform into a bionic pet. You could go with a dog, cat, bird, or even a lizard. Let's keep it small to medium-sized to keep the project manageable.",
+      "Dive into biomechanics! Study the movement and structure of your chosen animal. Sketch out how you can recreate these movements using a bionic structure.",
+      "Look into bioinformatics to understand the animal's biological processes. Use this knowledge to propose a way to incorporate living tissue into your bionic pet. This could be a synthetic skin that reacts to touch or a way for the pet to simulate breathing.",
+      "Use medical imaging techniques, like X-rays or MRIs, to get a detailed look at your chosen animal's anatomy. This will help you understand the internal mechanisms you need to recreate.",
+      "Design the biomedical devices that will drive your bionic pet. These could be sensors to detect touch or temperature, microcontrollers to move parts of the pet, or even a miniature \"heart\" pump.",
+      "Create a blueprint that brings together all the elements of your bionic pet, from the biomechanical structure to the biomedical devices.",
+      "Use a computer program to simulate your bionic pet's movements and behaviors. Make sure everything works together smoothly.",
+      "Test and refine your design. This might involve reworking certain elements, adjusting your bioinformatics data, or repositioning your biomedical devices.",
+      "Present your bionic pet concept to the class. Explain how you incorporated each of the five concepts into your design and share your simulation."
+    ]
+  },
+  {
+    "Project objective": "The Illuminated Heart: A Journey into Cardiovascular Engineering",
+    "Steps": [
+      "Imagine you're a superhero, but instead of X-ray vision, you have \"Cardio-vision\". You can see and understand the cardiovascular system in extreme detail.",
+      "Research different types of biomaterials used in cardiovascular engineering. How can these materials be used to repair, replace, or enhance the function of the heart and blood vessels?",
+      "Explore the field of biomedical optics. How can optical techniques be used to observe and measure cardiovascular phenomena?",
+      "Investigate how genomic engineering might be used to alter or correct genetic defects that can lead to cardiovascular diseases.",
+      "Create a diagram showing how your bionic heart would appear when viewed with your \"Cardio-vision\". Show how biomedical optics would allow you to see different aspects of heart function.",
+      "Explain how genomic engineering is utilized in your bionic heart. You might include gene therapies that reduce the risk of heart disease, or genes that make the heart more efficient.",
+      "Describe how neural engineering is involved in your bionic heart design. How is the heart's function controlled and monitored?",
+      "Present your bionic heart design to the class. Explain the role of each engineering field in your design and how your bionic heart could improve people's lives."
+    ]
+  },
+  {
+    "Project objective": "A Helping Hand: Building a Virtual Orthopedic Rehabilitation Assistant",
+    "Steps": [
+      "Imagine Jack, a passionate jazz pianist who recently broke his hand in an unfortunate kitchen accident. Jack needs help to regain the full use of his hand, and that's where your project comes in.",
+      "Research rehabilitation engineering and its role in helping individuals like Jack regain their physical capabilities. What techniques and technologies are commonly used?",
+      "Dive into the world of biomedical signal processing. How can you use these techniques to monitor Jack's hand movements and provide feedback?",
+      "Learn about pharmacokinetics. How might the medication Jack's taking for his recovery affect his hand movement or pain levels during exercises?",
+      "Explore orthopedic bioengineering. How can this knowledge help in understanding the challenges Jack might face during his hand rehabilitation?",
+      "Refine your virtual assistant based on what you've learned. For instance, you might want to include specific exercises that are beneficial for Jack's condition based on your orthopedic bioengineering research.",
+      "Prepare a presentation showcasing your virtual assistant. Explain how it could help Jack get back to playing jazz piano as quickly and safely as possible."
+    ]
+  }
+]

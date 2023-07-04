@@ -1,0 +1,554 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I've inherited a castle! I'm going to be a king!",
+        "That's royally awesome! But don't forget, even kings have to pay the 'throne tax', also known as the estate tax."
+      ],
+      "options": [
+        "Estate Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My eccentric uncle left me his treasure chest filled with gold!",
+        "Arrr! Just beware of the 'pirate's share', matey. That's the estate tax on your golden inheritance."
+      ],
+      "options": [
+        "Estate Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just inherited a collection of vintage cars. Vroom vroom!",
+        "Buckle up! Your 'drive down memory lane' might come with a 'speed ticket' called estate tax."
+      ],
+      "options": [
+        "Estate Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My aunt gave me this huge diamond. It's a gem of a gift!",
+        "That's a 'brilliant' present! But it might come with a 'sparkling' gift tax."
+      ],
+      "options": [
+        "Gift Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My parents surprised me with a brand-new car for my birthday!",
+        "Wow, that's 'wheely' great! Just don't forget, such a big gift could come with a 'speedy' gift tax."
+      ],
+      "options": [
+        "Gift Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My rich friend just gave me a mansion as a wedding present!",
+        "Congrats! But your 'home sweet home' might come with a 'sour' side of gift tax."
+      ],
+      "options": [
+        "Gift Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is there a chunk missing from my earnings?",
+        "That's the 'bite' of the payroll tax 'beast'. It's how we fund things like Social Security and Medicare."
+      ],
+      "options": [
+        "Payroll Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just got my first paycheck, but it's less than I expected!",
+        "Welcome to the workforce! That 'missing' amount is your contribution to the 'payroll party'."
+      ],
+      "options": [
+        "Payroll Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I thought I'd have more money from my new job.",
+        "That's payroll tax for you. It's like a 'membership fee' for being an employee."
+      ],
+      "options": [
+        "Payroll Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just started my own tech company!",
+        "That's 'tech-tacular'! But remember, even companies have to pay their 'byte' of corporate tax."
+      ],
+      "options": [
+        "Corporate Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've opened my very own burger joint!",
+        "That's 'bun-derful'! Just remember, your burger profits may come with a 'side order' of corporate tax."
+      ],
+      "options": [
+        "Corporate Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My movie production company just made its first big hit!",
+        "That's 'reel-y' great! But your box office earnings might just come with a 'popcorn crunch' of corporate tax."
+      ],
+      "options": [
+        "Corporate Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just bought the latest video game, but it cost more than the sticker price!",
+        "That's the 'extra level' of sales tax. It's like the 'boss fight' at the end of your shopping quest."
+      ],
+      "options": [
+        "Sales Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My shopping spree ended up costing more than I expected!",
+        "That's sales tax for you. It's like the 'uninvited guest' at your shopping party."
+      ],
+      "options": [
+        "Sales Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bought a ticket for my favorite band's concert, but the price was higher at checkout!",
+        "That's the 'encore' of sales tax. It's the 'final act' of your ticket purchase."
+      ],
+      "options": [
+        "Sales Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard Great Uncle Rupert left us a treasure chest, but I can't find it!",
+        "That's not the kind of 'estate' he left us. It's not a buried treasure, but everything he owned\u2014his house, car, stocks, the goldfish..."
+      ],
+      "options": [
+        "Estate (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow, look at that fancy mansion! Is that our inheritance from Aunt Patricia?",
+        "Not just the mansion, but also her vintage record collection, her artwork, and her collection of decorative spoons. That's her 'estate'."
+      ],
+      "options": [
+        "Estate (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does this cat have a lawyer? Is it some kind of celebrity?",
+        "No, it's just part of Grandma's 'estate'. We inherited her house, her car, her savings, and apparently, her diva cat."
+      ],
+      "options": [
+        "Estate (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've made these cookies for the school bake sale, but I don't want them eaten before then!",
+        "Let's put them in this 'cookie trust'. I'll protect them for the benefit of the bake sale. No cookie monster can get to them!"
+      ],
+      "options": [
+        "Trust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've won this trophy, but I'm going abroad for a year. I need someone to take care of it.",
+        "Leave it to me! I'll set up a 'trophy trust'. I'll guard it with my life, and return it to you when you're back."
+      ],
+      "options": [
+        "Trust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've collected all these comic books, but I'm worried my little brother will ruin them.",
+        "Fear not! I'll become the 'comic book trustee'. I'll keep them safe until your brother learns the value of a mint condition comic."
+      ],
+      "options": [
+        "Trust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I am making my 'Last Will and Snack Testament'. I hereby bequeath all my candy bars to you.",
+        "Sweet! I will cherish this sugar-coated legacy."
+      ],
+      "options": [
+        "Will (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In my will, I'm leaving my rubber duck collection to the local museum. They'll be the star of the bath toys exhibition!",
+        "That's one quack-tastic bequest!"
+      ],
+      "options": [
+        "Will (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm writing my will. All my video games will go to the school's gaming club.",
+        "Your legacy will live on in high scores and epic boss battles!"
+      ],
+      "options": [
+        "Will (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Uncle Bob left us all these bananas, but he didn't write a will. What do we do?",
+        "Well, we'll have to split them according to 'intestate' laws. Everyone grab a peel and let's get to work!"
+      ],
+      "options": [
+        "Intestate (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Great Aunt Patty left a chest full of vintage hats, but there's no will. Who gets the hats?",
+        "Without a will, we'll have to distribute them 'intestate' style. Maybe we can start a family hat club?"
+      ],
+      "options": [
+        "Intestate (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Grandpa's guitar is up for grabs, but he didn't leave a will. Who gets to strum it next?",
+        "Without a will, we turn to 'intestate' laws. I guess we'll have to form a family band!"
+      ],
+      "options": [
+        "Intestate (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Aunt Millie left me her superhero cape in her will!",
+        "That's right, I'm the 'Executor'. I ensure her will is carried out, so don your cape, and fulfill your destiny!"
+      ],
+      "options": [
+        "Executor (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, Uncle Joe's popcorn machine is mine now?",
+        "As the executor of his will, I declare, \u2018May you pop in peace and butter!\u2019"
+      ],
+      "options": [
+        "Executor (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Grandpa's spaceship model collection... it's really mine?",
+        "I, the executor of his will, proclaim it's time for you to boldly go where no collector has gone before!"
+      ],
+      "options": [
+        "Executor (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, Great Aunt Matilda left her stuffed animal collection to me?",
+        "Yes, you're the 'Beneficiary'. You're now the proud owner of a stuffed animal zoo."
+      ],
+      "options": [
+        "Beneficiary (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Uncle Fred left me his entire library of cookbooks?",
+        "That's right! As the beneficiary, get ready to stir, flip,",
+        "Try again.  nothing in parenthesis.  just the dialog.  everything else should be the same.",
+        "So, Great Aunt Matilda left her stuffed animal collection to me?",
+        "Yes, you're the chosen one, the new overlord of the fluffy kingdom!"
+      ],
+      "options": [
+        "Beneficiary (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Uncle Fred left me his entire library of cookbooks?",
+        "That's right! Get ready to stir, flip, and bake your way to culinary greatness."
+      ],
+      "options": [
+        "Beneficiary (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Grandma left her prized cactus to me?",
+        "Indeed! The spiky torch has been passed. Long live the plant whisperer!"
+      ],
+      "options": [
+        "Beneficiary (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, I'm supposed to keep Uncle Fred's comic book collection safe for Cousin Billy?",
+        "Exactly, you're like the superhero of comic books - protecting and preserving until Billy's old enough!"
+      ],
+      "options": [
+        "Trustee (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Aunt Matilda's will says I have to take care of her garden until her granddaughter can?",
+        "That's right! You're now the guardian of the gnomes, the caretaker of the carrots, the trustee of the tulips!"
+      ],
+      "options": [
+        "Trustee (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, I'm holding onto Grandpa's coin collection for my little brother?",
+        "Yep, you're the banker of the family, safeguarding the shiny treasures till your brother's ready."
+      ],
+      "options": [
+        "Trustee (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, I have the 'Power of Attorney' for Uncle Bob while he's on his around-the-world trip?",
+        "Exactly! You're like his personal superhero, making decisions in his stead. But no, you can't sell his car to buy a llama."
+      ],
+      "options": [
+        "Power of Attorney (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Mom's giving me 'Power of Attorney' while she's on her space mission?"
+      ],
+      "options": [
+        "Power of Attorney (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Grandpa gave me 'Power of Attorney' for his affairs while he goes on his bird-watching expedition?",
+        "Correct! You're the family's chosen delegate. But remember, no wild parties in his cabin!"
+      ],
+      "options": [
+        "Power of Attorney (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, Aunt Millie's will has to go through 'probate'? Is that like a vegetable peeler for legal documents?",
+        "Haha, not exactly. It's more like a court-supervised process to make sure her wishes are carried out, like a referee at a soccer game!"
+      ],
+      "options": [
+        "Probate (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Uncle Bob's will is in 'probate'? Is that like a long-distance run for wills?"
+      ],
+      "options": [
+        "Probate (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Grandma's will is going through 'probate'? Does that mean it's on probation?",
+        "Not really, but it is under court supervision to ensure everything is divided up fairly, like a teacher overseeing a class project."
+      ],
+      "options": [
+        "Probate (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've inherited Aunt Matilda's mansion! Time to host epic pool parties!",
+        "Hold your seahorses! Remember the 'Inheritance Tax'. It's like the bouncer at the door, taking a cut before you can party."
+      ],
+      "options": [
+        "Inheritance Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Grandpa left me his famous chili recipe? Spicy!",
+        "Yes, but don't forget the 'Inheritance Tax'. It's like the chef taking a taste before serving the dish."
+      ],
+      "options": [
+        "Inheritance Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Uncle Fred's vintage comic book collection is mine? Awesome!",
+        "Indeed, but beware of the 'Inheritance Tax'. It's like the villain taking a piece of the treasure."
+      ],
+      "options": [
+        "Inheritance Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Mom and Dad gave me a car for my birthday! Vroom vroom!",
+        "Fantastic! But don't forget the 'Gift Tax'. It's like a toll booth on the road to your new wheels."
+      ],
+      "options": [
+        "Gift Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My best friend gave me her old gaming console. Game on!",
+        "Cool! Just remember, if it's worth a lot, there could be a 'Gift Tax'. It's like the final boss you have to beat."
+      ],
+      "options": [
+        "Gift Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Grandma gave me a valuable antique clock. Time to celebrate!",
+        "That's great! But keep in mind the 'Gift Tax'. It's like a cuckoo bird coming out of the clock for its share."
+      ],
+      "options": [
+        "Gift Tax (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, Uncle Bob put his classic car collection in a 'Revocable Trust'? Does that mean he can just take them back?",
+        "Exactly! It's like lending toys to a friend but reserving the right to take them back for a Sunday drive."
+      ],
+      "options": [
+        "Revocable Trust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Aunt Millie's prized rose garden is in a 'Revocable Trust'? Can she change her mind about who gets them?",
+        "That's right! It's like promising to give someone a bouquet, but keeping the option to rearrange the flowers."
+      ],
+      "options": [
+        "Revocable Trust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Grandpa's coin collection is in a 'Revocable Trust'? Can he still use them for his coin-flipping contests?",
+        "Sure can! It's like lending your comic books to a friend but still being able to read them when you want."
+      ],
+      "options": [
+        "Revocable Trust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if Uncle Fred put his mansion in an 'Irrevocable Trust', he can't just change his mind and take it back?",
+        "That's right! It's like gifting your treehouse to your little brother \u2013 no take-backsies!"
+      ],
+      "options": [
+        "Irrevocable Trust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Aunt Matilda put her art collection in an 'Irrevocable Trust'? Does that mean it's a done deal?",
+        "Exactly! It's like giving away the last slice of pizza \u2013 once it's gone, it's gone."
+      ],
+      "options": [
+        "Irrevocable Trust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, Grandpa's boat is in an 'Irrevocable Trust'? He can't decide to sail off into the sunset?",
+        "Correct! It's like sending a message in a bottle out to sea \u2013 you can't just reel it back in."
+      ],
+      "options": [
+        "Irrevocable Trust (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, Uncle Bob has a 'Living Will'? Does that mean his will is alive and kicking?",
+        "Not exactly, but it does mean he's made decisions about his health while he's still fit and fab!"
+      ],
+      "options": [
+        "Living Will (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Aunt Millie mentioned a 'Living Will'. Is that like a will that updates in real time?",
+        "Well, not quite, but it does allow her to express her wishes about her health care while she's still around to make those choices!"
+      ],
+      "options": [
+        "Living Will (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Grandpa said he has a 'Living Will'. Does that mean his will has a life of its own?",
+        "No, silly, but it means he's made decisions about his health care while he's still able to do so."
+      ],
+      "options": [
+        "Living Will (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if Aunt Matilda is my cousin's 'guardian', does that mean she's like a superhero?",
+        "Kinda! She's responsible for his well-being, just like a superhero, but without the flashy costume."
+      ],
+      "options": [
+        "Guardianship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Uncle Bob is Grandpa's 'guardian'? Does he get a magic shield?",
+        "Not exactly, but he does get to make important decisions for Grandpa, just like a knight protecting his castle."
+      ],
+      "options": [
+        "Guardianship (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If my big sister is my 'guardian', does that make her my boss?",
+        "In a way, yes! She's responsible for your care, like a boss making sure their team is doing well."
+      ],
+      "options": [
+        "Guardianship (correct answer)"
+      ]
+    }
+  ]
+}

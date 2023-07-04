@@ -1,0 +1,399 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, did you hear about the superhero who got a tax break for saving the city?",
+        "Seriously? That's awesome! I guess even superheroes need some financial relief."
+      ],
+      "options": [
+        "Tax breaks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I read that if you adopt a three-legged alien as a pet, the government will give you a tax break!",
+        "Well, that's one way to encourage intergalactic pet adoption and promote diversity in our pet population!"
+      ],
+      "options": [
+        "Tax breaks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin told me he gets a tax break for having the world's largest collection of rubber ducks.",
+        "That's quackers! But it's cool that he's getting rewarded for his unique hobby."
+      ],
+      "options": [
+        "Tax breaks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that the government provides subsidies to support the growth of giant pumpkins?",
+        "Really? That's squash-tastic! I guess they really want to encourage pumpkin greatness."
+      ],
+      "options": [
+        "Subsidies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard there are subsidies for inventors who create eco-friendly flying broomsticks!",
+        "Well, that would certainly make transportation more magical and sustainable!"
+      ],
+      "options": [
+        "Subsidies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My neighbor gets a subsidy for hosting concerts in their backyard featuring an all-cow band.",
+        "Wow, that's udderly amazing! I guess the government wants to promote unique musical experiences."
+      ],
+      "options": [
+        "Subsidies (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the store offering a rebate on shoes that make you dance like a flamingo?",
+        "No way! That's both hilarious and financially savvy!"
+      ],
+      "options": [
+        "Rebates (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found out there's a rebate for buying a robot that can cook spaghetti while singing opera!",
+        "That sounds like a delicious and entertaining investment!"
+      ],
+      "options": [
+        "Rebates (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend got a rebate for purchasing a magical suitcase that can hold an entire zoo inside!",
+        "Wow, that's a wild deal! I might have to get one myself."
+      ],
+      "options": [
+        "Rebates (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know there's a grant for researching the effects of moonwalking on happiness levels?",
+        "That sounds like a fun and groovy research project!"
+      ],
+      "options": [
+        "Grants (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard there's a grant available for studying the social lives of garden gnomes.",
+        "Intriguing! It's always fascinating to learn more about our lawn ornament friends."
+      ],
+      "options": [
+        "Grants (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin got a grant to develop an app that translates meows into human language!",
+        "That's pawsome! Finally, we'll understand what our feline friends are saying."
+      ],
+      "options": [
+        "Grants (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard there's a low-interest loan for starting a business that makes sweaters for snakes!",
+        "Wow, that's both fashionable and financially supportive for aspiring entrepreneurs in the reptile clothing industry!"
+      ],
+      "options": [
+        "Low-interest loans (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend got a low-interest loan to open a bakery specializing in donut-shaped UFOs!",
+        "That's out of this world! It's great to see creative businesses getting financial assistance."
+      ],
+      "options": [
+        "Low-interest loans (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a low-interest loan program for inventors who create rollerblades for penguins!",
+        "That's amazing! I bet those penguins will be sliding around in style."
+      ],
+      "options": [
+        "Low-interest loans (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know there's a store that offers discounts on superhero capes for your pet hamster?",
+        "That's adorable and affordable! Our little furry friends can be heroes too."
+      ],
+      "options": [
+        "Discounts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a place that gives discounts on ice cream cones if you can do a cartwheel while ordering!",
+        "What a fun way to save money and promote physical activity at the same time!"
+      ],
+      "options": [
+        "Discounts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a bookstore that offers discounts on books about the secret lives of garden gnomes!",
+        "That's gnome-tastic! I love learning about the mysterious world of gnomes."
+      ],
+      "options": [
+        "Discounts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard there's a caf\u00e9 that offers free coffee if you can recite a poem about llamas!",
+        "That's such a fun and creative way to get a free caffeine boost!"
+      ],
+      "options": [
+        "Free products or services (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend told me about a hair salon that gives free haircuts if you let them style your hair like a famous historical figure!",
+        "What an entertaining way to learn about history while getting a free haircut!"
+      ],
+      "options": [
+        "Free products or services (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a pet store that offers free fish food if you bring in a drawing of your fish's dream vacation!",
+        "That's fin-tastic! Our fishy friends deserve some imaginative adventures too."
+      ],
+      "options": [
+        "Free products or services (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I joined a loyalty program at a store that sells superhero costumes for turtles. After 10 purchases, I get a free turtle-sized jetpack!",
+        "That's shell-tacular! Your turtle will be the coolest in the neighborhood."
+      ],
+      "options": [
+        "Loyalty programs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My favorite bakery has a loyalty program where you collect stamps for buying donuts, and once you have enough, you get a donut-shaped spaceship!",
+        "How sweet! It's like they're rewarding you with an out-of-this-world treat."
+      ],
+      "options": [
+        "Loyalty programs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a bookstore with a loyalty program that gives you a free mystery book after you buy a certain number of books about mythical creatures.",
+        "That's a magical deal! It's like they're encouraging you to continue exploring fantastical worlds."
+      ],
+      "options": [
+        "Loyalty programs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard about a company that offers its employees free unicorn rides during their lunch breaks!",
+        "That sounds like a magical way to recharge and have fun at work!"
+      ],
+      "options": [
+        "Employee benefits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend works at a place that provides employees with a personal robot assistant to help them with their daily tasks.",
+        "What a futuristic and efficient way to keep employees motivated and productive!"
+      ],
+      "options": [
+        "Employee benefits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a company that offers its employees an annual trip to a secret island filled with friendly talking animals!",
+        "Wow, that's like a dream come true! It must be a great way to reward hard work and promote relaxation."
+      ],
+      "options": [
+        "Employee benefits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Hey, did you hear about the new program at the cafeteria? If you can eat 10 tacos in one sitting, you get a free dessert!\"",
+        "\"Wow, that's a delicious way to motivate us to eat more tacos!\""
+      ],
+      "options": [
+        "Performance bonuses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I just found out if I can hit 20 consecutive high notes on karaoke night, the student union will give me an official 'Karaoke King' t-shirt!\"",
+        "\"That's hilarious! Better start practicing those high notes for that sweet reward!\""
+      ],
+      "options": [
+        "Performance bonuses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Did you know that our professor is giving extra credit to anyone who can juggle three erasers for more than a minute during class breaks?\"",
+        "\"No way! Time to brush up on my juggling skills for that bonus!\""
+      ],
+      "options": [
+        "Performance bonuses (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Hey, have you heard about the bookstore's new sales contest? If you can sell 50 books in a week, you'll win a lifetime supply of instant noodles!\"",
+        "\"That's amazing! I could finally stop worrying about my dinner plans during finals week!\""
+      ],
+      "options": [
+        "Sales commissions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Haha, that's hilarious! Time to start promoting those lattes like there's no tomorrow!\""
+      ],
+      "options": [
+        "Sales commissions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Did you know that if we sell 100 tickets to the upcoming school play, we'll get a VIP backstage pass to meet the cast and take selfies with them?\"",
+        "\"Wow, that's a great incentive! Let's start spreading the word and selling those tickets fast!\""
+      ],
+      "options": [
+        "Sales commissions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"That's hilarious and challenging! Time to start training my core for those tasty rewards!\""
+      ],
+      "options": [
+        "Contests and sweepstakes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"That's so creative and funny! Let's get reading and hope for the best!\""
+      ],
+      "options": [
+        "Contests and sweepstakes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"No way! Time to dig through my closet and find the most outrageous hat I own!\""
+      ],
+      "options": [
+        "Contests and sweepstakes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Hey, did you know our campus is offering a free reusable water bottle to anyone who collects 100 plastic bottles for recycling?\"",
+        "\"That's eco-friendly and fun! Time to start hunting for those plastic bottles and quench my thirst in style!\""
+      ],
+      "options": [
+        "Environmental incentives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Haha, that's awesome! Let's get pedaling and earn those badges while saving the planet!\""
+      ],
+      "options": [
+        "Environmental incentives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Wow, that's a relaxing incentive! Grab your shovels, let's plant some trees and hope for a comfy prize!\""
+      ],
+      "options": [
+        "Environmental incentives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"That's amazing! Time to unleash my inner fashionista and strut my stuff on campus!\""
+      ],
+      "options": [
+        "Public recognition and awards (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Haha, that's awesome! Let's start writing and aim for that journalistic fame!\""
+      ],
+      "options": [
+        "Public recognition and awards (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Wow, that's an inspiring incentive! Time to put our thinking caps on and find ways to make a positive impact on campus!\""
+      ],
+      "options": [
+        "Public recognition and awards (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Hey, did you know the college is offering priority registration for next semester to students who attend all the safety training sessions on campus?\"",
+        "\"That's an interesting way to encourage safety! Time to sign up for those sessions and secure our favorite classes!\""
+      ],
+      "options": [
+        "Regulatory incentives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"The school is giving out free parking passes for a month to anyone who participates in the carpool program and helps reduce traffic on campus!\"",
+        "\"Haha, that's awesome! Let's find some carpool buddies and save both time and money!\""
+      ],
+      "options": [
+        "Regulatory incentives (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Wow, that's a motivating incentive! Let's keep our study spaces tidy and aim for that peaceful study oasis!\""
+      ],
+      "options": [
+        "Regulatory incentives (correct answer)"
+      ]
+    }
+  ]
+}

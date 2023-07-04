@@ -1,0 +1,462 @@
+{
+  "questions": [
+    {
+      "question": [
+        "If we arrange the assembly line like a snake, we'll optimize workflow.",
+        "That's process engineering! Next you'll tell me we need to hiss while working!"
+      ],
+      "options": [
+        "'Process Engineering' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "By introducing this machine, we can automate half of our production steps.",
+        "Wow! Process engineering really does make our lives easier, doesn't it?"
+      ],
+      "options": [
+        "'Process Engineering' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our factory's output has doubled since we started applying process engineering!",
+        "Amazing! Now, can process engineering also help me double my pizza-eating speed?"
+      ],
+      "options": [
+        "'Process Engineering' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we designed our whole factory like a giant Rube Goldberg machine?",
+        "That's one way to explain systems engineering, but remember it's about efficiency, not complexity!"
+      ],
+      "options": [
+        "'Systems Engineering' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I\u2019ve been thinking about how to improve our city\u2019s traffic flow.",
+        "Sounds like you're stepping into systems engineering. Just don't forget about the pedestrians!"
+      ],
+      "options": [
+        "'Systems Engineering' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I\u2019ve designed a new water system for the garden to save water.",
+        "Who knew you had such a green thumb for systems engineering! Now let's keep the tomatoes alive this year."
+      ],
+      "options": [
+        "'Systems Engineering' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I\u2019ve been trying to solve this puzzle for hours!",
+        "Have you tried using operations research methods? I heard they work wonders!"
+      ],
+      "options": [
+        "'Operations Research' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bet we could finish this project faster if we used some operations research methods.",
+        "I like the way you think! Let's bring in the algorithms!"
+      ],
+      "options": [
+        "'Operations Research' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to plan my road trip, but there are so many places I want to go!",
+        "Sounds like a job for operations research! Let's optimize this trip."
+      ],
+      "options": [
+        "'Operations Research' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just bought a new toaster but it's already broken!",
+        "Sounds like someone skipped their quality control check."
+      ],
+      "options": [
+        "'Quality Control' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are there so many lemons in this lemonade? It's too sour!",
+        "Someone must've forgotten the quality control step in the lemonade-making process."
+      ],
+      "options": [
+        "'Quality Control' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "This new video game is full of glitches.",
+        "I guess their quality control team was on vacation."
+      ],
+      "options": [
+        "'Quality Control' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do my shoulders hurt after I've been working on the computer all day?",
+        "Sounds like you could use a lesson in ergonomics."
+      ],
+      "options": [
+        "'Ergonomics' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My new desk chair is so comfortable, I could fall asleep!",
+        "That's ergonomics for you!"
+      ],
+      "options": [
+        "'Ergonomics' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love this new keyboard, it's shaped so I don't have to twist my wrists!",
+        "Ah, the wonders of ergonomics."
+      ],
+      "options": [
+        "'Ergonomics' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is the coffee machine so far from my desk? I need caffeine!",
+        "Sounds like someone didn't think through the facility layout."
+      ],
+      "options": [
+        "'Facility Layout' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love how the break room is right next to my cubicle.",
+        "That's the magic of good facility layout."
+      ],
+      "options": [
+        "'Facility Layout' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are the bathrooms all the way on the other side of the building?",
+        "Poor facility layout, my friend."
+      ],
+      "options": [
+        "'Facility Layout' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've cut out all unnecessary processes at work. I'm going lean!",
+        "Great! That's lean manufacturing in action."
+      ],
+      "options": [
+        "'Lean Manufacturing' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My boss asked us to reduce waste and inefficiency. Sounds like a diet plan.",
+        "More like a lean manufacturing plan!"
+      ],
+      "options": [
+        "'Lean Manufacturing' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been trying to increase productivity at the factory. Any tips?",
+        "Ever heard of lean manufacturing?"
+      ],
+      "options": [
+        "'Lean Manufacturing' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been working on reducing defects in my toy assembly line.",
+        "That sounds like you're practicing Six Sigma without even knowing it!"
+      ],
+      "options": [
+        "'Six Sigma' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My coffee shop's espresso machine has been acting up. It's messing up one in every five orders!",
+        "Sounds like you need some Six Sigma in your life to reduce those defects."
+      ],
+      "options": [
+        "'Six Sigma' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just got my black belt!"
+      ],
+      "options": [
+        "'Six Sigma' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I managed to get these apples from the tree to the store, but it was a hassle.",
+        "You should've called me! I've got mad Supply Chain Management skills."
+      ],
+      "options": [
+        "'Supply Chain Management' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that the journey of a t-shirt starts from a cotton farm and goes through various stages before it reaches us?",
+        "Wow, you sound like you're well-versed in Supply Chain Management."
+      ],
+      "options": [
+        "'Supply Chain Management' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been tracking the journey of this pizza from flour and tomatoes to my plate!",
+        "Sounds like some serious Supply Chain Management to me!"
+      ],
+      "options": [
+        "'Supply Chain Management' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My fridge is so organized, it's like a well-oiled machine!",
+        "Sounds like you're a pro at Inventory Management!"
+      ],
+      "options": [
+        "'Inventory Management' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can never find anything in my closet, it's a mess!",
+        "What you need, my friend, is some serious Inventory Management."
+      ],
+      "options": [
+        "'Inventory Management' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm so good at stacking my video games, I can find any title in seconds.",
+        "Your gaming shelf is the epitome of Inventory Management!"
+      ],
+      "options": [
+        "'Inventory Management' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just planned out a cross-country road trip, with every stop and meal decided.",
+        "Wow, your Project Management skills are on point!"
+      ],
+      "options": [
+        "'Project Management' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've got my entire weekend planned out to the minute to fit in all my chores and hobbies.",
+        "Sounds like you're nailing Project Management."
+      ],
+      "options": [
+        "'Project Management' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've planned out a three-course meal, with each dish ready at exactly the right time.",
+        "That's some top-notch Project Management right there!"
+      ],
+      "options": [
+        "'Project Management' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've figured out the fastest way to tie my shoes - it's all in the bunny ears method!",
+        "Nice, you've done a Time and Motion Study on shoe-tying!"
+      ],
+      "options": [
+        "'Time and Motion Study' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I timed how long it takes to make toast and now I can perfectly sync it with my coffee brewing.",
+        "That's some impressive Time and Motion Study work!"
+      ],
+      "options": [
+        "'Time and Motion Study' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know it's faster to peel a banana from the bottom? Saves me 2.3 seconds each time!",
+        "Wow, you've applied a Time and Motion Study to banana peeling!"
+      ],
+      "options": [
+        "'Time and Motion Study' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I created a virtual model of my room to decide where to put my new furniture.",
+        "That's some impressive use of Simulation!"
+      ],
+      "options": [
+        "'Simulation' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My video game character just built an entire city! I guess that's what they call a 'simulation game', right?",
+        "Yep, you're learning urban planning through Simulation!"
+      ],
+      "options": [
+        "'Simulation' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been running a simulation of our school's cafeteria to see how we can reduce the lunch line.",
+        "Wow, using Simulation to fight the real battles!"
+      ],
+      "options": [
+        "'Simulation' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've planned out the whole bake sale, right down to the last muffin!",
+        "Sounds like Production Planning for pastries!"
+      ],
+      "options": [
+        "'Production Planning' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I scheduled my robot to vacuum at 5pm daily. That's efficient, right?",
+        "Sure is! You've mastered the art of Production Planning at home!"
+      ],
+      "options": [
+        "'Production Planning' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "For our school project, I've divided the tasks and set deadlines for each of us.",
+        "Look at you, bossing the Production Planning!"
+      ],
+      "options": [
+        "'Production Planning' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My new app tracks how many steps I take every day!",
+        "That's like Work Measurement for fitness!"
+      ],
+      "options": [
+        "'Work Measurement' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ever since I started timing my homework, I've been finishing faster!",
+        "Sounds like you're applying Work Measurement to your studies!"
+      ],
+      "options": [
+        "'Work Measurement' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've started to record how long each of my gaming sessions last.",
+        "I guess that's a form of Work Measurement...for fun?"
+      ],
+      "options": [
+        "'Work Measurement' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried to make a cake without a recipe. I forgot the eggs, and it was a disaster.",
+        "Sounds like you could have used some Systems Engineering in your baking!"
+      ],
+      "options": [
+        "'Systems Engineering' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My new Lego set has so many pieces! How will I ever put it together?",
+        "Just think like a Systems Engineer - start with the base and build up!"
+      ],
+      "options": [
+        "'Systems Engineering' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I finally organized my closet! Shoes in one section, clothes in another, and accessories in the third.",
+        "Wow, you've applied Systems Engineering to your wardrobe!"
+      ],
+      "options": [
+        "'Systems Engineering' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried to beat this video game, but there are so many variables!",
+        "You need some Operations Research. Find the most effective strategy!"
+      ],
+      "options": [
+        "'Operations Research' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do I find the quickest route to the mall, considering traffic and road work?",
+        "That's a job for Operations Research - optimize your journey!"
+      ],
+      "options": [
+        "'Operations Research' (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm trying to juggle school, work, and my social life. It's so hard!",
+        "Sounds like you need Operations Research to optimize your schedule."
+      ],
+      "options": [
+        "'Operations Research' (correct answer)"
+      ]
+    }
+  ]
+}

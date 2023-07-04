@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Macronutrients",
+        "Micronutrients",
+        "Dietary Reference Intakes (DRIs)",
+        "Balanced Diet",
+        "Food Groups",
+        "Caloric Intake",
+        "Reading Food Labels",
+        "Nutritional Deficiencies",
+        "Obesity and Weight Management",
+        "Dietary Guidelines",
+        "Meal Planning",
+        "Hydration and Water Intake",
+        "Special Dietary Requirements",
+        "Digestion and Absorption",
+        "Role of Diet in Disease Prevention"
+    ],
+    "hints": {
+        "Macronutrients": "These are nutrients that the body needs in large amounts for energy, growth and repair. They include proteins, carbohydrates, and fats.",
+        "Micronutrients": "These are vitamins and minerals that the body needs in smaller amounts, but are still essential for proper body functions.",
+        "Dietary Reference Intakes (DRIs)": "These are guidelines developed by health experts that detail the amounts of each nutrient a person needs every day.",
+        "Balanced Diet": "This is a diet that includes the right quantities and proportions of different nutrients to maintain health and growth.",
+        "Food Groups": "Foods are categorized into groups based on their nutritional content. The five main groups are fruits, vegetables, grains, protein foods, and dairy.",
+        "Caloric Intake": "This is the number of calories a person consumes through food and drink. It's important for managing weight and energy levels.",
+        "Reading Food Labels": "Food labels provide information about the nutritional content of a food item. They can help individuals make healthier food choices.",
+        "Nutritional Deficiencies": "These occur when a person doesn't get enough of a specific nutrient. Deficiencies can lead to a variety of health problems.",
+        "Obesity and Weight Management": "This concept involves understanding the causes and consequences of obesity, and strategies for maintaining a healthy weight.",
+        "Dietary Guidelines": "These are recommendations about what kinds of foods to eat and avoid for optimal health.",
+        "Meal Planning": "This involves planning meals and snacks to ensure a balanced intake of nutrients throughout the day.",
+        "Hydration and Water Intake": "Hydration is crucial for many bodily functions. The concept includes understanding the importance of drinking enough water each day.",
+        "Special Dietary Requirements": "Some people have specific dietary needs due to allergies, intolerances, or health conditions. Understanding these can help in planning suitable meals.",
+        "Digestion and Absorption": "This involves understanding how the body breaks down food and absorbs nutrients.",
+        "Role of Diet in Disease Prevention": "This concept involves understanding how dietary choices can affect the risk of developing certain diseases, like heart disease or diabetes."
+    }
+}

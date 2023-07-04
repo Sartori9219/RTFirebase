@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Ohm's Law",
+        "Direct Current (DC) vs Alternating Current (AC)",
+        "Electrical Circuits",
+        "Series and Parallel Circuits",
+        "Circuit Breakers and Fuses",
+        "Electrical Safety and Precautions",
+        "Electrical Symbols and Diagrams",
+        "Electrical Measuring Instruments",
+        "Voltage, Current, and Resistance",
+        "Power and Energy",
+        "Conductors and Insulators",
+        "Electromagnetic Induction",
+        "Capacitors and Inductors",
+        "Transformers",
+        "Electrical Wiring Standards"
+    ],
+    "hints": {
+        "Ohm's Law": "A fundamental concept in electrical engineering, it states that the current passing through a conductor between two points is directly proportional to the voltage across the two points.",
+        "Direct Current (DC) vs Alternating Current (AC)": "DC is a type of current that flows in one direction, while AC is a current that changes direction periodically.",
+        "Electrical Circuits": "An electrical circuit is a path in which electrons from a voltage or current source flow.",
+        "Series and Parallel Circuits": "Series circuits have components connected end-to-end, while parallel circuits have components connected side-by-side.",
+        "Circuit Breakers and Fuses": "These are safety devices designed to protect an electrical circuit from damage caused by excess current.",
+        "Electrical Safety and Precautions": "This involves understanding the hazards of electricity and how to work safely when performing electrical tasks.",
+        "Electrical Symbols and Diagrams": "Symbols are used to represent electrical components in circuit diagrams.",
+        "Electrical Measuring Instruments": "Tools like multimeters and oscilloscopes are used to measure voltage, current, and resistance.",
+        "Voltage, Current, and Resistance": "These are the three basic properties of an electrical circuit. Voltage is the electrical force, current is the flow of electrons, and resistance opposes the flow.",
+        "Power and Energy": "Power is the rate at which energy is transferred or converted. Energy is the capacity to do work.",
+        "Conductors and Insulators": "Conductors allow electric current to flow easily while insulators resist electric current.",
+        "Electromagnetic Induction": "This is the production of voltage across a conductor situated in a changing magnetic field.",
+        "Capacitors and Inductors": "Capacitors store energy in an electric field, and inductors store energy in a magnetic field.",
+        "Transformers": "A transformer is a device that increases or decreases the voltage of an alternating current.",
+        "Electrical Wiring Standards": "These are sets of guidelines that electrical professionals follow to ensure safety and functionality in electrical installations."
+    }
+}

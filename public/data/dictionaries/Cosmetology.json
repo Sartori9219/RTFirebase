@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Haircutting Techniques",
+        "Hair Styling",
+        "Hair Coloring",
+        "Texturizing Services",
+        "Scalp and Hair Care",
+        "Nail Care and Design",
+        "Skin Care and Facials",
+        "Makeup Application",
+        "Hair Removal Techniques",
+        "Salon Management",
+        "Health and Safety Practices",
+        "Anatomy and Physiology of the Hair and Skin",
+        "Professionalism and Ethics",
+        "Client Consultation",
+        "History of Cosmetology"
+    ],
+    "hints": {
+        "Haircutting Techniques": "Various methods of cutting hair, including layering, bob cuts, and pixie cuts.",
+        "Hair Styling": "Techniques for styling hair, such as curling, straightening, and updos.",
+        "Hair Coloring": "Understanding hair color theory, as well as techniques for coloring hair, including highlights, balayage, and color correction.",
+        "Texturizing Services": "Techniques for altering the texture of hair, such as perming or relaxing treatments.",
+        "Scalp and Hair Care": "Understanding the health and care of the scalp and hair, including products and treatments.",
+        "Nail Care and Design": "Techniques for manicures, pedicures, and nail art.",
+        "Skin Care and Facials": "Understanding skin types and conditions, as well as methods for treating and caring for the skin.",
+        "Makeup Application": "Techniques for applying makeup, including contouring, eye makeup, and choosing colors that suit the client.",
+        "Hair Removal Techniques": "Different methods of removing hair, such as waxing, threading, and sugaring.",
+        "Salon Management": "Skills for running a salon, such as scheduling appointments, managing inventory, and customer service.",
+        "Health and Safety Practices": "Understanding sanitation procedures, safety regulations, and proper handling of chemicals in a salon setting.",
+        "Anatomy and Physiology of the Hair and Skin": "Basic understanding of the structure and function of hair and skin.",
+        "Professionalism and Ethics": "How to conduct oneself professionally in a salon setting and ethical considerations in cosmetology.",
+        "Client Consultation": "Skills for communicating with clients to understand their wants and needs, as well as advising them on suitable styles or treatments.",
+        "History of Cosmetology": "Understanding the evolution of beauty practices and trends throughout history."
+    }
+}

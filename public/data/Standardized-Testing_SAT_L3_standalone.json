@@ -1,0 +1,704 @@
+{
+  "questions": [
+    {
+      "question": "Despite her initial _____, Susan eventually agreed to join the team.",
+      "options": [
+        "trepidation (Correct answer)",
+        "enthusiasm",
+        "curiosity",
+        "expertise"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The audience was _____ by the captivating performance.",
+      "options": [
+        "enthralled (Correct answer)",
+        "bored",
+        "repelled",
+        "confused"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The _____ of the mysterious old book intrigued the historian.",
+      "options": [
+        "origin (Correct answer)",
+        "weight",
+        "color",
+        "texture"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The students were _____ to discover that the test had been postponed.",
+      "options": [
+        "elated (Correct answer)",
+        "ambivalent",
+        "devastated",
+        "irritated"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The chef's _____ in the kitchen was evident by the delicious meal he prepared.",
+      "options": [
+        "prowess (Correct answer)",
+        "ineptitude",
+        "apathy",
+        "anxiety"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The puppy's playful _____ endeared it to everyone who met it.",
+      "options": [
+        "demeanor (Correct answer)",
+        "aggression",
+        "lethargy",
+        "indifference"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The professor's explanation was so _____ that even the most inexperienced students could understand the concept.",
+      "options": [
+        "lucid (Correct answer)",
+        "convoluted",
+        "abstruse",
+        "cryptic"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The athlete's _____ performance led the team to victory.",
+      "options": [
+        "stellar (Correct answer)",
+        "mediocre",
+        "disappointing",
+        "lackluster"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The _____ weather made it difficult for the hikers to continue their journey.",
+      "options": [
+        "inclement (Correct answer)",
+        "pleasant",
+        "warm",
+        "sunny"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The artist's work was _____ for its bold use of color and innovative techniques.",
+      "options": [
+        "acclaimed (Correct answer)",
+        "scorned",
+        "overlooked",
+        "dismissed"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The surprise party was a complete _____, as the guest of honor had no idea it was happening.",
+      "options": [
+        "fiasco",
+        "success (Correct answer)",
+        "disaster",
+        "disappointment"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The mysterious stranger had a _____ expression, making it hard to guess his intentions.",
+      "options": [
+        "transparent",
+        "inscrutable (Correct answer)",
+        "obvious",
+        "revealing"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The magician's tricks were so _____ that the audience was left in awe.",
+      "options": [
+        "mundane",
+        "perplexing (Correct answer)",
+        "simple",
+        "unremarkable"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The scientist's _____ discovery revolutionized the field of medicine.",
+      "options": [
+        "insignificant",
+        "profound (Correct answer)",
+        "trivial",
+        "unimportant"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The young athlete showed great _____, finishing the race despite an injury.",
+      "options": [
+        "fortitude (Correct answer)",
+        "weakness",
+        "fragility",
+        "hesitation"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The _____ puppy was easy to train and quickly learned new commands.",
+      "options": [
+        "obstinate",
+        "recalcitrant",
+        "amenable (Correct answer)",
+        "stubborn"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The book's _____ ending left readers wanting more.",
+      "options": [
+        "hackneyed",
+        "banal",
+        "riveting (Correct answer)",
+        "dull"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The politician's _____ speech won over many undecided voters.",
+      "options": [
+        "compelling (Correct answer)",
+        "trite",
+        "uninspired",
+        "monotonous"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The party was _____, with guests enjoying themselves well into the night.",
+      "options": [
+        "lackluster",
+        "lively (Correct answer)",
+        "humdrum",
+        "tedious"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The twins had a _____ bond, always understanding each other's feelings.",
+      "options": [
+        "tenuous",
+        "distant",
+        "superficial",
+        "close (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The author's writing style was _____, making it difficult for some readers to follow the narrative.",
+      "options": [
+        "pellucid",
+        "jejune",
+        "sesquipedalian (Correct answer)",
+        "cogent"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The entrepreneur's _____ spirit led her to start several successful businesses.",
+      "options": [
+        "indolent",
+        "intrepid (Correct answer)",
+        "languid",
+        "slothful"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The manager's _____ decision-making often led to confusion and inefficiency in the workplace.",
+      "options": [
+        "capricious (Correct answer)",
+        "meticulous",
+        "prudent",
+        "methodical"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The _____ fabric of the dress shimmered beautifully under the soft lighting.",
+      "options": [
+        "iridescent (Correct answer)",
+        "monochromatic",
+        "drab",
+        "dull"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The politician's reputation was tarnished due to his _____ behavior.",
+      "options": [
+        "meritorious",
+        "unscrupulous (Correct answer)",
+        "laudable",
+        "estimable"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The student's _____ knowledge of the subject allowed her to excel in the class.",
+      "options": [
+        "cursory",
+        "rudimentary",
+        "superficial",
+        "encyclopedic (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The audience was _____ by the speaker's eloquence and wit.",
+      "options": [
+        "captivated (Correct answer)",
+        "disinterested",
+        "bored",
+        "disenchanted"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The lawyer presented a(_____ argument that ultimately swayed the jury.",
+      "options": [
+        "incoherent",
+        "cogent (Correct answer)",
+        "disjointed",
+        "muddled"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The _____ aroma of the bakery enticed passersby to enter and sample the delicious treats.",
+      "options": [
+        "bland",
+        "insipid",
+        "ambrosial (Correct answer)",
+        "vapid"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The company's _____ growth was a result of strategic investments and innovative products.",
+      "options": [
+        "precipitous (Correct answer)",
+        "stagnant",
+        "languishing",
+        "inert"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The _____ politician managed to avoid answering the difficult question during the debate.",
+      "options": [
+        "candid",
+        "guileless",
+        "artful (Correct answer)",
+        "ingenuous"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The painting was a _____ piece that combined elements of abstract and impressionist styles.",
+      "options": [
+        "derivative",
+        "hackneyed",
+        "eclectic (Correct answer)",
+        "trite"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The chef's use of _____ ingredients resulted in a unique and flavorful dish.",
+      "options": [
+        "prosaic",
+        "mundane",
+        "exotic (Correct answer)",
+        "pedestrian"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The scientist's research was _____, offering new insights into the field.",
+      "options": [
+        "groundbreaking (Correct answer)",
+        "conventional",
+        "antiquated",
+        "outdated"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The company's _____ marketing campaign helped them stand out in a crowded market.",
+      "options": [
+        "uninspired",
+        "innovative (Correct answer)",
+        "derivative",
+        "unoriginal"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The athlete was _____ after her victory, making sure to thank her teammates and coaches.",
+      "options": [
+        "modest (Correct answer)",
+        "vainglorious",
+        "arrogant",
+        "egotistical"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The diplomat's _____ approach to negotiations helped to diffuse a tense situation.",
+      "options": [
+        "incendiary",
+        "tactful (Correct answer)",
+        "inflammatory",
+        "provocative"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The ancient artifact had been well-preserved, its intricate details still _____ after centuries.",
+      "options": [
+        "indiscernible",
+        "vivid (Correct answer)",
+        "faded",
+        "unremarkable"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The novelist's ability to create _____ characters made her stories particularly engaging.",
+      "options": [
+        "two-dimensional",
+        "flat",
+        "insipid",
+        "multifaceted (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The teacher's _____ instructions helped the students understand the complex material.",
+      "options": [
+        "obfuscating",
+        "lucid (Correct answer)",
+        "perplexing",
+        "muddled"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The professor's explanation of the philosophical concept was _____, leaving the students more confused than before.",
+      "options": [
+        "elucidative",
+        "obfuscatory (Correct answer)",
+        "enlightening",
+        "edifying"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The entrepreneur's _____ decision to invest in the risky venture paid off when the company became highly profitable.",
+      "options": [
+        "cautious",
+        "pusillanimous",
+        "audacious (Correct answer)",
+        "timorous"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The biologist's work focused on the study of _____ organisms that thrive in extreme environments.",
+      "options": [
+        "common",
+        "ubiquitous",
+        "extremophilic (Correct answer)",
+        "prevalent"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The author's _____ writing style was characterized by long, complex sentences and an extensive vocabulary.",
+      "options": [
+        "laconic",
+        "aphoristic",
+        "prolix (Correct answer)",
+        "terse"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The scientist's discovery of the new particle was a _____ moment in the field of physics.",
+      "options": [
+        "trivial",
+        "quotidian",
+        "watershed (Correct answer)",
+        "banal"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The philosopher's ideas were considered _____, as they went against the widely accepted beliefs of his time.",
+      "options": [
+        "conformist",
+        "orthodox",
+        "heterodox (Correct answer)",
+        "traditional"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The surgeon's _____ hands allowed her to perform even the most delicate procedures with great skill.",
+      "options": [
+        "unsteady",
+        "deft (Correct answer)",
+        "tremulous",
+        "shaky"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The politician's _____ oratory skills allowed him to persuade even the most skeptical audience members.",
+      "options": [
+        "pedestrian",
+        "lackluster",
+        "soporific",
+        "consummate (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The architect's innovative design was a _____ blend of form and function.",
+      "options": [
+        "felicitous (Correct answer)",
+        "discordant",
+        "jarring",
+        "incongruous"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The engineer's _____ understanding of complex systems enabled him to create efficient and reliable solutions.",
+      "options": [
+        "superficial",
+        "cursory",
+        "perfunctory",
+        "profound (Correct answer)"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The author's _____ use of language painted a vivid and evocative picture in the reader's mind.",
+      "options": [
+        "inept",
+        "maladroit",
+        "masterful (Correct answer)",
+        "ham-fisted"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The judge's ruling was later _____, as new evidence emerged that contradicted the original decision.",
+      "options": [
+        "vindicated",
+        "corroborated",
+        "overturned (Correct answer)",
+        "buttressed"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The political analyst's _____ assessment of the situation revealed a deep understanding of the underlying issues.",
+      "options": [
+        "superficial",
+        "perceptive (Correct answer)",
+        "cursory",
+        "shallow"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The athlete's _____ work ethic and dedication to training helped her achieve success at the highest level.",
+      "options": [
+        "indolent",
+        "lackadaisical",
+        "assiduous (Correct answer)",
+        "slothful"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The diplomat had a _____ for navigating complex negotiations and reaching mutually beneficial agreements.",
+      "options": [
+        "knack (Correct answer)",
+        "disdain",
+        "contempt",
+        "repugnance"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The artist's work featured a _____ color palette, with vibrant hues that captured the viewer's attention.",
+      "options": [
+        "drab",
+        "muted",
+        "arresting (Correct answer)",
+        "dull"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The scientist's _____ in her field made her a sought-after speaker at conferences and events.",
+      "options": [
+        "eminence (Correct answer)",
+        "obscurity",
+        "anonymity",
+        "insignificance"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The archaeological site yielded a treasure trove of _____ artifacts, providing valuable insights into the ancient civilization.",
+      "options": [
+        "contemporary",
+        "antediluvian (Correct answer)",
+        "modern",
+        "current"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The intricate web of alliances and rivalries between the different factions made the political situation _____.",
+      "options": [
+        "transparent",
+        "byzantine (Correct answer)",
+        "unambiguous",
+        "simple"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The team's _____ cooperation was essential to the success of the complex project.",
+      "options": [
+        "fractious",
+        "seamless (Correct answer)",
+        "discordant",
+        "contentious"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The detective was known for his _____ skills, quickly uncovering even the most carefully concealed clues.",
+      "options": [
+        "inept",
+        "obtuse",
+        "perspicacious (Correct answer)",
+        "unobservant"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The company's decision to invest in renewable energy sources proved to be _____, as they were able to reduce costs and gain public support.",
+      "options": [
+        "sagacious (Correct answer)",
+        "impetuous",
+        "imprudent",
+        "reckless"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The playwright's use of _____ dialogue added depth to the characters and made their interactions more engaging.",
+      "options": [
+        "trite",
+        "banal",
+        "trenchant (Correct answer)",
+        "insipid"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The entrepreneur's _____ spirit led him to take risks and seize opportunities that others might have overlooked.",
+      "options": [
+        "pusillanimous",
+        "venturesome (Correct answer)",
+        "craven",
+        "timorous"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The diplomat was skilled at _____ complex issues, finding common ground between disputing parties.",
+      "options": [
+        "exacerbating",
+        "disentangling (Correct answer)",
+        "convoluting",
+        "complicating"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The athlete's _____ comeback after a major injury inspired fans and fellow competitors alike.",
+      "options": [
+        "resurgent (Correct answer)",
+        "faltering",
+        "stagnating",
+        "languishing"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The scientist's meticulous approach to data collection ensured the _____ of the research findings.",
+      "options": [
+        "veracity (Correct answer)",
+        "fallacy",
+        "spuriousness",
+        "inaccuracy"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The artist's work featured _____ motifs, drawing on themes and symbols from various cultures.",
+      "options": [
+        "insular",
+        "parochial",
+        "cosmopolitan (Correct answer)",
+        "provincial"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The company's _____ management style allowed employees to take ownership of their work and contribute their unique skills.",
+      "options": [
+        "dictatorial",
+        "autocratic",
+        "empowering (Correct answer)",
+        "overbearing"
+      ],
+      "hints": []
+    },
+    {
+      "question": "The intricate negotiations required a _____ understanding of the various stakeholders' interests and priorities.",
+      "options": [
+        "superficial",
+        "cursory",
+        "nuanced (Correct answer)",
+        "perfunctory"
+      ],
+      "hints": []
+    }
+  ]
+}

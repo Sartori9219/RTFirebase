@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Deep breathing exercises",
+        "Physical exercise",
+        "Time management",
+        "Prioritization",
+        "Mindfulness meditation",
+        "Progressive muscle relaxation",
+        "Visualization techniques",
+        "Healthy eating habits",
+        "Adequate sleep",
+        "Social support",
+        "Break-taking",
+        "Hobbies and interests",
+        "Laughter and humor",
+        "Setting realistic expectations",
+        "Seeking professional help if needed"
+    ],
+    "hints": {
+        "Deep breathing exercises": "Practice slow, deep breaths to help calm your nervous system and reduce stress.",
+        "Physical exercise": "Engage in regular physical activity to release endorphins and improve mood.",
+        "Time management": "Plan and organize your tasks to avoid feeling overwhelmed and stressed.",
+        "Prioritization": "Focus on what's most important and tackle tasks one at a time.",
+        "Mindfulness meditation": "Practice being present in the moment to help reduce stress and increase self-awareness.",
+        "Progressive muscle relaxation": "Tense and relax different muscle groups to relieve physical tension and stress.",
+        "Visualization techniques": "Use mental imagery to create a peaceful and calming environment that helps alleviate stress.",
+        "Healthy eating habits": "Maintain a balanced diet to ensure your body has the nutrients it needs to manage stress.",
+        "Adequate sleep": "Aim for 7-9 hours of sleep each night to help your body recover from daily stress.",
+        "Social support": "Reach out to friends, family, or counselors for emotional support and stress relief.",
+        "Break-taking": "Schedule regular breaks to recharge and avoid burnout.",
+        "Hobbies and interests": "Pursue activities you enjoy to help take your mind off stress and provide a sense of accomplishment.",
+        "Laughter and humor": "Find ways to laugh and have fun, as laughter can help reduce stress and improve mood.",
+        "Setting realistic expectations": "Be kind to yourself and don't expect perfection; accept that everyone makes mistakes and experiences setbacks.",
+        "Seeking professional help if needed": "If stress becomes unmanageable, consider talking to a mental health professional for guidance and support."
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Monotheism",
+        "Polytheism",
+        "Atheism",
+        "Agnosticism",
+        "Theism",
+        "Deism",
+        "Pantheism",
+        "Animism",
+        "Reincarnation",
+        "Karma",
+        "Dharma",
+        "Enlightenment",
+        "Sacred texts",
+        "Rituals and ceremonies",
+        "Religious symbols"
+    ],
+    "hints": {
+        "Monotheism": "The belief in a single, all-powerful God.",
+        "Polytheism": "The belief in multiple gods or deities.",
+        "Atheism": "The absence of belief in any god or divine being.",
+        "Agnosticism": "The belief that the existence of God or gods is unknown or unknowable.",
+        "Theism": "A general belief in the existence of a god or gods.",
+        "Deism": "The belief in a non-intervening creator of the universe, but not in an active, personal God.",
+        "Pantheism": "The belief that everything in the universe is a manifestation of the divine; God and the universe are one.",
+        "Animism": "The belief that natural objects, animals, and plants possess a spiritual essence or soul.",
+        "Reincarnation": "The belief that a person's soul is reborn into a new body after death.",
+        "Karma": "The concept of cause and effect in which one's actions in this life determine their future circumstances in the next life.",
+        "Dharma": "The moral and ethical duties or responsibilities that each individual must follow to maintain harmony in the universe.",
+        "Enlightenment": "A state of spiritual awakening or realization, often associated with Buddhism and Hinduism.",
+        "Sacred texts": "Holy scriptures or writings that serve as the foundation for a religion's beliefs and practices.",
+        "Rituals and ceremonies": "Religious practices and observances that help followers connect with the divine and express their faith.",
+        "Religious symbols": "Objects, images, or signs that represent a religion's beliefs, values, or deities."
+    }
+}

@@ -1,0 +1,372 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why did the electromagnet go to the gym?",
+        "Probably to work on its magnetic field strength!"
+      ],
+      "options": [
+        "Electromagnetism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the electromagnet refuse to play hide and seek?",
+        "Probably because it knew it would always be found due to its magnetic field!"
+      ],
+      "options": [
+        "Electromagnetism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the radio signal go to therapy?",
+        "I think it had trouble processing its emotions, just like it had trouble processing its waves!"
+      ],
+      "options": [
+        "Signal Processing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the signal processor get an award at the tech company?",
+        "Must be for filtering out all the unnecessary noise!"
+      ],
+      "options": [
+        "Signal Processing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't signal processors make good chefs?",
+        "Probably because they're always trying to minimize the ingredients!"
+      ],
+      "options": [
+        "Signal Processing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the power system refuse to play hide and seek?",
+        "Because it was afraid of blackouts!"
+      ],
+      "options": [
+        "Power Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the power system the star at the comedy club?",
+        "Because it could always generate a good laugh!"
+      ],
+      "options": [
+        "Power Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't power systems make good gardeners?",
+        "Because they're too busy dealing with circuits, they can't handle a circuit of watering plants!"
+      ],
+      "options": [
+        "Power Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do electronic devices never get invited to parties?",
+        "Because they always resist the current flow of conversation!"
+      ],
+      "options": [
+        "Electronic Devices (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the electronic device working out at the gym?",
+        "It was trying to amp up its resistance!"
+      ],
+      "options": [
+        "Electronic Devices (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't electronic devices play hide and seek?",
+        "Because good luck hiding when you're constantly emitting signals!"
+      ],
+      "options": [
+        "Electronic Devices (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the control system nervous at the comedy club?",
+        "Because it was worried about negative feedback loops!"
+      ],
+      "options": [
+        "Control Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the control system get a medal at the race?",
+        "Because it was outstanding in its closed loop response time!"
+      ],
+      "options": [
+        "Control Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do control systems make good detectives?",
+        "Because they're always tracking down system errors!"
+      ],
+      "options": [
+        "Control Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't communication systems play hide and seek?",
+        "Because they're always transmitting!"
+      ],
+      "options": [
+        "Communications (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the communications system voted prom king?",
+        "Because it was excellent at signal processing and made a noise at the right time!"
+      ],
+      "options": [
+        "Communications (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the communications system get a time-out?",
+        "Because it wouldn't stop broadcasting!"
+      ],
+      "options": [
+        "Communications (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't digital systems ever get lost?",
+        "Because they always follow a binary path!"
+      ],
+      "options": [
+        "Digital Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the digital system always so decisive?",
+        "Because it only knew 1s and 0s, no maybes!"
+      ],
+      "options": [
+        "Digital Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a digital system's favorite dessert?"
+      ],
+      "options": [
+        "Digital Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the electromechanical energy converter break up with its partner?",
+        "Because it couldn't handle the constant transformation!"
+      ],
+      "options": [
+        "Electromechanical Energy Conversion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What did the electromagnetic field say to the mechanical energy during the conversion process?",
+        "Let's take this relationship to another level!"
+      ],
+      "options": [
+        "Electromechanical Energy Conversion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't electromechanical energy converters make good secret agents?",
+        "Because they're always transforming!"
+      ],
+      "options": [
+        "Electromechanical Energy Conversion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the power electronics engineer bring a bucket to work?",
+        "Because he's dealing with current flows and doesn't want to get soaked!"
+      ],
+      "options": [
+        "Power Electronics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the power electronic device go to therapy?",
+        "Because it had issues with controlling the flow of energy!"
+      ],
+      "options": [
+        "Power Electronics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the power electronic device always the life of the party?",
+        "Because it knows how to switch things up and keep the energy flowing!"
+      ],
+      "options": [
+        "Power Electronics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the high voltage engineer always carry an umbrella?",
+        "Because he is always expecting sparks to fly!"
+      ],
+      "options": [
+        "High Voltage Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't high voltage engineers ever play hide and seek?",
+        "Because good luck hiding when your presence is so electrifying!"
+      ],
+      "options": [
+        "High Voltage Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the high voltage engineer break up with his girlfriend?",
+        "Because he said the spark just wasn't there anymore!"
+      ],
+      "options": [
+        "High Voltage Engineering (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the antenna go to the party?",
+        "Because it's always ready to pick up some good vibes!"
+      ],
+      "options": [
+        "Antenna and Wave Propagation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's an antenna's favorite type of music?",
+        "Wavelengths and frequencies, it loves to keep the waves propagating!"
+      ],
+      "options": [
+        "Antenna and Wave Propagation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the antenna break up with the satellite dish?",
+        "It felt they were not on the same wavelength anymore!"
+      ],
+      "options": [
+        "Antenna and Wave Propagation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the analog circuit go to therapy?",
+        "It needed help dealing with its continuous range of emotions!"
+      ],
+      "options": [
+        "Analog Electronics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What did the analog signal say to the digital signal?",
+        "Stop being so binary, there's a whole spectrum out there!"
+      ],
+      "options": [
+        "Analog Electronics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the analog circuit refuse to play chess?",
+        "Because it prefers games without clear cut 0s and 1s!"
+      ],
+      "options": [
+        "Analog Electronics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't embedded systems make good secret agents?",
+        "Because they can never work alone, they're always embedded with a team!"
+      ],
+      "options": [
+        "Embedded Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's an embedded system's favorite hobby?",
+        "Knitting, because it likes being intertwined and connected!"
+      ],
+      "options": [
+        "Embedded Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the embedded system get a promotion?",
+        "Because it was always integral to the operation!"
+      ],
+      "options": [
+        "Embedded Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the Optical Fiber break up with its partner?",
+        "Because it felt like they were losing connection!"
+      ],
+      "options": [
+        "Optical Fiber Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's an optical fiber's favorite song?",
+        "I Saw the Light, because it's always transmitting it!"
+      ],
+      "options": [
+        "Optical Fiber Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why don't optical fibers make good comedians?",
+        "Because their humor tends to be too transparent!"
+      ],
+      "options": [
+        "Optical Fiber Communication (correct answer)"
+      ]
+    }
+  ]
+}

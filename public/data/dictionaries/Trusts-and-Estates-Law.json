@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Estate",
+        "Trust",
+        "Will",
+        "Intestate",
+        "Executor",
+        "Beneficiary",
+        "Trustee",
+        "Power of Attorney",
+        "Probate",
+        "Inheritance Tax",
+        "Gift Tax",
+        "Revocable Trust",
+        "Irrevocable Trust",
+        "Living Will",
+        "Guardianship"
+    ],
+    "hints": {
+        "Estate": "This is all the property owned by a person, including real estate, personal property, and financial assets, which are managed or divided after their death.",
+        "Trust": "A legal arrangement where one party (trustee) holds and manages assets for the benefit of another party (beneficiary).",
+        "Will": "A legal document that states how a person's property and assets should be distributed after their death.",
+        "Intestate": "This term is used when a person dies without leaving a valid will. State laws then determine how the person's property is divided.",
+        "Executor": "The person named in a will who is responsible for managing the deceased's estate, including paying debts and distributing assets according to the will.",
+        "Beneficiary": "The person or entity (like a charity) that is named in a will or trust to receive assets or profits.",
+        "Trustee": "The person or entity that holds and manages the assets in a trust for the benefit of the beneficiaries.",
+        "Power of Attorney": "A legal document that gives a person (the agent) the authority to act for another person (the principal) in specified or all legal or financial matters.",
+        "Probate": "The legal process of validating a will, paying off debts, and distributing assets from an estate.",
+        "Inheritance Tax": "A tax imposed on the beneficiaries who receive property or assets from the deceased.",
+        "Gift Tax": "A tax imposed on the transfer of property or assets from one person to another while the giver is still alive.",
+        "Revocable Trust": "Also known as a living trust, this can be changed or canceled by the person who created it (the grantor) during their lifetime.",
+        "Irrevocable Trust": "This type of trust, once established, cannot be changed or canceled without the permission of the beneficiary.",
+        "Living Will": "A legal document that a person uses to make known his or her wishes regarding life-prolonging medical treatments.",
+        "Guardianship": "A legal process where a court appoints a person to manage the life and property of a person who is unable to do so themselves due to being a minor or having physical or mental incapacity."
+    }
+}

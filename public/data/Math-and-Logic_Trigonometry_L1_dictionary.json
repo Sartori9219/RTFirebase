@@ -1,0 +1,431 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Did you know that pizza is a great way to learn about angles?",
+        "Huh? How?",
+        "Each pizza slice is like a little angle, with the crust forming the rays and the tip of the slice being the vertex!"
+      ],
+      "options": [
+        "Angle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, I just noticed that a crocodile's open mouth looks like an angle!",
+        "You're right! The top and bottom jaws are like the rays, and the hinge is like the vertex."
+      ],
+      "options": [
+        "Angle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that pizza slices help you learn about angles? The crust forms the rays and the tip is the vertex!",
+        "Wow, I never thought about it that way! Pizza math is delicious!"
+      ],
+      "options": [
+        "Angle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Check out that open umbrella! It's like a big angle with the handle as the vertex and the ribs as the rays.",
+        "True! I guess even rainy days can be math-filled!"
+      ],
+      "options": [
+        "Angle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Look at that book on the table - when it's open, it forms an angle with the spine as the vertex and the covers as the rays.",
+        "You're right! Math is hiding everywhere, even in our books!"
+      ],
+      "options": [
+        "Angle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do you measure angles on a circle of hamburgers?",
+        "With radians! One radian is when the arc length of the hamburgers is equal to the radius of the circle."
+      ],
+      "options": [
+        "Radian (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that there are 2\u03c0 radians in a full circle?",
+        "Really? That's rad! Like, literally!"
+      ],
+      "options": [
+        "Radian (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's a mathematician's favorite fruit?",
+        "I don't know, what?",
+        "Radian-apples! Get it? Radian-apples instead of pineapples!"
+      ],
+      "options": [
+        "Radian (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that there are 360 degrees in a circle, just like a pizza?",
+        "Wow, that's a lot of pizza slices!"
+      ],
+      "options": [
+        "Degree (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I turn around in a full circle, how many degrees did I turn?",
+        "You just made a 360-degree turn, like a spinning top!"
+      ],
+      "options": [
+        "Degree (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a protractor's favorite dance move?",
+        "I don't know, what?",
+        "The 180-degree split!"
+      ],
+      "options": [
+        "Degree (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that if you stand straight and stretch your arms out, you create a right triangle?",
+        "Cool! I'm a walking geometry lesson!"
+      ],
+      "options": [
+        "Right Triangle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Look at the ladder leaning against the wall, it forms a right triangle with the wall and the ground.",
+        "That's true, I never thought of ladders as being part of math!"
+      ],
+      "options": [
+        "Right Triangle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When you cut a sandwich diagonally, you get two right triangles!",
+        "Yummy! Math never tasted so good!"
+      ],
+      "options": [
+        "Right Triangle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the hypotenuse get invited to the party?",
+        "Because it's always the longest side of the right triangle and loves to have a good time!"
+      ],
+      "options": [
+        "Hypotenuse (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I'm a right triangle, my longest side would be my hypotenuse. It's like I have a long leg to win at races!",
+        "Haha, yeah! But remember, you need the right angle first!"
+      ],
+      "options": [
+        "Hypotenuse (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Look at that kite in the sky! The string connecting the kite to the person holding it is like a hypotenuse!",
+        "You're right! Flying kites is way more mathematical than I thought!"
+      ],
+      "options": [
+        "Hypotenuse (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In a right triangle, sine is like a snake slithering up the opposite side of an angle!",
+        "Whoa, I'll never look at triangles the same way again!"
+      ],
+      "options": [
+        "Sine (sin) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you were a superhero, your power would be the \"sine\" ability \u2013 telling the ratio of the opposite side to the hypotenuse in any right triangle!",
+        "I'd be \"Sine Man\" or \"Sine Woman,\" the trigonometry defender!"
+      ],
+      "options": [
+        "Sine (sin) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine a right triangle as a slide; sine represents how steep the slide is by comparing the height to the hypotenuse!",
+        "Cool! I'd love to try a sine-slide!"
+      ],
+      "options": [
+        "Sine (sin) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Cosine is like the shadow of the angle in a right triangle, showing how far it stretches along the adjacent side.",
+        "I'll remember that next time I see my shadow, I'm casting some math!"
+      ],
+      "options": [
+        "Cosine (cos) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In a right triangle, cosine is like a cat walking along the adjacent side of an angle, trying not to fall off!",
+        "Haha, a math-loving cat! That's a new one!"
+      ],
+      "options": [
+        "Cosine (cos) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you were a detective, cosine would be your secret weapon, revealing the ratio between the adjacent side and the hypotenuse in any right triangle!",
+        "I'd solve all the trigonometry mysteries as Cosine Cop!"
+      ],
+      "options": [
+        "Cosine (cos) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Tangent is like the speed of a right triangle's slide if it was only measured by its height and base!",
+        "Wow, that's a fun way to think about it! I want to try the tangent-slide!"
+      ],
+      "options": [
+        "Tangent (tan) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In a right triangle, tangent is like a squirrel jumping from the tree's top (opposite side) to the ground (adjacent side)!",
+        "Haha, that's a nutty way to remember it!"
+      ],
+      "options": [
+        "Tangent (tan) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If sine is a snake and cosine is a cat, then tangent is a trampoline in a right triangle, bouncing you from the opposite side to the adjacent side!",
+        "Math has never been this bouncy and exciting!"
+      ],
+      "options": [
+        "Tangent (tan) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Pythagorean Theorem is like a secret recipe to find the length of the third side in a right triangle pizza!",
+        "Delicious math! I'll remember that next time I order pizza."
+      ],
+      "options": [
+        "Pythagorean Theorem (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you were a superhero, your power would be solving mysteries using the Pythagorean Theorem!",
+        "I'd be \"Pythagoras' Prodigy,\" keeping the city mathematically safe!"
+      ],
+      "options": [
+        "Pythagorean Theorem (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine the sides of a right triangle as ropes in a tug-of-war, with the Pythagorean Theorem ensuring they're balanced!",
+        "That's a fun way to look at it! Math tug-of-war, anyone?"
+      ],
+      "options": [
+        "Pythagorean Theorem (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Cotangent is like a reverse tangent in a right triangle, where a squirrel jumps from the ground (adjacent side) to the tree's top (opposite side)!",
+        "I love the idea of math-jumping squirrels!"
+      ],
+      "options": [
+        "Cotangent (cot) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the right triangle band, if tangent plays the guitar, cotangent is the drummer, rocking the ratio of adjacent to opposite sides!",
+        "That's a concert I'd love to attend! Trigonometry rocks!"
+      ],
+      "options": [
+        "Cotangent (cot) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Cotangent is like a mirror image of tangent, flipping the triangle's height and base!",
+        "Cool, I'll remember that! Trigonometry has a lot of fun twists and turns!"
+      ],
+      "options": [
+        "Cotangent (cot) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Secant is like a super-powered cosine, it's the ratio of the hypotenuse to the adjacent side in a right triangle!",
+        "So, it's like Cosine's big brother or sister? Cool!"
+      ],
+      "options": [
+        "Secant (sec) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the trigonometry circus, secant is the high-wire artist, balancing on the ratio between the hypotenuse and the adjacent side!",
+        "That's amazing! I want to join the math circus!"
+      ],
+      "options": [
+        "Secant (sec) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If cosine is a cat, then secant is like a mountain lion, representing the ratio of hypotenuse to the adjacent side in a right triangle!",
+        "Trigonometry is turning into a wild adventure!"
+      ],
+      "options": [
+        "Secant (sec) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Cosecant (csc)",
+        "Cosecant is like a super-powered sine, it's the ratio of the hypotenuse to the opposite side in a right triangle!",
+        "So, it's like Sine's big brother or sister? That's awesome!"
+      ],
+      "options": [
+        "Cosecant (csc) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If sine is a snake, then cosecant is a giant anaconda, showing the ratio between the hypotenuse and the opposite side in a right triangle!",
+        "Wow, trigonometry is getting wild and exciting!"
+      ],
+      "options": [
+        "Cosecant (csc) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In a right triangle, cosecant is the elevator that takes you from the ground floor (opposite side) to the top floor (hypotenuse)!",
+        "Cool, I'll take the cosecant elevator to the trigonometry penthouse!"
+      ],
+      "options": [
+        "Cosecant (csc) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Trigonometric identities are like the secret handshakes of the trigonometry club, helping you simplify and solve problems!",
+        "Haha, I'd love to join that club! Trigonometry secrets, here I come!"
+      ],
+      "options": [
+        "Trigonometric Identities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If trigonometry was a family, the identities would be the glue that holds everyone together, connecting all the functions in harmony!",
+        "A big, happy trigonometry family! I like that idea!"
+      ],
+      "options": [
+        "Trigonometric Identities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Trigonometric identities are like magic tricks, transforming one trigonometry expression into another to solve problems more easily!",
+        "Abracadabra! Time to learn some trigonometry magic!"
+      ],
+      "options": [
+        "Trigonometric Identities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The unit circle is like a trigonometry playground, where all the angles come to play with sine and cosine!",
+        "Sounds like a fun place! I want to go on the unit circle merry-go-round!"
+      ],
+      "options": [
+        "Unit Circle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine the unit circle as a clock with trigonometry functions instead of numbers, where angles tell you the time in sine and cosine!",
+        "That's a cool way to think about it! Time to learn some trigonometry timekeeping!"
+      ],
+      "options": [
+        "Unit Circle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The unit circle is like a fancy dance floor for angles, where they show off their sine and cosine moves!",
+        "I want to dance on the unit circle! Let's boogie with trigonometry!"
+      ],
+      "options": [
+        "Unit Circle (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Inverse trigonometric functions are like the superheroes' secret identities, revealing the angles hiding behind sine, cosine, and tangent!",
+        "Wow, trigonometry has its own superhero team! Time to unmask those angles!"
+      ],
+      "options": [
+        "Inverse Trigonometric Functions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Inverse trig functions are like time machines, taking you back to find the angle that started the trigonometry adventure!",
+        "Time traveling with trigonometry? Count me in!"
+      ],
+      "options": [
+        "Inverse Trigonometric Functions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine inverse trig functions as detectives, solving the mysteries of angles hidden within sine, cosine, and tangent!",
+        "Time to put on my detective hat and solve some trigonometry cases!"
+      ],
+      "options": [
+        "Inverse Trigonometric Functions (correct answer)"
+      ]
+    }
+  ]
+}

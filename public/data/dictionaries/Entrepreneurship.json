@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Business idea generation",
+        "Market research",
+        "Business plan development",
+        "Legal structure selection",
+        "Branding and logo design",
+        "Product or service development",
+        "Pricing strategies",
+        "Marketing and promotion",
+        "Sales techniques",
+        "Networking and partnerships",
+        "Customer service and retention",
+        "Financial management",
+        "Time management",
+        "Growth strategies",
+        "Exit strategies"
+    ],
+    "hints": {
+        "Business idea generation": "Brainstorm and identify a profitable business idea.",
+        "Market research": "Analyze the target market and competition.",
+        "Business plan development": "Write a detailed plan to guide your business.",
+        "Legal structure selection": "Choose the best legal structure for your business (e.g., sole proprietorship, LLC).",
+        "Branding and logo design": "Develop a unique brand identity and logo.",
+        "Product or service development": "Create the product or service you'll offer to customers.",
+        "Pricing strategies": "Determine the best pricing model for your product or service.",
+        "Marketing and promotion": "Promote your business to attract customers.",
+        "Sales techniques": "Learn effective sales strategies to close deals.",
+        "Networking and partnerships": "Build relationships with other entrepreneurs and potential partners.",
+        "Customer service and retention": "Provide excellent customer service to encourage repeat business.",
+        "Financial management": "Manage your business finances and track expenses.",
+        "Time management": "Allocate time efficiently to various tasks.",
+        "Growth strategies": "Plan for business expansion and scaling.",
+        "Exit strategies": "Prepare for the potential sale or closure of your business."
+    }
+}

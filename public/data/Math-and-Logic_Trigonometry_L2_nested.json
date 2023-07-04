@@ -1,0 +1,1122 @@
+[
+  {
+    "problem": "What is the angle formed between the hour hand and the minute hand of a clock when it's 3:00 PM?",
+    "questions": [
+      {
+        "question": "What is the position of the hour hand at 3:00 PM?",
+        "options": [
+          "Pointing directly at the number 2 on the clock face.",
+          "Pointing directly at the number 3 on the clock face. (Correct answer)",
+          "Pointing directly at the number 4 on the clock face.",
+          "Pointing directly at the number 5 on the clock face."
+        ],
+        "hints": [
+          {
+            "description": "The two lines on the clock form an angle. | [Angle formed between the hour hand and the minute hand of a clock]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the position of the minute hand at 3:00 PM?",
+        "options": [
+          "Pointing directly at the number 6 on the clock face.",
+          "Pointing directly at the number 8 on the clock face.",
+          "Pointing directly at the number 10 on the clock face.",
+          "Pointing directly at the number 12 on the clock face. (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "The two lines on the clock form an angle. | [Angle formed between the hour hand and the minute hand of a clock]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "How many angles are there in a pentagon?",
+    "questions": [
+      {
+        "question": "How many sides does a pentagon have?",
+        "options": [
+          "3 sides",
+          "4 sides",
+          "5 sides (Correct answer)",
+          "6 sides"
+        ],
+        "hints": [
+          {
+            "description": " Number of sides represents the number of angles.  | [Number of sides of a polygon (Rectangle)]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the sum of the angles in a triangle?",
+    "questions": [
+      {
+        "question": "How many sides does a triangle have?",
+        "options": [
+          "2 sides",
+          "3 sides (Correct answer)",
+          "4 sides",
+          "5 sides"
+        ],
+        "hints": [
+          {
+            "description": " Number of sides represents the number of angles.  | [Number of sides of a polygon (Rectangle)]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the sum of the interior angles in a polygon with n sides?",
+        "options": [
+          "180(n-1) degrees",
+          "180(n-2) degrees (Correct answer)",
+          "180(n+1) degrees",
+          "180(n+2) degrees"
+        ],
+        "hints": [
+          {
+            "description": " Sum of the angles is related to the number of sides. | [Sum of of the interior angles in a polygon with n sides]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "How many radians are there in a full circle?",
+    "questions": [
+      {
+        "question": "What is the relationship between radians and degrees?",
+        "options": [
+          "1 radian = 180 degrees",
+          "1 radian = 360 degrees",
+          "1 degree = 180 radians",
+          "1 degree = \u03c0/180 radians (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "use appropriate conversion factors. | [Conversion factor of degree to radian or vice versa]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many degrees are in a full circle?",
+        "options": [
+          "90 degrees",
+          "180 degrees",
+          "270 degrees",
+          "360 degrees (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "use appropriate formulas to convert a degree angle to a radian angle. | [Converting degree angle to radian angle]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the radian measure of a 90-degree angle?",
+    "questions": [
+      {
+        "question": "What is the conversion factor for degrees to radians?",
+        "options": [
+          "1 radian = 180 degrees",
+          "1 radian = \u03c0/180 degrees",
+          "1 degree = 180 radians",
+          "1 degree = \u03c0/180 radians (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "use appropriate conversion factors. | [Conversion factor of degree to radian or vice versa]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many degrees are at a right angle?",
+        "options": [
+          "30 degrees",
+          "45 degrees",
+          "60 degrees",
+          "90 degrees (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "use appropriate formulas to convert a degree angle to a radian angle. | [Converting degree angle to radian angle]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "How do you convert degrees to radians?",
+    "questions": [
+      {
+        "question": "Choose the correct conversion factor for converting degrees to radians.",
+        "options": [
+          "180 degrees = \u03c0 radians (Correct answer)",
+          "180 radians = \u03c0 degrees",
+          "360 degrees = 2\u03c0 radians",
+          "360 radians = 2\u03c0 degrees"
+        ],
+        "hints": [
+          {
+            "description": "use appropriate conversion factors. | [Conversion factor of degree to radian or vice versa]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What should you multiply a degree measure by to convert it to radians?",
+        "options": [
+          "180/\u03c0",
+          "\u03c0/180 (Correct answer)",
+          "90",
+          "180"
+        ],
+        "hints": [
+          {
+            "description": "use appropriate conversion factors. | [Conversion factor of degree to radian or vice versa]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "How many degrees are there in a right angle?",
+    "questions": [
+      {
+        "question": "Which angle is known as a right angle?",
+        "options": [
+          "An angle smaller than 90 degrees",
+          "An angle equal to 90 degrees (Correct answer)",
+          "An angle between 90 and 180 degrees",
+          "An angle equal to 180 degrees"
+        ],
+        "hints": [
+          {
+            "description": "90 degree angle is known as the right angle. | [Naming of the each angles of the right angle triangle]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the All angles are between 0\u00ba and 360\u00ba degrees?",
+    "questions": [
+      {
+        "question": "Which angle is known as a straight angle?",
+        "options": [
+          "An angle smaller than 180 degrees",
+          "An angle equal to 180 degrees (Correct answer)",
+          "An angle larger than 180 degrees",
+          "An angle equal to 360 degrees"
+        ],
+        "hints": [
+          {
+            "description": "See the following animation. | [All angles are between 0\u00ba and 360\u00ba degrees]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "How many degrees are there in the interior angles of an equilateral triangle?",
+    "questions": [
+      {
+        "question": "How many equal angles are there in an equilateral triangle?",
+        "options": [
+          "2 equal angles",
+          "3 equal angles (Correct answer)",
+          "4 equal angles",
+          "5 equal angles"
+        ],
+        "hints": [
+          {
+            "description": " Number of sides represents the number of angles.  | [Number of sides of a polygon (Rectangle)]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the sum of the interior angles in a triangle?",
+        "options": [
+          "90 degrees",
+          "180 degrees (Correct answer)",
+          "270 degrees",
+          "360 degrees"
+        ],
+        "hints": [
+          {
+            "description": "Sum of the angles is related to the number of sides. | [Sum of of the interior angles in a polygon with n sides]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What are the two shorter sides of a right triangle called?",
+    "questions": [
+      {
+        "question": "What type of triangle has one angle equal to 90 degrees?",
+        "options": [
+          "Scalene triangle",
+          "Isosceles triangle",
+          "Equilateral triangle",
+          "Right triangle (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "One side is adjacent to the right angle, while the other side is opposite to the right angle. | [Naming of the each side of the right angle triangle]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the name of the longest side of a right triangle?",
+        "options": [
+          "Hypotenuse (Correct answer)",
+          "Adjacent",
+          "Opposite",
+          "Base"
+        ],
+        "hints": [
+          {
+            "description": "Longest side is opposite the right angle. | [Naming of the each side of the right angle triangle]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the name of the angle opposite the hypotenuse in a right triangle?",
+    "questions": [
+      {
+        "question": "What is the name of the angle equal to 90 degrees in a right triangle?",
+        "options": [
+          "Acute angle",
+          "Obtuse angle",
+          "Right angle (Correct answer)",
+          "Straight angle"
+        ],
+        "hints": [
+          {
+            "description": "Right angle is always 90 degrees. | [Naming of the each angles of the right angle triangle]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What are the other two angles in a right triangle called?",
+        "options": [
+          "Acute angles (Correct answer)",
+          "Obtuse angles",
+          "Right angles",
+          "Straight angles"
+        ],
+        "hints": [
+          {
+            "description": "Acute angle is always less than 90 degrees. | [Naming of the each angles of the right angle triangle]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the relationship between the angles in a right triangle?",
+    "questions": [
+      {
+        "question": "What is the sum of the interior angles in a triangle?",
+        "options": [
+          "90 degrees",
+          "180 degrees (Correct answer)",
+          "270 degrees",
+          "360 degrees"
+        ],
+        "hints": [
+          {
+            "description": " Number of sides represents the number of angles.  | [Number of sides of a polygon (Rectangle)]",
+            "isBought": false
+          },
+          {
+            "description": "Sum of the angles is related to the number of sides. | [Sum of of the interior angles in a polygon with n sides]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the measure of a right angle in a right triangle?",
+        "options": [
+          "30 degrees",
+          "45 degrees",
+          "90 degrees (Correct answer)",
+          "180 degrees"
+        ],
+        "hints": [
+          {
+            "description": "Right angle is always 90 degrees. | [Naming of the each angles of the right angle triangle]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "In a right triangle, which side is the hypotenuse?",
+    "questions": [
+      {
+        "question": "What is the name of the longest side of a right triangle?",
+        "options": [
+          "Adjacent",
+          "Opposite",
+          "Hypotenuse (Correct answer)",
+          "Base"
+        ],
+        "hints": [
+          {
+            "description": "Right angle is always 90 degrees. | [Naming of the each side of the right angle triangle]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "How do you find the length of the hypotenuse given the lengths of the other two sides?",
+    "questions": [
+      {
+        "question": "What theorem is used to find the relationship between the sides of a right triangle?",
+        "options": [
+          "Euclidean theorem",
+          "Fermat's theorem",
+          "Descartes' theorem",
+          "Pythagorean theorem (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "Using pythagorean theorem. | [Demonstration of Pythagorean theorem]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the formula for the Pythagorean theorem?",
+        "options": [
+          "a^2 + b^2 = c^2 (Correct answer)",
+          "a^2 - b^2 = c^2",
+          "a^2 * b^2 = c^2",
+          "a^2 / b^2 = c^2"
+        ],
+        "hints": [
+          {
+            "description": "Using pythagorean theorem. | [Demonstration of Pythagorean theorem]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle with legs of length 3 and 4?",
+    "questions": [
+      {
+        "question": "What is the formula for the Pythagorean theorem?",
+        "options": [
+          "a^2 + b^2 = c^2 (Correct answer)",
+          "a^2 - b^2 = c^2",
+          "a^2 * b^2 = c^2",
+          "a^2 / b^2 = c^2"
+        ],
+        "hints": [
+          {
+            "description": "Pythagorean theorem. | [Demonstration of Pythagorean theorem]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Using the Pythagorean theorem, what is the square of the hypotenuse (c^2) for a right triangle with legs of length 3 and 4?",
+        "options": [
+          "9",
+          "16",
+          "25 (Correct answer)",
+          "49"
+        ],
+        "hints": [
+          {
+            "description": "Use Pythagorean theorem. | [Calculating the length of hypotenuse of a right angle triangle]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the sine of a 30-degree angle in a right triangle?",
+    "questions": [
+      {
+        "question": "Which trigonometric function represents the ratio of the opposite side to the hypotenuse?",
+        "options": [
+          "Sine (Correct answer)",
+          "Cosine",
+          "Tangent",
+          "Cotangent"
+        ],
+        "hints": [
+          {
+            "description": "The sine of an angle in a right triangle is calculated by dividing the length of the side opposite the angle by the length of the hypotenuse. | [Basic trigonometric function-part 1]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "How do you find the sine of an angle in a right triangle?",
+    "questions": [
+      {
+        "question": "Which sides of a right triangle are used to calculate the sine of an angle?",
+        "options": [
+          "Opposite and adjacent",
+          "Opposite and hypotenuse (Correct answer)",
+          "Adjacent and hypotenuse",
+          "None of the above"
+        ],
+        "hints": [
+          {
+            "description": "See the naming of each side of a right angle triangle. | [Naming of the each side of the right angle triangle]",
+            "isBought": false
+          },
+          {
+            "description": "The sine of an angle in a right triangle is calculated by dividing the length of the side opposite the angle by the length of the hypotenuse. | [Basic trigonometric function-part 1]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the formula to find the sine of an angle in a right triangle?",
+        "options": [
+          "sin(\u03b8) = opposite/hypotenuse (Correct answer)",
+          "sin(\u03b8) = adjacent/hypotenuse",
+          "sin(\u03b8) = opposite/adjacent",
+          "sin(\u03b8) = hypotenuse/opposite"
+        ],
+        "hints": [
+          {
+            "description": "The sine of an angle in a right triangle is calculated by dividing the length of the side opposite the angle by the length of the hypotenuse. | [Basic trigonometric function-part 1]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the range of sine function values?",
+    "questions": [
+      {
+        "question": "What are the minimum and maximum values of the sine function?",
+        "options": [
+          "-1 and 1 (Correct answer)",
+          "0 and 1",
+          "-1 and 0",
+          "0 and \u221e"
+        ],
+        "hints": [
+          {
+            "description": "See the following animation. | [Some common values of trigonometric function-part 5]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the cosine of a 45-degree angle in a right triangle?",
+    "questions": [
+      {
+        "question": "Which trigonometric function represents the ratio of the adjacent side to the hypotenuse?",
+        "options": [
+          "Sine",
+          "Cosine (Correct answer)",
+          "Tangent",
+          "Cotangent"
+        ],
+        "hints": [
+          {
+            "description": "The cosine of an angle in a right triangle is calculated by dividing the length of the side adjacent to the angle by the length of the hypotenuse. | [Basic trigonometric function-part 2]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "How do you find the cosine of an angle in a right triangle?",
+    "questions": [
+      {
+        "question": "Which sides of a right triangle are used to calculate the cosine of an angle?",
+        "options": [
+          "Opposite and adjacent",
+          "Opposite and hypotenuse",
+          "Adjacent and hypotenuse (Correct answer)",
+          "None of the above"
+        ],
+        "hints": [
+          {
+            "description": "See the naming of each side of a right angle triangle. | [Naming of the each side of the right angle triangle]",
+            "isBought": false
+          },
+          {
+            "description": "The cosine of an angle in a right triangle is calculated by dividing the length of the side adjacent to the angle by the length of the hypotenuse. | [Basic trigonometric function-part 2]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the range of cosine function values?",
+    "questions": [
+      {
+        "question": "What are the minimum and maximum values of the cosine function?",
+        "options": [
+          "-1 and 1 (Correct answer)",
+          "0 and 1",
+          "-1 and 0",
+          "0 and \u221e"
+        ],
+        "hints": [
+          {
+            "description": "See the following animation. | [Some common values of trigonometric function-part 6]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the tangent of a 45-degree angle in a right triangle?",
+    "questions": [
+      {
+        "question": "Which trigonometric function represents the ratio of the opposite side to the adjacent side?",
+        "options": [
+          "Sine",
+          "Cosine",
+          "Tangent (Correct answer)",
+          "Cotangent"
+        ],
+        "hints": [
+          {
+            "description": " Tangent relates the ratio of the side opposite an angle to the side adjacent to that angle in a right triangle. | [Basic trigonometric function-part 3]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "How do you find the tangent of an angle in a right triangle?",
+    "questions": [
+      {
+        "question": "Which sides of a right triangle are used to calculate the tangent of an angle?",
+        "options": [
+          "Opposite and adjacent (Correct answer)",
+          "Opposite and hypotenuse",
+          "Adjacent and hypotenuse",
+          "None of the above"
+        ],
+        "hints": [
+          {
+            "description": "See the naming of each side of a right angle triangle. | [Naming of the each side of the right angle triangle]",
+            "isBought": false
+          },
+          {
+            "description": " Tangent relates the ratio of the side opposite an angle to the side adjacent to that angle in a right triangle. | [Basic trigonometric function-part 3]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the range of tangent function values?",
+    "questions": [
+      {
+        "question": "What are the minimum and maximum values of the tangent function?",
+        "options": [
+          "-\u221e and \u221e (Correct answer)",
+          "-1 and 1",
+          "0 and \u221e",
+          "0 and 1"
+        ],
+        "hints": [
+          {
+            "description": "See the following animation. | [Some common values of trigonometric function-part 7]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the Pythagorean theorem, and when can it be used?",
+    "questions": [
+      {
+        "question": "What theorem relates the side lengths of a right triangle?",
+        "options": [
+          "Euclidean theorem",
+          "Fermat's theorem",
+          "Descartes' theorem",
+          "Pythagorean theorem (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "Pythagorean theorem. | [Demonstration of Pythagorean theorem]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the formula for the Pythagorean theorem?",
+        "options": [
+          "a^2 + b^2 = c^2 (Correct answer)",
+          "a^2 - b^2 = c^2",
+          "a^2 * b^2 = c^2",
+          "a^2 / b^2 = c^2"
+        ],
+        "hints": [
+          {
+            "description": "Pythagorean theorem. | [Demonstration of Pythagorean theorem]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "How is the Pythagorean theorem used to find the length of a side in a right triangle?",
+    "questions": [
+      {
+        "question": "What do the variables a, b, and c represent in the Pythagorean theorem?",
+        "options": [
+          "a = opposite, b = adjacent, c = hypotenuse (Correct answer)",
+          "a = adjacent, b = hypotenuse, c = opposite",
+          "a = hypotenuse, b = opposite, c = adjacent",
+          "a = base, b = height, c = hypotenuse"
+        ],
+        "hints": [
+          {
+            "description": "Right angle is always 90 degrees. | [Naming of the each side of the right angle triangle]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the missing side length in a right triangle with legs of length 6 and 8?",
+    "questions": [
+      {
+        "question": "What is the formula for the Pythagorean theorem?",
+        "options": [
+          "a^2 + b^2 = c^2 (Correct answer)",
+          "a^2 - b^2 = c^2",
+          "a^2 * b^2 = c^2",
+          "a^2 / b^2 = c^2"
+        ],
+        "hints": [
+          {
+            "description": "Pythagorean theorem. | [Demonstration of Pythagorean theorem]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Using the Pythagorean theorem, what is the square of the hypotenuse (c^2) for a right triangle with legs of length 6 and 8?",
+        "options": [
+          "36",
+          "64",
+          "100 (Correct answer)",
+          "144"
+        ],
+        "hints": [
+          {
+            "description": "Use Pythagorean theorem. | [Calculating the length of hypotenuse of a right angle triangle]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the relationship between cotangent and tangent?",
+    "questions": [
+      {
+        "question": "What is the reciprocal of the tangent function?",
+        "options": [
+          "Sine",
+          "Cosine",
+          "Cotangent (Correct answer)",
+          "Cosecant"
+        ],
+        "hints": [
+          {
+            "description": "Cotangent (cot) and tangent (tan) functions are reciprocals of each other. | [Relation between tangent and cotangent function]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "How do you find the cotangent of an angle in a right triangle?",
+    "questions": [
+      {
+        "question": "What is the formula to find the cotangent of an angle in a right triangle?",
+        "options": [
+          "cot(\u03b8) = adjacent/opposite (Correct answer)",
+          "cot(\u03b8) = opposite/adjacent",
+          "cot(\u03b8) = hypotenuse/opposite",
+          "cot(\u03b8) = hypotenuse/adjacent"
+        ],
+        "hints": [
+          {
+            "description": "Cotangent relates the ratio of the side adjacent to an angle to the side opposite to that angle in a right triangle. | [Basic trigonometric function-part 3]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the range of cotangent function values?",
+    "questions": [
+      {
+        "question": "What are the minimum and maximum values of the cotangent function?",
+        "options": [
+          "-\u221e and \u221e (Correct answer)",
+          "-1 and 1",
+          "0 and \u221e",
+          "0 and 1"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "What is the relationship between secant and cosine?",
+    "questions": [
+      {
+        "question": "What is the reciprocal of the cosine function?",
+        "options": [
+          "Sine",
+          "Cosine",
+          "Tangent",
+          "Secant (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "Secant (Sec) and cosine (cos) functions are reciprocals of each other. | [Relation between cosine and sec function]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "How do you find the secant angle in a right triangle?",
+    "questions": [
+      {
+        "question": "What is the formula to find the secant of an angle in a right triangle?",
+        "options": [
+          "sec(\u03b8) = hypotenuse/adjacent (Correct answer)",
+          "sec(\u03b8) = adjacent/hypotenuse",
+          "sec(\u03b8) = opposite/adjacent",
+          "sec(\u03b8) = hypotenuse/opposite"
+        ],
+        "hints": [
+          {
+            "description": "Secant is defined as the ratio of the hypotenuse to the adjacent side in a right triangle. | [Basic trigonometric function-part 2]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the range of secant function values?",
+    "questions": [
+      {
+        "question": "What are the minimum and maximum values of the secant function?",
+        "options": [
+          "-\u221e and \u221e (Correct answer)",
+          "-1 and 1",
+          "0 and \u221e",
+          "0 and 1"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "What is the relationship between cosecant and sine?",
+    "questions": [
+      {
+        "question": "What is the reciprocal of the sine function?",
+        "options": [
+          "Sine",
+          "Cosine",
+          "Tangent",
+          "Cosecant (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "Cosecant (Cosec) and sine (sin) functions are reciprocals of each other. | [Relation between sine and cosec function]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "How do you find the cosecant of an angle in a right triangle?",
+    "questions": [
+      {
+        "question": "What is the formula to find the cosecant of an angle in a right triangle?",
+        "options": [
+          "csc(\u03b8) = hypotenuse/opposite (Correct answer)",
+          "csc(\u03b8) = opposite/hypotenuse",
+          "csc(\u03b8) = adjacent/opposite",
+          "csc(\u03b8) = hypotenuse/adjacent"
+        ],
+        "hints": [
+          {
+            "description": "Cosecant is defined as the ratio of the hypotenuse to the opposite side in a right triangle. | [Basic trigonometric function-part 1]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the range of cosecant function values?",
+    "questions": [
+      {
+        "question": "What are the minimum and maximum values of the cosecant function?",
+        "options": [
+          "-\u221e and \u221e (Correct answer)",
+          "-1 and 1",
+          "0 and \u221e",
+          "0 and 1"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "What is the Pythagorean identity relating sine and cosine?",
+    "questions": [
+      {
+        "question": "Which of these is a fundamental trigonometric identity?",
+        "options": [
+          "sin^2(\u03b8) + cos^2(\u03b8) = 1 (Correct answer)",
+          "sin^2(\u03b8) - cos^2(\u03b8) = 1",
+          "sin^2(\u03b8) + cos^2(\u03b8) = 0",
+          "sin^2(\u03b8) * cos^2(\u03b8) = 1"
+        ],
+        "hints": [
+          {
+            "description": "Fundamental trigonometric identity always follows the Pythagorean rule. | [Pythagorean identity relating sine and cosine]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the double-angle identity for sine?",
+    "questions": [
+      {
+        "question": "What is the formula for the double-angle identity of sine?",
+        "options": [
+          "sin(2\u03b8) = 2sin(\u03b8)cos(\u03b8) (Correct answer)",
+          "sin(2\u03b8) = sin^2(\u03b8) + cos^2(\u03b8)",
+          "sin(2\u03b8) = 2sin(\u03b8) - 2cos(\u03b8)",
+          "sin(2\u03b8) = sin(\u03b8) + cos(\u03b8)"
+        ],
+        "hints": [
+          {
+            "description": "It relates the sine of a doubled angle to the sines and cosine of the original angle. | [Double-angle identity for sine function]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the sum-to-product identity for sine?",
+    "questions": [
+      {
+        "question": "What is the formula for the sum-to-product identity for sine?",
+        "options": [
+          "sin(\u03b8) + sin(\u03c6) = 2sin((\u03b8 + \u03c6)/2)cos((\u03b8 - \u03c6)/2) (Correct answer)",
+          "sin(\u03b8) + sin(\u03c6) = sin((\u03b8 + \u03c6)/2) + cos((\u03b8 - \u03c6)/2)",
+          "sin(\u03b8) + sin(\u03c6) = 2sin((\u03b8 - \u03c6)/2)cos((\u03b8 + \u03c6)/2)",
+          "sin(\u03b8) + sin(\u03c6) = sin((\u03b8 - \u03c6)/2) + cos((\u03b8 + \u03c6)/2)"
+        ],
+        "hints": [
+          {
+            "description": "See the values of trigonometric functions. | [Some common values of trigonometric function-part 3]",
+            "isBought": false
+          },
+          {
+            "description": "See the values of trigonometric functions. | [Some common values of trigonometric function-part 4]",
+            "isBought": false
+          },
+          {
+            "description": "It relates the sum of two angles to the product of their sines. | [sum-to-product identity for sine function]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the radius of the unit circle?",
+    "questions": [
+      {
+        "question": "Which of the following best describes a unit circle?",
+        "options": [
+          "A circle with a diameter of 1",
+          "A circle with a circumference of 1",
+          "A circle with an area of 1",
+          "A circle with a radius of 1 (Correct answer)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "How are the coordinates of a point on the unit circle related to sine and cosine?",
+    "questions": [
+      {
+        "question": "What are the coordinates of a point (x, y) on the unit circle in terms of the angle \u03b8?",
+        "options": [
+          "x = sin(\u03b8), y = cos(\u03b8)",
+          "x = cos(\u03b8), y = sin(\u03b8) (Correct answer)",
+          "x = tan(\u03b8), y = cot(\u03b8)",
+          "x = csc(\u03b8), y = sec(\u03b8)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "What is the complementary angle theorem for sine and cosine?",
+    "questions": [
+      {
+        "question": "What is the relationship between the sine and cosine of complementary angles?",
+        "options": [
+          "sin(\u03b8) = cos(90 - \u03b8) (Correct answer)",
+          "sin(\u03b8) = cos(90 + \u03b8)",
+          "sin(\u03b8) = cos(180 - \u03b8)",
+          "sin(\u03b8) = cos(180 + \u03b8)"
+        ],
+        "hints": [
+          {
+            "description": "Sum of the opposite angle and adjacent are always 90 degrees. | [Relation between the angles of the right angle triangle]",
+            "isBought": false
+          },
+          {
+            "description": "It states that the sine of an angle is equal to the cosine of its complementary angle. | [Complementary angle theorem for sine and cosine]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the cofunction identity for sine and cosine?",
+    "questions": [
+      {
+        "question": "What is the cofunction identity relating sine and cosine?",
+        "options": [
+          "sin(\u03b8) = cos(90 - \u03b8) (Correct answer)",
+          "sin(\u03b8) = cos(90 + \u03b8)",
+          "cos(\u03b8) = sin(180 - \u03b8)",
+          "cos(\u03b8) = sin(180 + \u03b8)"
+        ],
+        "hints": [
+          {
+            "description": "Sum of the opposite angle and adjacent are always 90 degrees. | [Relation between the angles of the right angle triangle]",
+            "isBought": false
+          },
+          {
+            "description": "It states that the sine of an angle is equal to the cosine of its complementary angle. | [Complementary angle theorem for sine and cosine]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the cofunction identity for tangent and cotangent?",
+    "questions": [
+      {
+        "question": "What is the cofunction identity relating tangent and cotangent?",
+        "options": [
+          "tan(\u03b8) = cot(90 - \u03b8) (Correct answer)",
+          "tan(\u03b8) = cot(90 + \u03b8)",
+          "cot(\u03b8) = tan(180 - \u03b8)",
+          "cot(\u03b8) = tan(180 + \u03b8)"
+        ],
+        "hints": [
+          {
+            "description": "Sum of the opposite angle and adjacent are always 90 degrees. | [Relation between the angles of the right angle triangle]",
+            "isBought": false
+          },
+          {
+            "description": "The cofunction identity for tangent and cotangent shows that the tangent of an angle is equal to the cotangent of its complementary angle and vice versa. | [Cofunction identity for tangent and cotangent]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the cofunction identity of tangent and cotangent for angles \u03b8 and 90 - \u03b8?",
+        "options": [
+          "sin(\u03b8) = cos(90 - \u03b8)",
+          "cos(\u03b8) = sin(90 - \u03b8)",
+          "tan(\u03b8) = cot(90 - \u03b8) (Correct answer)",
+          "cot(\u03b8) = tan(90 - \u03b8)"
+        ],
+        "hints": [
+          {
+            "description": "Sum of the opposite angle and adjacent are always 90 degrees. | [Relation between the angles of the right angle triangle]",
+            "isBought": false
+          },
+          {
+            "description": "The cofunction identity for tangent and cotangent shows that the tangent of an angle is equal to the cotangent of its complementary angle and vice versa. | [Cofunction identity for tangent and cotangent]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Warm-up and cool-down",
+        "Proper form and technique",
+        "Cardiovascular exercise",
+        "Strength training",
+        "Flexibility and stretching",
+        "Core stability",
+        "Bodyweight exercises",
+        "Interval training",
+        "Balance and coordination",
+        "Breathing techniques",
+        "Hydration and nutrition",
+        "Sportsmanship and teamwork",
+        "Cross-training",
+        "Injury prevention and safety",
+        "Goal setting and tracking progress"
+    ],
+    "hints": {
+        "Warm-up and cool-down": "Understanding the importance of warming up before exercise and cooling down after to prevent injury and improve flexibility.",
+        "Proper form and technique": "Learning the correct way to perform exercises to maximize effectiveness and minimize injury risk.",
+        "Cardiovascular exercise": "Engaging in activities that increase heart rate and improve cardiovascular fitness, such as running, cycling, or swimming.",
+        "Strength training": "Building muscle strength through exercises like push-ups, squats, and lunges, using body weight or resistance bands.",
+        "Flexibility and stretching": "Practicing regular stretching exercises to improve flexibility and reduce the risk of injury.",
+        "Core stability": "Strengthening the muscles around the trunk and pelvis to support the spine and improve posture and balance.",
+        "Bodyweight exercises": "Utilizing one's own body weight to perform exercises like planks, pull-ups, and dips.",
+        "Interval training": "Incorporating short bursts of high-intensity exercise followed by periods of lower-intensity recovery to improve cardiovascular fitness and burn calories.",
+        "Balance and coordination": "Developing balance and coordination through exercises like single-leg stands or balance beam activities.",
+        "Breathing techniques": "Learning proper breathing techniques to optimize performance and prevent fatigue during exercise.",
+        "Hydration and nutrition": "Understanding the importance of staying hydrated and consuming a balanced diet to fuel the body for exercise.",
+        "Sportsmanship and teamwork": "Participating in team sports to develop communication and collaboration skills, as well as learning about fair play and sportsmanship.",
+        "Cross-training": "Engaging in various types of exercise to prevent boredom and promote overall fitness.",
+        "Injury prevention and safety": "Recognizing potential hazards and learning how to avoid injuries during physical activities.",
+        "Goal setting and tracking progress": "Setting realistic fitness goals and tracking progress to stay motivated and committed to a healthy lifestyle."
+    }
+}

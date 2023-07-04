@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Food Safety and Sanitation",
+        "Knife Skills",
+        "Cooking Methods",
+        "Baking Techniques",
+        "Sauce Making",
+        "Plating and Presentation",
+        "Menu Planning",
+        "Nutrition and Dietary Considerations",
+        "Recipe Development and Scaling",
+        "Food Costing and Budgeting",
+        "Kitchen Organization and Time Management",
+        "International Cuisine",
+        "Catering and Event Planning",
+        "Food Science and Chemistry",
+        "Culinary Career Exploration"
+    ],
+    "hints": {
+        "Food Safety and Sanitation": "Understanding proper food handling, storage, and cleaning techniques to ensure a safe and healthy kitchen environment.",
+        "Knife Skills": "Mastering various cutting techniques, knife maintenance, and safety practices to efficiently prepare ingredients.",
+        "Cooking Methods": "Learning different methods of cooking, such as grilling, saut\u00e9ing, boiling, and baking, to create a variety of dishes.",
+        "Baking Techniques": "Exploring the art of baking, including the science behind it, and mastering techniques like creaming, folding, and kneading.",
+        "Sauce Making": "Gaining knowledge on how to create various types of sauces, such as roux-based, emulsions, and reductions, to enhance dishes.",
+        "Plating and Presentation": "Developing an eye for aesthetics and learning how to present dishes in an appealing and appetizing manner.",
+        "Menu Planning": "Designing well-balanced and creative menus that cater to different tastes, dietary restrictions, and seasonal ingredients.",
+        "Nutrition and Dietary Considerations": "Understanding the nutritional value of ingredients and creating dishes that cater to specific dietary needs, such as vegetarian or gluten-free.",
+        "Recipe Development and Scaling": "Learning how to create, test, and adapt recipes, as well as adjusting quantities for different serving sizes.",
+        "Food Costing and Budgeting": "Developing skills in managing food costs, pricing menu items, and working within a budget for ingredients and supplies.",
+        "Kitchen Organization and Time Management": "Mastering the art of multitasking, organizing workspace, and managing time efficiently in a fast-paced kitchen environment.",
+        "International Cuisine": "Studying and preparing dishes from various global cuisines, such as Italian, French, Chinese, and Indian.",
+        "Catering and Event Planning": "Gaining experience in planning, executing, and managing culinary events, such as weddings, corporate functions, and private parties.",
+        "Food Science and Chemistry": "Exploring the science behind cooking, including the chemical reactions that occur during various cooking processes.",
+        "Culinary Career Exploration": "Investigating different career paths within the culinary industry, such as chef, pastry chef, food writer, or restaurant manager."
+    }
+}

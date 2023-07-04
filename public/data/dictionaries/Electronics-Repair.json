@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Circuit Diagrams",
+        "Multimeter Use",
+        "Soldering Techniques",
+        "Component Testing",
+        "Power Supply Repair",
+        "Digital and Analog Signals",
+        "Printed Circuit Board (PCB) Repair",
+        "Capacitor Replacement",
+        "Resistor Functions and Replacement",
+        "Transistor Testing and Replacement",
+        "Microcontroller Programming and Debugging",
+        "Integrated Circuit (IC) Testing",
+        "Electrostatic Discharge (ESD) Safety",
+        "Troubleshooting Techniques",
+        "Oscilloscope Use"
+    ],
+    "hints": {
+        "Circuit Diagrams": "These are graphical representations of electrical circuits, providing essential information about how components are connected.",
+        "Multimeter Use": "A multimeter is a key tool in electronics repair, used to measure voltage, current, and resistance.",
+        "Soldering Techniques": "Soldering is the process of joining electronic components together. It requires precision and care to avoid damaging delicate components.",
+        "Component Testing": "This is the process of checking electronic components, like resistors, capacitors, and transistors, to ensure they are functioning correctly.",
+        "Power Supply Repair": "This involves troubleshooting and fixing issues with the device that supplies electric power to an electrical load.",
+        "Digital and Analog Signals": "Understanding the difference between these two types of signals is crucial in electronics repair.",
+        "Printed Circuit Board (PCB) Repair": "PCBs hold and connect the various electronic components. Repairing them can involve replacing components, mending broken traces, or fixing soldering issues.",
+        "Capacitor Replacement": "Capacitors store and release electrical energy. If they fail, they often need to be replaced with a new one of the same type and rating.",
+        "Resistor Functions and Replacement": "Resistors limit current flow and divide voltage. Understanding their color coding and how to replace them is a key electronics repair skill.",
+        "Transistor Testing and Replacement": "Transistors amplify or switch electronic signals and power. Testing and replacing faulty transistors is a common repair task.",
+        "Microcontroller Programming and Debugging": "Microcontrollers are small computers on a single chip. Being able to program and debug them is useful for repairing more complex electronic devices.",
+        "Integrated Circuit (IC) Testing": "ICs are sets of electronic circuits on one small chip. Testing them requires understanding their function and using a multimeter or oscilloscope.",
+        "Electrostatic Discharge (ESD) Safety": "ESD can damage electronic components. Using anti-static wristbands and mats can help prevent ESD.",
+        "Troubleshooting Techniques": "These are systematic approaches to identifying and fixing problems in an electronic device.",
+        "Oscilloscope Use": "An oscilloscope is a type of electronic test instrument that allows observation of constantly varying signal voltages, usually as a two-dimensional plot of one or more signals as a function of time."
+    }
+}

@@ -1,0 +1,383 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Did you know that the human body has enough bones to make an entire skeleton? \ud83d\udc80",
+        "Haha, yes! That's why we're studying anatomy and physiology \u2013 to learn all about the body's structure and functions. \ud83d\ude04"
+      ],
+      "options": [
+        "Anatomy and Physiology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if our muscles were made of spaghetti! \ud83c\udf5d",
+        "That would be quite a sight! But let's focus on learning about the real composition of muscles and other body systems in our anatomy and physiology class. \ud83d\ude09"
+      ],
+      "options": [
+        "Anatomy and Physiology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that our brains are like supercomputers, but with way more storage capacity! \ud83e\udde0\ud83d\udcbe",
+        "That's a fun comparison! Studying anatomy and physiology helps us understand how amazing and complex our bodies truly are. \ud83d\ude0a"
+      ],
+      "options": [
+        "Anatomy and Physiology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think we could create a secret language using medical terminology? \ud83d\udcac",
+        "Haha, that would be interesting! But let's focus on learning medical terms to accurately describe diagnoses, treatments, and procedures in healthcare settings. \ud83d\ude04"
+      ],
+      "options": [
+        "Medical Terminology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we replaced all the words in our favorite songs with medical terms? \ud83c\udfb6",
+        "That would make for some unique karaoke nights! \ud83d\ude02 But let's use our medical terminology knowledge to improve our communication in healthcare settings."
+      ],
+      "options": [
+        "Medical Terminology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if all movie titles were made up of medical terms! \ud83c\udfac",
+        "Oh, that would be quite a challenge to decipher! But mastering medical terminology is essential for understanding and communicating in the healthcare field. \ud83d\ude09"
+      ],
+      "options": [
+        "Medical Terminology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we had to gather patient intake information using only charades? \ud83e\udd14",
+        "Haha, that would be quite a challenge! But let's focus on effective communication methods to obtain accurate and essential information during patient intake. \ud83d\ude04"
+      ],
+      "options": [
+        "Patient Intake (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can you imagine conducting patient intake while riding a unicycle? \ud83d\udeb2",
+        "That would definitely add some excitement to the process! \ud83d\ude02 But let's stick to traditional methods to ensure we gather important information about our patients."
+      ],
+      "options": [
+        "Patient Intake (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we had a fortune teller to predict patients' medical history during intake? \ud83d\udd2e",
+        "Oh, that would be intriguing! But for now, let's rely on asking the right questions and carefully documenting the information during patient intake. \ud83d\ude09"
+      ],
+      "options": [
+        "Patient Intake (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could measure vital signs using a magical crystal ball? \ud83d\udd2e",
+        "Haha, that would be quite the innovation! But for now, let's focus on using proper techniques and equipment to accurately assess our patients' vital signs. \ud83d\ude04"
+      ],
+      "options": [
+        "Vital Signs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had to check vital signs by counting heartbeats with a giant abacus! \ud83e\uddee",
+        "That would be an interesting approach! \ud83d\ude02 But let's stick to using modern tools like stethoscopes and blood pressure cuffs for accurate measurements."
+      ],
+      "options": [
+        "Vital Signs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if our vital signs changed colors based on our emotions? \ud83c\udf08",
+        "That would make things colorful! But in reality, we need to rely on proper assessment techniques to evaluate our patients' health status through their vital signs. \ud83d\ude09"
+      ],
+      "options": [
+        "Vital Signs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could prevent infections by surrounding ourselves with a protective bubble? \ud83d\udee1\ufe0f",
+        "Haha, that would be quite a sight! But let's focus on learning and implementing proper infection control methods in healthcare settings. \ud83d\ude04"
+      ],
+      "options": [
+        "Infection Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had to wear full medieval armor for infection control! \u2694\ufe0f",
+        "That would be an interesting fashion statement! \ud83d\ude02 But let's stick to using appropriate personal protective equipment (PPE) and following established guidelines."
+      ],
+      "options": [
+        "Infection Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could use a magical wand to instantly sterilize our surroundings? \u2728",
+        "Oh, that would be incredibly convenient! But since we don't have magic wands, let's rely on proper cleaning, disinfection, and sterilization techniques for infection control. \ud83d\ude09"
+      ],
+      "options": [
+        "Infection Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could draw blood samples using a tiny vacuum cleaner? \ud83e\uddf9",
+        "Haha, that would be an interesting invention! But for now, let's focus on mastering the proper phlebotomy techniques using needles and vacutainers. \ud83d\ude04"
+      ],
+      "options": [
+        "Phlebotomy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had to practice phlebotomy on stuffed animals! \ud83e\uddf8",
+        "That would be quite a fluffy challenge! \ud83d\ude02 But let's stick to practicing on realistic training arms or actual patients under supervision."
+      ],
+      "options": [
+        "Phlebotomy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could use a teleportation device to instantly transport blood samples to the lab? \ud83d\ude80",
+        "Oh, that would save so much time! But since we don't have teleportation technology, let's focus on proper collection, labeling, and transport of blood samples in phlebotomy. \ud83d\ude09"
+      ],
+      "options": [
+        "Phlebotomy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could give medications through a magical fairy dust sprinkle? \u2728",
+        "Haha, that would be enchanting! But let's focus on learning the proper techniques for administering medications safely and accurately. \ud83d\ude04"
+      ],
+      "options": [
+        "Administering Medications (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had to administer medications using a slingshot! \ud83e\udd14",
+        "That would be quite an adventure! \ud83d\ude02 But let's stick to following the five rights of medication administration to ensure patient safety."
+      ],
+      "options": [
+        "Administering Medications (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could use a remote control to deliver medications directly to a patient's body? \ud83c\udfae",
+        "Oh, that would be a futuristic approach! But for now, let's focus on mastering the traditional methods of administering medications. \ud83d\ude09"
+      ],
+      "options": [
+        "Administering Medications (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could perform EKGs by simply placing our hands on a patient's chest? \ud83d\udd90\ufe0f",
+        "Haha, that would be quite a talent! But for now, let's focus on learning the proper techniques and equipment for conducting EKGs and other diagnostic tests. \ud83d\ude04"
+      ],
+      "options": [
+        "EKGs and Diagnostic Tests (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had to interpret EKG results like a secret code! \ud83e\udd14",
+        "That would add some mystery to the process! \ud83d\ude02 But let's stick to understanding the normal and abnormal patterns in EKG readings to accurately assess heart function."
+      ],
+      "options": [
+        "EKGs and Diagnostic Tests (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could use a crystal ball to predict the results of diagnostic tests? \ud83d\udd2e",
+        "Oh, that would be fascinating! But since we don't have crystal balls, let's rely on proper test procedures and accurate interpretation of results for patient care. \ud83d\ude09"
+      ],
+      "options": [
+        "EKGs and Diagnostic Tests (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could use emojis as medical billing and coding symbols? \ud83d\ude37\ud83d\udc8a",
+        "Haha, that would definitely make things more colorful! But let's focus on learning the proper codes and procedures for accurate medical billing. \ud83d\ude04"
+      ],
+      "options": [
+        "Medical Billing and Coding (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had to translate medical codes into secret messages like spies! \ud83d\udd75\ufe0f\u200d\u2640\ufe0f",
+        "That would add some intrigue to the process! \ud83d\ude02 But let's stick to using standardized codes to ensure clear communication and accurate billing in healthcare settings."
+      ],
+      "options": [
+        "Medical Billing and Coding (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could use a magical wand to instantly complete all medical billing and coding tasks? \u2728",
+        "Oh, that would save so much time! But since we don't have magic wands, let's focus on mastering the necessary skills for efficient and accurate medical billing and coding. \ud83d\ude09"
+      ],
+      "options": [
+        "Medical Billing and Coding (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could store Electronic Health Records (EHR) in a tiny chip implanted in our brains? \ud83e\udde0",
+        "Haha, that would be quite futuristic! But for now, let's focus on learning how to use EHR systems effectively and securely in healthcare settings. \ud83d\ude04"
+      ],
+      "options": [
+        "Electronic Health Records (EHR) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had to access EHRs using a secret handshake with the computer! \ud83e\udd1d\ud83d\udcbb",
+        "That would be an interesting security measure! \ud83d\ude02 But let's stick to using proper authentication methods to protect patient information in EHR systems."
+      ],
+      "options": [
+        "Electronic Health Records (EHR) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could use a time machine to update EHRs",
+        "What if we could store Electronic Health Records (EHR) in a tiny chip implanted in our brains? \ud83e\udde0",
+        "Haha, that would be quite futuristic! But for now, let's focus on learning how to use EHR systems effectively and securely in healthcare settings. \ud83d\ude04"
+      ],
+      "options": [
+        "Electronic Health Records (EHR) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had to access EHRs using a secret handshake with the computer! \ud83e\udd1d\ud83d\udcbb",
+        "That would be an interesting security measure! \ud83d\ude02 But let's stick to using proper authentication methods to protect patient information in EHR systems."
+      ],
+      "options": [
+        "Electronic Health Records (EHR) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had to talk to our patients using only famous movie quotes! \ud83c\udfac",
+        "That would make for some interesting conversations! \ud83d\ude02 But let's stick to clear and empathetic communication to ensure proper understanding and patient care."
+      ],
+      "options": [
+        "Professional Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could use interpretive dance to communicate with colleagues in healthcare settings? \ud83d\udc83",
+        "Oh, that would add some flair to the workplace! But let's focus on mastering effective professional communication methods for better collaboration and patient care. \ud83d\ude09"
+      ],
+      "options": [
+        "Professional Communication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we had a superhero who fought for ethical and legal justice in healthcare? \ud83e\uddb8\u200d\u2642\ufe0f",
+        "Haha, that would be awesome! But for now, let's focus on understanding our professional responsibilities and advocating for our patients' rights. \ud83d\ude04"
+      ],
+      "options": [
+        "Ethics and Legal Issues (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had to solve ethical dilemmas by consulting a Magic 8 Ball! \ud83d\udd2e",
+        "That would be an unpredictable approach! \ud83d\ude02 But let's stick to using critical thinking and following ethical guidelines to make informed decisions in healthcare."
+      ],
+      "options": [
+        "Ethics and Legal Issues (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could summon a wise oracle to guide us through legal issues in healthcare? \ud83e\uddd9\u200d\u2642\ufe0f",
+        "Oh, that would be fascinating! But since we don't have an oracle, let's rely on our knowledge of laws and regulations to navigate legal issues in the healthcare field. \ud83d\ude09"
+      ],
+      "options": [
+        "Ethics and Legal Issues (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If Health Promotion and Disease Prevention were a superhero duo, what would their names be? \ud83e\uddb8\u200d\u2640\ufe0f\ud83e\uddb8\u200d\u2642\ufe0f",
+        "Captain Wellness and Dr. Immunize, fighting together to keep us healthy and strong! \ud83d\udcaa"
+      ],
+      "options": [
+        "Health Promotion and Disease Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we could summon a smoothie genie that would always recommend the perfect drink for our health! \ud83e\uddde\u200d\u2642\ufe0f",
+        "That would be awesome! But we can still make informed choices about our nutrition to help prevent disease and promote good health. \ud83e\udd64"
+      ],
+      "options": [
+        "Health Promotion and Disease Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we had to complete a dance-off to win our daily dose of vitamins and minerals? \ud83d\udc83\ud83d\udd7a",
+        "Haha, that would be fun! But even without the dance-off, we can still make smart choices to support our health and prevent illness. \ud83c\udf4e"
+      ],
+      "options": [
+        "Health Promotion and Disease Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we had a secret handshake that could instantly heal minor injuries? \ud83e\udd1d",
+        "That would be cool, but until then, we can always rely on our trusty First Aid and CPR skills to help in emergencies! \ud83d\ude91"
+      ],
+      "options": [
+        "First Aid and CPR (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If First Aid were a dessert, what would it be? \ud83c\udf68",
+        "A life-saving sundae with a cherry on top, because it's sweet to know how to help others in need! \ud83c\udf52"
+      ],
+      "options": [
+        "First Aid and CPR (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if every time we high-fived someone, we transferred a bit of our CPR knowledge to them! \u270b",
+        "That's a fun idea, but we can still spread the word about the importance of learning First Aid and CPR to save lives. \ud83d\udde3\ufe0f"
+      ],
+      "options": [
+        "First Aid and CPR (correct answer)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Empathy",
+        "Active Listening",
+        "Cultural Competence",
+        "Self-Awareness",
+        "Ethics and Values",
+        "Confidentiality",
+        "Boundaries",
+        "Advocacy",
+        "Strengths-Based Approach",
+        "Person-in-Environment",
+        "Systems Theory",
+        "Social Justice",
+        "Assessment",
+        "Intervention",
+        "Evaluation"
+    ],
+    "hints": {
+        "Empathy": "The ability to understand and share the feelings of others, allowing social workers to provide support and guidance.",
+        "Active Listening": "A communication skill that involves fully focusing on, understanding, and responding to a speaker.",
+        "Cultural Competence": "The ability to work effectively with individuals from diverse backgrounds, recognizing and respecting their unique cultural differences.",
+        "Self-Awareness": "Understanding one's own emotions, biases, and strengths, which helps social workers maintain professionalism and avoid burnout.",
+        "Ethics and Values": "Guiding principles that inform social work practice, such as respect, dignity, and social justice.",
+        "Confidentiality": "The ethical obligation to protect clients' information and maintain privacy, only sharing when it is necessary and with consent.",
+        "Boundaries": "Establishing and maintaining professional relationships by setting limits on behavior and emotional involvement.",
+        "Advocacy": "Actively supporting and defending the rights and needs of clients, including promoting policy changes and fighting for social justice.",
+        "Strengths-Based Approach": "Focusing on a client's strengths and resources rather than their problems, encouraging resilience and empowerment.",
+        "Person-in-Environment": "A holistic approach to understanding a client's situation, considering the interaction between individual and environmental factors.",
+        "Systems Theory": "A framework for understanding complex systems and how they interact, often used to analyze the various influences on a client's life.",
+        "Social Justice": "The pursuit of equal opportunities and rights for all individuals, addressing issues such as poverty, discrimination, and oppression.",
+        "Assessment": "The process of gathering information about a client's situation, strengths, and needs in order to develop an appropriate intervention plan.",
+        "Intervention": "Implementing strategies to help clients address their challenges, improve their well-being, and achieve their goals.",
+        "Evaluation": "The ongoing process of monitoring and assessing the effectiveness of interventions, making adjustments as necessary to ensure positive outcomes."
+    }
+}

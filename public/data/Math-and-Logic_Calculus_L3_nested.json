@@ -1,0 +1,3474 @@
+[
+  {
+    "problem": "Given the function f(x) = 2x + 3, what is the value of f(4)?",
+    "questions": [
+      {
+        "question": "What does f(4) represent?",
+        "options": [
+          "f(4) = 2(4) + 3 (correct answer)",
+          "f(4) = 2x + 3",
+          "f(4) = 4x + 3",
+          "f(4) = 2x + 4"
+        ],
+        "hints": [
+          {
+            "description": "A function is a rule that associates each input value with a unique output value. | [Calculate  output of a function at different input]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the value of 2(4)?",
+        "options": [
+          "2",
+          "6",
+          "8 (correct answer)",
+          "12"
+        ],
+        "hints": [
+          {
+            "description": "Simple multiplication.",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the sum of 8 and 3?",
+        "options": [
+          "5",
+          "9",
+          "11 (correct answer)",
+          "12"
+        ],
+        "hints": [
+          {
+            "description": "simple addition.",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the slope of the line represented by the function g(x) = -3x + 5?",
+    "questions": [
+      {
+        "question": "Which term represents the slope in g(x) = -3x + 5?",
+        "options": [
+          "-3x",
+          "5",
+          "-3 (correct answer)",
+          "x"
+        ],
+        "hints": [
+          {
+            "description": "Slope term contains x. | [Slope intercept form of straight line]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the vertex of the quadratic function h(x) = (x - 2)^2 + 4?",
+    "questions": [
+      {
+        "question": "What is the vertex form of a quadratic function?",
+        "options": [
+          "ax^2 + bx + c",
+          "a(x - h)^2 + k (correct answer)",
+          "a(x + h)^2 + k",
+          "a(x - h)(x + k)"
+        ],
+        "hints": [
+          {
+            "description": "Vertex form of a quadratic equation. | [Vertex form of a quadratic equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What do 'h' and 'k' represent in the vertex form?",
+        "options": [
+          "x-coordinate and y-coordinate of the vertex (correct answer)",
+          "coefficients of the quadratic function",
+          "slope and y-intercept",
+          "axis of symmetry"
+        ],
+        "hints": [
+          {
+            "description": "(h, k) represents the coordinates of the vertex of the parabolic curve. | [Vertex form of a quadratic equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What are the values of h and k for h(x) = (x - 2)^2 + 4?",
+        "options": [
+          "h = -2, k = 4",
+          "h = 2, k = 4 (correct answer)",
+          "h = 1, k = 4",
+          "h = 2, k = -4"
+        ],
+        "hints": [
+          {
+            "description": "(h, k) represents the coordinates of the vertex of the parabolic curve. | [Find vertex of a quadratic equation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the y-intercept of the function f(x) = 4x - 7?",
+    "questions": [
+      {
+        "question": "What is the y-intercept?",
+        "options": [
+          "The point where the line crosses the x-axis",
+          "The point where the line crosses the y-axis (correct answer)",
+          "The slope of the line",
+          "The highest point of the line"
+        ],
+        "hints": []
+      },
+      {
+        "question": "At the y-intercept, what is the value of x?",
+        "options": [
+          "0 (correct answer)",
+          "1",
+          "-1",
+          "7"
+        ],
+        "hints": []
+      },
+      {
+        "question": "What is the value of 4(0)?",
+        "options": [
+          "0 (correct answer)",
+          "1",
+          "4",
+          "-7"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Which point lies on the graph f(x) = x^2; (2, 4) or (2, 5)?",
+    "questions": [
+      {
+        "question": "What is the function f(x) = x^2?",
+        "options": [
+          "A linear function",
+          "A quadratic function (correct answer)",
+          "A cubic function",
+          "An exponential function"
+        ],
+        "hints": [
+          {
+            "description": "Types of function depend upon the power of x. | [Polynomial  functions]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the value of f(2)?",
+        "options": [
+          "1",
+          "2",
+          "4 (correct answer)",
+          "8"
+        ],
+        "hints": [
+          {
+            "description": "A function is a rule that associates each input value with a unique output value. | [Calculate  output of a function at different input]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Which point has a y-coordinate of 4?",
+        "options": [
+          "(2, 4) (correct answer)",
+          "(2, 5)",
+          "(4, 2)",
+          "(4, 4)"
+        ],
+        "hints": [
+          {
+            "description": "Y-coordinate is the output of a function. | [X and y coordinate of a function]",
+            "isBought": false
+          },
+          {
+            "description": "A function is a rule that associates each input value with a unique output value. | [Calculate  output of a function at different input]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Evaluate this : lim(x -> 3) (2x + 1).",
+    "questions": [
+      {
+        "question": "How do we find the limit of a continuous function at a point?",
+        "options": [
+          "Use the limit definition",
+          "Apply L'Hopital's rule",
+          "Substitute the point directly on the function (Correct answer)",
+          "Factor and cancel terms"
+        ],
+        "hints": [
+          {
+            "description": "Directly substitute the point. | [Find the limit of a continuous function]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What happens when we substitute x = 3 into the function?",
+        "options": [
+          "2(3) + 1 (Correct answer)",
+          "3(2) + 1",
+          "2(3) - 1",
+          "3(2) - 1"
+        ],
+        "hints": [
+          {
+            "description": "Directly substitute the point. | [Find the limit of a continuous function]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the value of 2(3) + 1?",
+        "options": [
+          "7 (Correct answer)",
+          "6",
+          "5",
+          "9"
+        ],
+        "hints": [
+          {
+            "description": "Simple multiplication and addition",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Evaluate this : lim (x -> 2) (x^2 - 4)/(x - 2).",
+    "questions": [
+      {
+        "question": "What technique should be used to evaluate this limit?",
+        "options": [
+          "Direct substitution",
+          "L'Hopital's rule",
+          "Factoring and canceling terms (Correct answer)",
+          "Rationalizing the numerator"
+        ],
+        "hints": [
+          {
+            "description": "Check if the function is undefined at a specific point. | [To verify if a function is undefined at a specific point]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How can the expression (x^2 - 4) be factored?",
+        "options": [
+          "(x - 2)(x + 2) (Correct answer)",
+          "(x - 4)(x + 1)",
+          "(x - 2)(x - 2)",
+          "(x + 4)(x - 1)"
+        ],
+        "hints": [
+          {
+            "description": "Factorized using the difference of squares formula. | [Factorized the function using the difference of squares formula]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the simplified expression after canceling terms?",
+        "options": [
+          "(x + 2) (Correct answer)",
+          "(x - 4)",
+          "(x - 2)",
+          "(x + 4)"
+        ],
+        "hints": [
+          {
+            "description": "Simply the function using simple division. | [Simplify the function]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Evaluate this : lim (x -> 0) (sin(x)/x).",
+    "questions": [
+      {
+        "question": "What technique should be used to evaluate this limit?",
+        "options": [
+          "Direct substitution",
+          "L'Hopital's rule",
+          "Special trigonometric limit (Correct answer)",
+          "Factoring and canceling terms"
+        ],
+        "hints": [
+          {
+            "description": "Check if the function is undefined at a specific point. | [To verify if a function is undefined at a specific point]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the special limit for sin(x)/x as x approaches 0?",
+        "options": [
+          "0",
+          "1 (Correct answer)",
+          "Undefined",
+          "x"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Evaluate this : lim (x -> \u221e) (5x^2 + 3)/(x^2 + 1)?",
+    "questions": [
+      {
+        "question": "How do we find the limit at infinity for rational functions?",
+        "options": [
+          "Use the highest power of x in the numerator and denominator (Correct answer)",
+          "Apply L'Hopital's rule",
+          "Direct substitution",
+          "Factoring and canceling terms"
+        ],
+        "hints": [
+          {
+            "description": "Higher term is the dominant term. | [Simplify the function by factoring out the highest power of x]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the dominant term for this function?",
+        "options": [
+          "5x^2 (Correct answer)",
+          "3",
+          "x^2",
+          "1"
+        ],
+        "hints": [
+          {
+            "description": "Higher term is the dominant term. | [Simplify the function by factoring out the highest power of x]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Evaluate this : lim (x -> -\u221e) (3x^3 + x^2)/(2x^3 - 4x + 1).",
+    "questions": [
+      {
+        "question": "How do we find the limit at negative infinity for rational functions?",
+        "options": [
+          "Use the highest power of x in the numerator and denominator (Correct answer)",
+          "Apply L'Hopital's rule",
+          "Direct substitution",
+          "Factoring and canceling terms"
+        ],
+        "hints": [
+          {
+            "description": "Higher term is the dominant term. | [Simplify the function by factoring out the highest power of x]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the dominant term for this function?",
+        "options": [
+          "3x^3 (Correct answer)",
+          "x^2",
+          "2x^3",
+          "4x"
+        ],
+        "hints": [
+          {
+            "description": "Higher term is the dominant term. | [Simplify the function by factoring out the highest power of x]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the ratio of the coefficients of the dominant terms?",
+        "options": [
+          "3/2 (Correct answer)",
+          "1/2",
+          "1/3",
+          "2/3"
+        ],
+        "hints": [
+          {
+            "description": "Directly substitute the x value to the simplified function. | [Find the limiting value at x tends to infinity]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Is the function f(x) = x^2 + 3x + 2 continuous at x = 1?",
+    "questions": [
+      {
+        "question": "What type of function is f(x) = x^2 + 3x + 2?",
+        "options": [
+          "Linear function",
+          "Quadratic function (Correct answer)",
+          "Cubic function",
+          "Exponential function"
+        ],
+        "hints": [
+          {
+            "description": "Types of function depend upon the power of x. | [Polynomial  functions]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Are polynomial functions continuous everywhere?",
+        "options": [
+          "Yes (Correct answer)",
+          "No",
+          "Only for even degree polynomials",
+          "Only for odd degree polynomials"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "At what value of x is the function g(x) = |x - 3| not continuous?",
+    "questions": [
+      {
+        "question": "What type of function is g(x) = |x - 3|?",
+        "options": [
+          "Absolute value function (Correct answer)",
+          "Linear function",
+          "Quadratic function",
+          "Exponential function"
+        ],
+        "hints": [
+          {
+            "description": "Absolute function always contains modulus sign | [Different types of  function-part 1]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Are absolute value functions continuous everywhere?",
+        "options": [
+          "Yes (Correct answer)",
+          "No",
+          "Only for even degree polynomials",
+          "Only for odd degree polynomials"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Is the function h(x) = x^3 - 5x^2 continuous for all values of x?",
+    "questions": [
+      {
+        "question": "What type of function is h(x) = x^3 - 5x^2?",
+        "options": [
+          "Linear function",
+          "Quadratic function",
+          "Cubic function (Correct answer)",
+          "Exponential function"
+        ],
+        "hints": [
+          {
+            "description": "Types of function depend upon the power of x. | [Polynomial  functions]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Are polynomial functions continuous everywhere?",
+        "options": [
+          "Yes (Correct answer)",
+          "No",
+          "Only for even degree polynomials",
+          "Only for odd degree polynomials"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Does the function f(x) = 1/x have a point of discontinuity? If so, at what value of x?",
+    "questions": [
+      {
+        "question": "What type of function is f(x) = 1/x?",
+        "options": [
+          "Rational function (Correct answer)",
+          "Polynomial function",
+          "Exponential function",
+          "Logarithmic function"
+        ],
+        "hints": [
+          {
+            "description": "Ration function is an algebraic expression that has a ratio of two polynomial functions | [Different types of  function-part 1]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "At what value of x does the function have a vertical asymptote?",
+        "options": [
+          "x = 0 (Correct answer)",
+          "x = 1",
+          "x = -1",
+          "No vertical asymptote"
+        ],
+        "hints": [
+          {
+            "description": "Excluded values in the domain correspond to potential vertical asymptotes. | [Find vertical asymptote]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Does the function have a point of discontinuity?",
+        "options": [
+          "Yes (Correct answer)",
+          "No",
+          "Only for even degree polynomials",
+          "Only for odd degree polynomials"
+        ],
+        "hints": [
+          {
+            "description": "Vertical asymptotes are related to the point of discontinuity. | [Find vertical asymptote]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Is the function g(x) = \u221a(x) continuous for x \u2265 0?",
+    "questions": [
+      {
+        "question": "What type of function is g(x) = \u221a(x)?",
+        "options": [
+          "Square root function (Correct answer)",
+          "Polynomial function",
+          "Exponential function",
+          "Logarithmic function"
+        ],
+        "hints": [
+          {
+            "description": "Square root function always contains root(\u221a) sign | [Different types of  function-part 2]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Are square root functions continuous for non-negative values of x?",
+        "options": [
+          "Yes (Correct answer)",
+          "No",
+          "Yes when x>2",
+          "Yes when x>1"
+        ],
+        "hints": [
+          {
+            "description": "Undefined term. | [Some common case when a function is undefined]",
+            "isBought": false
+          },
+          {
+            "description": "Functions are continuous when it doesn't have vertical asymptote. [Find vertical asymptote]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Is the function f(x) = e^x continuous for all values of x?",
+    "questions": [
+      {
+        "question": "What type of function is f(x) = e^x?",
+        "options": [
+          "Linear function",
+          "Polynomial function",
+          "Exponential function (Correct answer)",
+          "Logarithmic function"
+        ],
+        "hints": [
+          {
+            "description": "Exponential function always contains x as a power | [Different types of  function-part 1]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Are exponential functions continuous everywhere?",
+        "options": [
+          "Yes (Correct answer)",
+          "No",
+          "Yes when x>2",
+          "Yes when x>1"
+        ],
+        "hints": [
+          {
+            "description": "Undefined term. | [Some common case when a function is undefined]",
+            "isBought": false
+          },
+          {
+            "description": "Functions are continuous when it doesn't have vertical asymptote. [Find vertical asymptote]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Is the function g(x) = ln(x) continuous for all values of x?",
+    "questions": [
+      {
+        "question": "What type of function is g(x) = ln(x)?",
+        "options": [
+          "Linear function",
+          "Polynomial function",
+          "Exponential function",
+          "Logarithmic function (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "Logarithmic function always contains ln/log | [Different types of  function-part 2]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "At what value of x does the function have a vertical asymptote?",
+        "options": [
+          "x = 0 (Correct answer)",
+          "x = 1",
+          "x = -1",
+          "No vertical asymptote"
+        ],
+        "hints": [
+          {
+            "description": "Undefined term. | [Some common case when a function is undefined]",
+            "isBought": false
+          },
+          {
+            "description": "Excluded values in the domain correspond to potential vertical asymptotes. | [Find vertical asymptote]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Does the function have a point of discontinuity?",
+        "options": [
+          "Yes (Correct answer)",
+          "No",
+          "Only at x=1",
+          "Only at x=2"
+        ],
+        "hints": [
+          {
+            "description": "Vertical asymptotes are related to the point of discontinuity. | [Find vertical asymptote]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Is the function h(x) = 2^x continuous for all values of x?",
+    "questions": [
+      {
+        "question": "What type of function is h(x) = 2^x?",
+        "options": [
+          "Linear function",
+          "Polynomial function",
+          "Exponential function (Correct answer)",
+          "Logarithmic function"
+        ],
+        "hints": [
+          {
+            "description": "Exponential function always contains x as a power",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Are exponential functions continuous everywhere?",
+        "options": [
+          "Yes (Correct answer)",
+          "No",
+          "Only at x=1",
+          "Only at x=2"
+        ],
+        "hints": [
+          {
+            "description": "Undefined term. | [Some common case when a function is undefined]",
+            "isBought": false
+          },
+          {
+            "description": "Functions are continuous when it doesn't have vertical asymptote. [Find vertical asymptote]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Is the function f(x) = log_3(x) continuous for all values of x?",
+    "questions": [
+      {
+        "question": "What type of function is f(x) = log_3(x)?",
+        "options": [
+          "Linear function",
+          "Polynomial function",
+          "Exponential function",
+          "Logarithmic function (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "Logarithmic function always contains ln/log | [Different types of  function-part 2]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "At what value of x does the function have a vertical asymptote?",
+        "options": [
+          "x = 0 (Correct answer)",
+          "x = 1",
+          "x = -1",
+          "No vertical asymptote"
+        ],
+        "hints": [
+          {
+            "description": "Undefined term. | [Some common case when a function is undefined]",
+            "isBought": false
+          },
+          {
+            "description": "Excluded values in the domain correspond to potential vertical asymptotes. | [Find vertical asymptote]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Does the function have a point of discontinuity?",
+        "options": [
+          "Yes",
+          "No",
+          "Yes at x=0 (Correct answer)",
+          "Yes at x=2"
+        ],
+        "hints": [
+          {
+            "description": "Vertical asymptotes are related to the point of discontinuity. | [Find vertical asymptote]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the derivative of f(x) = 4x^3 - 2x + 1?",
+    "questions": [
+      {
+        "question": "What rule should be used to find the derivative of a polynomial function?",
+        "options": [
+          "Power rule (Correct answer)",
+          "Product rule",
+          "Quotient rule",
+          "Chain rule"
+        ],
+        "hints": [
+          {
+            "description": "Power rule of differentiation. | [Power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the derivative of 4x^3?",
+        "options": [
+          "12x^2 (Correct answer)",
+          "8x^2",
+          "4x^2",
+          "16x^2"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule to find  the derivative. | [Solve problem using the power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the derivative of -2x?",
+        "options": [
+          "-2 (Correct answer)",
+          "-1",
+          "2",
+          "0"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule to find  the derivative. | [Solve problem using the power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the derivative of the constant term 1?",
+        "options": [
+          "0 (Correct answer)",
+          "1",
+          "2",
+          "3"
+        ],
+        "hints": [
+          {
+            "description": "Derivative of this function is found using the power rule. | Find the differentiation of constant term]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find the derivative of g(x) = (x^2 + 2)(3x - 4).",
+    "questions": [
+      {
+        "question": "What rule should be used to find the derivative of this function?",
+        "options": [
+          "Power rule",
+          "Product rule (Correct answer)",
+          "Quotient rule",
+          "Chain rule"
+        ],
+        "hints": [
+          {
+            "description": "Demonstration of product rule of differentiation. | [Demonstration of product rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the derivative of x^2 + 2?",
+        "options": [
+          "2x (Correct answer)",
+          "2",
+          "x",
+          "0"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule to find  the derivative. | [Solve problem using the power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the derivative of 3x - 4?",
+        "options": [
+          "3 (Correct answer)",
+          "-1",
+          "3x",
+          "-4"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule to find  the derivative. | [Solve problem using the power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the derivative of h(x) = 1/(x^2 + 1)?",
+    "questions": [
+      {
+        "question": "What rule should be used to find the derivative of this function?",
+        "options": [
+          "Power rule",
+          "Product rule",
+          "Quotient rule (Correct answer)",
+          "Chain rule"
+        ],
+        "hints": [
+          {
+            "description": "Demonstration of the Quotient rule of differentiation. | [Demonstration of Quotient rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the derivative of x^2 + 1?",
+        "options": [
+          "2x (Correct answer)",
+          "2",
+          "x",
+          "0"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule to find  the derivative. | [Solve problem using the power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Compute the derivative of f(x) = e^(2x).",
+    "questions": [
+      {
+        "question": "What rule should be used to find the derivative of this function?",
+        "options": [
+          "Power rule",
+          "Product rule",
+          "Quotient rule",
+          "Chain rule (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "See the chain rule demonstration. | [Demonstration of chain rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the derivative of 2x?",
+        "options": [
+          "2 (Correct answer)",
+          "1",
+          "0",
+          "x"
+        ],
+        "hints": [
+          {
+            "description": "See the power rule animation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Use the power rule to find  the derivative. | [Solve problem using the power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find the derivative of g(x) = ln(3x + 1).",
+    "questions": [
+      {
+        "question": "What rule should be used to find the derivative of this function?",
+        "options": [
+          "Power rule",
+          "Product rule",
+          "Quotient rule",
+          "Chain rule (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "See the chain rule demonstration. | [Demonstration of chain rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the derivative of 3x",
+        "options": [
+          "3 (Correct answer)",
+          "1",
+          "0",
+          "x"
+        ],
+        "hints": [
+          {
+            "description": "See the power rule animation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Use the power rule to find  the derivative. | [Solve problem using the power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Compute the derivative of f(x) = sin(x)cos(x) using the product rule.",
+    "questions": [
+      {
+        "question": "What rule should be used to find the derivative of this function?",
+        "options": [
+          "Power rule",
+          "Product rule (Correct answer)",
+          "Quotient rule",
+          "Chain rule"
+        ],
+        "hints": [
+          {
+            "description": "See the product rule animation. | [Demonstration of product rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the derivative of sin(x)?",
+        "options": [
+          "cos(x) (Correct answer)",
+          "-sin(x)",
+          "sin(x)",
+          "-cos(x)"
+        ],
+        "hints": [
+          {
+            "description": "Some common derivatives of trigonometric functions. | [Some common derivative of trigonometric function]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the derivative of cos(x)?",
+        "options": [
+          "-sin(x) (Correct answer)",
+          "cos(x)",
+          "sin(x)",
+          "-cos(x)"
+        ],
+        "hints": [
+          {
+            "description": "Some common derivatives of trigonometric functions. | [Some common derivative of trigonometric function]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find the derivative of g(x) = e^(2x)/x using the quotient rule.",
+    "questions": [
+      {
+        "question": "What rule should be used to find the derivative of this function?",
+        "options": [
+          "Power rule",
+          "Product rule",
+          "Quotient rule (Correct answer)",
+          "Chain rule"
+        ],
+        "hints": [
+          {
+            "description": "See the quotient rule demonstration. | [Demonstration of Quotient rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the derivative of e^(2x)?",
+        "options": [
+          "2e^(2x) (Correct answer)",
+          "e^(2x)",
+          "e^(x)",
+          "4e^(2x)"
+        ],
+        "hints": [
+          {
+            "description": "Use the chain rule to find the derivatives. | [Solve problem using the chain rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the derivative of x?",
+        "options": [
+          "1 (Correct answer)",
+          "2",
+          "3",
+          "4"
+        ],
+        "hints": [
+          {
+            "description": "See the power rule animation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Use the power rule to find  the derivative. | [Solve problem using the power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the derivative of h(x) = sin^2(x) using the chain rule?",
+    "questions": [
+      {
+        "question": "What rule should be used to find the derivative of this function?",
+        "options": [
+          "Power rule",
+          "Product rule",
+          "Quotient rule",
+          "Chain rule (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "See the chain rule demonstration. | [Demonstration of chain rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the derivative of sin^2(x) with respect to sin(x)?",
+        "options": [
+          "2sin(x) (Correct answer)",
+          "2",
+          "sin(x)",
+          "-sin(x)"
+        ],
+        "hints": [
+          {
+            "description": "See the power rule animation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Use the power rule to find  the derivative. | [Solve problem using the power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the derivative of sin(x)?",
+        "options": [
+          "cos(x) (Correct answer)",
+          "-sin(x)",
+          "sin(x)",
+          "-cos(x)"
+        ],
+        "hints": [
+          {
+            "description": "Some common derivative of trigonometric function. | [Some common derivative of trigonometric function]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Compute the second derivative of f(x) = x^4 - 3x^2 + 1.",
+    "questions": [
+      {
+        "question": "What is the first derivative of f(x)?",
+        "options": [
+          "4x^3 - 6x (Correct answer)",
+          "3x^3 - 6x^2",
+          "4x^3 - 3x^2",
+          "x^3 - 3x"
+        ],
+        "hints": [
+          {
+            "description": "See the power rule animation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Use the power rule to find  the derivative. | [Solve problem using the power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find the derivative of g(x) = ln(x^3) using the chain rule.",
+    "questions": [
+      {
+        "question": "What rule should be used to find the derivative of this function?",
+        "options": [
+          "Power rule",
+          "Product rule",
+          "Quotient rule",
+          "Chain rule (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "See the chain rule demonstration. | [Demonstration of chain rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "What is the derivative of ln(u) with respect to u, where u = x^3?",
+        "options": [
+          "1/u (Correct answer)",
+          "u",
+          "2u",
+          "u^2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "What is the derivative of x^3?",
+        "options": [
+          "3x^2 (Correct answer)",
+          "3x",
+          "x^2",
+          "3"
+        ],
+        "hints": [
+          {
+            "description": "See the power rule animation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Use the power rule to find  the derivative. | [Solve problem using the power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Using the chain rule, what is the derivative of g(x)?",
+        "options": [
+          "(1/x^3) * (3x^2) (Correct answer)",
+          "(1/x^3) * (x^2)",
+          "(1/x^2) * (3x^2)",
+          "(1/x) * (3x^2)"
+        ],
+        "hints": [
+          {
+            "description": "Use the chain rule to find the derivatives. | [Solve problem using the chain rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Given x^2 + y^2 = 25, find dy/dx.",
+    "questions": [
+      {
+        "question": "Implicitly differentiate both sides of the equation with respect to x. What is the derivative of x^2?",
+        "options": [
+          "2x (Correct answer)",
+          "1",
+          "x",
+          "2"
+        ],
+        "hints": [
+          {
+            "description": "See the power rule animation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Use the power rule to find  the derivative. | [Solve problem using the power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Implicitly differentiate y^2 with respect to x.",
+        "options": [
+          "2y(dy/dx) (Correct answer)",
+          "y(dy/dx)",
+          "(dy/dx)",
+          "2y"
+        ],
+        "hints": [
+          {
+            "description": "See the chain rule demonstration. | [Demonstration of chain rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find dy/dx for the equation x^3 + xy + y^3 = 3.",
+    "questions": [
+      {
+        "question": "Implicitly differentiate both sides of the equation with respect to x. What is the derivative of x^3?",
+        "options": [
+          "3x^2 (Correct answer)",
+          "3x",
+          "x^3",
+          "x^2"
+        ],
+        "hints": [
+          {
+            "description": "See the power rule animation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Use the power rule to find  the derivative. | [Solve problem using the power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Implicitly differentiate xy with respect to x.",
+        "options": [
+          "y + x(dy/dx) (Correct answer)",
+          "y(dy/dx)",
+          "x(dy/dx)",
+          "y"
+        ],
+        "hints": [
+          {
+            "description": "See the product rule animation. | [Demonstration of product rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Use the product to find the derivative. | [Solve problem using the product rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Implicitly differentiate y^3 with respect to x.",
+        "options": [
+          "3y^2(dy/dx) (Correct answer)",
+          "y^3(dy/dx)",
+          "3y(dy/dx)",
+          "y^2(dy/dx)"
+        ],
+        "hints": [
+          {
+            "description": "See the chain rule demonstration. | [Demonstration of chain rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Determine dy/dx for the equation x^2 - y^2 = 16.",
+    "questions": [
+      {
+        "question": "Implicitly differentiate both sides of the equation with respect to x. What is the derivative of x^2?",
+        "options": [
+          "2x (Correct answer)",
+          "2",
+          "x",
+          "1"
+        ],
+        "hints": [
+          {
+            "description": "See the power rule animation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Use the power rule to find  the derivative. | [Solve problem using the power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Implicitly differentiate -y^2 with respect to x.",
+        "options": [
+          "-2y(dy/dx) (Correct answer)",
+          "-y(dy/dx)",
+          "(dy/dx)",
+          "-2y"
+        ],
+        "hints": [
+          {
+            "description": "See the chain rule demonstration. | [Demonstration of chain rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Compute dy/dx for the equation y = ln(x) + x^2y.",
+    "questions": [
+      {
+        "question": "Differentiate both sides of the equation with respect to x. What is the derivative of ln(x)?",
+        "options": [
+          "1/x (Correct answer)",
+          "x",
+          "ln(x)",
+          "1"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Differentiate x^2y with respect to x.",
+        "options": [
+          "2xy + x^2(dy/dx) (Correct answer)",
+          "2xy(dy/dx)",
+          "x^2y(dy/dx)",
+          "xy(dy/dx)"
+        ],
+        "hints": [
+          {
+            "description": "See the product rule animation. | [Demonstration of product rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "See the chain rule demonstration. | [Demonstration of chain rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find dy/dx for the equation x^2 + y^2 = 9x.",
+    "questions": [
+      {
+        "question": "Implicitly differentiate both sides of the equation with respect to x. What is the derivative of x^2?",
+        "options": [
+          "2x (Correct answer)",
+          "2",
+          "x",
+          "1"
+        ],
+        "hints": [
+          {
+            "description": "See the power rule animation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Use the power rule to find  the derivative. | [Solve problem using the power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Implicitly differentiate y^2 with respect to x.",
+        "options": [
+          "2y(dy/dx) (Correct answer)",
+          "y(dy/dx)",
+          "(dy/dx)",
+          "2y"
+        ],
+        "hints": [
+          {
+            "description": "See the chain rule demonstration. | [Demonstration of chain rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Implicitly differentiate 9x with respect to x.",
+        "options": [
+          "9 (Correct answer)",
+          "9x",
+          "1",
+          "0"
+        ],
+        "hints": [
+          {
+            "description": "See the power rule animation. | [Power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find the critical points of the function f(x) = x^3 - 6x^2 + 9x.",
+    "questions": [
+      {
+        "question": "What is the derivative of f(x)?",
+        "options": [
+          "3x^2 - 12x + 9 (Correct answer)",
+          "3x^3 - 12x^2 + 9x",
+          "x^3 - 6x^2 + 9x",
+          "x^2 - 6x + 9"
+        ],
+        "hints": [
+          {
+            "description": "See the power rule animation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Use the power rule to find  the derivative. | [Find the critical points of a function-step 1]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Compute the maximum value of the function h(x) = x^2 - 4x + 1 on the interval [0, 5].",
+    "questions": [
+      {
+        "question": "What is the derivative of h(x)?",
+        "options": [
+          "2x - 4 (Correct answer)",
+          "2x^2 - 4x",
+          "x^2 - 4x + 1",
+          "x - 4"
+        ],
+        "hints": [
+          {
+            "description": "See the power rule animation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Use the power rule to find  the derivative. | [Find the critical points of a function-step 1]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Determine the critical points.",
+        "options": [
+          "x = 2 (Correct answer)",
+          "x = 1",
+          "x = 3",
+          "x = 4"
+        ],
+        "hints": [
+          {
+            "description": "Find  critical points by setting the derivative to zero. | [Find the critical points of a function-step 2]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the function at the critical points and endpoints.",
+        "options": [
+          "h(0) = 1, h(2) = -3, h(5) = 6 (Correct answer)",
+          "h(0) = 2, h(2) = -2, h(5) = 5",
+          "h(0) = 0, h(2) = -4, h(5) = 4",
+          "h(0) = 3, h(2) = -1, h(5) = 7"
+        ],
+        "hints": [
+          {
+            "description": "Plug in the values in the function as input. | [Calculate  output of a function at different input]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "For the function f(x) = e^x - x^2, find the points of inflection.",
+    "questions": [
+      {
+        "question": "What is the second derivative of f(x)?",
+        "options": [
+          "e^x - 2 (Correct answer)",
+          "e^x - 2x",
+          "x^2 - e^x",
+          "2 - e^x"
+        ],
+        "hints": [
+          {
+            "description": "Derivative two times. | [Find the point of inflections]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Set the second derivative equal to zero and solve for x.",
+        "options": [
+          "x \u2248 0.69 (Correct answer)",
+          "x \u2248 1.5",
+          "x \u2248 0.5",
+          "x \u2248 2.2"
+        ],
+        "hints": [
+          {
+            "description": "Point of inflection is found by setting the second derivative is equal to zero  | [Find the point of inflections-part 2]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Find the corresponding y-coordinate.",
+        "options": [
+          "y \u2248 -0.025 (Correct answer)",
+          "y \u2248 0.5",
+          "y \u2248 1.3",
+          "y \u2248 -1.8"
+        ],
+        "hints": [
+          {
+            "description": "Point of inflection is found by setting the second derivative is equal to zero  | [Find the point of inflections-part 2]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find the local minimum and local maximum for the function g(x) = x^3 - 3x^2 - 9x + 1.",
+    "questions": [
+      {
+        "question": "What is the derivative of g(x)?",
+        "options": [
+          "3x^2 - 6x - 9 (Correct answer)",
+          "3x^3 - 6x^2 - 9x",
+          "x^3 - 3x^2 - 9x + 1",
+          "2x^2 - 6x - 9"
+        ],
+        "hints": [
+          {
+            "description": "See the power rule animation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Use the power rule to find  the derivative. | [Find the critical points of a function-step 1]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Determine the critical points.",
+        "options": [
+          "x = -1, x = 3 (Correct answer)",
+          "x = 0, x = 3",
+          "x = -1, x = 2",
+          "x = 1, x = 3"
+        ],
+        "hints": [
+          {
+            "description": "Find  critical points by setting the derivative to zero. | [Find the critical points of a function-step 2]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Evaluate the integral \u222b(3x^2 - 4x + 2)dx.",
+    "questions": [
+      {
+        "question": "Integrate the term 3x^2.",
+        "options": [
+          "x^3 (Correct answer)",
+          "3x^3",
+          "3x^2",
+          "3x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the term -4x.",
+        "options": [
+          "-2x^2 (Correct answer)",
+          "-4x^2",
+          "-4x",
+          "-2x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the term 2.",
+        "options": [
+          "2x (Correct answer)",
+          "2",
+          "x",
+          "4x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Find the integration of constant term]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Compute the integral \u222b(e^x - 2x)dx.",
+    "questions": [
+      {
+        "question": "Integrate the term e^x.",
+        "options": [
+          "e^x (Correct answer)",
+          "e^(x^2)",
+          "xe^x",
+          "x^2e^x"
+        ],
+        "hints": [
+          {
+            "description": "Both differentiation and integration of f(x) = e^x yield e^x. | [Both differentiation and integration of f(x) = e^x yield e^x.]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the term -2x.",
+        "options": [
+          "-x^2 (Correct answer)",
+          "-2x^2",
+          "-2x",
+          "-x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Calculate the integral \u222b(sin(x) + cos(x))dx.",
+    "questions": [
+      {
+        "question": "Integrate the term sin(x).",
+        "options": [
+          "-cos(x) (Correct answer)",
+          "sin(x)",
+          "cos(x)",
+          "tan(x)"
+        ],
+        "hints": [
+          {
+            "description": "Some common integrals of trigonometric functions. | [Some common integrals of trigonometric functions]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the term cos(x).",
+        "options": [
+          "sin(x) (Correct answer)",
+          "cos(x)",
+          "-1/sin(x)",
+          "sec^2(x)"
+        ],
+        "hints": [
+          {
+            "description": "Some common integrals of trigonometric functions. | [Some common integrals of trigonometric functions]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find the integral \u222b(5x^4 - 3x^2 + x - 1)dx.",
+    "questions": [
+      {
+        "question": "Integrate the term 5x^4.",
+        "options": [
+          "x^5 (Correct answer)",
+          "5x^5",
+          "5x^4",
+          "5x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the term -3x^2.",
+        "options": [
+          "-x^3 (Correct answer)",
+          "-3x^3",
+          "-3x^2",
+          "-3x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the term x.",
+        "options": [
+          "0.5x^2 (Correct answer)",
+          "x^2",
+          "x",
+          "2x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the term -1.",
+        "options": [
+          "-x (Correct answer)",
+          "1",
+          "-x^2",
+          "-1"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Find the integration of constant term]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Evaluate the integral \u222b(x^3 - 4x^2^2 + x)dx.",
+    "questions": [
+      {
+        "question": "Integrate the term x^3.",
+        "options": [
+          "0.25x^4 (Correct answer)",
+          "x^4",
+          "x^3",
+          "4x^3"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the term -4x^2.",
+        "options": [
+          "-1.333x^3 (Correct answer)",
+          "-4x^3",
+          "-4x^2",
+          "-4x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the term x.",
+        "options": [
+          "0.5x^2 (Correct answer)",
+          "x^2",
+          "x",
+          "2x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find the antiderivative of f(x) = 2x^2 - 5x + 1.",
+    "questions": [
+      {
+        "question": "Integrate the term 2x^2.",
+        "options": [
+          "(2/3)x^3 (Correct answer)",
+          "2x^3",
+          "2x^2",
+          "2x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the term -5x.",
+        "options": [
+          "(-5/2)x^2 (Correct answer)",
+          "-5x^2",
+          "-5x",
+          "-2.5x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the term 1.",
+        "options": [
+          "x (Correct answer)",
+          "1",
+          "1/x",
+          "2x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Compute the antiderivative of g(x) = 3x^3 - x^2 + 4.",
+    "questions": [
+      {
+        "question": "Integrate the term 3x^3.",
+        "options": [
+          "(3/4)x^4 (Correct answer)",
+          "3x^4",
+          "3x^3",
+          "3x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the term -x^2.",
+        "options": [
+          "(-1/3)x^3 (Correct answer)",
+          "-x^3",
+          "-x^2",
+          "-x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the term 4.",
+        "options": [
+          "4x (Correct answer)",
+          "4",
+          "x",
+          "8x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Find the integration of constant term]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Determine the antiderivative of h(x) = e^x + ln(x).",
+    "questions": [
+      {
+        "question": "Integrate the term e^x.",
+        "options": [
+          "e^x (Correct answer)",
+          "e^(x^2)",
+          "xe^x",
+          "x^2e^x"
+        ],
+        "hints": [
+          {
+            "description": "Both differentiation and integration of f(x) = e^x yield e^x. | [Both differentiation and integration of f(x) = e^x yield e^x.]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the term ln(x).",
+        "options": [
+          "xln(x) - x (Correct answer)",
+          "ln(x)",
+          "xln(x)",
+          "x^2*ln(x)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Calculate the antiderivative of f(x) = sin(x) - cos(x).",
+    "questions": [
+      {
+        "question": "Integrate the term sin(x).",
+        "options": [
+          "-cos(x) (Correct answer)",
+          "sin(x)",
+          "cos(x)",
+          "tan(x)"
+        ],
+        "hints": [
+          {
+            "description": "Some common integrals of trigonometric functions. | [Some common integrals of trigonometric functions]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the term -cos(x).",
+        "options": [
+          "-sin(x) (Correct answer)",
+          "cos(x)",
+          "-1/sin(x)",
+          "sec^2(x)"
+        ],
+        "hints": [
+          {
+            "description": "Some common integrals of trigonometric functions. | [Some common integrals of trigonometric functions]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "What is the antiderivative of g(x) = 1/x^2?",
+    "questions": [
+      {
+        "question": "Rewrite 1/x^2 as x^(-2).",
+        "options": [
+          "x^(-2) (Correct answer)",
+          "1/x",
+          "1/x^3",
+          "x^2"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Integrate the term x^(-2).",
+        "options": [
+          "-1/x (Correct answer)",
+          "x^(-1)",
+          "1/x^3",
+          "-x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Evaluate the definite integral \u222b(x^2 - 4x + 3)dx from 1 to 3.",
+    "questions": [
+      {
+        "question": "Integrate the function.",
+        "options": [
+          "(1/3)x^3 - 2x^2 + 3x (Correct answer)",
+          "x^3 - 4x^2 + 3x",
+          "x^2 - 4x + 3",
+          "x^3 - 4x^2 + 3"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the upper limit (x = 3).",
+        "options": [
+          "(1/3)(27) - 2(9) + 3(3) = 9 - 18 + 9 (Correct answer)",
+          "27 - 36 + 9",
+          "3^2 - 4(3) + 3",
+          "27 - 36 + 3"
+        ],
+        "hints": [
+          {
+            "description": "Evaluate the definite integral from 1 to 3_upper limit. | [Evaluate the definite integral from 1 to 3_upper limit]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the lower limit (x = 1).",
+        "options": [
+          "(1/3)(1) - 2(1) + 3(1) = 1/3 - 2 + 3 (Correct answer)",
+          "1 - 4 + 3",
+          "1^2 - 4(1) + 3",
+          "1 - 4 + 1"
+        ],
+        "hints": [
+          {
+            "description": "Evaluate the definite integral from 1 to 3_lower limit. | [Evaluate the definite integral from 1 to 3_lower limit]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Compute the definite integral \u222b(e^x - x)dx from 0 to 1.",
+    "questions": [
+      {
+        "question": "Integrate the function.",
+        "options": [
+          "e^x - 0.5x^2 (Correct answer)",
+          "e^x - x",
+          "e^x - x^2",
+          "x*e^x - x"
+        ],
+        "hints": [
+          {
+            "description": "Both differentiation and integration of f(x) = e^x yield e^x. | [Both differentiation and integration of f(x) = e^x yield e^x.]",
+            "isBought": false
+          },
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the upper limit (x = 1).",
+        "options": [
+          "e^1 - 0.5(1)^2 = e - 0.5 (Correct answer)",
+          "e - 1",
+          "e - 1^2",
+          "1*e^1 - 1"
+        ],
+        "hints": [
+          {
+            "description": "Evaluate the definite integral from 1 to 3_upper limit. | [Evaluate the definite integral from 1 to 3_upper limit]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the lower limit (x = 0).",
+        "options": [
+          "e^0 - 0.5(0)^2 = 1 - 0 (Correct answer)",
+          "1 - 0",
+          "1 - 0^2",
+          "0*e^0 - 0"
+        ],
+        "hints": [
+          {
+            "description": "Evaluate the definite integral from 1 to 3_lower limit. | [Evaluate the definite integral from 1 to 3_lower limit]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Calculate the definite integral \u222b(sin(x) + cos(x))dx from 0 to \u03c0/2.",
+    "questions": [
+      {
+        "question": "Integrate the function.",
+        "options": [
+          "-cos(x) + sin(x) (Correct answer)",
+          "sin(x) + cos(x)",
+          "cos(x) - sin(x)",
+          "sin(x) - cos(x)"
+        ],
+        "hints": [
+          {
+            "description": "Some common integrals of trigonometric functions. | [Some common integrals of trigonometric functions]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the upper limit (x = \u03c0/2).",
+        "options": [
+          "-cos(\u03c0/2) + sin(\u03c0/2) = 0 + 1 = 1 (Correct answer)",
+          "1 + 1",
+          "1 - 1",
+          "1 - 0"
+        ],
+        "hints": [
+          {
+            "description": "Evaluate the definite integral from 1 to 3_upper limit. | [Evaluate the definite integral from 1 to 3_upper limit]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the lower limit (x = 0).",
+        "options": [
+          "-cos(0) + sin(0) = -1 + 0 = -1 (Correct answer)",
+          "1 + 1",
+          "1 - 1",
+          "1 - 0"
+        ],
+        "hints": [
+          {
+            "description": "Evaluate the definite integral from 1 to 3_lower limit. | [Evaluate the definite integral from 1 to 3_lower limit]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find the definite integral \u222b(2x^3 - x^2 + 1)dx from -1 to 2.",
+    "questions": [
+      {
+        "question": "Integrate the function.",
+        "options": [
+          "(1/2)x^4 - (1/3)x^3 + x (Correct answer)",
+          "2x^4 - x^3 + x",
+          "x^4 - x^2 + 1",
+          "x^4 - x^3 + x^2"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the upper limit (x = 2).",
+        "options": [
+          "(1/2)(2^4) - (1/3)(2^3) + (2) = 8 - 8/3 + 2 (Correct answer)",
+          "16 - 8 + 2",
+          "2^4 - 2^3 + 2",
+          "16 - 8 + 4"
+        ],
+        "hints": [
+          {
+            "description": "Evaluate the definite integral from 1 to 3_upper limit. | [Evaluate the definite integral from 1 to 3_upper limit]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the lower limit (x = -1).",
+        "options": [
+          "(1/2)(-1)^4 - (1/3)(-1)^3 + (-1) = 1/2 + 1/3 - 1 (Correct answer)",
+          "1 - 1 - 1",
+          "1^4 - 1^3 + 1",
+          "1 - 1 + 1"
+        ],
+        "hints": [
+          {
+            "description": "Evaluate the definite integral from 1 to 3_lower limit. | [Evaluate the definite integral from 1 to 3_lower limit]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Evaluate the definite integral \u222b(x^3 - 4x^2 + x)dx from 1 to 4.",
+    "questions": [
+      {
+        "question": "Integrate the function.",
+        "options": [
+          "(1/4)x^4 - (4/3)x^3 + (1/2)x^2 (Correct answer)",
+          "x^4 - 4x^3 + x^2",
+          "x^4 - 4x^2 + x",
+          "x^4 - 4x^3 + x^2"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the upper limit (x = 4).",
+        "options": [
+          "(1/4)(4^4) - (4/3)(4^3) + (1/2)(4^2) = 64 - 256/3 + 8 (Correct answer)",
+          "256 - 256 + 8",
+          "4^4 - 4^3 + 4^2",
+          "256 - 256 + 16"
+        ],
+        "hints": [
+          {
+            "description": "Evaluate the definite integral from 1 to 3_upper limit. | [Evaluate the definite integral from 1 to 3_upper limit]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the lower limit (x = 1).",
+        "options": [
+          "(1/4)(1^4) - (4/3)(1^3) + (1/2)(1^2) = 1/4 - 4/3 + 1/2 (Correct answer)",
+          "1 - 4 + 1",
+          "1^4 - 4^3 + 1^2",
+          "1 - 4 + 1"
+        ],
+        "hints": [
+          {
+            "description": "Evaluate the definite integral from 1 to 3_lower limit. | [Evaluate the definite integral from 1 to 3_lower limit]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find the area between the curves y = x^2 and y = 2x - x^2.",
+    "questions": [
+      {
+        "question": "Find the points of intersection.",
+        "options": [
+          "x^2 = 2x - x^2",
+          "2x^2 = 2x",
+          "x^2 = x",
+          "x = 0, 1 (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "Find the point of intersection. | [Find the point of intersection]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Set up the definite integral.",
+        "options": [
+          "\u222b(2x - x^2 - x^2)dx from 0 to 1 (Correct answer)",
+          "\u222b(2x - 2x^2)dx from 0 to 1",
+          "\u222b(2x - x^2)dx from 0 to 1",
+          "\u222b(x^2 - 2x)dx from 0 to 1"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Integrate the function.",
+        "options": [
+          "-(2/3)x^3 + x^2 (Correct answer)",
+          "2x^3 - x^2",
+          "x^3 - 2x^2",
+          "2x^3 - x^2 + x"
+        ],
+        "hints": [
+          {
+            "description": "Use the power rule of integration. | [Power rule of integration]",
+            "isBought": false
+          },
+          {
+            "description": "Power rule is used to integrate the term. | [Solve problem using the power rule of integration]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the upper limit (x = 1).",
+        "options": [
+          "-(2/3)(1)^3 + (1)^2 = -2/3 + 1 (Correct answer)",
+          "2 - 1",
+          "1^3 - 2^2",
+          "2 - 1 + 1"
+        ],
+        "hints": [
+          {
+            "description": "Evaluate the definite integral from 1 to 3_upper limit. | [Evaluate the definite integral from 1 to 3_upper limit]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the lower limit (x = 0).",
+        "options": [
+          "-(2/3)(0)^3 + (0)^2 = 0 (Correct answer)",
+          "0",
+          "0^3 - 2^2",
+          "0 - 0"
+        ],
+        "hints": [
+          {
+            "description": "Evaluate the definite integral from 1 to 3_lower limit. | [Evaluate the definite integral from 1 to 3_lower limit]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Subtract the lower limit value from the upper limit value.",
+        "options": [
+          "(-2/3 + 1) - 0 = 1/3 (Correct answer)",
+          "2 - 1 - 0",
+          "1^3 - 2^2 - 0",
+          "2 - 1 + 1 - 0"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Evaluate the integral \u222b(x^2 / (x^3 + 1))dx using substitution.",
+    "questions": [
+      {
+        "question": "Identify the substitution, u.",
+        "options": [
+          "u = x^3 + 1 (Correct answer)",
+          "u = x^3 - 1",
+          "u = x^2 + 1",
+          "u = x^2 - 1"
+        ],
+        "hints": [
+          {
+            "description": "Find integral using substitution rule_identify substitution. [Find integral using substitution rule_identify substitution]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Compute du/dx.",
+        "options": [
+          "du/dx = 3x^2 (Correct answer)",
+          "du/dx = 2x",
+          "du/dx = 3x",
+          "du/dx = x^3"
+        ],
+        "hints": [
+          {
+            "description": "Power rule of differentiation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Find integral using substitution rule_compute du over dx. | [Find integral using substitution rule_compute du over dx]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Replace the terms in the integral with the new variables, u and du.",
+        "options": [
+          "\u222b(1/3u) du (Correct answer)",
+          "\u222b(1/u) du",
+          "\u222b(u) du",
+          "\u222b(u^2) du"
+        ],
+        "hints": [
+          {
+            "description": "Find integral using substitution rule_replacing terms. | [Find integral using substitution rule_replacing terms]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the function with respect to u.",
+        "options": [
+          "(1/6)u^2 + C",
+          "1/3ln|u| + C (Correct answer)",
+          "(1/2)u^2 + C",
+          "(1/3)u^3 + C"
+        ],
+        "hints": [
+          {
+            "description": "Some common integrals-part 1. | [Some common integrals-part 1]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Compute the integral \u222b(sin^2(x)cos(x))dx using substitution.",
+    "questions": [
+      {
+        "question": "Identify the substitution, u.",
+        "options": [
+          "u = sin(x) (Correct answer)",
+          "u = cos(x)",
+          "u = sin^2(x)",
+          "u = cos^2(x)"
+        ],
+        "hints": [
+          {
+            "description": "Find integral using substitution rule_identify substitution. [Find integral using substitution rule_identify substitution]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Compute du/dx.",
+        "options": [
+          "du/dx = cos(x) (Correct answer)",
+          "du/dx = -sin(x)",
+          "du/dx = 2sin(x)cos(x)",
+          "du/dx = -2sin(x)cos(x)"
+        ],
+        "hints": [
+          {
+            "description": "Power rule of differentiation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Find integral using substitution rule_compute du over dx. | [Find integral using substitution rule_compute du over dx]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Replace the terms in the integral with the new variables, u and du.",
+        "options": [
+          "\u222b(u^2) du (Correct answer)",
+          "\u222b(u) du",
+          "\u222b(1/u) du",
+          "\u222b(u^3) du"
+        ],
+        "hints": [
+          {
+            "description": "Find integral using substitution rule_replacing terms. | [Find integral using substitution rule_replacing terms]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the function with respect to u.",
+        "options": [
+          "(1/3)u^3 + C (Correct answer)",
+          "(1/2)u^2 + C",
+          "ln|u| + C",
+          "(1/4)u^4 + C"
+        ],
+        "hints": [
+          {
+            "description": "Power rule of differentiation. | [Power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Calculate the integral \u222b(e^(2x) / (e^(2x) + 1))dx using substitution.",
+    "questions": [
+      {
+        "question": "Identify the substitution, u.",
+        "options": [
+          "u = e^(2x) (Correct answer)",
+          "u = e^x",
+          "u = e^(2x) + 1",
+          "u = e^x + 1"
+        ],
+        "hints": [
+          {
+            "description": "Find integral using substitution rule_identify substitution. [Find integral using substitution rule_identify substitution]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Compute du/dx.",
+        "options": [
+          "du/dx = 2e^(2x) (Correct answer)",
+          "du/dx = e^x",
+          "du/dx = 2e^(2x) + 1",
+          "du/dx = e^x + 1"
+        ],
+        "hints": [
+          {
+            "description": "Power rule of differentiation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Find integral using substitution rule_compute du over dx. | [Find integral using substitution rule_compute du over dx]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Replace the terms in the integral with the new variables, u and du.",
+        "options": [
+          "\u222b(1 / (u + 1)) (1/2) du (Correct answer)",
+          "\u222b(1 / u) du",
+          "\u222b(u / (u + 1)) du",
+          "\u222b(u / u) du"
+        ],
+        "hints": [
+          {
+            "description": "Find integral using substitution rule_replacing terms. | [Find integral using substitution rule_replacing terms]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the function with respect to u.",
+        "options": [
+          "(1/2)ln|u + 1| + C (Correct answer)",
+          "ln|u| + C",
+          "(1/2)(u + 1) + C",
+          "u + C"
+        ],
+        "hints": [
+          {
+            "description": "Some common integrals-part 1. | [Some common integrals-part 1]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find the integral \u222b(tan^2(x)sec^2(x))dx using trigonometric substitution.",
+    "questions": [
+      {
+        "question": "Identify the substitution, u.",
+        "options": [
+          "u = tan(x) (Correct answer)",
+          "u = sec(x)",
+          "u = tan^2(x)",
+          "u = sec^2(x)"
+        ],
+        "hints": [
+          {
+            "description": "Find integral using substitution rule_identify substitution. [Find integral using substitution rule_identify substitution]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Compute du/dx.",
+        "options": [
+          "du/dx = sec^2(x) (Correct answer)",
+          "du/dx = sec(x)tan(x)",
+          "du/dx = 2tan(x)sec^2(x)",
+          "du/dx = 2sec(x)tan(x)"
+        ],
+        "hints": [
+          {
+            "description": "Power rule of differentiation. | [Power rule of differentiation]",
+            "isBought": false
+          },
+          {
+            "description": "Find integral using substitution rule_compute du over dx. | [Find integral using substitution rule_compute du over dx]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Replace the terms in the integral with the new variables, u and du.",
+        "options": [
+          "\u222b(u^2) du (Correct answer)",
+          "\u222b(u) du",
+          "\u222b(1/u) du",
+          "\u222b(u^3) du"
+        ],
+        "hints": [
+          {
+            "description": "Find integral using substitution rule_replacing terms. | [Find integral using substitution rule_replacing terms]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate the function with respect to u.",
+        "options": [
+          "(1/3)u^3 + C (Correct answer)",
+          "(1/2)u^2 + C",
+          "ln|u| + C",
+          "(1/4)u^4 + C"
+        ],
+        "hints": [
+          {
+            "description": "Power rule of differentiation. | [Power rule of differentiation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Evaluate the improper integral \u222b(e^(-x))dx from 0 to \u221e.",
+    "questions": [
+      {
+        "question": "Set up the limit for the improper integral.",
+        "options": [
+          "lim (b -> \u221e) \u222b(e^(-x))dx from 0 to b (Correct answer)",
+          "lim (a -> 0) \u222b(e^(-x))dx from a to \u221e",
+          "lim (a -> 0, b -> \u221e) \u222b(e^(-x))dx from a to b",
+          "lim (b -> 0) \u222b(e^(-x))dx from 0 to b"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_Set up the limit. [Find improper integral_Set up the limit]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate e^(-x) with respect to x.",
+        "options": [
+          "-e^(-x) (Correct answer)",
+          "e^(-x)",
+          "-e^(-x) + x",
+          "e^(-x) + x"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_integrate the function. | [Find improper integral_integrate the function]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the limits.",
+        "options": [
+          "lim (b -> \u221e) (-e^(-b) + e^(-0)) (Correct answer)",
+          "lim (b -> \u221e) (-e^(- - e^(-0))",
+          "lim (b -> \u221e) (-e^(- + e^(-0)",
+          "lim (b -> \u221e) (-e^(- + e^(-0)"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_integral at the limits. | [Find improper integral_integral at the limits]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Compute the improper integral \u222b(1 / x^2)dx from 1 to \u221e.",
+    "questions": [
+      {
+        "question": "Set up the limit for the improper integral.",
+        "options": [
+          "lim (b -> \u221e) \u222b(1 / x^2)dx from 1 to b (Correct answer)",
+          "lim (a -> 1) \u222b(1 / x^2)dx from a to \u221e",
+          "lim (a -> 1, b -> \u221e) \u222b(1 / x^2)dx from a to b",
+          "lim (b -> 1) \u222b(1 / x^2)dx from 1 to b"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_Set up the limit. [Find improper integral_Set up the limit]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate 1/x^2 with respect to x.",
+        "options": [
+          "-1/x (Correct answer)",
+          "1/x",
+          "-ln|x|",
+          "1/x^3"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_integrate the function. | [Find improper integral_integrate the function]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the limits.",
+        "options": [
+          "lim (b -> \u221e) (-1/b + 1/1) (Correct answer)",
+          "lim (b -> \u221e) (-1/b - 1/1)",
+          "lim (b -> \u221e) (-1/b + 1/1 -",
+          "lim (b -> \u221e) (-1/b + 1/1 +"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_integral at the limits. | [Find improper integral_integral at the limits]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Calculate the improper integral \u222b(1 / sqrt(x))dx from 0 to 4.",
+    "questions": [
+      {
+        "question": "Set up the limit for the improper integral.",
+        "options": [
+          "lim (a -> 0) \u222b(1 / sqrt(x))dx from a to 4 (Correct answer)",
+          "lim (b -> 4) \u222b(1 / sqrt(x))dx from 0 to b",
+          "lim (a -> 0, b -> 4) \u222b(1 / sqrt(x))dx from a to b",
+          "lim (a -> 4) \u222b(1 / sqrt(x))dx from 0 to a"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_Set up the limit. [Find improper integral_Set up the limit]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Integrate 1/sqrt(x) with respect to x.",
+        "options": [
+          "2\u221ax (Correct answer)",
+          "\u221ax",
+          "-ln|\u221ax|",
+          "1/\u221ax"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_integrate the function. | [Find improper integral_integrate the function]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the limits.",
+        "options": [
+          "lim (a -> 0) (2\u221a4 - 2\u221a2)",
+          "lim (a -> 0) (2\u221a4 + 2\u221a5)",
+          "lim (a -> 0) (2\u221a4 - 2\u221aa) (Correct answer)",
+          "lim (a -> 0) (2\u221a4 + 2\u221aa)"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_integral at the limits. | [Find improper integral_integral at the limits]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Determine the improper integral \u222b(1 / (x^3 - x^2))dx from 0 to 1.",
+    "questions": [
+      {
+        "question": "Set up the limit for the improper integral.",
+        "options": [
+          "lim (a -> 0, b -> 1) \u222b(1 / (x^3 - x^2))dx from a to b (Correct answer)",
+          "lim (a -> 0) \u222b(1 / (x^3 - x^2))dx from a to 1",
+          "lim (b -> 1) \u222b(1 / (x^3 - x^2))dx from 0 to b",
+          "lim (a -> 1, b -> 0) \u222b(1 / (x^3 - x^2))dx from a to b"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_Set up the limit. [Find improper integral_Set up the limit]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Perform partial fraction decomposition.",
+        "options": [
+          "1/(x^2(x-1)) = A/x + B/x^2 + C/(x-1) (Correct answer)",
+          "1/(x^2(x-1)) = A/x + B/x^2 - C/(x-1)",
+          "1/(x^2(x-1)) = A/x - B/x^2 + C/(x-1)",
+          "1/(x^2(x-1)) = A/x^2 + B/x + C/(x-1)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Determine the antiderivative of the decomposed function.",
+        "options": [
+          "A ln|x| + B(-1/x) + C ln|x-1| (Correct answer)",
+          "A ln|x| - B ln|x^2| + C ln|x-1|",
+          "A ln|x| + B ln|x^2| - C ln|x-1|",
+          "A ln|x| - B ln|x^2| - C ln|x-1|"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_integrate the function. | [Find improper integral_integrate the function]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Evaluate the integral at the limits.",
+        "options": [
+          "lim (a -> 0, b -> 1) [A ln|b| + B(-1/b)  + C ln|b-1| - (A ln|a| + B(-1/a) + C ln|a-1|)] (Correct answer)",
+          "lim (a -> 0, b -> 1) [A ln|b| - B ln|b^2| + C ln|b-1| -(A ln|a| - B ln|a^2| + C ln|a-1|)]",
+          "lim (a -> 0, b -> 1) [A ln|b| + B ln|b^2| - C ln|b-1| - (A ln|a| + B ln|a^2| - C ln|a-1|)]",
+          "lim (a -> 0, b -> 1) [A ln|b| - B ln|b^2| - C ln|b-1| - (A ln|a| - B ln|a^2| - C ln|a-1|)]"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_integral at the limits. | [Find improper integral_integral at the limits]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Evaluate the improper integral \u222b(x / (x^4 + 1))dx from -\u221e to \u221e.",
+    "questions": [
+      {
+        "question": "Set up the limit for the improper integral.",
+        "options": [
+          "lim (a -> -\u221e, b -> \u221e) \u222b(x^2 / (x^4 + 1))dx from a to b (Correct answer)",
+          "lim (a -> -\u221e) \u222b(x^2 / (x^4 + 1))dx from a to 0",
+          "lim (b -> \u221e) \u222b(x^2 / (x^4 + 1))dx from 0 to b",
+          "lim (a -> -\u221e, b -> \u221e) \u222b(x^2 / (x^4 + 1))dx from a to 0"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_Set up the limit. [Find improper integral_Set up the limit]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Use substitution to simplify the integral.",
+        "options": [
+          "u = x^2, du = 2xdx (Correct answer)",
+          "u = x^4 + 1, du = 4x^3dx",
+          "u = x^2 + 1, du = 2xdx",
+          "u = x^4, du = 4x^3dx"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Integrate with respect to u.",
+        "options": [
+          "1/2 \u222b(1 / (u^2 + 1))du (Correct answer)",
+          "\u222b(1 / (u^2 + 1))du",
+          "1/2 \u222b(1 / (u^2 - 1))du",
+          "\u222b(1 / (u^2 - 1))du"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_integrate the function. | [Find improper integral_integrate the function]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Determine the antiderivative in terms of u.",
+        "options": [
+          "1/2 * arctan(u) (Correct answer)",
+          "arctan(u)",
+          "1/2 * ln|u + 1|",
+          "ln|u + 1|"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_integrate the function. | [Find improper integral_integrate the function]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Convert back to the original variable and evaluate the integral at the limits.",
+        "options": [
+          "lim (a -> -\u221e, b -> \u221e) [1/2 * arctan(x^2)]|_a^b (Correct answer)",
+          "lim (a -> -\u221e, b -> \u221e) [arctan(x^2)]|_a^b",
+          "lim (a -> -\u221e, b -> \u221e) [1/2 * ln|x^2 + 1|]|_a^b",
+          "lim (a -> -\u221e, b -> \u221e) [ln|x^2 + 1|]|_a^b"
+        ],
+        "hints": [
+          {
+            "description": "Find improper integral_Set up the limit. [Find improper integral_Set up the limit]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Solve the first-order differential equation dy/dx = 2x.",
+    "questions": [
+      {
+        "question": "What type of differential equation is it?",
+        "options": [
+          "Homogeneous",
+          "Separable (Correct answer)",
+          "Linear",
+          "Bernoulli"
+        ],
+        "hints": [
+          {
+            "description": "Demonstration of separable differential equation. | [Demonstration of separable differential equation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Solve the first-order differential equation dy/dx + 4y = 0.",
+    "questions": [
+      {
+        "question": "What type of differential equation is it?",
+        "options": [
+          "Homogeneous (Correct answer)",
+          "Separable",
+          "Linear",
+          "Bernoulli"
+        ],
+        "hints": []
+      },
+      {
+        "question": "By separating the variables we got:",
+        "options": [
+          "dy/y = -4dx (Correct answer)",
+          "dx/y = 1",
+          "dy dx = 2",
+          "dx/dy =1"
+        ],
+        "hints": [
+          {
+            "description": "Solving the first-order differential equation_homogeneous. | [Solving the first-order differential equation_homogeneous]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find the general solution of the second-order differential equation d^2y/dx^2 - 4y = 0.",
+    "questions": [
+      {
+        "question": "What type of differential equation is it?",
+        "options": [
+          "Homogeneous",
+          "Separable",
+          "Linear",
+          "Constant coefficient (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "Identify the constant coefficient differential equation. | [Identify the constant coefficient differential equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Find the characteristic equation.",
+        "options": [
+          "r^2 - 4 = 0 (Correct answer)",
+          "r^2 + 4 = 0",
+          "r^2 - 4r = 0",
+          "r^2 + 4r = 0"
+        ],
+        "hints": [
+          {
+            "description": "Find the characteristic equation of a constant coefficient differential equation. | [Find the characteristic equation of a constant coefficient differential equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Find the roots of the characteristic equation.",
+        "options": [
+          "r = \u00b12 (Correct answer)",
+          "r = \u00b11",
+          "r = 2, -1",
+          "r = 1, -2"
+        ],
+        "hints": [
+          {
+            "description": "Find the roots of the characteristic equation. | [Find the roots of the characteristic equation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Solve the first-order separable differential equation dy/dx = y/x.",
+    "questions": [
+      {
+        "question": "What type of differential equation is it?",
+        "options": [
+          "Homogeneous",
+          "Separable (Correct answer)",
+          "Linear",
+          "Bernoulli"
+        ],
+        "hints": [
+          {
+            "description": "Demonstration of separable differential equation. | [Demonstration of separable differential equation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find the general solution of the second-order differential equation d^2y/dx^2 + 3dy/dx + 2y = 0.",
+    "questions": [
+      {
+        "question": "What type of differential equation is it?",
+        "options": [
+          "Homogeneous",
+          "Separable",
+          "Linear",
+          "Constant coefficient (Correct answer)"
+        ],
+        "hints": [
+          {
+            "description": "Identify the constant coefficient differential equation. | [Identify the constant coefficient differential equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Find the characteristic equation.",
+        "options": [
+          "r^2 + 3r + 2 = 0 (Correct answer)",
+          "r^2 - 3r + 2 = 0",
+          "r^2 + 3r - 2 = 0",
+          "r^2 - 3r - 2 = 0"
+        ],
+        "hints": [
+          {
+            "description": "Find the characteristic equation of a constant coefficient differential equation. | [Find the characteristic equation of a constant coefficient differential equation]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Find the roots of the characteristic equation.",
+        "options": [
+          "r = -1, -2 (Correct answer)",
+          "r = 1, 2",
+          "r = -1, 2",
+          "r = 1, -2"
+        ],
+        "hints": [
+          {
+            "description": "Find the roots of the characteristic equation. | [Find the roots of the characteristic equation]",
+            "isBought": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem": "Find the sum of the arithmetic series 2 + 5 + 8 + ... + 29.",
+    "questions": [
+      {
+        "question": "Find the first term and common difference.",
+        "options": [
+          "a = 2, d = 3 (Correct answer)",
+          "a = 2, d = 2",
+          "a = 5, d = 3",
+          "a = 5, d = 2"
+        ],
+        "hints": [
+          {
+            "description": "First term and common difference_arithmetic series. | [First term and common difference_arithmetic series]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Find the number of terms.",
+        "options": [
+          "n = 10 (Correct answer)",
+          "n = 9",
+          "n = 11",
+          "n = 12"
+        ],
+        "hints": [
+          {
+            "description": "nth term of the arithmetic series. | [nth term of the arithmetic series]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "Which formula is used for calculating the sum of an arithmetic series?",
+        "options": [
+          "S = n/2 * (2a + (n - 1)*d) (Correct answer)",
+          "S = n/2 * (a + l",
+          "S = n * (2a + (n - 1)",
+          "S = n * (a + l)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Determine the sum of the geometric series 1 + 1/2 + 1/4 + ... + 1/64.",
+    "questions": [
+      {
+        "question": "What is the first term and common ratio of the geometric series?",
+        "options": [
+          "a = 1, r = 1/2 (Correct answer)",
+          "a = 1, r = 2",
+          "a = 1/2, r = 1/2",
+          "a = 1/2, r = 2"
+        ],
+        "hints": [
+          {
+            "description": "First term and common ratio_geometric series. | [First term and common ratio_geometric series]",
+            "isBought": false
+          }
+        ]
+      },
+      {
+        "question": "How many terms are in the series?",
+        "options": [
+          "n = 6",
+          "n = 5",
+          "n = 7 (Correct answer)",
+          "n = 8",
+          "^^nth term of the geometric series. | [nth term of the geometric series]"
+        ],
+        "hints": []
+      },
+      {
+        "question": "Which formula is used for calculating the sum of an arithmetic series?",
+        "options": [
+          "S = a * (1 - r^n) / (1 - r) (Correct answer)",
+          "S = a * (r^n - 1) / (r - 1)",
+          "S = n * (1 - r^n) / (1 - r)",
+          "S = n * (r^n - 1) / (r - 1)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Calculate the limit of the sequence {1/n} as n approaches infinity.",
+    "questions": [
+      {
+        "question": "State the formula for the limit of a sequence.",
+        "options": [
+          "{1/n} as n \u2192 \u221e (Correct answer)",
+          "{n/1} as n \u2192 \u221e",
+          "{1/n^2} as n \u2192 \u221e",
+          "{n^2/1} as n \u2192 \u221e"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Test the convergence of the series \u2211(n = 1 to \u221e) 1/n^2.",
+    "questions": [
+      {
+        "question": "What is the nth term of the series?",
+        "options": [
+          "1/n^2 (Correct answer)",
+          "1/n",
+          "n^2",
+          "n"
+        ],
+        "hints": []
+      },
+      {
+        "question": "What type of test is used to determine the convergence of the series.",
+        "options": [
+          "p-series test (Correct answer)",
+          "Ratio test",
+          "Root test",
+          "Comparison test"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Determine the radius of convergence of the power series \u2211(n = 1 to \u221e) x^n / n^2.",
+    "questions": [
+      {
+        "question": "What is the power series being considered?",
+        "options": [
+          "\u2211(n = 1 to \u221e) x^n / n^2 (Correct answer)",
+          "\u2211(n = 1 to \u221e) x^n / n",
+          "\u2211(n = 1 to \u221e) n^2 * x^n",
+          "\u2211(n = 1 to \u221e) n * x^n"
+        ],
+        "hints": []
+      },
+      {
+        "question": "What is the expression for the limit of the ratio test used to determine the radius of convergence?",
+        "options": [
+          "lim (n \u2192 \u221e) |(a_(n+1) / a_n)| = |x| * lim (n \u2192 \u221e) (n^2 / (n+1)^2) (Correct answer)",
+          "lim (n \u2192 \u221e) |(a_(n+1) / a_n)| = |x| * lim (n \u2192 \u221e) (n / (n+1)^2)",
+          "lim (n \u2192 \u221e) |(a_(n+1) / a_n)| = |x| * lim (n \u2192 \u221e) ((n+1)^2 / n^2)",
+          "lim (n \u2192 \u221e) |(a_(n+1) / a_n)| = |x| * lim (n \u2192 \u221e) ((n+1)^2 / n)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "What is the limit of (n^2 / (n+1)^2) as n approaches infinity?",
+        "options": [
+          "lim (n \u2192 \u221e) (n^2 / (n+1)^2) = 1 (Correct answer)",
+          "lim (n \u2192 \u221e) (n^2 / (n+1)^2) = 0",
+          "lim (n \u2192 \u221e) (n^2 / (n+1)^2) = \u221e",
+          "lim (n \u2192 \u221e) (n^2 / (n+1)^2) = -1"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Find the power series representation of f(x) = 1/(1 - x).",
+    "questions": [
+      {
+        "question": "What is the function that we need to find the power series representation for?",
+        "options": [
+          "f(x) = 1/(1 - x) (Correct answer)",
+          "f(x) = 1/(1 + x)",
+          "f(x) = 1/(x - 1)",
+          "f(x) = 1/(1 - x^2)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "What is the formula for the geometric series?",
+        "options": [
+          "\u2211(n = 0 to \u221e) r^n (Correct answer)",
+          "\u2211(n = 1 to \u221e) r^n",
+          "\u2211(n = 0 to \u221e) r^(n-1)",
+          "\u2211(n = 1 to \u221e) r^(n-1)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Determine the power series representation of g(x) = e^x.",
+    "questions": [
+      {
+        "question": "What is the function that we need to find the power series representation for?",
+        "options": [
+          "g(x) = e^x (Correct answer)",
+          "g(x) = e^(x^2)",
+          "g(x) = ln(x)",
+          "g(x) = e^(-x)"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Calculate the power series representation of h(x) = ln(1 + x).",
+    "questions": [
+      {
+        "question": "What is the function that we need to find the power series representation for?",
+        "options": [
+          "h(x) = ln(1 + x) (Correct answer)",
+          "h(x) = ln(x)",
+          "h(x) = ln(1 - x)",
+          "h(x) = ln(1 + x^2)"
+        ],
+        "hints": []
+      },
+      {
+        "question": "What is the power series representation of f(x)?",
+        "options": [
+          "h(x) = \u2211(n = 1 to \u221e) ((-1)^(n-1) * x^n) / n (Correct answer)",
+          "h(x) = \u2211(n = 1 to \u221e) x^n / n!",
+          "h(x) = \u2211(n = 1 to \u221e) (-1)^n * x^n / n",
+          "h(x) = \u2211(n = 1 to \u221e) x^n / n"
+        ],
+        "hints": []
+      }
+    ]
+  }
+]

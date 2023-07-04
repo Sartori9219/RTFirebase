@@ -1,0 +1,42 @@
+[
+  {
+    "Project objective": "The Great Virtual Escape: A Computer Science Escapade",
+    "Steps": [
+      "Pick a theme for your virtual escape room. This could be anything from a haunted house to a pirate ship or a secret spy mission.",
+      "Design a puzzle or challenge for the \"Algorithms\" room. This should require the use of a specific algorithm to solve. For example, a maze that needs a path-finding algorithm like A* to escape.",
+      "For the \"Data Structures\" room, create a puzzle that involves understanding and using a particular data structure. This might be a riddle that requires understanding of a binary tree, or a challenge that requires use of a hash map.",
+      "In the \"Computer Architecture\" room, incorporate a puzzle that involves understanding of computer hardware. This might involve a broken circuit that needs fixing, or a challenge around the concept of pipelining.",
+      "Create a puzzle for the \"Operating Systems\" room that involves concepts like process scheduling or memory management. This could be a logic puzzle that requires understanding of how operating systems allocate resources.",
+      "In the \"Computer Networks\" room, come up with a puzzle that involves understanding of network protocols or addressing. This could involve deciphering a message sent via TCP/IP or figuring out a network addressing scheme.",
+      "Write the code for your virtual escape room. This should be a text-based adventure that can run in the console. You could use a language like Python or JavaScript.",
+      "Present your game to your peers or family. Allow them to play through the escape room and gather their feedback."
+    ]
+  },
+  {
+    "Project objective": "Operation Cyber-Knight: A Software Engineering Crusade. Your mission, should you choose to accept it, is to develop a secure, interactive database for the kingdom's treasury, using your skills in software engineering, programming languages, cybersecurity, database systems, and embedded systems.",
+    "Steps": [
+      "Begin by creating a blueprint of the software structure and its functionalities. This includes the layout, features, and how each component interacts with others.",
+      "Choose the programming languages you'll use. Consider languages like Python for backend logic, SQL for interacting with your database, and JavaScript for any front-end interactivity.",
+      "Research and plan how to implement cybersecurity measures. This might include secure login systems, encryption of sensitive data, and protection against common attacks like SQL injection.",
+      "Design your database structure. What tables will you need? What will each table store? How will they relate to each other?",
+      "Plan for an embedded system that interacts with your software. This could be a hardware token generator for two-factor authentication, which generates a code that needs to be entered alongside the password.",
+      "Implement your planned cybersecurity measures. Ensure your treasury data is well protected!",
+      "Test, test, test! Look for bugs, security loopholes, or inconsistencies in your application. Debugging is a crucial part of any software development process.",
+      "Present your project! Demonstrate how to interact with the database, show off the cybersecurity measures in place, and explain how the embedded system works with the software. Then, prepare to be knighted for your service to the kingdom."
+    ]
+  },
+  {
+    "Project objective": "AI's Next Top Model: A Dive Into Fashion, Functionality and Future Tech.  Your challenge, should you accept it, is to create an AI-driven virtual fashion show. You'll use concepts from artificial intelligence, machine learning, computer graphics, human-computer interaction, and high-performance computing.",
+    "Steps": [
+      "Prepare the following: Computer with internet access, a programming environment that supports machine learning (such as Python with libraries like TensorFlow or PyTorch), a graphics software or library (such as Blender or OpenGL), a UI design tool (like Sketch or Figma), and a high-performance computing environment (can be simulated with multi-threading or cloud-based solutions if necessary).",
+      "Research and train a machine learning model to predict fashion trends. This might involve using historical fashion data and recognizing patterns.",
+      "Create your fashion models and their outfits using computer graphics. Get creative, but make sure the clothes align with the trends predicted by your AI model.",
+      "Design the virtual runway. It could be a simple 3D path that your models will walk down, or a complex environment with lighting and sound effects.",
+      "Develop a user interface. This will allow users to interact with your fashion show, perhaps choosing which models to watch, changing camera angles, or even adjusting the lighting.",
+      "Combine your AI predictions, computer graphics, and user interface into a seamless fashion show. Make sure everything runs smoothly and without delays.",
+      "Optimize your program for high-performance computing. This could involve using parallel processing techniques to render graphics more quickly, or streamlining your AI model's computations.",
+      "Test your program thoroughly. Ensure your AI model is predicting trends accurately, the graphics render properly, and the user interface is easy to use.",
+      "Present your AI-driven virtual fashion show. Explain how you used each of the five concepts in your project, and don't forget to give your audience the chance to interact with your program."
+    ]
+  }
+]

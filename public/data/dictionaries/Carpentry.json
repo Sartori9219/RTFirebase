@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Wood Identification",
+        "Hand Tools Usage",
+        "Power Tools Usage",
+        "Measuring and Marking",
+        "Cutting Techniques",
+        "Joinery Techniques",
+        "Sanding and Finishing",
+        "Framing",
+        "Roofing",
+        "Flooring",
+        "Cabinetry and Furniture Making",
+        "Blueprint Reading",
+        "Safety Procedures",
+        "Material Estimation",
+        "Carpentry Math"
+    ],
+    "hints": {
+        "Wood Identification": "Understanding different types of wood, their characteristics, and best use cases.",
+        "Hand Tools Usage": "The use and maintenance of basic hand tools such as hammers, saws, chisels, and planes.",
+        "Power Tools Usage": "Understanding how to safely operate power tools like drills, circular saws, and routers.",
+        "Measuring and Marking": "Techniques for accurately measuring and marking wood for cuts and joins.",
+        "Cutting Techniques": "How to properly cut wood using different tools to achieve a clean, precise cut.",
+        "Joinery Techniques": "Understanding how to create different types of wood joints, such as dovetail and mortise and tenon joints.",
+        "Sanding and Finishing": "Techniques for smoothing wood surfaces and applying finishes like paint, stain, or varnish.",
+        "Framing": "Building the structural framework for buildings and houses, including walls, floors, and roofs.",
+        "Roofing": "Installing roof trusses and applying roofing materials.",
+        "Flooring": "Installing different types of wood flooring.",
+        "Cabinetry and Furniture Making": "Skills specific to crafting cabinets and furniture, often requiring a higher level of precision and finish.",
+        "Blueprint Reading": "Understanding how to read and interpret construction blueprints and plans.",
+        "Safety Procedures": "Knowledge of safety protocols to prevent accidents when using tools and materials.",
+        "Material Estimation": "Techniques for accurately estimating the quantity of materials needed for a project.",
+        "Carpentry Math": "Using mathematical concepts like geometry and algebra to calculate angles, areas, and volumes, important for planning and executing carpentry projects."
+    }
+}

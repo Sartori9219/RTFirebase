@@ -1,0 +1,36 @@
+{
+    "options": [
+        "World War I",
+        "Russian Revolution",
+        "The Roaring Twenties",
+        "The Great Depression",
+        "Rise of Fascism",
+        "World War II",
+        "The Holocaust",
+        "The Cold War",
+        "Decolonization and Independence Movements",
+        "The Civil Rights Movement",
+        "The Space Race",
+        "The Vietnam War",
+        "Fall of the Berlin Wall/End of the Cold War",
+        "Globalization",
+        "The Digital Revolution"
+    ],
+    "hints": {
+        "World War I": "The first global conflict that took place from 1914 to 1918, involving many of the world's powers divided into two alliances -  the Allies and the Central Powers.",
+        "Russian Revolution": "A period of political and social revolution across the territory of the Russian Empire, commencing with the abolition of the monarchy in 1917 and concluding in 1923 with the Bolshevik establishment of the Soviet Union.",
+        "The Roaring Twenties": "A period of economic prosperity in the 1920s with a cultural edge in the United States and Europe, which saw rapid industrial growth, accelerated consumer demand, and significant changes in lifestyle and culture.",
+        "The Great Depression": "A severe worldwide economic depression that lasted from 1929 to 1939, beginning in the United States with a major fall in stock prices.",
+        "Rise of Fascism": "The political ideology and mass movement that rose to prominence in early 20th-century Europe, characterized by dictatorial power, forcible suppression of opposition, and strong regimentation of society and of the economy.",
+        "World War II": "A global war lasting from 1939 to 1945, involving many of the world's countries formed into two opposing military alliances - the Allies and the Axis.",
+        "The Holocaust": "The genocide of six million European Jews during World War II by Nazi Germany, led by Adolf Hitler.",
+        "The Cold War": "A period of geopolitical tension between the Soviet Union and the United States and their respective allies, the Eastern Bloc and the Western Bloc, after World War II.",
+        "Decolonization and Independence Movements": "The process by which many African and Asian countries gained independence from European colonial powers, often after prolonged resistance and struggle, during the mid-20th century.",
+        "The Civil Rights Movement": "A struggle for social justice that took place mainly during the 1950s and 1960s for blacks to gain equal rights under the law in the United States.",
+        "The Space Race": "The 20th-century competition between two Cold War adversaries, the Soviet Union and the United States, for dominance in spaceflight capability.",
+        "The Vietnam War": "A long, costly, and divisive conflict that pitted the communist government of North Vietnam against South Vietnam and its principal ally, the United States.",
+        "Fall of the Berlin Wall/End of the Cold War": "The fall of the Berlin Wall in 1989 marked the end of the Cold War, symbolizing the defeat of communism and the start of the end of the Soviet Union.",
+        "Globalization": "The process by which businesses or other organizations develop international influence or start operating on an international scale, a trend that has become increasingly dominant towards the end of the 20th century.",
+        "The Digital Revolution": "The shift from mechanical and analogue electronic technology to digital electronics which began in the latter half of the 20th century, with the adoption and proliferation of digital computers and digital record-keeping."
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Goal Setting",
+        "Performance Appraisal",
+        "Feedback",
+        "Coaching",
+        "Training and Development",
+        "Employee Motivation",
+        "Performance Metrics",
+        "Continuous Improvement",
+        "Employee Engagement",
+        "Recognition and Rewards",
+        "Job Design",
+        "Talent Management",
+        "Succession Planning",
+        "Performance Improvement Plans",
+        "Organizational Alignment"
+    ],
+    "hints": {
+        "Goal Setting": "Establish clear, measurable, and attainable objectives for employees to help guide their performance.",
+        "Performance Appraisal": "Regularly evaluate employee performance based on predefined criteria and goals.",
+        "Feedback": "Provide timely, constructive feedback to employees to help them improve and grow professionally.",
+        "Coaching": "Offer guidance, support, and advice to help employees develop their skills and reach their full potential.",
+        "Training and Development": "Provide learning opportunities and resources to enhance employees' knowledge and abilities.",
+        "Employee Motivation": "Encourage and inspire employees to perform at their best by understanding their needs and aspirations.",
+        "Performance Metrics": "Use quantitative and qualitative measures to assess employee performance objectively.",
+        "Continuous Improvement": "Promote a culture of ongoing learning and growth, encouraging employees to constantly seek ways to enhance their performance.",
+        "Employee Engagement": "Foster a positive work environment where employees feel connected, valued, and committed to the organization's success.",
+        "Recognition and Rewards": "Acknowledge and celebrate employees' achievements and contributions through various forms of recognition and incentives.",
+        "Job Design": "Create roles and responsibilities that align with employees' skills, interests, and career goals, promoting job satisfaction and performance.",
+        "Talent Management": "Implement strategies to attract, retain, and develop top talent within the organization.",
+        "Succession Planning": "Prepare for future leadership and key position vacancies by identifying and developing high-potential employees.",
+        "Performance Improvement Plans": "Develop and implement structured plans to help underperforming employees improve their performance.",
+        "Organizational Alignment": "Ensure that individual performance goals and objectives align with the overall mission, vision, and strategy of the organization."
+    }
+}

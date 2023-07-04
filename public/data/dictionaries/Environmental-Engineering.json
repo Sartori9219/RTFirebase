@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Water Treatment",
+        "Air Pollution Control",
+        "Soil Remediation",
+        "Waste Management",
+        "Sustainable Design",
+        "Environmental Impact Assessment",
+        "Hazardous Waste Management",
+        "Hydrology and Water Resources",
+        "Environmental Law and Policy",
+        "Green Building",
+        "Environmental Chemistry",
+        "Renewable Energy Systems",
+        "Noise Pollution Control",
+        "Climate Change Mitigation",
+        "Ecosystem Restoration"
+    ],
+    "hints": {
+        "Water Treatment": "The process of cleaning water to make it safe for drinking and other uses.",
+        "Air Pollution Control": "Techniques and strategies to reduce and control air pollution from various sources.",
+        "Soil Remediation": "The process of cleaning and revitalizing soil that has been contaminated by pollutants.",
+        "Waste Management": "The collection, transportation, and disposal or recycling of waste materials.",
+        "Sustainable Design": "Designing products, systems, and physical spaces with the aim of reducing their environmental impact.",
+        "Environmental Impact Assessment": "A study to predict the effect of a proposed activity or project on the environment.",
+        "Hazardous Waste Management": "The collection, treatment, and disposal of waste materials that can cause harm to humans or the environment.",
+        "Hydrology and Water Resources": "The study of water's properties, distribution, and effects on the Earth's surface.",
+        "Environmental Law and Policy": "The laws and regulations related to the environment and natural resources.",
+        "Green Building": "The practice of creating structures and processes that are environmentally responsible and resource-efficient.",
+        "Environmental Chemistry": "The scientific study of the chemical and biochemical phenomena that occur in the natural environment.",
+        "Renewable Energy Systems": "The use of renewable resources like sunlight, wind, and geothermal heat to generate energy.",
+        "Noise Pollution Control": "The control of sounds in the environment that are harmful to human and animal life.",
+        "Climate Change Mitigation": "Efforts to reduce or prevent emission of greenhouse gases to mitigate the effects of climate change.",
+        "Ecosystem Restoration": "The process of assisting the recovery of an ecosystem that has been degraded, damaged, or destroyed."
+    }
+}

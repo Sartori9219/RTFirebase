@@ -1,0 +1,1121 @@
+{
+  "questions": [
+    {
+      "question": "A family of five is seated around a circular table with five seats. The parents must sit together, and the three children (Tom, Sarah, and Lily) do not sit next to each other. Given these conditions, which of the following seating arrangements is possible?",
+      "options": [
+        "The parents are sitting together with Tom to their immediate right, Sarah to the immediate left of Tom, and Lily to the immediate left of Sarah.",
+        "The parents are sitting together with Sarah to their immediate right, Tom to the immediate left of Sarah, and Lily to the immediate left of the parents.",
+        "The parents are sitting together with Tom to their immediate right, Sarah to the immediate left of the parents, and Lily to the immediate left of Sarah. (Correct answer)",
+        "The parents are sitting together with Lily to their immediate right, Sarah to the immediate left of Lily, and Tom to the immediate left of the parents."
+      ],
+      "hints": [
+        "Consider each answer option carefully based on the conditions.",
+        "Think about how the circular table affects the seating arrangement.",
+        "Remember that the children are not sitting next to each other."
+      ]
+    },
+    {
+      "question": "Consider a passage that describes the life of Jane Austen. Which of the following facts is most likely to be included in the passage?",
+      "options": [
+        "Jane Austen wrote \"War and Peace.\"",
+        "Jane Austen lived in the 18th and 19th centuries. (Correct answer)",
+        "Jane Austen was a prominent figure in the Civil Rights Movement.",
+        "Jane Austen was a renowned biologist."
+      ],
+      "hints": [
+        "The correct answer is a widely known fact about Austen.",
+        "Consider the time period in which Austen lived.",
+        "Jane Austen is a well-known author."
+      ]
+    },
+    {
+      "question": "After reading a passage about the process of photosynthesis, the primary purpose of the passage is most likely to:",
+      "options": [
+        "Discuss the political implications of photosynthesis.",
+        "Provide a detailed description of the process of photosynthesis. (Correct answer)",
+        "Advocate for a specific type of photosynthesis.",
+        "Discredit the process of photosynthesis."
+      ],
+      "hints": [
+        "The correct answer should be in line with a general explanation of photosynthesis.",
+        "The main purpose of such a passage would likely be informative.",
+        "Photosynthesis is a biological process."
+      ]
+    },
+    {
+      "question": "If a passage discusses the economic impacts of a new policy, the passage is most likely about:",
+      "options": [
+        "The biology of marine animals.",
+        "The history of ancient Rome.",
+        "Economic policy. (Correct answer)",
+        "Space exploration."
+      ],
+      "hints": [
+        "The passage discusses a policy's effect, indicating it's related to economics or politics.",
+        "Economic impacts refer to changes in a financial system.",
+        "The correct answer relates directly to the passage's topic."
+      ]
+    },
+    {
+      "question": "A passage describes the painting techniques of Vincent van Gogh. Which of the following would likely be a topic in the passage?",
+      "options": [
+        "The cooking methods used by Vincent van Gogh.",
+        "The surgical techniques developed by Vincent van Gogh.",
+        "The use of color and brush strokes by Vincent van Gogh. (Correct answer)",
+        "The mathematical theories proposed by Vincent van Gogh."
+      ],
+      "hints": [
+        "The correct answer should relate to painting techniques.",
+        "Think about what aspects are important in painting.",
+        "Van Gogh was a famous painter."
+      ]
+    },
+    {
+      "question": "If a passage is written from the perspective of a narrator looking back on their childhood, the passage is likely:",
+      "options": [
+        "An objective analysis of a scientific study.",
+        "A memoir or personal narrative. (Correct answer)",
+        "A newspaper article about current events.",
+        "A detailed guide on how to repair a car."
+      ],
+      "hints": [
+        "Remember that a childhood perspective often indicates a reflective or autobiographical piece.",
+        "The correct answer involves personal storytelling.",
+        "Think about what type of writing includes personal experiences."
+      ]
+    },
+    {
+      "question": "If all dogs bark and Rover is a dog, then which of the following must be true?",
+      "options": [
+        "Rover meows.",
+        "Rover barks. (Correct answer)",
+        "Rover is a cat.",
+        "Dogs can talk."
+      ],
+      "hints": [
+        "The correct answer must logically follow from the given information.",
+        "\"Rover\" is a specific example of a dog.",
+        "Consider the properties of a \"dog\" according to the statement."
+      ]
+    },
+    {
+      "question": "Jane will go to the party if either John or Mary goes. John will not go to the party. What must be true for Jane to attend the party?",
+      "options": [
+        "Mary goes to the party. (Correct answer)",
+        "John goes to the party.",
+        "Neither John nor Mary goes to the party.",
+        "Both John and Mary go to the party."
+      ],
+      "hints": [
+        "The correct answer logically follows from Jane's condition and John's decision.",
+        "John's decision has also been stated.",
+        "The condition for Jane to go to the party is already given."
+      ]
+    },
+    {
+      "question": "If it is true that every rose has a thorn, and the flower in my hand is a rose, then which of the following is true?",
+      "options": [
+        "The flower in my hand is a tulip.",
+        "The flower in my hand has a thorn. (Correct answer)",
+        "The flower in my hand does not have a thorn.",
+        "Every flower has a thorn."
+      ],
+      "hints": [
+        "The correct answer must logically follow from the given information.",
+        "The flower in my hand is a specific example of a rose.",
+        "Consider the properties of a \"rose\" according to the statement."
+      ]
+    },
+    {
+      "question": "If a person is a teacher, then they have a job. Maria does not have a job. Which of the following must be true?",
+      "options": [
+        "Maria is a teacher.",
+        "Maria is not a teacher. (Correct answer)",
+        "Maria is a doctor.",
+        "Maria is a student."
+      ],
+      "hints": [
+        "The correct answer must logically follow from the given conditions.",
+        "Maria's job status has been stated.",
+        "Remember the condition for someone to be a teacher."
+      ]
+    },
+    {
+      "question": "All squares are rectangles. Shape X is not a rectangle. What can we deduce about Shape X?",
+      "options": [
+        "Shape X is a square.",
+        "Shape X is not a square. (Correct answer)",
+        "Shape X is a circle.",
+        "Shape X is a triangle."
+      ],
+      "hints": [
+        "The correct answer must logically follow from the given conditions.",
+        "The nature of Shape X has been provided.",
+        "Remember the condition to be a square."
+      ]
+    },
+    {
+      "question": "Amy, Bob, Charlie, and Dave are standing in line. Amy can't stand next to Charlie. Who could be standing second in line if Bob is standing first?",
+      "options": [
+        "Amy",
+        "Bob",
+        "Charlie",
+        "Dave (Correct answer)"
+      ],
+      "hints": [
+        "Dave doesn't have any restrictions on where they can stand.",
+        "Remember Amy's restriction regarding Charlie.",
+        "The second person in line can't be the same as the first."
+      ]
+    },
+    {
+      "question": "You have four books to arrange on a shelf: Math, Science, History, and English. If the Math book has to be to the right of the History book, which book cannot be the first book on the left?",
+      "options": [
+        "Math (Correct answer)",
+        "Science",
+        "History",
+        "English"
+      ],
+      "hints": [
+        "There are no restrictions mentioned for the other three books.",
+        "The first book on the left can't be a book that needs to be to the right of another book.",
+        "Think about the restriction placed on the Math book."
+      ]
+    },
+    {
+      "question": "Five friends are sitting in a row: Alice, Bob, Charlie, Dave, and Eve. Alice can't sit next to Eve. Bob must sit on the far right. Who can sit in the third spot from the left?",
+      "options": [
+        "Alice (Correct answer)",
+        "Bob",
+        "Charlie",
+        "Dave"
+      ],
+      "hints": [
+        "Alice, Charlie, and Dave don't have any specific restrictions on where they can sit.",
+        "The third spot from the left could be next to Eve, so consider Alice's restriction.",
+        "Bob's position is already determined."
+      ]
+    },
+    {
+      "question": "In a race, if John finishes before Michael, and Michael finishes before Luke, who can't be the winner of the race?",
+      "options": [
+        "John",
+        "Michael",
+        "Luke (Correct answer)",
+        "None of the above"
+      ],
+      "hints": [
+        "If someone finishes before another, the latter can't be the winner.",
+        "The winner of the race is the one who finishes first.",
+        "Remember the order of the racers."
+      ]
+    },
+    {
+      "question": "In a group of five friends, Alice is older than Bob, and Bob is older than Charlie. If Dave is younger than Alice but older than Charlie, who could be the youngest?",
+      "options": [
+        "Alice",
+        "Bob",
+        "Charlie (Correct answer)",
+        "Dave"
+      ],
+      "hints": [
+        "The youngest person is younger than all the other people in the group.",
+        "Think about who can't be younger than anyone else according to the given information.",
+        "The given information gives us an age order for four of the friends."
+      ]
+    },
+    {
+      "question": "User",
+      "options": [
+        "Write 5 easy multiple choice questions about Argument Evaluation",
+        "with 4 possible choices.  No explanations.  Add \"(Correct answer)\" to the right of the correct answer.  Add three hints below each question, but be careful not to give away the correct answer.",
+        "ChatGPT"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Evaluate this argument: All dogs bark. Fido is a dog. Therefore, Fido barks. This is an example of:",
+      "options": [
+        "Deductive reasoning (Correct answer)",
+        "Inductive reasoning",
+        "Abductive reasoning",
+        "Invalid reasoning"
+      ],
+      "hints": [
+        "If the premises are true, the conclusion must be true.",
+        "It's not based on probability or the best possible explanation.",
+        "The argument takes a general premise and applies it to a specific case."
+      ]
+    },
+    {
+      "question": "Evaluate this argument: Every time I have a coffee in the morning, I have a productive day. Therefore, coffee makes my day productive. This is an example of:",
+      "options": [
+        "Deductive reasoning",
+        "Inductive reasoning (Correct answer)",
+        "Abductive reasoning",
+        "Invalid reasoning"
+      ],
+      "hints": [
+        "It concludes a general rule from specific instances.",
+        "It's not a logical necessity that coffee causes productivity.",
+        "This argument is based on an observed pattern."
+      ]
+    },
+    {
+      "question": "Evaluate this argument: The lights in the house are on. Therefore, someone must be home. This is an example of:",
+      "options": [
+        "Deductive reasoning",
+        "Inductive reasoning",
+        "Abductive reasoning (Correct answer)",
+        "Invalid reasoning"
+      ],
+      "hints": [
+        "It's not simply extending a pattern or applying a general rule to a specific case.",
+        "The conclusion is not a necessary one, but it is plausible.",
+        "This argument forms a conclusion from what seems to be the most likely explanation."
+      ]
+    },
+    {
+      "question": "Evaluate this argument: If it rains, then the ground gets wet. It hasn't rained. Therefore, the ground is not wet. This is an example of:",
+      "options": [
+        "Deductive reasoning",
+        "Inductive reasoning",
+        "Abductive reasoning",
+        "Invalid reasoning (Correct answer)"
+      ],
+      "hints": [
+        "It makes an assumption that isn't justified by the premises.",
+        "It's not logically necessary that the ground is dry just because it hasn't rained.",
+        "There could be other reasons the ground is wet."
+      ]
+    },
+    {
+      "question": "Evaluate this argument: Every bird I've seen at the bird feeder is a sparrow. Therefore, all birds at the feeder must be sparrows. This is an example of:",
+      "options": [
+        "Deductive reasoning",
+        "Inductive reasoning (Correct answer)",
+        "Abductive reasoning",
+        "Invalid reasoning"
+      ],
+      "hints": [
+        "It doesn't involve applying a general rule to a specific case or finding the most likely explanation.",
+        "It's not a necessary conclusion, but it seems likely based on the information given.",
+        "The conclusion is extrapolated from a series of observations."
+      ]
+    },
+    {
+      "question": "User",
+      "options": [
+        "Write 5 easy multiple choice questions about Identifying Assumptions",
+        "with 4 possible choices.  No explanations.  Add \"(Correct answer)\" to the right of the correct answer.  Add three hints below each question, but be careful not to give away the correct answer.",
+        "ChatGPT"
+      ],
+      "hints": []
+    },
+    {
+      "question": "John tells Mary: \"You should study hard because good grades lead to a good job.\" What assumption is John making?",
+      "options": [
+        "Mary wants a good job.",
+        "Mary does not study hard.",
+        "Mary has bad grades.",
+        "Mary wants good grades. (Correct answer)"
+      ],
+      "hints": [
+        "The assumption is about what Mary values.",
+        "The assumption is linked to the desired outcome.",
+        "The suggestion is intended to motivate a particular action."
+      ]
+    },
+    {
+      "question": "\"If you eat your vegetables, you'll grow tall.\" What assumption is being made here?",
+      "options": [
+        "All tall people eat vegetables.",
+        "Eating vegetables causes growth. (Correct answer)",
+        "You do not like vegetables.",
+        "You are short."
+      ],
+      "hints": [
+        "It has nothing to do with your current height or vegetable preferences.",
+        "It involves the outcome of eating vegetables.",
+        "The assumption is about cause and effect."
+      ]
+    },
+    {
+      "question": "\"All dogs bark. Fido is a dog. Therefore, Fido barks.\" What is the assumption in this argument?",
+      "options": [
+        "Fido is a barking dog.",
+        "All dogs are like Fido.",
+        "Fido is a dog. (Correct answer)",
+        "Fido does not bark."
+      ],
+      "hints": [
+        "It involves Fido's species.",
+        "It's something stated about Fido.",
+        "The assumption is required for the argument to hold."
+      ]
+    },
+    {
+      "question": "\"Since it's raining, we should carry an umbrella.\" What assumption is being made here?",
+      "options": [
+        "It's not going to stop raining.",
+        "We have an umbrella.",
+        "Umbrellas keep you dry. (Correct answer)",
+        "We don't want to get wet."
+      ],
+      "hints": [
+        "It's not about our current situation or what we might want.",
+        "It involves the effect of using an umbrella in the rain.",
+        "The assumption is related to the use of an umbrella."
+      ]
+    },
+    {
+      "question": "\"I didn't study for the test, but I'm sure I'll do well because I'm good at this subject.\" What assumption is being made here?",
+      "options": [
+        "The subject of the test is easy.",
+        "Being good at a subject ensures a good test result. (Correct answer)",
+        "Studying is not important for this test.",
+        "The test will not be difficult."
+      ],
+      "hints": [
+        "It's not about the difficulty of the test or the subject matter.",
+        "It concerns the speaker's expected test result.",
+        "The assumption is about the relationship between skill in a subject and test performance."
+      ]
+    },
+    {
+      "question": "User",
+      "options": [
+        "Write 5 easy multiple choice questions about Logical Fallacies",
+        "with 4 possible choices.  No explanations.  Add \"(Correct answer)\" to the right of the correct answer.  Add three hints below each question, but be careful not to give away the correct answer.",
+        "ChatGPT"
+      ],
+      "hints": []
+    },
+    {
+      "question": "\"My teacher hates me, so I did poorly on the test.\" What logical fallacy is this?",
+      "options": [
+        "Slippery slope",
+        "Post hoc ergo propter hoc (Correct answer)",
+        "False dichotomy",
+        "Ad hominem"
+      ],
+      "hints": [
+        "The name of this fallacy is Latin.",
+        "It concerns two events that happened one after the other.",
+        "This fallacy is about cause and effect."
+      ]
+    },
+    {
+      "question": "\"Either we ban cars or the earth will become uninhabitable due to pollution.\" What logical fallacy is this?",
+      "options": [
+        "Slippery slope",
+        "Ad hominem",
+        "False dichotomy (Correct answer)",
+        "Circular reasoning"
+      ],
+      "hints": [
+        "It overlooks the possibility of a middle ground or other options.",
+        "It makes the situation appear as \"either-or.\"",
+        "This fallacy involves presenting only two options."
+      ]
+    },
+    {
+      "question": "\"If we allow children to use smartphones, the next thing we know, they'll be demanding to drive cars.\" What logical fallacy is this?",
+      "options": [
+        "Slippery slope (Correct answer)",
+        "False dichotomy",
+        "Ad hominem",
+        "Red herring"
+      ],
+      "hints": [
+        "The name of this fallacy is a phrase often used to describe a precarious situation.",
+        "It takes a small first step and jumps to an extreme consequence.",
+        "This fallacy involves predicting a chain of events."
+      ]
+    },
+    {
+      "question": "\"He's not qualified to give advice on health; he's not even a doctor!\" What logical fallacy is this?",
+      "options": [
+        "Ad hominem (Correct answer)",
+        "Slippery slope",
+        "False dichotomy",
+        "Straw man"
+      ],
+      "hints": [
+        "The name of this fallacy is Latin for \"to the man.\"",
+        "It distracts by focusing on qualifications rather than the argument's merits.",
+        "This fallacy attacks the person, not the argument."
+      ]
+    },
+    {
+      "question": "\"You can't trust the report. The scientist who wrote it believes in aliens.\" What logical fallacy is this?",
+      "options": [
+        "Ad hominem (Correct answer)",
+        "Straw man",
+        "Red herring",
+        "Slippery slope"
+      ],
+      "hints": [
+        "The name of this fallacy is Latin for \"to the man.\"",
+        "It distracts by bringing up an unrelated personal belief.",
+        "This fallacy attacks the person, not the argument."
+      ]
+    },
+    {
+      "question": "User",
+      "options": [
+        "Write 5 easy multiple choice questions about Conditional Reasoning",
+        "with 4 possible choices.  No explanations.  Add \"(Correct answer)\" to the right of the correct answer.  Add three hints below each question, but be careful not to give away the correct answer.",
+        "ChatGPT"
+      ],
+      "hints": []
+    },
+    {
+      "question": "If Sally goes to the store, then she will buy milk. Sally went to the store. What can be inferred from these statements?",
+      "options": [
+        "Sally did not buy milk.",
+        "Sally bought milk. (Correct answer)",
+        "Sally went to the store without buying milk.",
+        "The store does not sell milk."
+      ],
+      "hints": [
+        "Sally fulfilling the condition means the outcome should follow.",
+        "The second statement confirms the condition in the first statement.",
+        "This question deals with an if-then statement."
+      ]
+    },
+    {
+      "question": "If it rains, then the grass gets wet. The grass is not wet. What can be inferred from these statements?",
+      "options": [
+        "It did not rain. (Correct answer)",
+        "It rained.",
+        "The grass gets wet even if it doesn't rain.",
+        "None of the above."
+      ],
+      "hints": [
+        "The condition and outcome are linked in an if-then relationship.",
+        "When the outcome doesn't occur, the condition was likely not met.",
+        "This question involves a negative conclusion."
+      ]
+    },
+    {
+      "question": "If I study, then I will pass the test. I did not study. What can be inferred from these statements?",
+      "options": [
+        "I will not pass the test. (Correct answer)",
+        "I will pass the test.",
+        "I do not need to study to pass the test.",
+        "None of the above."
+      ],
+      "hints": [
+        "The non-fulfillment of the condition leads to a negative inference.",
+        "This question deals with an if-then statement.",
+        "The condition for the outcome did not occur."
+      ]
+    },
+    {
+      "question": "If it is sunny, then John will go to the beach. John is not at the beach. What can be inferred from these statements?",
+      "options": [
+        "It is not sunny. (Correct answer)",
+        "It is sunny.",
+        "John hates the beach.",
+        "The beach is closed."
+      ],
+      "hints": [
+        "The condition and outcome are linked in an if-then relationship.",
+        "If the outcome didn't occur, the condition wasn't likely met.",
+        "This question is about reverse inference."
+      ]
+    },
+    {
+      "question": "If a cat is a mammal, then it has fur. This cat does not have fur. What can be inferred from these statements?",
+      "options": [
+        "This cat is not a mammal. (Correct answer)",
+        "This cat is a mammal.",
+        "All mammals must have fur.",
+        "None of the above."
+      ],
+      "hints": [
+        "The lack of the outcome (fur) affects the classification of the cat.",
+        "The condition and outcome are linked in an if-then relationship.",
+        "The cat did not meet the condition set for mammals in this scenario."
+      ]
+    },
+    {
+      "question": "User",
+      "options": [
+        "Write 5 easy multiple choice questions about Causality",
+        "with 4 possible choices.  No explanations.  Add \"(Correct answer)\" to the right of the correct answer.  Add three hints below each question, but be careful not to give away the correct answer.",
+        "ChatGPT"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following best describes the concept of causality?",
+      "options": [
+        "The process of making a prediction.",
+        "The relationship between events where one event is the result of the other. (Correct answer)",
+        "The practice of making educated guesses.",
+        "The strategy of estimating probabilities."
+      ],
+      "hints": [
+        "This is a fundamental concept in science and logic.",
+        "Think about cause and effect.",
+        "Causality involves an event causing another."
+      ]
+    },
+    {
+      "question": "Which of these scenarios best exemplifies causality?",
+      "options": [
+        "The sun rises and the rooster crows.",
+        "Sarah studies, therefore she gets good grades. (Correct answer)",
+        "Bob is tall and he plays basketball.",
+        "Lucy likes to read because she has many books."
+      ],
+      "hints": [
+        "In the correct choice, one action leads to a result.",
+        "Causality involves a cause leading to an effect.",
+        "Look for a situation where one event directly results from another."
+      ]
+    },
+    {
+      "question": "John failed his test because he did not study. Which statement correctly identifies the cause and effect?",
+      "options": [
+        "The effect is John's failure on the test; the cause is his lack of studying. (Correct answer)",
+        "The effect is John's lack of studying; the cause is his failure on the test.",
+        "There is no cause or effect present in this situation.",
+        "Both the failure on the test and the lack of studying are effects."
+      ],
+      "hints": [
+        "The cause is the reason why something happened.",
+        "Think about what action led to the outcome.",
+        "The cause leads to the effect."
+      ]
+    },
+    {
+      "question": "In the scenario, \"If you touch a hot stove, you will get burned,\" what is the cause?",
+      "options": [
+        "Getting burned",
+        "The hot stove (Correct answer)",
+        "Touching the stove",
+        "All of the above"
+      ],
+      "hints": [
+        "The cause is the condition that leads to the consequence.",
+        "Think about what initiates the sequence of events.",
+        "The cause triggers the effect."
+      ]
+    },
+    {
+      "question": "Which of the following is NOT an example of causality?",
+      "options": [
+        "Eating spoiled food leads to food poisoning.",
+        "Increased studying results in better test scores.",
+        "Running faster than someone else means winning a race.",
+        "Living in Canada makes you like hockey. (Correct answer)"
+      ],
+      "hints": [
+        "One event directly leading to another is the essence of causality.",
+        "The correct choice doesn't present a direct cause-effect relationship.",
+        "Not all correlations or associations imply causality."
+      ]
+    },
+    {
+      "question": "Which statement represents an example of formal logic?",
+      "options": [
+        "Apples are fruit and all fruit grow on trees, so apples grow on trees. (Correct answer)",
+        "My car is red; therefore, all cars are red.",
+        "If it rains, then the sky is blue.",
+        "Tigers are animals, and my pet is an animal, so my pet is a tiger."
+      ],
+      "hints": [
+        "In the correct answer, the conclusion logically follows from the premises.",
+        "Think about deductive reasoning.",
+        "Look for a logically valid statement."
+      ]
+    },
+    {
+      "question": "In formal logic, what is a syllogism?",
+      "options": [
+        "A type of illogical statement.",
+        "An argument based on emotion.",
+        "A type of logical argument in which a conclusion is drawn from two given or assumed propositions. (Correct answer)",
+        "A statement that contradicts itself."
+      ],
+      "hints": [
+        "This term is often associated with deductive reasoning.",
+        "It involves drawing conclusions from given premises.",
+        "This is a foundational concept in formal logic."
+      ]
+    },
+    {
+      "question": "Which statement represents a logical fallacy?",
+      "options": [
+        "All apples are fruit. Some fruits are oranges. Therefore, some apples are oranges.",
+        "If it is raining, then the ground is wet. The ground is wet, so it is raining.",
+        "All cats are animals. Fluffy is a cat, so Fluffy is an animal.",
+        "Birds can fly. Penguins are birds. Therefore, penguins can fly. (Correct answer)"
+      ],
+      "hints": [
+        "The conclusion doesn't logically follow from the premises.",
+        "Not all birds can fly.",
+        "A logical fallacy is an error in reasoning."
+      ]
+    },
+    {
+      "question": "What does the logical operator 'AND' do in formal logic?",
+      "options": [
+        "It negates a statement.",
+        "It asserts that at least one of two conditions is true.",
+        "It asserts that both of the conditions are true. (Correct answer)",
+        "It creates a conditional statement."
+      ],
+      "hints": [
+        "Both conditions have to be satisfied.",
+        "Think about what happens when you say \"this AND that.\"",
+        "'AND' is a fundamental operator in logic."
+      ]
+    },
+    {
+      "question": "Which of the following is an example of a contradiction in formal logic?",
+      "options": [
+        "John is both tall and short. (Correct answer)",
+        "If it is sunny, then it is not raining.",
+        "All squares are rectangles, but not all rectangles are squares.",
+        "Either the light is on, or the light is off."
+      ],
+      "hints": [
+        "Look for a situation where a statement negates itself.",
+        "A contradiction involves two statements that cannot both be true at the same time.",
+        "In the correct answer, the two attributes are mutually exclusive."
+      ]
+    },
+    {
+      "question": "What is syllogistic reasoning primarily concerned with?",
+      "options": [
+        "Analyzing relationships and drawing conclusions based on premises. (Correct answer)",
+        "Identifying and analyzing logical fallacies.",
+        "Determining the probability of events.",
+        "Calculating the speed of light."
+      ],
+      "hints": [
+        "The conclusion is drawn from these premises.",
+        "It's based on given or assumed premises.",
+        "This is a type of logical reasoning."
+      ]
+    },
+    {
+      "question": "Which of the following is a classic example of a syllogism?",
+      "options": [
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal. (Correct answer)",
+        "It's raining, so the ground must be wet.",
+        "If you study, you will pass the exam.",
+        "Some cats are black, so some black things are cats."
+      ],
+      "hints": [
+        "Socrates often features in examples of syllogisms!",
+        "Look for a general statement and a specific statement that leads to a conclusion.",
+        "A syllogism typically involves two premises and a conclusion."
+      ]
+    },
+    {
+      "question": "Which term refers to the major premise in a syllogism?",
+      "options": [
+        "Proposition",
+        "Antecedent",
+        "Conclusion",
+        "Predicate (Correct answer)"
+      ],
+      "hints": [
+        "In \"All men are mortal; Socrates is a man; Therefore, Socrates is mortal,\" \"All men are mortal\" is the major premise.",
+        "This premise often contains a general statement.",
+        "The major premise usually contains the predicate of the conclusion."
+      ]
+    },
+    {
+      "question": "In the syllogism \"All birds have feathers. Penguins are birds. Therefore, penguins have feathers,\" what role does \"Penguins are birds\" play?",
+      "options": [
+        "It is the conclusion.",
+        "It is the minor premise. (Correct answer)",
+        "It is the major premise.",
+        "It is an assumption."
+      ],
+      "hints": [
+        "It's the second statement in a traditional syllogism.",
+        "This statement isn't the conclusion.",
+        "The minor premise typically contains the subject of the conclusion."
+      ]
+    },
+    {
+      "question": "Which of the following is an example of a false syllogism?",
+      "options": [
+        "All fruits grow on trees. Apples are fruits. Therefore, apples grow on trees.",
+        "All dogs bark. My pet barks. Therefore, my pet is a dog. (Correct answer)",
+        "All mammals have hair. Cats are mammals. Therefore, cats have hair.",
+        "All squares have four sides. A rectangle has four sides. Therefore, a rectangle is a square."
+      ],
+      "hints": [
+        "It's a logical fallacy.",
+        "The conclusion doesn't necessarily follow from the premises.",
+        "Not all things that bark are dogs."
+      ]
+    },
+    {
+      "question": "Analogical reasoning is used primarily to:",
+      "options": [
+        "Solve complex math problems.",
+        "Draw a comparison between two different things. (Correct answer)",
+        "Analyze logical fallacies.",
+        "Understand historical events."
+      ],
+      "hints": [
+        "Think about how analogies work.",
+        "It often compares a known thing to an unknown thing.",
+        "This type of reasoning involves similarity or likeness."
+      ]
+    },
+    {
+      "question": "Which of the following is an example of analogical reasoning?",
+      "options": [
+        "If it is raining, then the ground is wet.",
+        "If all A are B, and C is an A, then C is a Just like a sword is a weapon in war, a pen is a weapon in peace. (Correct answer)",
+        "If you get good grades, then you are intelligent."
+      ],
+      "hints": [
+        "A common saying about pens and swords might help you here.",
+        "The comparison is usually used to explain or justify something.",
+        "This question refers to comparing two different situations."
+      ]
+    },
+    {
+      "question": "Analogical reasoning is often used in:",
+      "options": [
+        "Scientific investigations. (Correct answer)",
+        "Calculating probabilities.",
+        "Developing programming algorithms.",
+        "Composing music."
+      ],
+      "hints": [
+        "It's not directly related to numbers or music.",
+        "Think about how scientists might compare a known situation to an unknown one.",
+        "Scientists often use this reasoning to form hypotheses."
+      ]
+    },
+    {
+      "question": "In the analogy \"Atoms are like solar systems,\" what is the underlying reasoning?",
+      "options": [
+        "Atoms and solar systems are both infinitely large.",
+        "Atoms have electrons orbiting the nucleus, like planets orbiting the sun in a solar system. (Correct answer)",
+        "Atoms and solar systems both contain life.",
+        "Atoms are part of solar systems."
+      ],
+      "hints": [
+        "This is a classic example of an analogy in physics.",
+        "Think about the comparison between electrons and planets.",
+        "It's about the structure of both atoms and solar systems."
+      ]
+    },
+    {
+      "question": "In analogical reasoning, the basis for the comparison is often:",
+      "options": [
+        "Unrelated to the subject matter.",
+        "A clear and direct correlation.",
+        "An observable fact. (Correct answer)",
+        "A vague similarity."
+      ],
+      "hints": [
+        "This type of reasoning relies on observable facts or experiences.",
+        "Consider what makes a good analogy.",
+        "The basis for the comparison needs to be strong enough to support the analogy."
+      ]
+    },
+    {
+      "question": "What is a recommended strategy when you don't know the answer to a question on a multiple-choice test?",
+      "options": [
+        "Guess randomly.",
+        "Skip it and return later if you have time. (Correct answer)",
+        "Leave the answer blank.",
+        "Write an explanation of why you don't know the answer."
+      ],
+      "hints": [
+        "You can always come back to a question later.",
+        "You don't want to get stuck on one question.",
+        "Use your time wisely."
+      ]
+    },
+    {
+      "question": "When is it best to review and double-check your answers?",
+      "options": [
+        "After answering each question.",
+        "Halfway through the test.",
+        "In the last 10 minutes of the test.",
+        "After you've finished the entire test, if there's time remaining. (Correct answer)"
+      ],
+      "hints": [
+        "It's always a good idea to double-check your work.",
+        "You want to ensure you've answered all questions first.",
+        "This strategy is related to time management."
+      ]
+    },
+    {
+      "question": "Which strategy can be used to tackle difficult questions on a test?",
+      "options": [
+        "Panic and rush through the question.",
+        "Skip all difficult questions.",
+        "Break the question down into smaller parts. (Correct answer)",
+        "Ask your neighbour for help."
+      ],
+      "hints": [
+        "This strategy involves simplifying the problem.",
+        "Take a systematic approach to understanding and answering the question.",
+        "Don't let difficult questions overwhelm you."
+      ]
+    },
+    {
+      "question": "What is one way to manage your time during a test?",
+      "options": [
+        "Spend the most time on questions you find interesting.",
+        "Allocate a specific amount of time for each question or section. (Correct answer)",
+        "Take as much time as you need on the first question before moving to the next.",
+        "Answer all the easy questions first, regardless of their point value."
+      ],
+      "hints": [
+        "Time management is crucial for successful test-taking.",
+        "It's all about balancing your time across all the questions.",
+        "This strategy helps ensure you attempt all sections of the test."
+      ]
+    },
+    {
+      "question": "Which strategy can help with understanding what a test question is asking?",
+      "options": [
+        "Writing a summary of each paragraph in the question.",
+        "Looking for keywords or phrases in the question. (Correct answer)",
+        "Reading the question in a different language.",
+        "Drawing a picture of the question."
+      ],
+      "hints": [
+        "It's about scanning the text effectively.",
+        "You're looking for the essence of what's being asked.",
+        "This strategy can help pinpoint what the question is focused on."
+      ]
+    },
+    {
+      "question": "User",
+      "options": [
+        "Write 5 easy multiple choice questions about Time Management",
+        "with 4 possible choices.  No explanations.  Add \"(Correct answer)\" to the right of the correct answer.  Add three hints below each question, but be careful not to give away the correct answer.",
+        "ChatGPT"
+      ],
+      "hints": []
+    },
+    {
+      "question": "Which of the following is an effective time management strategy?",
+      "options": [
+        "Procrastinating until the last minute.",
+        "Focusing on one task until it's perfect before moving on.",
+        "Prioritizing tasks based on importance and urgency. (Correct answer)",
+        "Starting with the easiest tasks first, regardless of their importance."
+      ],
+      "hints": [
+        "This strategy can help you decide what to work on first.",
+        "Not all tasks are created equal.",
+        "Consider the importance and deadlines of your tasks."
+      ]
+    },
+    {
+      "question": "How can you reduce the time spent on unimportant activities?",
+      "options": [
+        "Increase the time spent on other activities.",
+        "Learn to say \"no\" when necessary. (Correct answer)",
+        "Turn off all electronic devices.",
+        "Do all unimportant activities at once."
+      ],
+      "hints": [
+        "This could involve declining invitations or requests that are not essential.",
+        "You can't do everything.",
+        "This strategy is about setting boundaries."
+      ]
+    },
+    {
+      "question": "What strategy can help prevent feeling overwhelmed by a large project?",
+      "options": [
+        "Taking a vacation.",
+        "Ignoring the project until the deadline approaches.",
+        "Breaking the project down into manageable tasks. (Correct answer)",
+        "Focusing on the project until it's complete, without breaks."
+      ],
+      "hints": [
+        "It's all about simplifying the process.",
+        "This strategy involves making the project more manageable.",
+        "Large projects can seem less daunting when divided into smaller parts."
+      ]
+    },
+    {
+      "question": "How can setting goals help with time management?",
+      "options": [
+        "It makes you work faster.",
+        "It provides a clear direction and helps prioritize tasks. (Correct answer)",
+        "It allows you to do more tasks at the same time.",
+        "It ensures you always have something to do."
+      ],
+      "hints": [
+        "Think about long-term and short-term goals.",
+        "This strategy helps you know what's important.",
+        "Goals give you something to aim for."
+      ]
+    },
+    {
+      "question": "What is a common time management mistake?",
+      "options": [
+        "Taking breaks between tasks.",
+        "Setting unrealistic expectations for what can be achieved in a day. (Correct answer)",
+        "Prioritizing tasks based on importance.",
+        "Creating a schedule or to-do list."
+      ],
+      "hints": [
+        "It's about being realistic with your time.",
+        "This mistake can lead to stress and burnout.",
+        "Be careful about how much you think you can do."
+      ]
+    },
+    {
+      "question": "What is a useful strategy for managing stress during a high-pressure situation?",
+      "options": [
+        "Ignoring the stress and hoping it will go away on its own.",
+        "Taking a few deep breaths to calm down. (Correct answer)",
+        "Worrying about all the things that could go wrong.",
+        "Working continuously without taking any breaks."
+      ],
+      "hints": [
+        "This technique involves using your breath.",
+        "It's about controlling your body's reaction.",
+        "This technique can be done anywhere and anytime."
+      ]
+    },
+    {
+      "question": "When you're feeling overwhelmed, what could be a helpful way to manage your stress?",
+      "options": [
+        "Trying to do everything at once.",
+        "Avoiding the task or situation that's causing stress.",
+        "Taking a moment to write down what's on your mind. (Correct answer)",
+        "Telling yourself that your feelings of stress are not valid."
+      ],
+      "hints": [
+        "Paper and pen might be useful for this.",
+        "It involves acknowledging your stress.",
+        "It's a way to organize your thoughts."
+      ]
+    },
+    {
+      "question": "Which strategy could be effective in handling long-term stress?",
+      "options": [
+        "Neglecting self-care and focusing only on the task at hand.",
+        "Engaging in regular physical activity. (Correct answer)",
+        "Relying on unhealthy coping mechanisms, like excessive eating or drinking.",
+        "Suppressing your feelings and not talking to anyone about your stress."
+      ],
+      "hints": [
+        "You might sweat a bit with this strategy.",
+        "It can help in releasing tension.",
+        "This technique is good for both your mind and body."
+      ]
+    },
+    {
+      "question": "If you're feeling stressed out due to a heavy workload, what could be an effective strategy?",
+      "options": [
+        "Taking on more tasks to distract from the stress.",
+        "Prioritizing and delegating tasks when possible. (Correct answer)",
+        "Ignoring your feelings of stress until the work is done.",
+        "Working through the night to get everything done."
+      ],
+      "hints": [
+        "You might need to ask for help with this strategy.",
+        "It's about managing your tasks better.",
+        "Not every task has the same level of importance."
+      ]
+    },
+    {
+      "question": "What is a healthy way to handle pressure in a challenging situation?",
+      "options": [
+        "Pretending there is no pressure.",
+        "Criticizing yourself for feeling stressed.",
+        "Engaging in a relaxing activity, like reading or listening to music. (Correct answer)",
+        "Trying to solve all problems immediately without a break."
+      ],
+      "hints": [
+        "This method requires some \"me\" time.",
+        "This strategy can help calm your mind.",
+        "It's about taking a break and doing something you enjoy."
+      ]
+    },
+    {
+      "question": "Which of the following series follows the pattern: 2, 4, 8, 16, 32?",
+      "options": [
+        "48, 56, 64, 72",
+        "44, 56, 68, 80",
+        "40, 50, 60, 70",
+        "64, 128, 256, 512 (Correct answer)"
+      ],
+      "hints": [
+        "You might find this pattern in computer science.",
+        "It's about doubling.",
+        "The pattern is not arithmetic."
+      ]
+    },
+    {
+      "question": "Which of these shapes would be next in the pattern: Square, Circle, Triangle, Square, Circle?",
+      "options": [
+        "Circle",
+        "Square",
+        "Triangle (Correct answer)",
+        "Hexagon"
+      ],
+      "hints": [
+        "This pattern might remind you of a traffic sign.",
+        "It's not about changing the number of sides.",
+        "The pattern repeats every three shapes."
+      ]
+    },
+    {
+      "question": "If the pattern is: Red, Blue, Green, Red, Blue, Green. What would be the next color in the pattern?",
+      "options": [
+        "Yellow",
+        "Red (Correct answer)",
+        "Blue",
+        "Green"
+      ],
+      "hints": [
+        "This pattern might remind you of a traffic light.",
+        "The first and the fourth elements in the pattern are the same.",
+        "The pattern repeats every three colors."
+      ]
+    },
+    {
+      "question": "What is the next number in the pattern: 5, 10, 15, 20, 25?",
+      "options": [
+        "30 (Correct answer)",
+        "35",
+        "25",
+        "40"
+      ],
+      "hints": [
+        "This pattern might remind you of a multiplication table.",
+        "Each number increases by the same amount.",
+        "The pattern is arithmetic."
+      ]
+    },
+    {
+      "question": "If the pattern is: Monday, Wednesday, Friday, Monday, Wednesday, what would be the next day in the pattern?",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Thursday",
+        "Friday (Correct answer)"
+      ],
+      "hints": [
+        "This pattern might remind you of a workweek.",
+        "It's about skipping a day.",
+        "The pattern repeats every three days."
+      ]
+    }
+  ]
+}

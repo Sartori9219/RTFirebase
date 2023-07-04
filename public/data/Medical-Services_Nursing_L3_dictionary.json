@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, did you know that unicorns need special band-aids when they get hurt? They're called \"unicorn plasters!\"",
+        "Haha, I didn't know that! But it's always important to provide appropriate patient care, even if it's for mythical creatures."
+      ],
+      "options": [
+        "Patient Care (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that in some hospitals, they have a special ward just for people who've accidentally swallowed their phones!",
+        "Really? Well, I guess it's crucial to provide tailored patient care based on each individual's unique situation \u2013 even if it includes phone-swallowing incidents!"
+      ],
+      "options": [
+        "Patient Care (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If a robot gets sick, do you think we should treat it with oil changes and software updates?",
+        "That's an interesting thought! Providing patient care might look different for robots, but the key is to address their specific needs effectively."
+      ],
+      "options": [
+        "Patient Care (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just found out that the human body is 60% water. So, technically, we're all part mermaid, right?",
+        "Haha, I guess that's one way to look at it! But understanding anatomy and physiology helps us appreciate the complexity of the human body beyond our mermaid dreams."
+      ],
+      "options": [
+        "Anatomy and Physiology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If our bodies are like machines, does that mean our hearts are basically built-in drum machines? Thump-thump, thump-thump!",
+        "That's a fun analogy! While our hearts do create a rhythmic beat, studying anatomy and physiology reveals the intricate processes that keep our bodies functioning."
+      ],
+      "options": [
+        "Anatomy and Physiology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wonder if we could make a superhero based on anatomy and physiology knowledge. Introducing... \"Captain Corpuscle\"!",
+        "Haha, Captain Corpuscle would definitely have some impressive powers! Understanding anatomy and physiology is essential for healthcare professionals \u2013 maybe they're the real superheroes."
+      ],
+      "options": [
+        "Anatomy and Physiology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just learned the medical term for \"brain freeze\" is \"sphenopalatine ganglioneuralgia.\" Try saying that three times fast!",
+        "Haha, that's quite a mouthful! Medical terminology can be complex, but it helps healthcare professionals communicate clearly and accurately."
+      ],
+      "options": [
+        "Medical Terminology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If medical terms were secret codes, we could all be healthcare spies! \"The borborygmus is in the hypochondrium.\" \ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+        "That would certainly make things more mysterious! But in reality, medical terminology is essential for precise communication among healthcare providers."
+      ],
+      "options": [
+        "Medical Terminology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we replaced all medical terms with emojis? Like, instead of \"tachycardia,\" we could just use a super-fast beating heart emoji! \ud83d\udc93",
+        "It might be more fun, but using proper medical terminology ensures accurate and professional communication in healthcare settings. We wouldn't want any emoji mix-ups!"
+      ],
+      "options": [
+        "Medical Terminology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just invented a new dance move called \"The Hand Sanitizer.\" It's all about rubbing your hands together in style!",
+        "Haha, that's a fun way to promote infection control! Just remember, proper hand hygiene is essential for preventing the spread of germs in healthcare settings."
+      ],
+      "options": [
+        "Infection Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think superheroes like Germ-Buster and Captain Clean Hands could save the world from infections?",
+        "They'd certainly be helpful! But in reality, healthcare professionals play a crucial role in infection control by following proper procedures and guidelines."
+      ],
+      "options": [
+        "Infection Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we replaced all infection control measures with a giant bubble suit? Germs wouldn't stand a chance!",
+        "As entertaining as that sounds, it's important to rely on proven infection control practices, like handwashing and sterilization, to keep patients and healthcare workers safe."
+      ],
+      "options": [
+        "Infection Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just came up with a new way to administer medication \u2013 the \"Pillapult!\" It's like a catapult for pills, so you never have to touch them!",
+        "Haha, that's a creative idea! But when it comes to medication administration, accuracy, safety, and proper technique are crucial to ensure patients receive the right treatment."
+      ],
+      "options": [
+        "Medication Administration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if all medications were replaced with candy? Like, \"Here's your chocolate-flavored pain relief, enjoy!\"",
+        "That would definitely make taking medicine more enjoyable! However, it's essential to use real medications and follow proper administration guidelines."
+      ],
+      "options": [
+        "Medication Administration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've invented a new pill dispenser that looks like a tiny robot. It even does a little dance when it's time for your medication!",
+        "That sounds adorable! Just make sure it's still accurate and safe in dispensing the correct medications at the right times."
+      ],
+      "options": [
+        "Medication Administration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just took a first aid class, and I've decided to start carrying a superhero-style \"First Aid Utility Belt\" everywhere I go!",
+        "Haha, that's a fun way to be prepared! Just remember, knowing when and how to perform first aid and CPR correctly can save lives in emergency situations."
+      ],
+      "options": [
+        "First Aid and CPR (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we replaced traditional CPR with a dance routine? Like, every chest compression is accompanied by a disco move!",
+        "It might make CPR more entertaining, but it's important to follow proper techniques and guidelines to ensure the best possible outcome for the person in need."
+      ],
+      "options": [
+        "First Aid and CPR (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've created a new first aid kit that includes everything from band-aids to a rubber chicken \u2013 you never know when you'll need some comic relief during an emergency!",
+        "That's an interesting addition! Just make sure your first aid kit also has all the essential items needed to provide effective care in various situations."
+      ],
+      "options": [
+        "First Aid and CPR (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, remember that time when we assessed Mr. Potato Head's vitals during our nursing class? \ud83e\udd54",
+        "Haha, yeah! We had to check his eyes, ears, and even his detachable limbs! \ud83d\ude04 But the main point was to learn the proper patient assessment techniques."
+      ],
+      "options": [
+        "Patient Assessment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the nursing student who brought a stethoscope to a watermelon? \ud83c\udf49",
+        "Oh, I heard! They were trying to practice patient assessment on it! \ud83d\ude02 But, hey, at least they're dedicated to learning!"
+      ],
+      "options": [
+        "Patient Assessment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "During our patient assessment practice, I accidentally took the blood pressure of a teddy bear! \ud83e\uddf8",
+        "Oops! \ud83e\udd2d Well, as long as you learned the right technique, that's what matters. Next time, try it on a human, though!"
+      ],
+      "options": [
+        "Patient Assessment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that measuring a penguin's vital signs is quite similar to humans? \ud83d\udc27",
+        "Really?! That's so cool! But I guess we'll have to stick with human patients during our nursing class. \ud83d\ude02"
+      ],
+      "options": [
+        "Vital Signs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wonder what would happen if we took the vital signs of a superhero? \ud83d\udca5",
+        "Haha, their heart rate might be off the charts after saving the world! But let's focus on real-life patients for now. \ud83d\ude04"
+      ],
+      "options": [
+        "Vital Signs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, do you think plants have vital signs too? \ud83c\udf31",
+        "Not exactly, but they do have growth rates and other indicators of health. Still, we better stick to humans in our nursing class! \ud83d\ude09"
+      ],
+      "options": [
+        "Vital Signs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the nursing student who tried to bandage a banana peel? \ud83c\udf4c",
+        "Hahaha, yeah! They were just trying to practice their wound care skills. But maybe they should stick to more realistic scenarios! \ud83d\ude02"
+      ],
+      "options": [
+        "Wound Care (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had to treat wounds on a giant marshmallow man! \ud83e\udd14",
+        "Oh, that would be a sticky situation for sure! \ud83d\ude04 But let's focus on our human patients and their wound care needs."
+      ],
+      "options": [
+        "Wound Care (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think wound care would be different if we were treating aliens? \ud83d\udc7d",
+        "Who knows? Maybe they'd need some special techniques or materials. But for now, let's master wound care for our fellow Earthlings! \ud83d\ude09"
+      ],
+      "options": [
+        "Wound Care (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish we could communicate with our patients using interpretive dance! \ud83d\udc83",
+        "Haha, that would be entertaining! But for now, let's stick to developing our verbal and nonverbal communication skills. \ud83d\ude04"
+      ],
+      "options": [
+        "Communication Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If only we could use emojis to express ourselves during patient interactions! \ud83e\udd14",
+        "That would definitely be fun, but it might not be the most effective way to communicate. Let's focus on clear and empathetic communication instead. \ud83d\ude09"
+      ],
+      "options": [
+        "Communication Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had to communicate with our patients using only animal noises! \ud83d\udc12",
+        "Oh, that would be wild! \ud83d\ude02 But effective communication is key in nursing, so let's practice our human language skills!"
+      ],
+      "options": [
+        "Communication Skills (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard a nursing student tried to write their patient documentation in rhyme! \ud83d\udcdd",
+        "Haha, that's creative! But maybe they should stick to clear and concise language for accurate record-keeping. \ud83d\ude04"
+      ],
+      "options": [
+        "Documentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had to document our patient encounters using only emojis! \ud83d\ude37\ud83d\udc89\ud83c\udf21\ufe0f",
+        "That would be quite a challenge! But let's focus on using proper medical terminology and clear descriptions instead. \ud83d\ude09"
+      ],
+      "options": [
+        "Documentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could use invisible ink for our documentation? \ud83d\udd75\ufe0f\u200d\u2640\ufe0f",
+        "That would be fun, but not very practical! Accurate and accessible documentation is crucial in nursing, so let's stick to the standard methods. \ud83d\ude0a"
+      ],
+      "options": [
+        "Documentation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the nursing student who tried to learn every language in the world to improve their cultural competence? \ud83c\udf0d",
+        "Haha, that's ambitious! But understanding cultural differences and being empathetic can also go a long way in providing culturally competent care. \ud83d\ude04"
+      ],
+      "options": [
+        "Cultural Competence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we had to wear traditional clothing from our patients' cultures during clinicals? \ud83e\udde5",
+        "That would be an interesting experience! But let's focus on respecting and understanding our patients' cultural beliefs and practices instead. \ud83d\ude09"
+      ],
+      "options": [
+        "Cultural Competence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we could only provide care to patients from our own planet! \ud83d\udc7d",
+        "Haha, well, we don't have any extraterrestrial patients yet! For now, let's work on being culturally competent with the diverse populations we encounter on Earth. \ud83d\ude0a"
+      ],
+      "options": [
+        "Cultural Competence (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If only we could freeze time while treating patients, we'd never have to worry about time management! \u23f3",
+        "Haha, that would be amazing! But since we can't, let's focus on prioritizing tasks and being efficient in our daily routines. \ud83d\ude04"
+      ],
+      "options": [
+        "Time Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think nursing students in the future will have robot assistants to help with time management? \ud83e\udd16",
+        "That would be cool! But for now, let's work on developing our own time management skills and strategies. \ud83d\ude09"
+      ],
+      "options": [
+        "Time Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish I could clone myself so I could be in two places at once during clinicals! \ud83e\uddec",
+        "That would definitely help with time management! \ud83d\ude02 But since we can't, let's focus on planning, prioritizing, and delegating tasks when necessary."
+      ],
+      "options": [
+        "Time Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if there was a superhero nurse who fought for ethics and legal issues in healthcare? \ud83e\uddb8\u200d\u2640\ufe0f",
+        "Haha, that would be awesome! But for now, let's focus on understanding our professional responsibilities and advocating for our patients. \ud83d\ude04"
+      ],
+      "options": [
+        "Ethics and Legal Issues (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had to solve ethical dilemmas using rock-paper-scissors! \u270a\u270b\u270c\ufe0f",
+        "That would be an interesting approach! \ud83d\ude02 But let's stick to using critical thinking and following ethical guidelines in our decision-making."
+      ],
+      "options": [
+        "Ethics and Legal Issues (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard about a nursing student who tried to create their own code of ethics based on their favorite TV shows! \ud83d\udcfa",
+        "Haha, that's creative! But it's important to follow the established ethical principles and legal guidelines in our profession. \ud83d\ude09"
+      ],
+      "options": [
+        "Ethics and Legal Issues (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If laughter is the best medicine, can we just tell jokes to promote health and prevent disease? \ud83d\ude02",
+        "Haha, well, laughter does have some health benefits! But let's also focus on evidence-based strategies for health promotion and disease prevention. \ud83d\ude04"
+      ],
+      "options": [
+        "Health Promotion and Disease Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could prevent diseases by turning people into superheroes with immunity powers? \ud83d\udcaa",
+        "That would be amazing! But since we can't, let's work on educating our patients about healthy behaviors and preventive measures. \ud83d\ude09"
+      ],
+      "options": [
+        "Health Promotion and Disease Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we could use magical potions to promote health and prevent diseases! \ud83e\uddea",
+        "Oh, that would be fascinating! \ud83d\ude0a But in reality, let's rely on evidence-based practices and encourage our patients to adopt healthy lifestyles."
+      ],
+      "options": [
+        "Health Promotion and Disease Prevention (correct answer)"
+      ]
+    }
+  ]
+}

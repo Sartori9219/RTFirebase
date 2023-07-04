@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Dental Anatomy",
+        "Oral Hygiene",
+        "Dental Instruments",
+        "Infection Control",
+        "Dental Radiography",
+        "Chairside Assisting",
+        "Patient Management",
+        "Dental Materials",
+        "Dental Laboratory Procedures",
+        "Preventive Dentistry",
+        "Oral Pathology",
+        "Dental Emergencies",
+        "Orthodontics",
+        "Pediatric Dentistry",
+        "Office Management"
+    ],
+    "hints": {
+        "Dental Anatomy": "Study of the structure and function of teeth, as well as the surrounding oral tissues.",
+        "Oral Hygiene": "Techniques and practices to maintain a clean and healthy mouth, including proper brushing, flossing, and rinsing.",
+        "Dental Instruments": "Tools used by dental professionals, such as mirrors, probes, and forceps, to examine and treat patients.",
+        "Infection Control": "Methods and protocols for preventing the spread of infection in a dental office, including sterilization, disinfection, and personal protective equipment.",
+        "Dental Radiography": "The use of X-ray technology to capture images of a patient's teeth, bones, and surrounding tissues for diagnostic purposes.",
+        "Chairside Assisting": "Supporting the dentist during procedures by preparing instruments, ensuring patient comfort, and providing post-treatment instructions.",
+        "Patient Management": "Effective communication and interaction with patients to ensure their comfort and understanding of dental procedures.",
+        "Dental Materials": "Various substances used in dentistry, such as amalgam, composite resin, and dental cement, for restorative and preventive purposes.",
+        "Dental Laboratory Procedures": "Techniques used to fabricate dental appliances, such as crowns, bridges, and dentures, using impressions taken from patients.",
+        "Preventive Dentistry": "Practices aimed at preventing oral diseases, such as regular dental checkups, cleanings, and patient education on oral hygiene.",
+        "Oral Pathology": "Study of diseases affecting the oral cavity, including diagnosis, treatment, and prevention.",
+        "Dental Emergencies": "Recognition and management of urgent dental situations, such as toothaches, traumatic injuries, and infections.",
+        "Orthodontics": "Branch of dentistry focused on correcting irregularities in tooth alignment and bite using appliances like braces and retainers.",
+        "Pediatric Dentistry": "Specialized care for children's oral health, including preventive treatments, growth monitoring, and early intervention for dental issues.",
+        "Office Management": "Administrative tasks involved in running a dental practice, such as appointment scheduling, and billing."
+    }
+}

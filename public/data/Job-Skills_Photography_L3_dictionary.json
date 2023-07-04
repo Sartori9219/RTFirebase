@@ -1,0 +1,140 @@
+{
+  "questions": [
+    {
+      "question": [
+        "What if the camera aperture was like a magical portal, opening up to let light fairies in to paint our photos?",
+        "Haha, that's so whimsical! The wider the portal, the more fairies can join the party and create stunning images!"
+      ],
+      "options": [
+        "Aperture (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if apertures were like the eyes of camera monsters, squinting or widening to see better in different lighting conditions!",
+        "Oh, that's hilarious! They'd be like, \"Hmm, it's too dark. Let me just open up my eye a bit more to capture the perfect shot!\""
+      ],
+      "options": [
+        "Aperture (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Camera aperture as the grand entrance to a fancy ball, where light particles waltz in to create beautiful photographs!",
+        "I love it! The bigger the entrance, the more light guests can fit inside, making every photo a dazzling dance party."
+      ],
+      "options": [
+        "Aperture (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if shutter speed was like a ninja photographer, swiftly capturing moments in the blink of an eye?",
+        "Haha, that's so cool! The faster the ninja, the more they can freeze time and catch every detail in action."
+      ],
+      "options": [
+        "Shutter speed (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if shutter speed was a game show contestant trying to snap the perfect photo before time runs out!",
+        "Oh, that's hilarious! They'd be frantically adjusting their speed, aiming for that winning shot without any motion blur."
+      ],
+      "options": [
+        "Shutter speed (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Shutter speed as a time-traveling camera, speeding up or slowing down to capture different moments in history!",
+        "I love it! The faster the shutter, the quicker we can explore the past or future, one snapshot at a time."
+      ],
+      "options": [
+        "Shutter speed (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Program mode for a balance between automatic and manual control.",
+        "Hey, I just took this photo of a penguin wearing sunglasses! But it's too dark, what should I do?",
+        "No worries! Just use Lightroom to increase the exposure and brighten up that cool penguin!"
+      ],
+      "options": [
+        "Post-processing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I captured a picture of my cat riding a skateboard, but the background is so boring, any ideas?",
+        "Easy peasy! Use Photoshop to replace the background with a scene from outer space! Now your cat's an astronaut!"
+      ],
+      "options": [
+        "Post-processing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I got a great shot of a llama breakdancing, but the colors are dull. How can I make them pop?",
+        "Time to play with the Vibrance and Saturation sliders in your editing software! Your llama will be the life of the party!"
+      ],
+      "options": [
+        "Post-processing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just took a photo of a giraffe doing yoga, but I can't recover the details in the shadows. Why?",
+        "Did you shoot in JPEG? Next time, shoot in RAW format to have more control over editing and recover those hidden details!"
+      ],
+      "options": [
+        "RAW vs JPEG (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My photo of a turtle skydiving is too compressed! How can I avoid this?",
+        "Haha, that's wild! To avoid compression, shoot in RAW format. You'll get better quality and more flexibility in post-processing."
+      ],
+      "options": [
+        "RAW vs JPEG (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I captured an epic shot of a raccoon DJing at a party, but the colors look off when I edit it. Help!",
+        "Sounds like a fun party! Shoot in RAW next time for greater color depth and accuracy, so your raccoon DJ looks perfect!"
+      ],
+      "options": [
+        "RAW vs JPEG (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I took a photo of an octopus knitting a sweater, but it just doesn't look right. What should I do?",
+        "Try using the Rule of Thirds to frame your shot. Place the octopus or the sweater along the gridlines for a more balanced composition!"
+      ],
+      "options": [
+        "Framing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I snapped a pic of a squirrel doing karaoke, but the background is too cluttered. Any tips?",
+        "Frame your shot with some foreground elements, like leaves or branches, to create depth and draw attention to the singing squirrel!"
+      ],
+      "options": [
+        "Framing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I photographed a hedgehog playing the piano, but the image feels flat. Help!",
+        "Use leading lines in your composition! The piano keys can guide the viewer's eye straight to the musical hedgehog."
+      ],
+      "options": [
+        "Framing (correct answer)"
+      ]
+    }
+  ]
+}

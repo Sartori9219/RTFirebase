@@ -1,0 +1,408 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why does my poor old microwave sound like a rocket about to launch into space whenever I use it?",
+        "Looks like it's calling for help! Probably needs some regular checkups like the big machines at factories do."
+      ],
+      "options": [
+        "Basics of Industrial Maintenance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My toaster tried to play fireworks with my toast this morning, nearly scared me half to death!",
+        "Sounds like someone needs a crumb intervention! Just like how factories keep their machines clean to avoid bigger, kaboom problems."
+      ],
+      "options": [
+        "Basics of Industrial Maintenance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Oh, it could! As long as it gets its superhero maintenance, like some good old lubrication and inspections!"
+      ],
+      "options": [
+        "Basics of Industrial Maintenance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is my Chemistry professor dressed like she's about to fight off an alien invasion, just to handle some chemicals?",
+        "Ha! She's just adopting the superhero alias 'Professor PPE', defending herself from the hazardous 'Chemical Chaos'!"
+      ],
+      "options": [
+        "Safety and Personal Protective Equipment (PPE) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ever feel like those goggles in lab make you look like a mad scientist from a sci-fi movie?",
+        "Totally! But, hey, at least we\u2019re protected from any wild science experiments going wrong. Better safe than sorry."
+      ],
+      "options": [
+        "Safety and Personal Protective Equipment (PPE) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do construction workers look like they're going to an extreme sports event, with all that gear?",
+        "Oh, you mean their stylish ensemble of hard hats, reflective vests, and safety boots? That's just their version of a runway show, 'Safety Chic'!"
+      ],
+      "options": [
+        "Safety and Personal Protective Equipment (PPE) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my grandpa's vintage car rumble like an angry lion? Is it hungry or something?",
+        "Well, actually, it's singing the song of its people, a harmony of pistons, gears, and shafts all working together."
+      ],
+      "options": [
+        "Mechanical Systems and Components (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you ever imagine that elevators are just vertical trains operated by invisible conductors?",
+        "Sure, if by 'invisible conductors' you mean the intricate system of cables, pulleys, and counterweights!"
+      ],
+      "options": [
+        "Mechanical Systems and Components (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you noticed how escalators never get tired, like ever? What's their secret?",
+        "Ah, you see, they are powered by the magic of mechanical components, the unsung heroes: motors and gears!"
+      ],
+      "options": [
+        "Mechanical Systems and Components (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you ever wonder if behind each light switch there's a tiny little gremlin that springs into action when you flip it?",
+        "Oh definitely, a gremlin named 'Electric Current' darting through wires and illuminating our bulbs!"
+      ],
+      "options": [
+        "Electrical Systems and Components (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my toaster pop up toast like a surprised jack-in-the-box?",
+        "Well, it's the amazing dance of electrical components - resistors heat up, timers keep track, and springs... spring!"
+      ],
+      "options": [
+        "Electrical Systems and Components (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ever thought about our phones being like little electric cities, with all the signals running about?",
+        "Absolutely, with circuits as roads and electrons as super speedy commuters!"
+      ],
+      "options": [
+        "Electrical Systems and Components (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin told me that his car's brakes are powered by some kind of liquid. That can't be right, can it?",
+        "Absolutely! It's a part of the car's superhero team - the Hydraulics League, using the power of liquids under pressure to save the day!"
+      ],
+      "options": [
+        "Hydraulic Systems and Components (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ever wondered how the loaders at the construction site lift those massive weights? Are they on a secret spinach diet like Popeye?",
+        "Ha! More like they're chugging down hydraulic fluid instead of spinach, using pressurized power to flex their 'muscles'!"
+      ],
+      "options": [
+        "Hydraulic Systems and Components (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do the doors at the mall swing open like magic when you approach them? Is there a tiny wizard casting 'Alohomora' each time?",
+        "Well, not a wizard, but a hydraulic system definitely casting its spell, making heavy doors swing open effortlessly!"
+      ],
+      "options": [
+        "Hydraulic Systems and Components (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you ever thought about the job of air at the gas station? I mean, pumping up tires seems pretty glamorous, right?",
+        "Oh absolutely, it's just air's side gig in the exciting world of pneumatics. Pumping up the jam, or in this case, the tire!"
+      ],
+      "options": [
+        "Pneumatic Systems and Components (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think the pneumatic tubes at the bank drive-through are basically mini rollercoasters for checks and cash?",
+        "Absolutely! And the rush of the ride, that's the pneumatic system making everything zoom!"
+      ],
+      "options": [
+        "Pneumatic Systems and Components (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my office chair lower when I pull that lever? Is there an invisible weightlifter doing squats?",
+        "Not quite, it's just the pneumatic system flexing its muscles. Who knew sitting could be so high tech?"
+      ],
+      "options": [
+        "Pneumatic Systems and Components (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my mechanic insist on checking my car even when it's running just fine? Is he playing detective or something?",
+        "Oh yes, Sherlock 'Mechanic' Holmes at your service, preventing any future mysteries of the broken-car type!"
+      ],
+      "options": [
+        "Preventive Maintenance and Inspection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know, I'm pretty sure my bicycle is in a long-term relationship with the repair shop. It seems to spend more time there than with me.",
+        "Ah, the timeless love story of preventive maintenance and inspection. Keeps your ride smooth and heartache-free!"
+      ],
+      "options": [
+        "Preventive Maintenance and Inspection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My refrigerator manual says I should clean the coils regularly. Sounds like a spa treatment for fridges.",
+        "Definitely! Consider it like a detox retreat for your fridge, keeping it cool and happy."
+      ],
+      "options": [
+        "Preventive Maintenance and Inspection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my printer act like it's auditioning for a horror movie every time I try to print my assignments?",
+        "Sounds like it's playing 'spot the issue'. It's your turn to figure out the plot twist and get it back on script!"
+      ],
+      "options": [
+        "Troubleshooting and Problem Solving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my coffee maker hiss and sputter like a disgruntled cat when I'm trying to make a latte?",
+        "Ah, the classic whodunit mystery! Maybe it's time to play detective and solve the 'case of the grumpy coffee maker'."
+      ],
+      "options": [
+        "Troubleshooting and Problem Solving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My gaming console freezes right at the final boss level. It's like it enjoys seeing me suffer.",
+        "Well, time to wear your troubleshooting hat. It's like an added game level, 'Mission: Unfreeze Console'!"
+      ],
+      "options": [
+        "Troubleshooting and Problem Solving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my bike squeak like a family of mice having a party every time I pedal?",
+        "Seems like your bike's way of requesting some 'lube service'. A bit of grease and it will pedal quietly like a stealthy cat."
+      ],
+      "options": [
+        "Lubrication and Bearings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My skateboard grinds like it's chewing gravel. Should I be worried?",
+        "Might be your bearings calling for help. A little lubrication might just turn that gravel into a smooth glide."
+      ],
+      "options": [
+        "Lubrication and Bearings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my office chair sound like an old haunted house door every time I swivel?",
+        "Seems like your chair's bearings are auditioning for a role in a horror movie. Some lubrication could get them back to a quiet office drama."
+      ],
+      "options": [
+        "Lubrication and Bearings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do welders wear masks? Are they moonlighting as superheroes or something?",
+        "You got it! By day, regular welders. By night, 'Masters of Sparks', using their superpowers to fuse metal!"
+      ],
+      "options": [
+        "Welding and Fabrication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I saw this guy in the shop heating and bending metal as if it was a twisty balloon at a kid's party!",
+        "Ah, a rare sighting of the elusive 'Metal Magician', showcasing the magic trick of fabrication!"
+      ],
+      "options": [
+        "Welding and Fabrication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does welding look like a miniature fireworks show? Are they celebrating something?",
+        "Indeed, they're celebrating the beautiful union of two metals, brought together in a sparkling ceremony of welding!"
+      ],
+      "options": [
+        "Welding and Fabrication (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My car's engine sounds like a sleepy dragon, growling and grumbling. Should I be scared?",
+        "Oh no need to worry! It's just your motor, the heart of the dragon, pumping power through your ride."
+      ],
+      "options": [
+        "Pumps and Motors (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my swimming pool filter hum like it's meditating? Is it seeking inner peace or something?",
+        "Ha! It's just your pool pump, channeling its 'Zen' to keep your pool clean and fresh."
+      ],
+      "options": [
+        "Pumps and Motors (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my washing machine sound like it's orchestrating a symphony during the spin cycle?",
+        "Well, that's the electric motor inside, acting as the conductor for the 'Symphony of Spin'!"
+      ],
+      "options": [
+        "Pumps and Motors (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do airport luggage carousels remind me of lazy rivers at water parks, just with bags instead of tubes?",
+        "Oh absolutely, it's the Baggage River Adventure, courtesy of the amazing conveyor system!"
+      ],
+      "options": [
+        "Conveyor Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ever notice how sushi on a conveyor belt feels like a parade of deliciousness just passing by?",
+        "Definitely, a foodie's dream runway show. Thanks to the magic carpet of the culinary world: the conveyor system!"
+      ],
+      "options": [
+        "Conveyor Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the escalator at the mall never get tired? Always just up and down, up and down.",
+        "Well, that's because it's powered by a super-strong conveyor system, tirelessly working to elevate your shopping experience!"
+      ],
+      "options": [
+        "Conveyor Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the amusement park ride feel like it's choreographed to a specific rhythm? Is there a secret director backstage?",
+        "Close enough! It's the PLC, the 'Director of Dips and Twists', ensuring a perfectly timed roller coaster experience!"
+      ],
+      "options": [
+        "Programmable Logic Controllers (PLCs) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my washing machine behave like it's following a secret code every time I load it with dirty clothes?",
+        "Ah, that's the secret agent PLC, executing its mission to provide you with perfectly clean clothes!"
+      ],
+      "options": [
+        "Programmable Logic Controllers (PLCs) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the traffic light always know when to change colors? Is it psychic?",
+        "Not psychic, but it does have a smart buddy called PLC, who tells it when it's time to change its outfit!"
+      ],
+      "options": [
+        "Programmable Logic Controllers (PLCs) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my new refrigerator sound like it's doing yoga breaths instead of the old one's constant wheeze?",
+        "Sounds like your new refrigerator is into energy efficiency. Must be doing 'Energy Savasana' between cooling cycles!"
+      ],
+      "options": [
+        "Energy Efficiency and Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my house feel like it's playing 'Red Light, Green Light' with the lights when I'm not in the room?",
+        "Ah, seems like your house is playing the 'Energy Efficiency Game', turning off lights when you're not around!"
+      ],
+      "options": [
+        "Energy Efficiency and Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my car feel like it's taking power naps at the traffic lights?",
+        "Your car is just practicing energy management, catching a quick 'engine nap' at red lights to save fuel!"
+      ],
+      "options": [
+        "Energy Efficiency and Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my uncle always seem so excited about his job at the power plant? Is it really a secret superhero training facility?",
+        "Close! He's an 'Energy Hero' in industrial maintenance, keeping things running smoothly and saving the day, one power plant at a time!"
+      ],
+      "options": [
+        "Career Opportunities in Industrial Maintenance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My sister works at a factory and is always talking about machines. Has she been adopted by the Transformers?",
+        "Not quite, but as an industrial maintenance technician, she does communicate with machines and keep them in top shape. So, in a way, she's a real-life Transformer!"
+      ],
+      "options": [
+        "Career Opportunities in Industrial Maintenance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my dad, working in the oil industry, talk about pumps and motors as if they're his old buddies?",
+        "Well, as an industrial maintenance professional, they sort of are! Keeping them in good working order is his job and his passion."
+      ],
+      "options": [
+        "Career Opportunities in Industrial Maintenance (correct answer)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I heard Mesopotamia was like the first civilization ever. What made it so special?"
+      ],
+      "options": [
+        "Mesopotamia (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did people in Mesopotamia live in mud huts or something?"
+      ],
+      "options": [
+        "Mesopotamia (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, Mesopotamia was just one big empire, right?"
+      ],
+      "options": [
+        "Mesopotamia (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard the Ancient Egyptians had a strange obsession with cats. Is that true?"
+      ],
+      "options": [
+        "Ancient Egypt (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, the pyramids were just giant tombs for the pharaohs, right? Seems like a lot of work for just one person.",
+        "Indeed, they were built as tombs, but they also showcased the pharaoh's power and wealth, ensuring their legacy lived on for eternity!"
+      ],
+      "options": [
+        "Ancient Egypt (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bet Ancient Egyptian parties were pretty dull without a proper calendar to plan them."
+      ],
+      "options": [
+        "Ancient Egypt (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard the Indus Valley folks were super organized. Is that true?"
+      ],
+      "options": [
+        "Indus Valley Civilization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, did the people of the Indus Valley just write on walls like cave people?",
+        "Not at all! They actually developed their own undeciphered script, which was used on seals and pottery. Who knows what mysteries it might hold?"
+      ],
+      "options": [
+        "Indus Valley Civilization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm guessing the Indus Valley Civilization didn't have much fun, right? Just work and no play?",
+        "You'd be surprised! They made beautiful art, toys, and even board games. It seems they knew how to balance work and leisure quite well."
+      ],
+      "options": [
+        "Indus Valley Civilization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that Ancient China had a thing for dragons. Were they obsessed with mythical creatures or what?"
+      ],
+      "options": [
+        "Ancient China (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, did people in Ancient China just write on bamboo all the time?",
+        "They did use bamboo, but they also invented something even more revolutionary \u2013 paper! Imagine how many trees they saved with that invention."
+      ],
+      "options": [
+        "Ancient China (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bet life in Ancient China was pretty dull without any fun stuff like fireworks.",
+        "Actually, they were the ones who invented fireworks! They used them for celebrations and even to scare away evil spirits. Talk about a bright idea!"
+      ],
+      "options": [
+        "Ancient China (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did Ancient Greeks just sit around all day, chatting about philosophy and stuff?"
+      ],
+      "options": [
+        "Ancient Greece (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that Ancient Greeks had some pretty wild stories about gods and heroes. What's up with that?"
+      ],
+      "options": [
+        "Ancient Greece (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, democracy is an American thing, right?",
+        "Not quite! The idea of democracy actually began in Ancient Greece, specifically in Athens. They were the trendsetters for giving power to the people."
+      ],
+      "options": [
+        "Ancient Greece (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that Romans just copied everything from the Greeks. Is that true?"
+      ],
+      "options": [
+        "Roman Empire (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did Roman emperors really have epic parties with gladiators and chariot races?",
+        "You bet! They loved to entertain the masses with thrilling spectacles at venues like the Colosseum. It was their version of a blockbuster movie night."
+      ],
+      "options": [
+        "Roman Empire (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I time-traveled to Ancient Rome, would I be able to grab a slice of pizza?"
+      ],
+      "options": [
+        "Roman Empire (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, the Byzantine Empire was just a fancy name for the Roman Empire 2.0, right?"
+      ],
+      "options": [
+        "Byzantine Empire (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bet the Byzantine Empire had some pretty dull architecture, huh?"
+      ],
+      "options": [
+        "Byzantine Empire (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I lived in the Byzantine Empire, would I need to learn Latin like the Romans?"
+      ],
+      "options": [
+        "Byzantine Empire (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, during the Islamic Golden Age, they just sat around reading the Quran all day, right?"
+      ],
+      "options": [
+        "Islamic Golden Age (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that people in the Islamic Golden Age loved their coffee as much as we do today. Is that true?"
+      ],
+      "options": [
+        "Islamic Golden Age (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bet there wasn't much art during the Islamic Golden Age since they couldn't depict people, right?"
+      ],
+      "options": [
+        "Islamic Golden Age (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, did everyone in Medieval Europe live in castles and fight dragons all day?"
+      ],
+      "options": [
+        "Medieval Europe (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard knights in Medieval Europe had to follow some kind of code, like superheroes or something. Is that true?"
+      ],
+      "options": [
+        "Medieval Europe (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did people in Medieval Europe just communicate by sending messages tied to the legs of birds?"
+      ],
+      "options": [
+        "Medieval Europe (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, the Crusades were like a medieval road trip to the Holy Land, right?"
+      ],
+      "options": [
+        "The Crusades (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that during the Crusades, knights would just charge into battle without any strategy. Is that true?"
+      ],
+      "options": [
+        "The Crusades (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did the Crusades bring anything good to Europe, or was it just endless fighting?"
+      ],
+      "options": [
+        "The Crusades (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, during the Renaissance, everyone just suddenly became amazing artists and thinkers, right?"
+      ],
+      "options": [
+        "The Renaissance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that Renaissance folks loved digging up old stuff. Were they just history nerds?"
+      ],
+      "options": [
+        "The Renaissance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bet people in the Renaissance had some pretty wild fashion sense, right?",
+        "You could say that! Rich colors, luxurious fabrics, and elaborate designs were all the rage. It was the perfect time to make a fashion statement!"
+      ],
+      "options": [
+        "The Renaissance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, the Reformation was just a bunch of people complaining about the Catholic Church?"
+      ],
+      "options": [
+        "The Reformation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did the Reformation only happen because some guy got mad and nailed a paper to a church door?"
+      ],
+      "options": [
+        "The Reformation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that during the Reformation, everyone suddenly started reading the Bible in their own languages. Is that true?"
+      ],
+      "options": [
+        "The Reformation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, during the Age of Exploration, people just sailed around for fun, like a never-ending vacation?"
+      ],
+      "options": [
+        "Age of Exploration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that explorers in the Age of Exploration were terrible with directions. Is that true?"
+      ],
+      "options": [
+        "Age of Exploration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did people during the Age of Exploration just sail around in tiny boats, hoping they wouldn't sink?"
+      ],
+      "options": [
+        "Age of Exploration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, during the Scientific Revolution, people just woke up one day and decided to be scientists?"
+      ],
+      "options": [
+        "The Scientific Revolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that during the Scientific Revolution, some guy took a look at the stars and completely changed how we see the universe. Is that true?"
+      ],
+      "options": [
+        "The Scientific Revolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did people in the Scientific Revolution just mix random chemicals together and hope for the best?"
+      ],
+      "options": [
+        "The Scientific Revolution (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, during the Enlightenment, everyone just sat in dimly lit rooms and thought really hard?"
+      ],
+      "options": [
+        "The Enlightenment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that during the Enlightenment, people were obsessed with social contracts. Were they all just lawyers in training?"
+      ],
+      "options": [
+        "The Enlightenment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did people in the Enlightenment only care about serious stuff like politics and philosophy?"
+      ],
+      "options": [
+        "The Enlightenment (correct answer)"
+      ]
+    }
+  ]
+}

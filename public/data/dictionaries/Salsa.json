@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Basic Step",
+        "Cross-Body Lead",
+        "Open Break",
+        "Inside Turn",
+        "Outside Turn",
+        "Hammerlock Position",
+        "Copa",
+        "Suzy Q",
+        "Spotting",
+        "Syncopation",
+        "Hand Toss",
+        "Timing",
+        "Styling",
+        "Musicality",
+        "Partner Connection"
+    ],
+    "hints": {
+        "Basic Step": "The foundation of Salsa dance; a three-step pattern followed by a pause, repeated in the opposite direction.",
+        "Cross-Body Lead": "A common pattern in Salsa where the follower is led across the leader's body.",
+        "Open Break": "A move where the partners create space between each other before coming back together.",
+        "Inside Turn": "A turn for the follower where they rotate clockwise when the leader's hand is on the follower's right hand.",
+        "Outside Turn": "The opposite of an inside turn; the follower rotates counterclockwise with the leader's hand on the follower's right hand.",
+        "Hammerlock Position": "A position where one's arm is turned and folded behind their back, often leading into other movements.",
+        "Copa": "Also known as an \"In and Out\" move; a figure in which the follower steps in towards the leader and is then spun out.",
+        "Suzy Q": "A Salsa footwork pattern that involves crossing one foot over the other.",
+        "Spotting": "A technique used during turns and spins to prevent dizziness and maintain balance.",
+        "Syncopation": "A rhythmic effect produced when a normally weak beat is stressed, common in Salsa music.",
+        "Hand Toss": "A move in which the leader \"tosses\" the follower's hand to initiate a turn.",
+        "Timing": "The ability to move with the beat of the music.",
+        "Styling": "The personal expression and embellishments added to the dance, giving it flair.",
+        "Musicality": "The dancer's sensitivity to and interpretation of the music's rhythm, tempo, and mood.",
+        "Partner Connection": "The communication between dance partners through physical touch and visual cues."
+    }
+}

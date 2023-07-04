@@ -1,0 +1,386 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Executive Eagle, I just wrote a song about our favorite pizza toppings. Should we make it the national anthem?"
+      ],
+      "options": [
+        "Separation of Powers (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, Executive Eagle, I'm planning to paint my courtroom walls. What color do you think would be best?",
+        "Judicial Jellyfish, as much as I love colors, I'm busy executing laws. You should ask Legislative Lion \u2013 they have a knack for decision-making!"
+      ],
+      "options": [
+        "Separation of Powers (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Legislative Lion, I just found this new ice cream flavor \u2013 Constitution Crunch! Want to try some?"
+      ],
+      "options": [
+        "Separation of Powers (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, Legislative Lion, I just invented a new dance move called \"The Veto\"! Want to learn it?",
+        "Oh, Executive Eagle, you're always trying to keep me in check! But don't forget, I can always respond with my own dance move \u2013 \"The Override\"!"
+      ],
+      "options": [
+        "Checks and Balances (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Legislative Lion, I noticed you've been baking lots of laws lately. Mind if I have a taste to make sure they're constitutionally delicious?",
+        "Sure thing, Judicial Jellyfish! Just remember, I've got my own recipe book to make new laws if you find any ingredients unsavory."
+      ],
+      "options": [
+        "Checks and Balances (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Executive Eagle, I heard you've been enforcing the new Fashion Police law with gusto! How's that going?"
+      ],
+      "options": [
+        "Checks and Balances (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, State Squirrel, I noticed you've been collecting acorns for the winter. How's that going?",
+        "It's going great, Federal Fox! We're working together to make sure we both have enough acorns to last through the cold months."
+      ],
+      "options": [
+        "Federalism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Federal Fox, I heard you're organizing a national tree-planting day. Can I join in and plant some trees in my state?",
+        "Absolutely, State Squirrel! We'll provide the guidelines, and you can customize the event to suit your state's unique landscape."
+      ],
+      "options": [
+        "Federalism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "State Squirrel, I just finished painting a mural representing our shared responsibilities. Want to add your artistic touch?",
+        "Of course, Federal Fox! Let's create a masterpiece that showcases the harmonious balance of power between us."
+      ],
+      "options": [
+        "Federalism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, Constitution Cat, I just wrote a poem about our freedom of speech. Want to hear it?",
+        "Of course, Amendment Antelope! Your artistic expression is protected and celebrated in the Bill of Rights."
+      ],
+      "options": [
+        "Bill of Rights (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Amendment Antelope, I heard you started a new club called \"The Right to Assemble Crew.\" How's that going?",
+        "It's fantastic, Constitution Cat! We gather to discuss various topics, knowing our right to peaceful assembly is secured by the Bill of Rights."
+      ],
+      "options": [
+        "Bill of Rights (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Constitution Cat, I just built a treehouse to protect myself from unreasonable searches and seizures. Want to come over for a visit?",
+        "Absolutely, Amendment Antelope! Your Fourth Amendment-inspired treehouse sounds like a cozy fortress of privacy."
+      ],
+      "options": [
+        "Bill of Rights (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, Constitution Cat, I just finished reviewing the latest episode of \"Law & Order.\" Do you think it's constitutionally accurate?",
+        "Judge Jaguar, your judicial review skills are so sharp that even fictional courtrooms can't escape your scrutiny!"
+      ],
+      "options": [
+        "Judicial Review (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Constitution Cat, I've been practicing my gavel swing. Check out my technique for striking down unconstitutional laws!",
+        "Wow, Judge Jaguar! With a swing like that, no unconstitutional law stands a chance in your courtroom."
+      ],
+      "options": [
+        "Judicial Review (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Judge Jaguar, I heard you started a band called \"The Justices.\" What kind of music do you play?",
+        "Our specialty is rockin' the Judicial Review Blues, Constitution Cat! We make sure every tune we play follows the rhythm of the Constitution."
+      ],
+      "options": [
+        "Judicial Review (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Constitution Cat, I just opened a new bakery called \"Fair Trial Treats.\" Care to sample our unbiased confections?",
+        "Absolutely, Due Process Dingo! Your commitment to fairness and justice makes your pastries even sweeter."
+      ],
+      "options": [
+        "Due Process (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Due Process Dingo, I heard you've been teaching a yoga class called \"Balanced Justice Flow.\" How's that going?",
+        "It's fantastic, Constitution Cat! We focus on maintaining balance and fairness in every pose, just like due process does in the legal system."
+      ],
+      "options": [
+        "Due Process (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Constitution Cat, I've designed a board game called \"Due Process Dash.\" Want to play?",
+        "I'd love to, Due Process Dingo! Let's roll the dice and navigate the twists and turns of fair legal procedures together."
+      ],
+      "options": [
+        "Due Process (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Constitution Cat, I just started a fashion line called \"Equal Styles.\" All our clothes are designed to be inclusive and accessible. What do you think?",
+        "That sounds fantastic, Equality Elephant! Your commitment to equal protection makes your fashion line a trendsetter in more ways than one."
+      ],
+      "options": [
+        "Equal Protection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Equality Elephant, I heard you've been hosting a weekly game night called \"Fair Play Fridays.\" How's that going?",
+        "It's a blast, Constitution Cat! We make sure everyone has an equal chance to play and win, just like the principle of equal protection under the law."
+      ],
+      "options": [
+        "Equal Protection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Constitution Cat, I've created a new dance called \"The Equalizer.\" Want to join me in spreading the message of equal protection through dance?",
+        "I'd love to, Equality Elephant! Let's show the world that the spirit of equal protection can be embodied in every move we make."
+      ],
+      "options": [
+        "Equal Protection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That sounds amazing, Supreme Skunk! Your commitment to the Supremacy Clause makes your diner the ultimate spot for a constitutionally-satisfying meal."
+      ],
+      "options": [
+        "Supremacy Clause (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Supreme Skunk, I heard you've been teaching a painting class called \"Federal Masterpieces.\" How's that going?",
+        "It's fantastic, Constitution Cat! We make sure our artistic creations respect federal laws, showcasing the beauty of the Supremacy Clause through art."
+      ],
+      "options": [
+        "Supremacy Clause (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Constitution Cat, I've designed a board game called \"Supremacy Showdown.\" Want to play and test your knowledge of federal law supremacy?",
+        "I'd love to, Supreme Skunk! Let's roll the dice and navigate the hierarchy of laws in this Supremacy Clause-inspired game."
+      ],
+      "options": [
+        "Supremacy Clause (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That sounds fantastic, Commerce Camel! Your store is a perfect example of how the Commerce Clause connects our nation through trade."
+      ],
+      "options": [
+        "Commerce Clause (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Commerce Camel, I heard you've been hosting a cooking show called \"Cross-State Cuisine.\" How's that going?",
+        "It's delicious, Constitution Cat! We use ingredients from all over the country, showcasing how the Commerce Clause unites us through food."
+      ],
+      "options": [
+        "Commerce Clause (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Constitution Cat, I've created a crossword puzzle called \"Commerce Conundrum.\" Want to solve it and learn more about the Commerce Clause?",
+        "I'd love to, Commerce Camel! Let's dive into this puzzle and discover the many ways the Commerce Clause shapes our nation."
+      ],
+      "options": [
+        "Commerce Clause (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That sounds fantastic, Necessary Numbat! Your gym embodies the spirit of the Necessary and Proper Clause by promoting strength and adaptability."
+      ],
+      "options": [
+        "Necessary and Proper Clause (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Necessary Numbat, I heard you've been hosting a gardening club called \"Elastic Green Thumbs.\" How's that going?",
+        "It's thriving, Constitution Cat! We cultivate plants that represent the flexibility and growth afforded by the Necessary and Proper Clause."
+      ],
+      "options": [
+        "Necessary and Proper Clause (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Constitution Cat, I've created a card game called \"Elasticity Explorers.\" Want to play and learn more about the Necessary and Proper Clause?",
+        "I'd love to, Necessary Numbat! Let's shuffle the deck and explore the adaptable nature of the Necessary and Proper Clause in this exciting game."
+      ],
+      "options": [
+        "Necessary and Proper Clause (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That sounds fantastic, Free Speech Flamingo! I'd love to join you in celebrating our freedom of expression on your podcast."
+      ],
+      "options": [
+        "Free Speech (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Free Speech Flamingo, I heard you've been hosting an open mic night called \"Speak Your Mind Mondays.\" How's that going?",
+        "It's amazing, Constitution Cat! We provide a platform for everyone to share their thoughts and ideas, showcasing the power of free speech."
+      ],
+      "options": [
+        "Free Speech (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Constitution Cat, I've organized a parade called \"Freedom of Expression Fiesta.\" Want to join in and celebrate our right to free speech?",
+        "I'd love to, Free Speech Flamingo! Let's march together and express ourselves in this vibrant display of our First Amendment rights."
+      ],
+      "options": [
+        "Free Speech (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That sounds fantastic, Religious Raccoon! Your caf\u00e9 is a beautiful representation of the diversity and harmony that freedom of religion brings."
+      ],
+      "options": [
+        "Freedom of Religion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Religious Raccoon, I heard you've been hosting a book club called \"Sacred Stories.\" How's that going?"
+      ],
+      "options": [
+        "Freedom of Religion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Constitution Cat, I've organized a festival called \"Spiritual Spectrum.\" Want to join and celebrate the beauty of freedom of religion?"
+      ],
+      "options": [
+        "Freedom of Religion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That sounds fantastic, Armed Armadillo! I'd love to learn more about responsible firearm use while respecting our Second Amendment rights."
+      ],
+      "options": [
+        "Right to Bear Arms (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Armed Armadillo, I heard you've been hosting a paintball tournament called \"Colorful Constitutionals.\" How's that going?"
+      ],
+      "options": [
+        "Right to Bear Arms (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'd love to, Armed Armadillo! Let's come together and show that responsible firearm use can contribute positively to our community."
+      ],
+      "options": [
+        "Right to Bear Arms (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That sounds fantastic, Privacy Platypus! Your bookstore is a perfect sanctuary for those who value their privacy rights."
+      ],
+      "options": [
+        "Privacy Rights (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Privacy Platypus, I heard you've been hosting a meditation retreat called \"Inner Sanctuary.\" How's that going?"
+      ],
+      "options": [
+        "Privacy Rights (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'd love to, Privacy Platypus! Let's explore the features of your app and learn how to better protect our privacy in the digital world."
+      ],
+      "options": [
+        "Privacy Rights (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Civil Rights and Liberties (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Liberty Lemur, I heard you've been hosting a film festival called \"Cinema of Civil Rights.\" How's that going?"
+      ],
+      "options": [
+        "Civil Rights and Liberties (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Civil Rights and Liberties (correct answer)"
+      ]
+    }
+  ]
+}

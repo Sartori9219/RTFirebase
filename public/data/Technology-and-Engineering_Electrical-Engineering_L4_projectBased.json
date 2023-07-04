@@ -1,0 +1,44 @@
+[
+  {
+    "Project objective": "Welcome to the future, where you've been selected as the lead electrical engineer in charge of designing an energy-efficient power system for the fictional city of \"Electropolis\". This city is known for its extensive use of electronic devices and innovative power systems, and it's your task to ensure that power is efficiently distributed throughout the city. But beware, a series of electromagnetic storms are heading towards the city, and you need to ensure the system can handle it!",
+    "Steps": [
+      "Power up: Start by researching power systems and how they work in distributing electricity.",
+      "Current Affairs: Study circuit analysis and create a basic design of the power grid for Electropolis.",
+      "Magnetic Mysteries: Learn about electromagnetism and how it affects power systems. How will the upcoming storms impact Electropolis?",
+      "Device Discovery: Explore the different types of electronic devices used in a city and how much power they consume.",
+      "Power Puzzles: Using your knowledge of power systems, design an energy-efficient power grid for Electropolis.",
+      "Grid Grit: Review and revise your power grid design. Can you improve its efficiency or its resilience to the storms?",
+      "Device Decisions: Choose the electronic devices for Electropolis that will ensure maximum energy efficiency.",
+      "Power Presentation: Make a final presentation of your power system design, your device choices, and your storm strategy. Get feedback from classmates, friends, or family.",
+      "Drawing software or materials for creating diagrams"
+    ]
+  },
+  {
+    "Project objective": "Congratulations! You've just been hired by the fictitious \"RoboPaws Innovations,\" a company that specializes in creating state-of-the-art robotic rescue dogs. Your task is to design the next generation of RoboPaws, equipped with advanced control systems, communication abilities, digital systems, and electromechanical energy conversion capabilities. Your robotic dog will be tested in the simulated disaster zone, \"Calamity City,\" where it must navigate obstacles, communicate with the rescue team, and use its power electronics to save the day!",
+    "Steps": [
+      "Mission Briefing: Start by researching how control systems function in robotics.",
+      "Command & Control: Design a basic control system for your RoboPaws model, making sure it can navigate the unpredictable terrain of Calamity City.",
+      "Communications Central: Learn about different communication systems and choose one that will allow RoboPaws to send back information to the rescue team.",
+      "Digital Dog: Study how digital systems work in robotics, then incorporate one into your design to help RoboPaws process information.",
+      "Energetic Engineering: Research electromechanical energy conversion. How can this help power your robotic rescue dog?",
+      "Power Pooch: Learn about power electronics and design a power system for RoboPaws that will allow it to work efficiently in the disaster zone.",
+      "Troubleshooting Training: Review and revise your designs. Can you make RoboPaws more efficient or effective?",
+      "Disaster Drill: Create a hypothetical scenario in Calamity City. How would RoboPaws navigate the terrain, communicate with the team, and use its power systems to help in a disaster?",
+      "Mission Mockup: Use drawing software to create a final design of RoboPaws, showing all of its systems and how they work together.",
+      "Project Presentation: Present your final design and disaster scenario to classmates, friends, or family. What feedback do they have for your design?",
+      "Drawing software or materials for creating diagrams"
+    ]
+  },
+  {
+    "Project objective": "Welcome, budding electrical engineer! You have been chosen by the Intergalactic Communication Division (ICD) to design a communication system to contact extraterrestrial life. You will need to use your knowledge of high voltage engineering, antenna and wave propagation, analog electronics, embedded systems, and optical fiber communication to complete this crucial mission. Your task is to create a prototype that can transmit signals into deep space, withstand extreme conditions, and hopefully facilitate the first contact with alien civilizations. Get ready to embark on this exciting journey and make history!",
+    "Steps": [
+      "First Contact: Research high voltage engineering principles and sketch out how you can use them to send signals deep into space.",
+      "Old School Cool: Dive into the world of analog electronics. How can you integrate analog systems into your design to ensure robust and reliable communication?",
+      "Light Speed: Research how optical fiber communication works. Can you use it to improve the speed or quality of your communication?",
+      "Testing, Testing, 123: Create a hypothetical testing scenario for your device. Consider all the possible challenges it might face in space.",
+      "Troubleshooting: Based on your test scenario, identify potential problems in your design and come up with solutions.",
+      "Fine-Tuning: Revise your prototype design based on your troubleshooting. Make sure your device is as reliable and efficient as possible.",
+      "Transmission Time: Present your final design, test scenario, and troubleshooting process to your classmates, friends, or family. Be ready to answer questions and receive feedback!"
+    ]
+  }
+]

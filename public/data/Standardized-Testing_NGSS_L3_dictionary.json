@@ -1,0 +1,409 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why is your hair standing up like that? Did you see a ghost?",
+        "Nope! I rubbed a balloon on my head. My hair got charged and now it's attracted to the balloon."
+      ],
+      "options": [
+        "Structure and Properties of Matter (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My ice cream is melting! Why can't it stay solid?",
+        "Sorry, but your ice cream can't disobey the laws of thermodynamics. The heat from the surroundings is increasing its kinetic energy and turning it from a solid to a liquid."
+      ],
+      "options": [
+        "Structure and Properties of Matter (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is this helium balloon floating away, while the one I filled with my own breath just sinks?",
+        "It's because helium atoms are lighter than the molecules in the air. So, the helium balloon is lighter than the same volume of air and floats up!"
+      ],
+      "options": [
+        "Structure and Properties of Matter (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did my soda explode when I put that Mentos in it?",
+        "Well, the surface of the Mentos causes a rapid creation of carbon dioxide bubbles, leading to your soda geyser. Soda's revenge, if you will!"
+      ],
+      "options": [
+        "Chemical Reactions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my campfire turn the wood into ashes?",
+        "Your fire is super impatient and wants to break down the wood into simpler chemicals, like carbon dioxide and water. This process is called combustion, and what you see as ash is what's left that the fire couldn't convert."
+      ],
+      "options": [
+        "Chemical Reactions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come rust forms on my bike if I leave it out in the rain?",
+        "It's because your bike likes to mingle with oxygen and water. They react to form iron oxide, commonly known as rust. Your bike is just trying to become one with nature!"
+      ],
+      "options": [
+        "Chemical Reactions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do my feet stick to the ground? Is it because I've been eating too many cookies?",
+        "Haha, not exactly! It's gravity, a force that pulls objects towards each other. In this case, it's pulling you towards the center of the Earth. Cookie weight or not!"
+      ],
+      "options": [
+        "Forces and Interactions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How does a magician pull a tablecloth from under a set table without disturbing the dishes?",
+        "It's all about inertia! The dishes want to keep doing what they're doing, which is nothing. So, when the cloth is pulled out quickly, they stay put!"
+      ],
+      "options": [
+        "Forces and Interactions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my rubber band snap back into place after I stretch it?",
+        "That's the elasticity of the rubber band at work! It resists the change and tries to get back to its original shape. It's a real stickler for maintaining the status quo!"
+      ],
+      "options": [
+        "Forces and Interactions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do you think if I eat this last slice of pizza, I'll have enough energy to finish my homework?",
+        "Well, food does provide us with energy but remember, it's not pizza-power that drives your brain, it's more about glucose!"
+      ],
+      "options": [
+        "Energy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my laptop get so hot when I use it for a long time? Is it just trying to keep me warm in winter?",
+        "Haha, not quite! It's because of energy conversion. Your laptop converts electrical energy into other forms of energy, including thermal. So, it\u2019s not a personal heater, it's just working hard!"
+      ],
+      "options": [
+        "Energy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does a rolling ball eventually stop if I don't keep pushing it?",
+        "That's due to friction, my friend. It's like nature's party pooper, always trying to slow things down. Friction between the ball and the ground converts the ball's kinetic energy into heat."
+      ],
+      "options": [
+        "Energy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I scream in the middle of a forest and no one is around to hear it, do I make a sound?",
+        "Absolutely! You're creating sound waves. They don't need eardrums to exist. But without eardrums, they\u2019re just air having a fit."
+      ],
+      "options": [
+        "Waves and Electromagnetic Radiation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my hand feel warm when I place it near this light bulb?",
+        "It's the light's secret identity revealing itself. Light is actually a kind of electromagnetic radiation and it carries energy that can heat up your hand."
+      ],
+      "options": [
+        "Waves and Electromagnetic Radiation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my radio stop working when I go through a tunnel?",
+        "That's because your radio is an electromagnetic wave snob. It only likes the waves it can see. And in a tunnel, those waves can't get through."
+      ],
+      "options": [
+        "Waves and Electromagnetic Radiation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I eat all the cookies, my sister will be sad. Is that an interdependent relationship?",
+        "Haha, sort of! But in ecology, it's more about how animals, plants, and the environment all rely on each other. Like how bees need flowers for food, and flowers need bees for pollination."
+      ],
+      "options": [
+        "Interdependent Relationships in Ecosystems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are frogs in my garden a good thing? They're so slimy and noisy!",
+        "Well, they might be slimy and noisy, but they help keep the insect population in check. So, fewer mosquitoes biting you!"
+      ],
+      "options": [
+        "Interdependent Relationships in Ecosystems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I could, I'd remove all the spiders from the world. They give me the creeps.",
+        "Then we'd have a problem! Spiders eat a lot of harmful insects. No spiders, more pests. Can't have your cake and eat it too!"
+      ],
+      "options": [
+        "Interdependent Relationships in Ecosystems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Doesn't it bug you that a leaf we step on could be part of a lion's lunch someday?",
+        "Yeah, it's like nature's very own recycling program. From leaves to decomposers to maybe a gazelle and then a lion!"
+      ],
+      "options": [
+        "Cycles of Matter and Energy Transfer in Ecosystems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that when I breathe out, I'm basically feeding plants. Sounds like I'm being farmed!",
+        "Well, you do exhale carbon dioxide, and plants use it for photosynthesis. You're a part of nature's awesome carbon cycle!"
+      ],
+      "options": [
+        "Cycles of Matter and Energy Transfer in Ecosystems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You ever think about how water we drink today could've been dinosaur pee millions of years ago?",
+        "Gross! But you're not wrong. Water cycles through the environment in what's known as the water cycle. Dinosaurs included!"
+      ],
+      "options": [
+        "Cycles of Matter and Energy Transfer in Ecosystems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, why do you think we both have brown eyes, but my hair is straight and yours is curly?",
+        "Well, we might have inherited the eye color from our parents, but hair? That's another story! It's all in the genes, buddy."
+      ],
+      "options": [
+        "Heredity: Inheritance and Variation of Traits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "So, if I have freckles and my partner doesn't, will our kids have freckles?",
+        "Maybe, maybe not. Genetics is like a coin toss, sometimes you get heads, sometimes tails. Freckles could be heads... or tails."
+      ],
+      "options": [
+        "Heredity: Inheritance and Variation of Traits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can roll my tongue but my sister can't. What's up with that?",
+        "Genetics is up with that! Some traits are like a lottery ticket from your parents. Looks like you won the tongue-rolling jackpot."
+      ],
+      "options": [
+        "Heredity: Inheritance and Variation of Traits (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, ever wondered why giraffes have such long necks?",
+        "Must be so they can reach the top-shelf snacks at the 'Nature's Grocery Store' - you know, the tall trees!"
+      ],
+      "options": [
+        "Biological Evolution: Unity and Diversity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How come we have so many types of dogs, but they're all still dogs?",
+        "Because evolution said, 'Let's have a poodle party, but also bring in the bulldogs, the retrievers, and the hounds!'"
+      ],
+      "options": [
+        "Biological Evolution: Unity and Diversity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are there so many kinds of birds in the world?",
+        "Evolution was like 'let's add some spice to the sky', and voila! Bird diversity."
+      ],
+      "options": [
+        "Biological Evolution: Unity and Diversity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is it hotter in Arizona than in Alaska?",
+        "Earth was making climates and spilled too much 'hot' in Arizona, and not enough in Alaska!"
+      ],
+      "options": [
+        "Earth's Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the ocean have tides?",
+        "Because the moon's playing a cosmic game of 'pull and push' with the sea!"
+      ],
+      "options": [
+        "Earth's Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do we have different seasons?",
+        "Earth's just a model on a cosmic runway, strutting its stuff with a 'tilt and turn'!"
+      ],
+      "options": [
+        "Earth's Systems (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are there so many buildings and roads everywhere?",
+        "Because humans are like busy ants, always building and moving things!"
+      ],
+      "options": [
+        "Earth and Human Activity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is it important to recycle?",
+        "So we can give Mother Nature a break from all the trash we produce!"
+      ],
+      "options": [
+        "Earth and Human Activity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's all the fuss about global warming?",
+        "Think of it like a worldwide fever because Earth's feeling sick from too much pollution!"
+      ],
+      "options": [
+        "Earth and Human Activity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the robot go on a diet?",
+        "Because its designer said it had too many bytes!"
+      ],
+      "options": [
+        "Engineering Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why can't I just build a bridge out of spaghetti?",
+        "Well, unless you want meatball traffic jams, I'd suggest a different material!"
+      ],
+      "options": [
+        "Engineering Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I build a skyscraper out of marshmallows?",
+        "Sure, if you want a skyscraper that's squishy, sticky, and attractive to giant marshmallow-loving ants!"
+      ],
+      "options": [
+        "Engineering Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the cellphone go to therapy?",
+        "Because it had too many hang-ups about its relationship with humans!"
+      ],
+      "options": [
+        "Links Among Engineering, Technology, Science, and Society (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the engineer and scientist go on a date?",
+        "They wanted to see if they had chemistry, or if their relationship was purely mechanical!"
+      ],
+      "options": [
+        "Links Among Engineering, Technology, Science, and Society (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the computer apply for a job?",
+        "Because it wanted to see if it could fit into society and stop being a terminal outsider!"
+      ],
+      "options": [
+        "Links Among Engineering, Technology, Science, and Society (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the bread get a bad grade in school?",
+        "Because it didn't rise to the occasion! It needs to yeast more energy into studies!"
+      ],
+      "options": [
+        "Energy in Chemical Processes and Everyday Life (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the soda can sign up for a gym?",
+        "Because it wanted to work off its fizz-ical energy!"
+      ],
+      "options": [
+        "Energy in Chemical Processes and Everyday Life (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the battery charged with a crime?",
+        "Because it was accused of energy theft!"
+      ],
+      "options": [
+        "Energy in Chemical Processes and Everyday Life (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why was the river always getting into trouble?",
+        "Because it was always rushing and eroding its responsibilities!"
+      ],
+      "options": [
+        "Role of Water in Earth\u2019s Surface Processes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the ocean never lose at hide and seek?",
+        "Because it always waves goodbye!"
+      ],
+      "options": [
+        "Role of Water in Earth\u2019s Surface Processes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the puddle break up with the sidewalk?",
+        "Because it felt taken for granite and decided to evaporate out of the relationship!"
+      ],
+      "options": [
+        "Role of Water in Earth\u2019s Surface Processes (correct answer)"
+      ]
+    }
+  ]
+}

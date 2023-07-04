@@ -1,0 +1,62 @@
+{
+  "name": "grape-story",
+  "version": "1.0.0",
+  "description": "Created with CodeSandbox",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "1.17.11",
+    "@react-native/normalize-color": "^2.1.0",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/native-stack": "^6.9.12",
+    "babel": "6.23.0",
+    "expo": "42.0.3",
+    "expo-asset": "8.9.1",
+    "jetifier": "2.0.0",
+    "jetify": "1.0.2",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.7.4",
+    "react-click-n-hold": "^1.0.7",
+    "react-dom": "^17.0.2",
+    "react-google-button": "^0.7.2",
+    "react-native": "0.65.1",
+    "react-native-hoverable": "^0.2.0",
+    "react-native-paper": "^5.8.0",
+    "react-native-popover-view": "^5.1.7",
+    "react-native-web": "0.16.3",
+    "react-redux": "8.0.5",
+    "react-scripts": "5.0.1",
+    "redux": "4.2.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/plugin-syntax-jsx": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "@babel/preset-react": "^7.22.3",
+    "babel-loader": "^9.1.2",
+    "firebase": "^9.22.1",
+    "webpack": "^5.78.0",
+    "webpack-dev-server": "^4.13.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "deploy": "firebase deploy"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Know Your Audience",
+        "Plan Your Content",
+        "Engage with Storytelling",
+        "Practice and Rehearse",
+        "Use Visual Aids",
+        "Maintain Eye Contact",
+        "Speak Clearly and Confidently",
+        "Mind Your Body Language",
+        "Encourage Interaction",
+        "Manage Time Effectively",
+        "Use Props and Examples",
+        "Adapt to Feedback",
+        "Handle Questions",
+        "Summarize Key Points",
+        "End Strong"
+    ],
+    "hints": {
+        "Know Your Audience": "Understand the demographics, interests, and expectations of your audience to tailor your presentation accordingly.",
+        "Plan Your Content": "Organize and structure your content logically, with a clear introduction, body, and conclusion.",
+        "Engage with Storytelling": "Use stories, anecdotes, and examples to make your presentation more relatable and memorable.",
+        "Practice and Rehearse": "Familiarize yourself with your material and practice your delivery to improve your confidence and performance.",
+        "Use Visual Aids": "Enhance your presentation with visuals like slides, images, or videos to support your points and maintain audience interest.",
+        "Maintain Eye Contact": "Connect with your audience by making eye contact, showing that you're engaged and attentive.",
+        "Speak Clearly and Confidently": "Articulate your words, use appropriate volume and tone, and project confidence through your voice.",
+        "Mind Your Body Language": "Use purposeful gestures, maintain good posture, and avoid distracting movements to convey confidence and professionalism.",
+        "Encourage Interaction": "Invite questions, comments, or discussions from your audience to create a more engaging experience.",
+        "Manage Time Effectively": "Keep your presentation within the allotted time frame and pace yourself to cover all key points without rushing.",
+        "Use Props and Examples": "Support your message with tangible objects or real-life examples to help clarify complex concepts.",
+        "Adapt to Feedback": "Pay attention to audience reactions and adjust your delivery or content as needed to maintain engagement.",
+        "Handle Questions": "Prepare for potential questions, listen carefully, and provide thoughtful, concise answers.",
+        "Summarize Key Points": "Reinforce the main takeaways of your presentation by summarizing them near the end.",
+        "End Strong": "Conclude your presentation with a powerful closing statement or call-to-action that leaves a lasting impression."
+    }
+}

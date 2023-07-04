@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Mesopotamia",
+        "Ancient Egypt",
+        "Indus Valley Civilization",
+        "Ancient China",
+        "Ancient Greece",
+        "Roman Empire",
+        "Byzantine Empire",
+        "Islamic Golden Age",
+        "Medieval Europe",
+        "The Crusades",
+        "The Renaissance",
+        "The Reformation",
+        "Age of Exploration",
+        "The Scientific Revolution",
+        "The Enlightenment"
+    ],
+    "hints": {
+        "Mesopotamia": "The region between the Tigris and Euphrates rivers, considered the birthplace of the first urban civilizations.",
+        "Ancient Egypt": "A civilization in northeastern Africa known for its monumental architecture, hieroglyphic writing, and pharaohs.",
+        "Indus Valley Civilization": "An ancient civilization that flourished in the Indus River valley, known for its advanced urban planning and drainage systems.",
+        "Ancient China": "One of the world's oldest civilizations with a rich history of dynasties, inventions, and philosophies.",
+        "Ancient Greece": "A civilization on the Mediterranean that contributed greatly to Western culture, including democracy, philosophy, and the arts.",
+        "Roman Empire": "A powerful empire that dominated the Mediterranean region and left a lasting impact on law, government, and architecture.",
+        "Byzantine Empire": "The eastern continuation of the Roman Empire after its fall, known for its Orthodox Christianity and preservation of Greek and Roman knowledge.",
+        "Islamic Golden Age": "A period of cultural, economic, and scientific growth in the Islamic world, marked by advancements in mathematics, medicine, and astronomy.",
+        "Medieval Europe": "The period between the fall of the Roman Empire and the Renaissance, characterized by feudalism, chivalry, and the growth of the Catholic Church.",
+        "The Crusades": "A series of religious wars between Christian Europeans and Muslim forces in the Holy Land during the Middle Ages.",
+        "The Renaissance": "A period of cultural and artistic rebirth in Europe, marked by a renewed interest in classical knowledge and the humanist movement.",
+        "The Reformation": "A religious and political movement led by Martin Luther that challenged the Catholic Church's authority and led to the establishment of Protestantism.",
+        "Age of Exploration": "A period of European global exploration and expansion, driven by the search for new trade routes and the spread of Christianity.",
+        "The Scientific Revolution": "A period of significant advancements in scientific thought and methodology, leading to the development of modern science.",
+        "The Enlightenment": "An intellectual and philosophical movement that emphasized reason, individualism, and the questioning of traditional authority."
+    }
+}

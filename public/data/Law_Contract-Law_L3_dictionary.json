@@ -1,0 +1,397 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, if you can juggle these five pineapples while standing on one leg, I'll give you my rare collection of neon yoyos.",
+        "That sounds like an entertaining challenge! Let's do it!"
+      ],
+      "options": [
+        "Offer (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'll trade you my giant inflatable dinosaur for your antique kazoo signed by a famous kazoo player.",
+        "Hmm, that's an interesting proposition. I'll think about it!"
+      ],
+      "options": [
+        "Offer (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Would you like to purchase my homemade spaceship-shaped cookies for $10 a dozen? They're out of this world!",
+        "That's an offer I can't refuse! Sign me up for two dozen."
+      ],
+      "options": [
+        "Offer (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bet you can't eat this entire triple-decker burger in under 5 minutes. If you can, I'll pay for it!",
+        "Challenge accepted! Let the burger-eating commence!"
+      ],
+      "options": [
+        "Acceptance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you can successfully teach my cat how to high-five within a week, I'll give you my limited-edition holographic comic book.",
+        "You've got yourself a deal! Prepare to have one high-fiving cat on your hands."
+      ],
+      "options": [
+        "Acceptance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm offering a free ticket to the unicorn-themed disco party if you can create the most fabulous costume using only aluminum foil and duct tape.",
+        "Oh, it's on! I accept your challenge and will dazzle you with my crafty skills."
+      ],
+      "options": [
+        "Acceptance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'll wash your car for a whole month if you let me borrow your vintage roller skates for the roller disco tonight.",
+        "Deal! I can't pass up a clean car for a month. Enjoy the roller disco!"
+      ],
+      "options": [
+        "Consideration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you can make me laugh with your best knock-knock joke, I'll give you my lucky rubber chicken keychain.",
+        "Alright, here goes... Knock, knock.",
+        "Lettuce in, it's freezing out here!"
+      ],
+      "options": [
+        "Consideration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'll trade you my collection of wacky socks for your homemade alien-shaped pancakes recipe.",
+        "Sounds like a fair trade to me! Prepare to step up your pancake game."
+      ],
+      "options": [
+        "Consideration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, kiddo! I'll sell you my entire collection of superhero action figures for $1,000.",
+        "Wow, that sounds awesome! But I'm just a kid and don't have that kind of money.",
+        "Ah, right. Sorry, little buddy. You need to be an adult to enter into a contract like this."
+      ],
+      "options": [
+        "Legal Capacity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I dare you to go skydiving with me tomorrow! If you do, I'll give you my autographed poster of a famous astronaut.",
+        "That's tempting, but I'm only 17. I think you need to be 18 to legally agree to that.",
+        "You're correct! We'll have to wait until you're old enough to make it a deal."
+      ],
+      "options": [
+        "Legal Capacity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you can beat me in a pie-eating contest, I'll sign over the rights to my secret pie recipe.",
+        "Heck yeah! Let's do it right now!",
+        "Hold on there, buddy. You're clearly not in the right state of mind to make a legally binding agreement."
+      ],
+      "options": [
+        "Legal Capacity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'll trade you my collection of vintage postcards for your rare stamp album, but only if we both agree that it's a fair exchange.",
+        "Sounds good to me! I've been looking to expand my postcard collection anyway."
+      ],
+      "options": [
+        "Mutual Assent (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you help me paint my living room this weekend, I'll teach you how to make my famous lasagna from scratch. Are we in agreement?",
+        "Absolutely! I've always wanted to learn your lasagna recipe, and I could use some painting practice. Let's do it!"
+      ],
+      "options": [
+        "Mutual Assent (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How about this? If you can beat me in a game of chess, I'll give you my lucky penguin-shaped umbrella. But only if we both agree to the terms.",
+        "You're on! I've been eyeing that umbrella for ages. May the best player win!"
+      ],
+      "options": [
+        "Mutual Assent (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, I'll give you $500 if you help me sneak this rare creature out of the zoo tonight.",
+        "No way! That's illegal, and I won't be a part of it. Find another partner in crime."
+      ],
+      "options": [
+        "Legality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you can 'borrow' your neighbor's lawn gnome without them noticing, I'll give you my collection of funny hats.",
+        "As tempting as those hats are, that's theft, and I won't participate in anything illegal."
+      ],
+      "options": [
+        "Legality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'll pay you $100 to hack into my rival's computer and steal their top-secret cookie recipe.",
+        "Not a chance! Hacking is illegal, and I won't risk getting in trouble for a cookie recipe."
+      ],
+      "options": [
+        "Legality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you can make me the best paper airplane, I'll give you my lucky marble. Do we have a deal?",
+        "Deal! But shouldn't we write this down?",
+        "Nah, it's just a simple exchange. An oral contract will do just fine."
+      ],
+      "options": [
+        "Written vs. Oral Contracts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'd like to hire you to design a website for my business. I'll pay you $1,000 upon completion.",
+        "Sounds great! But for a project like this, we should definitely have a written contract outlining the terms and payment schedule.",
+        "Agreed. Let's get everything in writing to avoid any misunderstandings."
+      ],
+      "options": [
+        "Written vs. Oral Contracts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'll trade you my autographed celebrity photo for your collection of rare coins.",
+        "That sounds good, but given the value of these items, I think it's best if we have a written agreement.",
+        "You're right. Let's make sure we have everything in writing to protect both of our interests."
+      ],
+      "options": [
+        "Written vs. Oral Contracts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'll pay you $20 to walk my dog for an hour every day this week."
+      ],
+      "options": [
+        "Express vs. Implied Contracts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You always do such a great job watering my plants when I'm out of town. I really appreciate it.",
+        "No problem! Since you always pay me $10 afterward, I'm happy to help."
+      ],
+      "options": [
+        "Express vs. Implied Contracts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you can beat me in a game of ping pong, I'll give you my vintage paddle as a prize.",
+        "Challenge accepted! Let's play!"
+      ],
+      "options": [
+        "Express vs. Implied Contracts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Great game! Here's the paddle, as promised.",
+        "Thanks! And since you let me use your equipment, I'll treat you to ice cream as a thank you."
+      ],
+      "options": [
+        "Express vs. Implied Contracts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Unilateral vs. Bilateral Contracts",
+        "I'll pay you $50 if you can find and return my lost cat.",
+        "I'll do my best! I could use the extra cash."
+      ],
+      "options": [
+        "Unilateral vs. Bilateral Contracts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I promise to mow your lawn every week for a month if you promise to make me dinner every Friday night during that time.",
+        "Sounds like a fair trade to me. Let's do it!"
+      ],
+      "options": [
+        "Bilateral Contract (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If anyone can successfully complete this obstacle course in under 10 minutes, I'll give them $100.",
+        "Challenge accepted! I'll give it my best shot."
+      ],
+      "options": [
+        "Unilateral vs. Bilateral Contracts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'll pay you $500 to paint a mural on the side of my house that violates the city's zoning laws.",
+        "No way! That's an illegal agreement, and I won't be a part of it."
+      ],
+      "options": [
+        "Void Contract (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'll sell you my car for $1,000, but only if I can't find anyone else to buy it for a higher price within a week.",
+        "That doesn't sound very fair to me. I'm not sure I want to agree to that."
+      ],
+      "options": [
+        "Voidable Contract (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'll give you my entire collection of rare comic books if you promise to be my best friend forever.",
+        "As much as I'd love those comic books, that's not something a contract can enforce."
+      ],
+      "options": [
+        "Unenforceable Contract (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You agreed to cater my party, but the food never arrived. Everyone was disappointed.",
+        "I'm so sorry. To make it up to you, I'll cater your next event for free as a remedy for the breach of contract."
+      ],
+      "options": [
+        "Remedies for Breach of Contract (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You were supposed to perform at my wedding, but you never showed up. Now I want my deposit back.",
+        "I apologize for not being there. I'll refund your deposit immediately to remedy the breach of contract."
+      ],
+      "options": [
+        "Remedies for Breach of Contract (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You promised to build me a custom treehouse, but you only completed half of it before stopping. What's going on?",
+        "I ran into some unexpected issues. To remedy the breach of contract, I can either finish the treehouse or refund you for the uncompleted portion."
+      ],
+      "options": [
+        "Remedies for Breach of Contract (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You agreed to create a unique sculpture for my garden, but you never delivered it. I can't find anything like it anywhere else.",
+        "I'm sorry for the delay. I'll complete the sculpture as soon as possible to fulfill the specific performance required by our contract."
+      ],
+      "options": [
+        "Specific Performance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You promised to sell me your one-of-a-kind vintage car, but now you're backing out of the deal. I've been searching for that exact model for years!",
+        "Alright, I understand how important it is to you. I'll go through with the sale as agreed, providing the specific performance we initially agreed upon."
+      ],
+      "options": [
+        "Specific Performance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I apologize for not meeting the deadline. I'll finish the song immediately to provide the specific performance we agreed on in our contract."
+      ],
+      "options": [
+        "Specific Performance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "We had a contract for you to teach me how to play the accordion, but I've decided it's not the instrument for me.",
+        "That's totally fine. We can mutually agree to terminate the contract and go our separate ways."
+      ],
+      "options": [
+        "Termination of Contracts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our agreement was for you to cater my event next month, but due to unforeseen circumstances, I need to cancel the event.",
+        "No problem. We can terminate the contract, but there may be a cancellation fee as outlined in our agreement."
+      ],
+      "options": [
+        "Termination of Contracts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "We signed a contract for you to repaint my house, but I just found out I have to move for work. I won't be needing your services anymore.",
+        "That's unfortunate, but understandable. We can terminate the contract and, if necessary, negotiate any associated costs."
+      ],
+      "options": [
+        "Termination of Contracts (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our contract states that you'll paint my living room 'a shade of blue,' but I didn't expect neon blue! What were you thinking?",
+        "I thought it would add some excitement to the room. I guess we should have been more specific in our contract interpretation."
+      ],
+      "options": [
+        "Contract Interpretation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You agreed to create a website for my business, but the contract says it'll be 'mobile-friendly.' Does that mean it'll work on all devices?",
+        "Yes, that's the correct interpretation. The website will be designed to function smoothly on smartphones, tablets, and desktop computers."
+      ],
+      "options": [
+        "Contract Interpretation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our contract says you'll provide 'regular maintenance' for my garden. How often is that?",
+        "Ah, I can see how that might be unclear. In this case, 'regular maintenance' means I'll come by once a week to take care of your garden."
+      ],
+      "options": [
+        "Contract Interpretation (correct answer)"
+      ]
+    }
+  ]
+}

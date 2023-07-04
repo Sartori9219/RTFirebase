@@ -1,0 +1,267 @@
+[
+  {
+    "problem": "Four friends - Amy, Brian, Carla, and David - each decide to bake a cake for the annual Great Cake-Off competition. They each choose from four distinct flavors - chocolate, vanilla, red velvet, and carrot - and must follow specific rules: | Amy never bakes a chocolate cake. | If Brian bakes a red velvet cake, Carla must bake a chocolate cake. | If Carla bakes a vanilla cake, then David must bake a red velvet cake. | David never bakes a carrot cake.",
+    "questions": [
+      {
+        "question": "If Brian bakes a chocolate cake, which of the following must be true?",
+        "options": [
+          "Amy bakes a vanilla cake.",
+          "Carla bakes a red velvet cake.",
+          "David bakes a red velvet cake.",
+          "Amy bakes a carrot cake."
+        ],
+        "hints": []
+      },
+      {
+        "question": "If Carla bakes a chocolate cake, which of the following could be true?",
+        "options": [
+          "Amy bakes a red velvet cake.",
+          "Brian bakes a vanilla cake.",
+          "David bakes a chocolate cake.",
+          "Amy bakes a chocolate cake."
+        ],
+        "hints": []
+      },
+      {
+        "question": "Which of the following combinations is NOT possible based on the passage?",
+        "options": [
+          "Amy - Vanilla; Brian - Chocolate; Carla - Red Velvet; David - Red Velvet",
+          "Amy - Carrot; Brian - Red Velvet; Carla - Chocolate; David - Vanilla",
+          "Amy - Red Velvet; Brian - Vanilla; Carla - Chocolate; David - Vanilla",
+          "Amy - Carrot; Brian - Vanilla; Carla - Red Velvet; David - Chocolate"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Four friends - Emma, Frank, Grace, and Harry - each decide to play a musical instrument in their new club called The Musical Chairs Club. They each choose from four distinct instruments - guitar, piano, violin, and drums - and must follow specific rules:",
+    "questions": [
+      {
+        "question": "If Frank plays the piano, which of the following must be true?",
+        "options": [
+          "Emma plays the violin.",
+          "Grace plays the guitar.",
+          "Harry plays the drums.",
+          "Emma plays the drums."
+        ],
+        "hints": []
+      },
+      {
+        "question": "If Grace plays the piano, which of the following could be true?",
+        "options": [
+          "Emma plays the drums.",
+          "Frank plays the guitar.",
+          "Harry plays the piano.",
+          "Emma plays the guitar."
+        ],
+        "hints": []
+      },
+      {
+        "question": "Which of the following combinations is NOT possible based on the passage?",
+        "options": [
+          "Emma - Drums; Frank - Guitar; Grace - Piano; Harry - Guitar",
+          "Emma - Violin; Frank - Piano; Grace - Drums; Harry - Guitar",
+          "Emma - Drums; Frank - Violin; Grace - Piano; Harry - Guitar",
+          "Emma - Violin; Frank - Guitar; Grace - Drums; Harry - Piano"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Four friends - Isabella, Jack, Kelly, and Leo - each decide to bring a pet to the annual Pet Party Parade. They each choose from four distinct pets - cat, dog, rabbit, and parrot - and must follow specific rules: | Isabella never brings a dog. | If Jack brings a parrot, Kelly must bring a cat. | If Kelly brings a rabbit, then Leo must bring a dog. | Leo never brings a parrot.",
+    "questions": [
+      {
+        "question": "If Jack brings a rabbit, which of the following must be true?",
+        "options": [
+          "Isabella brings a parrot.",
+          "Kelly brings a cat.",
+          "Leo brings a dog.",
+          "Isabella brings a cat."
+        ],
+        "hints": []
+      },
+      {
+        "question": "If Kelly brings a cat, which of the following could be true?",
+        "options": [
+          "Isabella brings a parrot.",
+          "Jack brings a dog.",
+          "Leo brings a rabbit.",
+          "Isabella brings a dog."
+        ],
+        "hints": []
+      },
+      {
+        "question": "Which of the following combinations is NOT possible based on the passage?",
+        "options": [
+          "Isabella - Cat; Jack - Dog; Kelly - Rabbit; Leo - Dog",
+          "Isabella - Parrot; Jack - Rabbit; Kelly - Cat; Leo - Dog",
+          "Isabella - Rabbit; Jack - Parrot; Kelly - Cat; Leo - Dog",
+          "Isabella - Cat; Jack - Dog; Kelly - Parrot; Leo - Rabbit"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Four friends - Monica, Nathan, Olivia, and Peter - each decide to create an artwork for the annual Colorful Art Exhibition. They each choose from four distinct art styles - abstract, impressionist, cubist, and surrealist - and must follow specific rules: | Monica never creates a cubist artwork. | If Nathan creates an impressionist artwork, Olivia must create an abstract artwork. | If Olivia creates a surrealist artwork, then Peter must create an impressionist artwork. | Peter never creates a cubist artwork.",
+    "questions": [
+      {
+        "question": "If Nathan creates an abstract artwork, which of the following must be true?",
+        "options": [
+          "Monica creates a surrealist artwork.",
+          "Olivia creates a cubist artwork.",
+          "Peter creates an impressionist artwork.",
+          "Monica creates an impressionist artwork."
+        ],
+        "hints": []
+      },
+      {
+        "question": "If Olivia creates an abstract artwork, which of the following could be true?",
+        "options": [
+          "Monica creates a cubist artwork.",
+          "Nathan creates a surrealist artwork.",
+          "Peter creates a surrealist artwork.",
+          "Monica creates a surrealist artwork."
+        ],
+        "hints": []
+      },
+      {
+        "question": "Which of the following combinations is NOT possible based on the passage?",
+        "options": [
+          "Monica - Surrealist; Nathan - Abstract; Olivia - Impressionist; Peter - Impressionist",
+          "Monica - Abstract; Nathan - Impressionist; Olivia - Abstract; Peter - Surrealist",
+          "Monica - Surrealist; Nathan - Abstract; Olivia - Cubist; Peter - Impressionist",
+          "Monica - Impressionist; Nathan - Abstract; Olivia - Surrealist; Peter - Cubist"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Four friends - Quinn, Rebecca, Steve, and Tina - each decide to design an outfit for the annual Fabulous Fashion Show. They each choose from four distinct styles - casual, formal, sporty, and vintage - and must follow specific rules: | Quinn never designs a sporty outfit. | If Rebecca designs a formal outfit, Steve must design a casual outfit. | If Steve designs a vintage outfit, then Tina must design a sporty outfit. | Tina never designs a formal outfit.",
+    "questions": [
+      {
+        "question": "If Rebecca designs a casual outfit, which of the following must be true?",
+        "options": [
+          "Quinn designs a vintage outfit.",
+          "Steve designs a formal outfit.",
+          "Tina designs a sporty outfit.",
+          "Quinn designs a formal outfit."
+        ],
+        "hints": []
+      },
+      {
+        "question": "If Steve designs a casual outfit, which of the following could be true?",
+        "options": [
+          "Quinn designs a sporty outfit.",
+          "Rebecca designs a vintage outfit.",
+          "Tina designs a vintage outfit.",
+          "Quinn designs a casual outfit."
+        ],
+        "hints": []
+      },
+      {
+        "question": "Which of the following combinations is NOT possible based on the passage?",
+        "options": [
+          "Quinn - Vintage; Rebecca - Casual; Steve - Formal; Tina - Sporty",
+          "Quinn - Formal; Rebecca - Vintage; Steve - Casual; Tina - Sporty",
+          "Quinn - Casual; Rebecca - Formal; Steve - Casual; Tina - Vintage",
+          "Quinn - Vintage; Rebecca - Casual; Steve - Vintage; Tina - Sporty"
+        ],
+        "hints": []
+      }
+    ]
+  },
+  {
+    "problem": "Four friends - Ursula, Victor, Wendy, and Xavier - each decide to create a project for the annual Spectacular Science Fair. They each choose from four distinct scientific fields - biology, chemistry, physics, and astronomy - and must follow specific rules: | Ursula never conducts a chemistry project. | If Victor conducts a physics project, Wendy must conduct a biology project. | If Wendy conducts an astronomy project, then Xavier must conduct a physics project. | Xavier never conducts a biology project.",
+    "questions": [
+      {
+        "question": "If Victor conducts an astronomy project, which of the following must be true?",
+        "options": [
+          "Ursula conducts a physics project.",
+          "Wendy conducts a chemistry project.",
+          "Xavier conducts a chemistry project.",
+          "Ursula conducts a biology project."
+        ],
+        "hints": []
+      },
+      {
+        "question": "If Wendy conducts a biology project, which of the following could be true?",
+        "options": [
+          "Ursula conducts an astronomy project.",
+          "Victor conducts an astronomy project.",
+          "Xavier conducts an astronomy project.",
+          "Ursula conducts a chemistry project."
+        ],
+        "hints": []
+      },
+      {
+        "question": "Which of the following combinations is NOT possible based on the passage?",
+        "options": [
+          "Ursula - Physics; Victor - Chemistry; Wendy - Astronomy; Xavier - Physics",
+          "Ursula - Biology; Victor - Physics; Wendy - Biology; Xavier - Chemistry",
+          "Ursula - Astronomy; Victor - Physics; Wendy - Biology; Xavier - Chemistry",
+          "Ursula - Physics; Victor - Astronomy; Wendy - Chemistry; Xavier - Biology"
+        ],
+        "hints": []
+      },
+      {
+        "question": "If Xavier conducts a physics project, which of the following must be true?",
+        "options": [
+          "Ursula conducts an astronomy project.",
+          "Victor conducts a chemistry project.",
+          "Wendy conducts an astronomy project.",
+          "Ursula conducts a biology project."
+        ],
+        "hints": []
+      },
+      {
+        "question": "Four friends - Yvonne, Zachary, Alice, and Ben - each decide to grow a plant for the annual Grand Garden Gala. They each choose from four distinct plant types - cactus, fern, orchid, and sunflower - and must follow specific rules: | Yvonne never grows a fern. | If Zachary grows an orchid, Alice must grow a cactus. | If Alice grows a sunflower, then Ben must grow an orchid. | Ben never grows a cactus.",
+        "options": [],
+        "hints": []
+      },
+      {
+        "question": "If Zachary grows a sunflower, which of the following must be true?",
+        "options": [
+          "Yvonne grows an orchid.",
+          "Alice grows a fern.",
+          "Ben grows a fern.",
+          "Yvonne grows a cactus."
+        ],
+        "hints": []
+      },
+      {
+        "question": "If Alice grows a cactus, which of the following could be true?",
+        "options": [
+          "Yvonne grows a sunflower.",
+          "Zachary grows a fern.",
+          "Ben grows a sunflower.",
+          "Yvonne grows a fern."
+        ],
+        "hints": []
+      },
+      {
+        "question": "Which of the following combinations is NOT possible based on the passage?",
+        "options": [
+          "Yvonne - Orchid; Zachary - Sunflower; Alice - Fern; Ben - Orchid",
+          "Yvonne - Cactus; Zachary - Orchid; Alice - Cactus; Ben - Fern",
+          "Yvonne - Sunflower; Zachary - Orchid; Alice - Cactus; Ben - Fern",
+          "Yvonne - Orchid; Zachary - Fern; Alice - Sunflower; Ben - Orchid"
+        ],
+        "hints": []
+      },
+      {
+        "question": "If Ben grows an orchid, which of the following must be true?",
+        "options": [
+          "Yvonne grows a cactus.",
+          "Zachary grows a sunflower.",
+          "Alice grows a sunflower.",
+          "Yvonne grows a sunflower."
+        ],
+        "hints": []
+      }
+    ]
+  }
+]

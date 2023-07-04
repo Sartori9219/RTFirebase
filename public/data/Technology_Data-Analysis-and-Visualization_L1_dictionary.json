@@ -1,0 +1,408 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Did you hear about the alien who loves pizza?",
+        "Yeah, it's been secretly surveying Earthlings to find the best pizza toppings!"
+      ],
+      "options": [
+        "Data Collection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the squirrel become a data analyst?",
+        "It wanted to collect nuts...and also gather information on the best locations for nut storage!"
+      ],
+      "options": [
+        "Data Collection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How does a detective octopus solve mysteries?",
+        "By using its eight arms to web scrape clues from the ocean floor!"
+      ],
+      "options": [
+        "Data Collection (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the vacuum cleaner that became a data scientist?",
+        "Yeah, it's always sucking up messy data and making it spotless!"
+      ],
+      "options": [
+        "Data Cleaning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the giraffe decide to work on data cleaning?",
+        "It wanted to use its long neck to reach the highest, dirtiest data points and clean them up!"
+      ],
+      "options": [
+        "Data Cleaning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you cross a data analyst with a laundry detergent?",
+        "A data cleaner that can scrub away all the stains from your dataset!"
+      ],
+      "options": [
+        "Data Cleaning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do pandas love data types?",
+        "Because they can easily categorize their bamboo meals into numerical, categorical, and ordinal data!"
+      ],
+      "options": [
+        "Data Types (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's a pirate's favorite data type?",
+        "Arrr-dinal data, because it helps them rank their buried treasure!"
+      ],
+      "options": [
+        "Data Types (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How does a chameleon blend in with data types?",
+        "It keeps changing its colors to match numerical, categorical, and ordinal data points in the environment!"
+      ],
+      "options": [
+        "Data Types (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do data analysts make great storytellers?",
+        "Because they can summarize a massive dataset into a captivating tale!"
+      ],
+      "options": [
+        "Data Summarization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a data analyst who's also an expert in making sushi?",
+        "A data roll master, because they can wrap complex data into bite-sized summaries!"
+      ],
+      "options": [
+        "Data Summarization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the data analyst who became a superhero?",
+        "Yeah, they're called \"The Summarizer\" \u2013 fighting data chaos by condensing it into neat, understandable insights!"
+      ],
+      "options": [
+        "Data Summarization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the data scientist join the space program?",
+        "They wanted to explore new data frontiers, just like discovering unknown planets!"
+      ],
+      "options": [
+        "Data Exploration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you cross a data analyst with Indiana Jones?",
+        "An adventurous data explorer, delving into datasets to uncover hidden patterns and trends!"
+      ],
+      "options": [
+        "Data Exploration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How does a detective dog help find insights in data?",
+        "By sniffing out clues and digging up interesting patterns during data exploration!"
+      ],
+      "options": [
+        "Data Exploration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the data analyst take up gardening?",
+        "They wanted to plant the seeds of descriptive statistics and watch the mean, median, and mode bloom!"
+      ],
+      "options": [
+        "Descriptive Statistics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's a statistician's favorite dessert?",
+        "A pie chart full of delicious descriptive statistics, like the mean, median, and mode!"
+      ],
+      "options": [
+        "Descriptive Statistics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do data analysts make great DJs?",
+        "Because they know how to mix descriptive statistics and create the perfect playlist of mean beats, median rhythms, and mode vibes!"
+      ],
+      "options": [
+        "Descriptive Statistics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do fortune tellers love inferential statistics?",
+        "Because they can use sample data to make predictions about the entire population's future!"
+      ],
+      "options": [
+        "Inferential Statistics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How did the detective sloth solve crimes using inferential statistics?",
+        "By slowly drawing conclusions from a small set of clues to uncover the bigger picture!"
+      ],
+      "options": [
+        "Inferential Statistics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What happens when a data analyst joins a basketball team?",
+        "They become an inferential statistician, making predictions about the game based on just a few shots!"
+      ],
+      "options": [
+        "Inferential Statistics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the data scientist become a ghost hunter?",
+        "They wanted to put their hypothesis testing skills to use by proving or disproving the existence of paranormal activity!"
+      ],
+      "options": [
+        "Hypothesis Testing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a data analyst who's also a detective?",
+        "A \"Hypothesis Buster,\" cracking cases by testing theories with statistical evidence!"
+      ],
+      "options": [
+        "Hypothesis Testing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How does a superhero data analyst save the day?",
+        "By using their hypothesis testing powers to debunk false claims and unveil the truth!"
+      ],
+      "options": [
+        "Hypothesis Testing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the data analyst who became a dance instructor?",
+        "Yeah, they used correlation and covariance to show how dance moves are related and create perfectly synchronized routines!"
+      ],
+      "options": [
+        "Correlation and Covariance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you cross a data scientist with a meteorologist?",
+        "A weather wizard who uses correlation and covariance to predict how different weather variables change together!"
+      ],
+      "options": [
+        "Correlation and Covariance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the data analyst become a matchmaker?",
+        "They wanted to use correlation and covariance to find the perfect match between people's interests and personalities!"
+      ],
+      "options": [
+        "Correlation and Covariance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that data analysts make great bakers?",
+        "Yes, they use regression analysis to find the perfect recipe, predicting how different ingredients affect the final product!"
+      ],
+      "options": [
+        "Regression Analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the data scientist join a soccer team?"
+      ],
+      "options": [
+        "Regression Analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a data analyst who's also an eco-warrior?",
+        "A \"Re-Green-sion Analyst,\" using regression analysis to study the impact of environmental factors on the health of our planet!"
+      ],
+      "options": [
+        "Regression Analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do data analysts make great historians?",
+        "They excel at time series analysis, unraveling the patterns and trends of historical events over time!"
+      ],
+      "options": [
+        "Time Series Analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What happens when you cross a data scientist with a fortune teller?",
+        "You get a \"Time Series Wizard\" who can predict future trends by analyzing past data points over time!"
+      ],
+      "options": [
+        "Time Series Analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How does a data analyst plan the perfect vacation?",
+        "By using time series analysis to identify the best travel dates based on historical weather patterns, flight prices, and tourist crowds!"
+      ],
+      "options": [
+        "Time Series Analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the data analyst become an artist?",
+        "They wanted to turn their data visualization techniques into beautiful masterpieces that reveal hidden insights!"
+      ],
+      "options": [
+        "Data Visualization Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a data analyst who's also a magician?",
+        "A \"Visual Wizard,\" using data visualization techniques to create stunning illusions of data insights!"
+      ],
+      "options": [
+        "Data Visualization Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How does a data analyst throw the best parties?",
+        "By using data visualization techniques to create eye-catching decorations that represent the guests' interests and preferences!"
+      ],
+      "options": [
+        "Data Visualization Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the data analyst become a race car driver?",
+        "They wanted to create the ultimate dashboard, combining speed and data insights for a thrilling ride!"
+      ],
+      "options": [
+        "Dashboards and Reporting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you cross a data analyst with a news reporter?",
+        "A \"Data Journalist\" who delivers breaking news stories backed by powerful dashboards and insightful reports!"
+      ],
+      "options": [
+        "Dashboards and Reporting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How does a data analyst become a superhero?",
+        "By creating an amazing dashboard that tracks and reports on crime-fighting data to save the city!"
+      ],
+      "options": [
+        "Dashboards and Reporting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the data analyst become a minimalist?",
+        "They wanted to apply dimensionality reduction to their life, simplifying complex situations while preserving the essential information!"
+      ],
+      "options": [
+        "Dimensionality Reduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a data analyst who's also a chef?",
+        "A \"Data Flavor Reducer,\" using dimensionality reduction techniques to create simple yet delicious recipes with fewer ingredients!"
+      ],
+      "options": [
+        "Dimensionality Reduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How does a data analyst organize their wardrobe?",
+        "By using dimensionality reduction to keep only the most important pieces that capture the essence of their style!"
+      ],
+      "options": [
+        "Dimensionality Reduction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the data analyst start teaching robots?",
+        "They wanted to introduce them to machine learning basics, so they could become smart, data-driven companions!"
+      ],
+      "options": [
+        "Machine Learning Basics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you cross a data scientist with a zookeeper?",
+        "A \"Machine Learning Tamer,\" training algorithms to predict animal behavior and enhance their well-being!"
+      ],
+      "options": [
+        "Machine Learning Basics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How does a data analyst make a plant grow smarter?",
+        "By using machine learning basics to analyze plant growth data and optimize watering and sunlight schedules!"
+      ],
+      "options": [
+        "Machine Learning Basics (correct answer)"
+      ]
+    }
+  ]
+}

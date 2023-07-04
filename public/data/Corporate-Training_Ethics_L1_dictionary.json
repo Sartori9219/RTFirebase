@@ -1,0 +1,751 @@
+{
+  "questions": [
+    {
+      "question": [
+        "I found $5, but a sad kid was searching nearby.",
+        "Are you going to return it?"
+      ],
+      "options": [
+        "Treat others how you want to be treated (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm so mad about losing the game today!",
+        "I get it, losing can be tough. How are you feeling now?"
+      ],
+      "options": [
+        "Accept others' emotions without judging (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You won't believe it, but I saw Spider-Man yesterday!",
+        "Woah, that's awesome! Tell me more about it!"
+      ],
+      "options": [
+        "Listen closely and ask questions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't believe I forgot my lunch today...",
+        "Hey, don't worry! I brought extra.  We can share!"
+      ],
+      "options": [
+        "Treat others how you'd like to be treated (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Ugh, I can't believe I messed up during my presentation.",
+        "Don't worry, we all make mistakes. You'll do better next time!"
+      ],
+      "options": [
+        "Show empathy and imagine others' feelings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't figure this math problem out. I feel so dumb.",
+        "Don't be so hard on yourself! Let's work on it together."
+      ],
+      "options": [
+        "Be kind to yourself (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I didn't invite Sarah to my party, she's so annoying.",
+        "Maybe she feels left out. Why not invite her and give her a chance?"
+      ],
+      "options": [
+        "Include everyone. No one likes feeling left out (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm sorry I yelled at you earlier. I was just frustrated",
+        "It's okay. I appreciate your apology."
+      ],
+      "options": [
+        "Forgive others (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? I won the talent show with my magic tricks!",
+        "That's amazing! Congrats! I'm so happy for you."
+      ],
+      "options": [
+        "Celebrate others' achievements. Be happy for them (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I'm sorry. I didn't mean to hurt your feelings. I just wanted a small get-together with my family.\"",
+        "\"I understand that, but it still would have been nice to be includeMaybe next time we can plan something together.\""
+      ],
+      "options": [
+        "Resolving conflicts with empathy and teamwork. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I can't believe you broke my pencil. That was my favorite one!\"",
+        "\"I'm sorry. I didn't mean to break it. I'll buy you a new one.\""
+      ],
+      "options": [
+        "Apologize when you've hurt someone. (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I'm sorry I forgot your birthday. I was really busy with school.\"",
+        "\"It's okay. I forgive you. Maybe we can celebrate next weekend instead?\""
+      ],
+      "options": [
+        "Forgive others. (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I can't believe Mr. Johnson gave me detention just because I forgot my homework once!\"",
+        "\"That really stinks. Did he give anyone else detention for the same thing?\""
+      ],
+      "options": [
+        "Treat others fairly and without discrimination. (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Can I borrow your calculator for the math test today?\"",
+        "\"Sure, just make sure you give it back to me after the test.\""
+      ],
+      "options": [
+        "Respect other people's property and belongings. (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Hey, can you help me study for the history test tomorrow?\"",
+        "\"Sorry, I can't. I already promised my little brother I'd help him with his science project.\""
+      ],
+      "options": [
+        "Keep your promises and commitments. (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I can't believe I failed the science test. It must have been a mistake.\"",
+        "\"I\u2019m sorry to hear that.  Who do you think made the mistake?"
+      ],
+      "options": [
+        "Take responsibility for your actions and mistakes. (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I'm really upset. My cat died last night.\"",
+        "\"I'm so sorry to hear that. Losing a pet is really tough. Do you want to talk about it?\""
+      ],
+      "options": [
+        "Be a good listener and show empathy to others. (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I'm really struggling with this essay. Can I just copy some of your paragraphs?\"",
+        "\"No way. That's plagiarism."
+      ],
+      "options": [
+        "Don't cheat or plagiarize, do your own work and give credit to others. (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Why do we have to wear masks at school now? It's so annoying!\"",
+        "\"It's because of the new school policy. We have to follow the rules to keep everyone safe.\""
+      ],
+      "options": [
+        "Follow rules and laws to keep society safe and fair. (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I can't believe you spread that rumor about me!\"",
+        "\"I'm sorry. I didn't mean to hurt your feelings. It was just a joke.\""
+      ],
+      "options": [
+        "Don't harm others physically, emotionally, or mentally. (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Did you hear that Emily got suspended for cheating on her test?\"",
+        "\"I don't think that's true. Let's not spread rumors that could hurt her reputation.\""
+      ],
+      "options": [
+        "Don't gossip or spread rumors that could hurt others. (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Can I borrow your pencil for the test today?\"",
+        "\"Sure, just make sure you give it back to me after the test.\""
+      ],
+      "options": [
+        "Don't steal or take things that don't belong to you. (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Why do you always pick on me in gym class?\"",
+        "\"I'm sorry. I didn't realize it was bothering you. I'll stop.\""
+      ],
+      "options": [
+        "Don't engage in bullying, teasing, or harassing behavior. (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I don't think girls should be allowed to play on the football team. It's a boys' sport.\"",
+        "\"That's not fair. Girls can play football too if they want to.\""
+      ],
+      "options": [
+        "Don't discriminate against others based on their gender, race, religion, or other factors. (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Why do we have to recycle? It's just garbage.\"",
+        "\"Recycling helps reduce waste and conserve natural resources. It's important to take care of our planet.\""
+      ],
+      "options": [
+        "Take care of the environment and protect our natural resources. (Correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I just lost my favorite toy, and I feel so sad.\"",
+        "\u201cThat\u2019s terrible. I\u2019ll help you find it.\u201d"
+      ],
+      "options": [
+        "Accept others' emotions without judging. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I can't believe we lost the game!\"",
+        "\u201cThat\u2019s too bad! How did you play?\u201d"
+      ],
+      "options": [
+        "Listen closely and ask questions. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I'm so tired from helping everyone with their chores!\"",
+        "\u201cYou\u2019re so helpful! Are you ready to take a break?\u201d"
+      ],
+      "options": [
+        "Balance helping others and self-care. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I promise I won't tell anyone your secret.\"",
+        "Sibling 2:\u201dThanks appreciate our friendship\u201d"
+      ],
+      "options": [
+        "Build trust and strengthen relationships. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\u201cI absolutely hate it when people take my stuff!!\u201d",
+        "\u201cYikes\u2026 I can tell you\u2019re super angry. What did they take?\u201d"
+      ],
+      "options": [
+        "Learn about and manage your emotions. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I can't believe you ate my ice cream!\"",
+        "\"I'm sorry. I\u2019ll be more careful next time.\u201d"
+      ],
+      "options": [
+        "Resolve conflicts with empathy and teamwork. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I don't like it when you make fun of me.\"",
+        "\"You're right, I\u2019m not going to do it anymore. I'm sorry.\""
+      ],
+      "options": [
+        "Treat others how you'd like to be treated (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I'm so nervous about my presentation tomorrow.\"",
+        "That sounds stressful.  Would you like some help practicing?"
+      ],
+      "options": [
+        "Accept others' emotions without judging. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I just can't seem to focus on my homework.\"",
+        "I know the feeling. Would you like to work on one together?"
+      ],
+      "options": [
+        "Listen closely and ask questions. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I'm so stressed about helping plan the party.\"",
+        "\"You\u2019re so nice for helping to plan it!  Do you want to take a break with me?\""
+      ],
+      "options": [
+        "Balance helping others and self-care. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Can you keep a secret?\"",
+        "\"Of course! You can always trust me.\""
+      ],
+      "options": [
+        "Build trust and strengthen relationships. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I get so jealous when you get better grades.\"",
+        "\u201cThat's understandable.  I'll stop sharing them."
+      ],
+      "options": [
+        "Learn about and manage your emotions. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"You always hog the TV remote!\"",
+        "\u201cYou\u2019re right. Let\u2019s find a movie that we could both enjoy.\u201d"
+      ],
+      "options": [
+        "Resolve conflicts with empathy and teamwork. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I don't like it when you borrow my clothes without asking.\"",
+        "\"You\u2019re right. I\u2019m sorry. I'll ask next time.\""
+      ],
+      "options": [
+        "Treat others how you'd like to be treated (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I love the way you style your hair today.\"",
+        "\u201cThanks!  What a nice thing to say.\u201d"
+      ],
+      "options": [
+        "Give compliments and spread kindness. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I'm so nervous about my audition.\"",
+        "\u201cYou\u2019re going to do great!  I can tolerate about 30 seconds of practice if you\u2019d like to practice with me."
+      ],
+      "options": [
+        "Show empathy and imagine others' feelings. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"You hurt my feelings when you laughed at me.\"",
+        "\"I'm sorry. I didn't mean to hurt you.\""
+      ],
+      "options": [
+        "Apologize when you've hurt someone. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I heard a rumor about our neighbor.\"",
+        "\"Oh no!  I really dislike gossip."
+      ],
+      "options": [
+        "Avoid gossip, rumors, and put-downs, they hurt. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I'm really sorry I broke your toy.\"",
+        "\"It's okay, I forgive you."
+      ],
+      "options": [
+        "Forgive others. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Our friends are playing outside, want to join us?\"",
+        "\"Sure!  Thanks for the invite!\u201d"
+      ],
+      "options": [
+        "Include everyone. No one likes feeling left out. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I messed up on my test, I feel so dumb.\"",
+        "\u201cYou\u2019re not dumb. Sorry about your test. I know the feeling.\u201d"
+      ],
+      "options": [
+        "Be kind to yourself. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I won the science fair!\"",
+        "\"That's awesome! I'm so proud of you!\""
+      ],
+      "options": [
+        "Celebrate others' achievements. Be happy for them. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"You did a great job on your project!\"",
+        "\"Thank you!  What a nice thing to say.\""
+      ],
+      "options": [
+        "Give compliments and spread kindness. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I didn't make the team, and I'm really disappointed.\"",
+        "\u201cI\u2019m so sorry to hear this!  It sounds like you really wanted to make the team.\u201d"
+      ],
+      "options": [
+        "Show empathy and imagine others' feelings. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"You promised not to tell my secret, but you did.\"",
+        "\"I'm sorry. I didn't realize how important it was to you.\""
+      ],
+      "options": [
+        "Apologize when you've hurt someone. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I overheard some kids spreading rumors about our classmate.\"",
+        "\"I\u2019d rather not join in.  I really don\u2019t like rumors.\""
+      ],
+      "options": [
+        "Avoid gossip, rumors, and put-downs, they hurt. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I accidentally spilled juice on your homework.\"",
+        "It\u2019s ok.  I can reprint it."
+      ],
+      "options": [
+        "Forgive others. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"We're playing a game, but our little brother is sitting alone.\"",
+        "\"Let's invite him to play with us.\""
+      ],
+      "options": [
+        "Include everyone. No one likes feeling left out. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I keep making mistakes in my piano practice.\"",
+        "\"Don't worry, remember to be patient with yourself. Practice makes perfect.\""
+      ],
+      "options": [
+        "Be kind to yourself. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Our cousin got accepted into her dream college!\"",
+        "\"That's fantastic! Let's call to congratulate her."
+      ],
+      "options": [
+        "Show empathy and imagine others' feelings. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Did you eat the last cookie?\"",
+        "\"Yes.  My apologies - I didn\u2019t know you wanted it.\""
+      ],
+      "options": [
+        "Be honest and tell the truth even if it's difficult. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"We should invite everyone from our class to the party.",
+        "\"You're right. We don't want anyone to feel left out.\""
+      ],
+      "options": [
+        "Treat others fairly and without discrimination. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Can I borrow your headphones?\"",
+        "\"Sure, but please take good care of them.\""
+      ],
+      "options": [
+        "Respect other people's property and belongings. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"You promised to help me with my project.\"",
+        "\"You're right, I did.  Would you like to start now?"
+      ],
+      "options": [
+        "Keep your promises and commitments. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"You didn't do your chores, and now the house is a mess.\"",
+        "\"I'm sorry. It's my fault. I'll take care of it now.\""
+      ],
+      "options": [
+        "Take responsibility for your actions and mistakes. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I had a terrible day at school.\"",
+        "\"Darn! What happened?"
+      ],
+      "options": [
+        "Be a good listener and show empathy to others. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I'm tempted to copy my friend's homework.\"",
+        "\"I can understand that temptation.  What are you going to do?"
+      ],
+      "options": [
+        "Don't cheat or plagiarize, do your own work and give credit to others. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I accidentally broke your favorite toy.\"",
+        "\"It\u2019s ok. Thanks for telling me."
+      ],
+      "options": [
+        "Be honest and tell the truth even if it's difficult. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Let's take turns choosing the movie we watch.\"",
+        "\"That's fair. You can choose first.\""
+      ],
+      "options": [
+        "Treat others fairly and without discrimination. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I found your lost wallet.",
+        "\"Thank you for returning it to me.\""
+      ],
+      "options": [
+        "Respect other people's property and belongings. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Will you help me practice for my soccer game?\"",
+        "\"Of course, but not just because of the promise I made yesterday."
+      ],
+      "options": [
+        "Keep your promises and commitments. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"You forgot to pick me up after school.\"",
+        "\"I'm sorry, I should have set a reminder.\""
+      ],
+      "options": [
+        "Take responsibility for your actions and mistakes. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I'm really nervous about my presentation.\"",
+        "\"I bet!  Would you like to practice it once with me?"
+      ],
+      "options": [
+        "Be a good listener and show empathy to others. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I found a great quote for my essay. Do I really need to cite the author?\"",
+        "\"Yes!  You don\u2019t want to be guilty of plagiarism.\""
+      ],
+      "options": [
+        "Don't cheat or plagiarize, do your own work and give credit to others. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"We need to wear helmets when we ride our bikes.\"",
+        "\"You're right. It's the law, and it keeps us safe.\""
+      ],
+      "options": [
+        "Follow rules and laws to keep society safe and fair. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I'm so angry, I feel like hitting something!\"",
+        "\"It sounds like it!  What happened?\""
+      ],
+      "options": [
+        "Don't harm others physically, emotionally, or mentally. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I heard something about our neighbor, but I'm not sure if it's true.\"",
+        "\"I\u2019m not sure I want to hear this.  I very much dislike rumors and gossip."
+      ],
+      "options": [
+        "Don't gossip or spread rumors that could hurt others. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"I really like my friend's new toy.\"",
+        "\"I bet!  Are you tempted to steal it?"
+      ],
+      "options": [
+        "Don't steal or take things that don't belong to you. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Some kids at school were making fun of a classmate.\"",
+        "\"That\u2019s terrible.  What did you do?"
+      ],
+      "options": [
+        "Don't engage in bullying, teasing, or harassing behavior. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Did you hear about the Martian Equality Movement? They're making sure every alien gets equal opportunities!\"",
+        "\"Yeah, it's out-of-this-world amazing! Equality for all, no matter where you're from!\""
+      ],
+      "options": [
+        "Don't discriminate against others based on their gender, race, religion, or other factors. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"What if we start a superhero club called 'The Eco Warriors' to save the environment?\"",
+        "\"Totally! We could clean up litter and plant rainbow-colored trees while wearing capes!\""
+      ],
+      "options": [
+        "Take care of the environment and protect our natural resources. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Downloading songs without permission doesn't feel right, does it?\"",
+        "\"Nope, we should support the artists we love by purchasing their work legally.\""
+      ],
+      "options": [
+        "Follow rules and laws to keep society safe and fair. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Our friend looks upset. We should ask if they're okay.\"",
+        "\"Definitely. I appreciate that we support each other.\""
+      ],
+      "options": [
+        "Don't harm others physically, emotionally, or mentally. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Someone told me a secret about our classmate.\"",
+        "\"I'm not sure I'd like to hear it. I really don\u2019t like gossip."
+      ],
+      "options": [
+        "Don't gossip or spread rumors that could hurt others. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Can I use your art supplies?\"",
+        "\"Sure!  Thanks for asking."
+      ],
+      "options": [
+        "Don't steal or take things that don't belong to you. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"How about we start a club called 'The Kindness Crusaders' to stop bullying at school?\"",
+        "\"Awesome! We'll spread positivity and make everyone feel like they're wearing a superhero cape of kindness!\""
+      ],
+      "options": [
+        "Don't engage in bullying, teasing, or harassing behavior. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"Everyone should be able to join our club, regardless of their background.\"",
+        "\"Absolutely. Let's create a welcoming and inclusive environment.\""
+      ],
+      "options": [
+        "Don't discriminate against others based on their gender, race, religion, or other factors. (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "\"We should start a neighborhood cleanup to reduce litter.\"",
+        "\"Great idea! It's important to keep our community clean and protect the environment.\""
+      ],
+      "options": [
+        "Take care of the environment and protect our natural resources. (correct answer)"
+      ]
+    }
+  ]
+}

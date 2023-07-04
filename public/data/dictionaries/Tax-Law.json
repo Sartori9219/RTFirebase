@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Tax Liability",
+        "Progressive Tax",
+        "Regressive Tax",
+        "Proportional Tax",
+        "Tax Deduction",
+        "Tax Credit",
+        "Tax Exemption",
+        "Taxable Income",
+        "Withholding Tax",
+        "Capital Gains Tax",
+        "Estate Tax",
+        "Gift Tax",
+        "Payroll Tax",
+        "Corporate Tax",
+        "Sales Tax"
+    ],
+    "hints": {
+        "Tax Liability": "This is the total amount of tax that an individual, corporation, or other entity is legally obligated to pay to the tax authorities.",
+        "Progressive Tax": "This is a tax system where the tax rate increases as the taxable income increases. It is designed to take a larger percentage of income from high-income earners than from low-income earners.",
+        "Regressive Tax": "This is the opposite of a progressive tax. In a regressive tax system, the tax rate decreases as the taxable income increases. This system imposes a greater burden on low-income individuals.",
+        "Proportional Tax": "Also known as a flat tax, it applies the same tax rate to everyone regardless of income. This means that everyone pays the same proportion of their income in taxes.",
+        "Tax Deduction": "This is a reduction of the income that is able to be taxed and is often a result of expenses, particularly those incurred to produce additional income. Tax deductions reduce taxable income and therefore reduce the tax liability.",
+        "Tax Credit": "This is a sum that can be offset against a taxpayer's tax liability. Unlike tax deductions, tax credits reduce tax liability directly.",
+        "Tax Exemption": "This is a monetary exemption that reduces taxable income. Tax exempt status can provide complete relief from taxes, reduced rates, or tax on only a portion of items.",
+        "Taxable Income": "This is the amount of income that is actually subject to taxation, after all deductions and exemptions.",
+        "Withholding Tax": "This is an amount that an employer withholds from employees' wages and pays directly to the government. The amount withheld is a credit against the income taxes the employee must pay during the year.",
+        "Capital Gains Tax": "This is a tax on the profit realized on the sale of a non-inventory asset. The most common capital gains are realized from the sale of stocks, bonds, precious metals, real estate, and property.",
+        "Estate Tax": "This is a tax on the transfer of the estate of a deceased person. It involves a variety of deductions including transfers to surviving spouses and charity.",
+        "Gift Tax": "This is a tax imposed on the transfer of ownership of property during the giver's life. The giver of the gift may be subject to tax if the gift exceeds a certain value.",
+        "Payroll Tax": "These are taxes that employers are required to withhold from employees' salaries, as well as employers\u2019 contribution. They are based on the wage or salary of the employee, and they include Social Security and Medicare taxes in the United States.",
+        "Corporate Tax": "This is a tax imposed on the net income of a corporation. The tax is levied at a specific rate according to the profit of the corporation.",
+        "Sales Tax": "This is a tax paid to a governing body for the sales of certain goods and services. The seller collects it at the time of sale and passes it on to the government. It's a type of consumption tax."
+    }
+}

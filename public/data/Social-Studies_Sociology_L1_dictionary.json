@@ -1,0 +1,518 @@
+{
+  "questions": [
+    {
+      "question": [
+        "If a group of penguins started their own city, would they have traffic lights?",
+        "Haha, maybe! They'd form their own society with their own unique rules and ways of organizing things."
+      ],
+      "options": [
+        "Society (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can you imagine a society where pizza is the only currency?",
+        "That would be deliciously chaotic! People would trade pizza slices for goods and services!"
+      ],
+      "options": [
+        "Society (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if there was a society where everyone had to wear a hat with a propeller on top?",
+        "That would be a whirlwind of fun! Everyone's hat would spin as they walked around, creating a unique and quirky culture!"
+      ],
+      "options": [
+        "Society (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if there was a culture where everyone wore shoes on their hands and gloves on their feet?",
+        "That would be interesting! They'd have their own unique customs and way of life."
+      ],
+      "options": [
+        "Culture (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can you imagine a culture where everyone sings instead of speaking?",
+        "It would be like living in a musical! People would express their thoughts and emotions through song."
+      ],
+      "options": [
+        "Culture (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if there was a culture where people greeted each other by doing a cartwheel?",
+        "That would be a fun and energetic way to say hello! Their customs would be full of excitement."
+      ],
+      "options": [
+        "Culture (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How do kids learn to share their toys with others?",
+        "Through socialization! They learn the norms and values of their society, like sharing and being kind to others."
+      ],
+      "options": [
+        "Socialization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do we say please and thank you when we ask for something?",
+        "Socialization teaches us manners and how to behave politely in our society!"
+      ],
+      "options": [
+        "Socialization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do animals go through socialization too?",
+        "Yep! Many animals learn how to behave and interact with others in their group by observing and learning from their parents or peers."
+      ],
+      "options": [
+        "Socialization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do people stand in line instead of pushing and shoving to get what they want?",
+        "It's a social norm! Standing in line is a way to show respect and maintain order in our society."
+      ],
+      "options": [
+        "Social Norms (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if wearing pajamas to school was totally normal?",
+        "Then it would be a social norm! Everyone would show up in their PJs and no one would think it's strange."
+      ],
+      "options": [
+        "Social Norms (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do we cover our mouths when we sneeze?",
+        "It's a social norm to help prevent the spread of germs and show consideration for others around us."
+      ],
+      "options": [
+        "Social Norms (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some people become teachers while others become doctors?",
+        "They're fulfilling different social roles! Society needs people in various occupations to function smoothly."
+      ],
+      "options": [
+        "Social Roles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can you imagine a world where kids were in charge and adults had to follow their rules?",
+        "That would be a total role reversal! The social roles of kids and adults would be switched."
+      ],
+      "options": [
+        "Social Roles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if superheroes had to do regular jobs like the rest of us?",
+        "They'd have new social roles to play, like being a grocery store clerk with super-speed or a firefighter with super strength!"
+      ],
+      "options": [
+        "Social Roles (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some people have more money and power than others?",
+        "Social stratification is at play, organizing society into different levels based on factors like wealth, power, and prestige."
+      ],
+      "options": [
+        "Social Stratification (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If dogs had their own society, would there be social stratification among breeds?",
+        "Possibly! Some breeds might be seen as more prestigious or powerful, creating a hierarchy among the doggie society."
+      ],
+      "options": [
+        "Social Stratification (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In a society of robots, would there still be social stratification?",
+        "It could happen! Some robots might have more advanced features or functions, leading to a hierarchy based on their abilities or roles in their robotic society."
+      ],
+      "options": [
+        "Social Stratification (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some people live in mansions while others live in smaller homes?",
+        "Social class plays a role! People in higher social classes often have more wealth and resources, allowing them to afford bigger homes."
+      ],
+      "options": [
+        "Social Class (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if there was a social class of people who only ate ice cream?",
+        "That would be a tasty social class! Their status could be based on their ice cream preferences and knowledge."
+      ],
+      "options": [
+        "Social Class (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can people from different social classes be friends?",
+        "Of course! While social class can influence our experiences, it doesn't have to define our friendships or relationships with others."
+      ],
+      "options": [
+        "Social Class (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can someone from a lower social class become a millionaire?",
+        "Yes, through social mobility! Hard work, education, or opportunities can help people move up the social ladder."
+      ],
+      "options": [
+        "Social Mobility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I became a famous singer, would my social mobility change?",
+        "Definitely! Your fame and success would likely increase your wealth and status, allowing you to move up in social class."
+      ],
+      "options": [
+        "Social Mobility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can social mobility go in the opposite direction, too?",
+        "Yes, it can! People can also move down the social ladder due to factors like job loss, financial hardship, or changes in social standing."
+      ],
+      "options": [
+        "Social Mobility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do we have schools and hospitals?",
+        "They're social institutions that help meet the basic needs of society, like education and healthcare."
+      ],
+      "options": [
+        "Social Institutions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if aliens had their own social institutions?",
+        "Their social institutions might be different from ours, but they'd still serve to organize and support their alien society!"
+      ],
+      "options": [
+        "Social Institutions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Do all societies have the same social institutions?",
+        "Not exactly! Social institutions can vary across societies, but many share common functions like providing education, healthcare, or governing structures."
+      ],
+      "options": [
+        "Social Institutions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do people high-five each other when they're excited?",
+        "It's a form of social interaction! High-fives are a way for people to express excitement and connect with others."
+      ],
+      "options": [
+        "Social Interaction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can animals have social interactions too?",
+        "Absolutely! Animals like dolphins or elephants also communicate, bond, and interact with each other in their social groups."
+      ],
+      "options": [
+        "Social Interaction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we communicated using only emojis?",
+        "That would be an interesting form of social interaction! We'd use emojis to express our thoughts and feelings to others."
+      ],
+      "options": [
+        "Social Interaction (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some people become leaders in their group of friends?",
+        "Group dynamics play a role! Leaders often emerge due to their personality, skills, or influence within the group."
+      ],
+      "options": [
+        "Group Dynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if a group of superheroes had to work together to save the world?",
+        "They'd have to navigate their group dynamics, cooperating and using their unique abilities to overcome challenges!"
+      ],
+      "options": [
+        "Group Dynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do people sometimes act differently when they're in a group?",
+        "Group dynamics can influence our behavior! People might conform to group norms or feel pressure to fit in, causing them to act differently than they would on their own."
+      ],
+      "options": [
+        "Group Dynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some people break the rules or act in ways that others don't?",
+        "They're engaging in deviance, which means they're not conforming to the social norms or expectations of their society."
+      ],
+      "options": [
+        "Deviance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if there was a society where being late was considered normal and punctuality was deviant?",
+        "Then showing up on time would be seen as unusual or rule-breaking in that society!"
+      ],
+      "options": [
+        "Deviance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can deviance ever be a good thing?",
+        "Sometimes! Deviance can lead to positive social change or help challenge outdated norms and beliefs."
+      ],
+      "options": [
+        "Deviance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How does society make sure people follow the rules?",
+        "Through social control! There are formal and informal ways to enforce conformity to norms and values, like laws or peer pressure."
+      ],
+      "options": [
+        "Social Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if there were no social control in a society?",
+        "It would be pretty chaotic! Without social control, people might act in unpredictable or harmful ways."
+      ],
+      "options": [
+        "Social Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can too much social control be a bad thing?",
+        "Yes, excessive social control can limit individual freedom and stifle creativity or innovation."
+      ],
+      "options": [
+        "Social Control (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do people have different skin colors and cultural backgrounds?",
+        "It's all about race and ethnicity! These categories are based on physical characteristics, ancestry, and cultural practices."
+      ],
+      "options": [
+        "Race and Ethnicity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if there was a society of rainbow-colored people?",
+        "That would be a colorful and diverse society! Race and ethnicity would be defined by the different shades and hues of their rainbow skin."
+      ],
+      "options": [
+        "Race and Ethnicity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can people from different races and ethnicities learn from each other?",
+        "Absolutely! Sharing and understanding diverse perspectives can enrich our lives and promote cultural appreciation."
+      ],
+      "options": [
+        "Race and Ethnicity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do some people wear dresses while others wear pants?",
+        "It's often related to gender norms! Society has expectations about how different genders should dress and behave.",
+        "Social change happens as people adapt to new ideas, technologies, or challenges, leading to shifts in beliefs, behaviors, or institutions."
+      ],
+      "options": [
+        "Social Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if there was a society where everyone rode unicorns instead of cars?",
+        "That would be a magical social change! It would transform transportation and the way people interact with their environment."
+      ],
+      "options": [
+        "Social Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can individuals play a role in social change?",
+        "Definitely! People can advocate for new ideas or challenge existing norms, inspiring others to create positive change in society."
+      ],
+      "options": [
+        "Social Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do people sometimes fight over resources or power?",
+        "Conflict theory suggests that competition for limited resources can lead to tensions and conflicts within society."
+      ],
+      "options": [
+        "Conflict Theory (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if superheroes and villains had to share their secret lairs?",
+        "There might be conflict! They'd compete for space and resources, leading to tension or even battles between them."
+      ],
+      "options": [
+        "Conflict Theory (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can conflict lead to positive changes in society?",
+        "Sometimes! Conflict can highlight inequalities or injustices, prompting people to work towards a more equitable and fair society."
+      ],
+      "options": [
+        "Conflict Theory (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do we need different roles and institutions in society?",
+        "Functionalism explains that each part of society serves a specific purpose, contributing to the overall stability and harmony of the social system."
+      ],
+      "options": [
+        "Functionalism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if all the bees in a hive decided to stop working?",
+        "The hive wouldn't function properly! Just like in society, each bee has a role to play in maintaining balance and harmony."
+      ],
+      "options": [
+        "Functionalism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can society function without rules or norms?",
+        "It would be challenging! Functionalism suggests that rules and norms help create order and stability, allowing society to operate smoothly."
+      ],
+      "options": [
+        "Functionalism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if there was a society where everyone had their own unique way of expressing their gender?",
+        "That would be a diverse and accepting society, where everyone is free to express their gender identity without any predefined expectations."
+      ],
+      "options": [
+        "Social Change (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can social change happen quickly, or does it always take a long time?",
+        "Social change can happen at different speeds! Some changes occur rapidly, while others take generations to unfold."
+      ],
+      "options": [
+        "Conflict Theory (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can conflict be resolved peacefully?",
+        "Yes! Through dialogue, negotiation, and understanding, people can find ways to address conflicts without resorting to violence."
+      ],
+      "options": [
+        "Functionalism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If one part of society stops functioning, what happens to the rest?",
+        "It could create problems or imbalances, but other parts of society might adapt or change to restore stability and harmony."
+      ],
+      "options": [
+        "Symbolic Interactionism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do we give thumbs up to show approval?",
+        "It's a symbol we use in social interactions! A thumbs-up has been assigned the meaning of approval or agreement, and people recognize it as such."
+      ],
+      "options": [
+        "Symbolic Interactionism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can symbols have different meanings in different cultures?",
+        "Absolutely! A symbol that is positive in one culture might have a completely different meaning or even be offensive in another culture."
+      ],
+      "options": [
+        "Symbolic Interactionism (correct answer)"
+      ]
+    }
+  ]
+}

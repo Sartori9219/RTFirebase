@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Matrices",
+        "Vectors",
+        "Scalar Multiplication",
+        "Dot Product",
+        "Cross Product",
+        "Matrix Addition and Subtraction",
+        "Matrix Multiplication",
+        "Determinants",
+        "Inverse of a Matrix",
+        "Systems of Linear Equations",
+        "Vector Spaces",
+        "Eigenvalues and Eigenvectors",
+        "Orthogonal Vectors",
+        "Linear Transformations",
+        "Rank of a Matrix"
+    ],
+    "hints": {
+        "Matrices": "A rectangular array of numbers, symbols, or expressions, arranged in rows and columns.",
+        "Vectors": "An object that has both magnitude and direction, and follows the laws of vector addition.",
+        "Scalar Multiplication": "The multiplication of a vector by a scalar that changes the magnitude of the vector but not its direction.",
+        "Dot Product": "A binary operation that takes two vectors and returns a scalar.",
+        "Cross Product": "A binary operation on two vectors in three-dimensional space that results in a vector which is perpendicular to the plane containing the two original vectors.",
+        "Matrix Addition and Subtraction": "Operations that add or subtract corresponding elements in two matrices.",
+        "Matrix Multiplication": "An operation that takes a pair of matrices and produces another matrix, subject to certain conditions.",
+        "Determinants": "A special number that can be calculated from a square matrix.",
+        "Inverse of a Matrix": "For a given matrix, the inverse is another matrix such that when the two are multiplied together, the result is the identity matrix.",
+        "Systems of Linear Equations": "A set of linear equations that all together form a system.",
+        "Vector Spaces": "A collection of vectors that satisfy a set of axioms including closure under addition and scalar multiplication.",
+        "Eigenvalues and Eigenvectors": "Special sets of scalars and vectors associated with a system of linear equations that are particularly useful in systems of differential equations and physics.",
+        "Orthogonal Vectors": "Two vectors are orthogonal if their dot product equals zero, meaning they are at right angles to each other.",
+        "Linear Transformations": "A mapping between two vector spaces that preserves the operations of vector addition and scalar multiplication.",
+        "Rank of a Matrix": "The maximum number of linearly independent column vectors in the matrix, which is the same as the maximum number of linearly independent row vectors."
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Construction Safety",
+        "Blueprint Reading",
+        "Project Planning",
+        "Cost Estimation",
+        "Construction Materials",
+        "Construction Methods",
+        "Quality Control",
+        "Risk Management",
+        "Building Codes and Regulations",
+        "Site Management",
+        "Construction Tools and Equipment",
+        "Scheduling and Timeline Management",
+        "Contractor/Subcontractor Management",
+        "Environmental Impact and Sustainability",
+        "Communication in Construction"
+    ],
+    "hints": {
+        "Construction Safety": "Understanding the importance of safety protocols, personal protective equipment, and hazard recognition in the construction industry.",
+        "Blueprint Reading": "Ability to understand and interpret blueprints, which are critical for the planning and execution of construction projects.",
+        "Project Planning": "Learning how to plan a construction project, including identifying project goals, resources, and potential constraints.",
+        "Cost Estimation": "Acquiring skills to predict the financial resources necessary for a construction project, considering labor, materials, equipment, and more.",
+        "Construction Materials": "Knowledge about various materials used in construction, their properties, uses, and how to choose them based on project requirements.",
+        "Construction Methods": "Understanding different techniques and methods used in the construction process, such as framing, masonry, and concrete work.",
+        "Quality Control": "Learning how to ensure construction work meets defined standards and specifications to provide a safe and durable end product.",
+        "Risk Management": "Understanding how to identify, assess, and manage potential risks in a construction project to prevent delays, cost overruns, or safety issues.",
+        "Building Codes and Regulations": "Familiarity with the laws, codes, and regulations that guide construction work to ensure safety, legality, and sustainability.",
+        "Site Management": "Knowledge about managing a construction site, including worker supervision, material storage, waste management, and site safety.",
+        "Construction Tools and Equipment": "Understanding the different tools and machinery used in construction and their proper use and maintenance.",
+        "Scheduling and Timeline Management": "Learning how to create and manage a project schedule to ensure construction work is completed on time.",
+        "Contractor/Subcontractor Management": "Understanding how to coordinate and manage the work of different contractors and subcontractors in a construction project.",
+        "Environmental Impact and Sustainability": "Awareness of the environmental impact of construction activities and how to implement sustainable practices in construction.",
+        "Communication in Construction": "Understanding the importance of clear, concise communication in managing construction projects and coordinating with teams."
+    }
+}

@@ -1,0 +1,379 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Could you pass me the unicorn-shaped eraser, please?",
+        "Here you go! Enjoy erasing your magical mistakes."
+      ],
+      "options": [
+        "Saying please and thank you (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Please help me untangle my rainbow headphones.",
+        "Sure thing! Let's conquer this colorful chaos together."
+      ],
+      "options": [
+        "Saying please and thank you (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Would you mind lending me your rubber chicken, please?",
+        "Of course! May it bring laughter to all who encounter it."
+      ],
+      "options": [
+        "Saying please and thank you (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "After you, my fellow time traveler! Let's venture into this classroom of future knowledge.",
+        "Why, thank you! I shall bravely accept your invitation to the land of learning."
+      ],
+      "options": [
+        "Holding doors open for others (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Behold, the gateway to the cafeteria! Allow me to hold it open as we embark on a quest for nourishment.",
+        "Many thanks, kind comrade! May our taste buds rejoice in the feast ahead."
+      ],
+      "options": [
+        "Holding doors open for others (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Fear not, for I shall hold open the door to the gymnasium, where we shall conquer our physical challenges!",
+        "Much appreciated! Together, we shall emerge victorious and fit as superheroes!"
+      ],
+      "options": [
+        "Holding doors open for others (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did I ever tell you about the time I accidentally adopted a family of raccoons?",
+        "No, but I'm all ears! Tell me more about your unexpected furry friends."
+      ],
+      "options": [
+        "Listening attentively (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have a theory that our school mascot is secretly a real dragon disguised as a costume.",
+        "Interesting! I'm listening; let's dive into this mythical mystery together."
+      ],
+      "options": [
+        "Listening attentively (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I can't decide if I want to be an astronaut-chef or a deep-sea detective when I grow up.",
+        "Both sound amazing! I'm all ears \u2013 tell me more about your out-of-this-world career aspirations."
+      ],
+      "options": [
+        "Listening attentively (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I see you're working on your telepathic communication skills. I'll stand back so I don't accidentally intercept any secret messages!",
+        "Haha, thanks! I appreciate you giving me space to practice my mind-reading powers."
+      ],
+      "options": [
+        "Respecting personal space (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'd love to hear all about your new pet llama, but let's keep a safe distance so we don't accidentally spit on each other in excitement.",
+        "Good idea! I'll tell you all about Lenny the Llama from over here."
+      ],
+      "options": [
+        "Respecting personal space (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your dance moves are out of this world! I'll give you some space to show off your moonwalk without bumping into anyone.",
+        "Thanks! Time to channel my inner astronaut and glide across the dance floor."
+      ],
+      "options": [
+        "Respecting personal space (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let's have a staring contest while we discuss our weekend plans! Ready, set, go!",
+        "Challenge accepted! So, I was thinking about going to that new alien-themed amusement park..."
+      ],
+      "options": [
+        "Making eye contact (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Look into my eyes as I recount the thrilling tale of my epic battle with a rogue photocopier!",
+        "I'm all eyes! Tell me more about this legendary office showdown."
+      ],
+      "options": [
+        "Making eye contact (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "As we debate the merits of pineapple on pizza, let's maintain eye contact to show we're truly engaged in this culinary conundrum.",
+        "Agreed! Now, let me tell you why pineapple is a pizza game-changer."
+      ],
+      "options": [
+        "Making eye contact (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "As you share the tale of your daring escape from the land of sentient broccoli, I promise not to interrupt your veggie adventure narration!",
+        "Much appreciated! Now, let me tell you how I outwitted those cunning cruciferous foes."
+      ],
+      "options": [
+        "Avoiding interruptions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Thank you! So, here's my case for why mermaids would be the ultimate aquatic companions."
+      ],
+      "options": [
+        "Avoiding interruptions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Please enlighten me on the mysteries of the lost city of Atlantis, and I vow not to interrupt your historical revelations!",
+        "I appreciate that! Prepare yourself for a deep dive into the enigmatic underwater world."
+      ],
+      "options": [
+        "Avoiding interruptions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I see you're struggling to carry all those books about alien civilizations. May I offer my assistance in transporting these otherworldly tomes?",
+        "Thank you! With your help, we'll conquer this literary galaxy together!"
+      ],
+      "options": [
+        "Offering help when needed (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your quest to build the ultimate pillow fort seems quite challenging. Shall I lend my architectural expertise to create a cushioned masterpiece?",
+        "Yes, please! Together, we'll construct the fluffiest fortress ever!"
+      ],
+      "options": [
+        "Offering help when needed (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed you're trying to solve that Rubik's cube while riding a unicycle. Need a hand to achieve this incredible balancing act?",
+        "I'd appreciate the help! Let's tackle this colorful conundrum on wheels."
+      ],
+      "options": [
+        "Offering help when needed (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Instead of cursing when I stub my toe, I've decided to exclaim 'Great Galactic Gumdrops!' It's much more fun and family-friendly!",
+        "That's a fantastic idea! I might adopt 'Holy Helicoptering Hedgehogs!' for myself."
+      ],
+      "options": [
+        "Using appropriate language (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've been practicing using polite language when I talk about my ongoing feud with the stubborn vending machine.",
+        "Good for you! It's always better to keep things respectful, even when dealing with uncooperative snack dispensers."
+      ],
+      "options": [
+        "Using appropriate language (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "As we debate the merits of ketchup versus mustard, let's remember to use civilized language befitting such a distinguished culinary discussion.",
+        "Agreed! Now, allow me to eloquently express my admiration for the versatile and zesty nature of mustard."
+      ],
+      "options": [
+        "Using appropriate language (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Absolutely! We wouldn't want any lunar cheese particles to escape during our mealtime conversation."
+      ],
+      "options": [
+        "Practicing good table manners (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "As we indulge in this scrumptious spaghetti dinner, let's twirl our noodles gracefully and avoid slurping them like ravenous spaghetti monsters.",
+        "Agreed! We shall savor our pasta with the elegance it deserves."
+      ],
+      "options": [
+        "Practicing good table manners (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "While we enjoy our underwater delicacies, let's use our cutlery like civilized merfolk and avoid wielding our forks like tridents.",
+        "Indeed! Fine dining etiquette is a must, even in the depths of the ocean."
+      ],
+      "options": [
+        "Practicing good table manners (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Agreed! We shall synchronize our watches and be as timely as our favorite hero."
+      ],
+      "options": [
+        "Being punctual (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "True! Punctuality is key when mingling with mysterious creatures."
+      ],
+      "options": [
+        "Being punctual (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "To ensure we don't miss a single moment of the Mad Hatter's tea party, let's set our alarms to Rabbit-o'clock and arrive as punctual guests.",
+        "Excellent idea! We'll be the most prompt partygoers in Wonderland."
+      ],
+      "options": [
+        "Being punctual (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Oops, I accidentally stepped on your sandwich at lunch today. I thought it was just a squishy rock!",
+        "I'm really sorry about that. Let me buy you a new one to make up for it."
+      ],
+      "options": [
+        "Apologizing when necessary (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? I just won the world championship in talking loudly while you're trying to study!",
+        "Ugh, I was wondering why I couldn't concentrate.",
+        "Oh, I didn't realize I was bothering you. I'm sorry! I'll keep it down from now on."
+      ],
+      "options": [
+        "Apologizing when necessary (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, I borrowed your favorite pen and accidentally turned it into a rocket that launched into space.",
+        "I'm so sorry! I promise I'll find a new lucky pen for you \u2013 one that's even more out-of-this-world!"
+      ],
+      "options": [
+        "Apologizing when necessary (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you hear about the new Silent Disco App? It turns your phone into a dance party that only you can hear!",
+        "Haha, that's cool! But remember to keep it on silent during class, so we don't all end up dancing instead of learning."
+      ],
+      "options": [
+        "Keeping your phone on silent during class or meetings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've got this hilarious ringtone \u2013 it's a cat meowing to the tune of Beethoven's Fifth Symphony!",
+        "That sounds amazing! Just make sure to switch your phone to silent mode during our meetings, so we don't get a surprise feline concert."
+      ],
+      "options": [
+        "Keeping your phone on silent during class or meetings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My phone has this neat feature where it vibrates like a mini earthquake when I get a text.",
+        "Wow, that's intense! Just be sure to keep it on silent during class, or we might think there's an actual earthquake happening."
+      ],
+      "options": [
+        "Keeping your phone on silent during class or meetings (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you hear that our teacher is secretly a superhero who fights crime at night?",
+        "Haha, that's a funny idea! But let's not spread rumors. We wouldn't want to give our teacher a secret identity crisis."
+      ],
+      "options": [
+        "Not gossiping or spreading rumors (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that Jenny can communicate with aliens through interpretive dance!",
+        "That's quite an imaginative rumor! But we should respect Jenny's privacy and not spread stories that aren't true."
+      ],
+      "options": [
+        "Not gossiping or spreading rumors (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Guess what? I heard that our school mascot is actually an undercover spy for the rival school!",
+        "Wow, that's some wild gossip! But let's focus on facts and not get tangled up in rumors about sneaky mascots."
+      ],
+      "options": [
+        "Not gossiping or spreading rumors (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that I'm the world champion of thanking people? I can say thank you in 20 different languages!",
+        "Haha, that's impressive! It's always great to show gratitude and appreciation, no matter the language."
+      ],
+      "options": [
+        "Showing gratitude and appreciation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just found out that our janitor is also an amazing artist. He painted a beautiful mural on the cafeteria wall!",
+        "Wow, that's incredible! Let's make sure to thank him and show our appreciation for his talents and hard work."
+      ],
+      "options": [
+        "Showing gratitude and appreciation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our teacher stayed up all night grading our papers so we could get our results today. She must be exhausted!",
+        "That's true dedication! Let's make her a thank-you card and surprise her with some treats to show our appreciation."
+      ],
+      "options": [
+        "Showing gratitude and appreciation (correct answer)"
+      ]
+    }
+  ]
+}

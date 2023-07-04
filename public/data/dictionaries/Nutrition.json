@@ -1,0 +1,34 @@
+{
+    "options": [
+        "Eat a variety of fruits and vegetables",
+        "Choose whole grains",
+        "Stay hydrated",
+        "Limit sugary drinks",
+        "Eat lean proteins",
+        "Choose healthy snacks",
+        "Don't skip breakfast",
+        "Eat mindfully",
+        "Limit processed foods",
+        "Enjoy healthy fats",
+        "Cut back on added sugars",
+        "Get calcium for strong bones",
+        "Learn to read food labels",
+        "Practice portion control"
+    ],
+    "hints": {
+        "Eat a variety of fruits and vegetables": "Aim for at least five servings per day to ensure you get plenty of vitamins, minerals, and fiber.",
+        "Choose whole grains": "Opt for whole grain bread, pasta, and rice instead of refined grains to get more nutrients and fiber.",
+        "Stay hydrated": "Drink plenty of water throughout the day to help your body function properly.",
+        "Limit sugary drinks": "Choose water, milk, or 100% fruit juice instead of sodas, energy drinks, or sugary fruit drinks.",
+        "Eat lean proteins": "Include sources like chicken, fish, beans, and tofu to help build and repair muscles.",
+        "Choose healthy snacks": "Opt for fruits, vegetables, whole grain crackers, or yogurt instead of candy or chips.",
+        "Don't skip breakfast": "Eating a nutritious breakfast helps provide energy and focus for the day ahead.",
+        "Eat mindfully": "Pay attention to your body's hunger and fullness cues to avoid overeating.",
+        "Limit processed foods": "Cut back on pre-packaged meals and snacks, which can be high in unhealthy fats, sugar, and sodium.",
+        "Enjoy healthy fats": "Include sources like avocados, nuts, and seeds to support brain development and overall health.",
+        "Cut back on added sugars": "Limit sweets and desserts, and choose healthier alternatives like fruit when possible.",
+        "Get calcium for strong bones": "Include dairy products or calcium-fortified alternatives like almond milk to support growing bones.",
+        "Learn to read food labels": "Understand the nutritional content of the foods you eat to make healthier choices.",
+        "Practice portion control": "Eat age-appropriate serving sizes to maintain a healthy weight and avoid overeating."
+    }
+}

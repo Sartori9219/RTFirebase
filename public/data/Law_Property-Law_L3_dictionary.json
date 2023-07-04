@@ -1,0 +1,365 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, did you know that in a magical land, real property includes not only land and buildings, but also the enchanted forests and floating castles?",
+        "Haha, that's so cool! I guess even in magical lands, it's important to define what counts as real property."
+      ],
+      "options": [
+        "Real Property (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if there was a law stating that all treehouses were considered real property, and you had to pay property taxes on them!",
+        "That would be hilarious! But it just goes to show that real property can include all sorts of structures, not just traditional houses."
+      ],
+      "options": [
+        "Real Property (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the \"Land of Giant Donuts\"? In that place, real property includes acres of giant, edible donut fields!",
+        "That's so funny and delicious! But it highlights how real property is all about land and anything permanently attached"
+      ],
+      "options": [
+        "Personal Property (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that in a fictional world where everyone has a pet unicorn, those unicorns are considered personal property?",
+        "Haha, that's so magical! But it shows that personal property can include all sorts of movable items, even mythical creatures!"
+      ],
+      "options": [
+        "Personal Property (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That would be quackers! But it highlights how personal property can encompass a wide range of items, from the everyday to the unique."
+      ],
+      "options": [
+        "Personal Property (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the \"Kingdom of Candyland\"? In that place, personal property includes giant lollipops and gummy bears that people use as furniture!",
+        "That's so sweet and funny! But it demonstrates how personal property covers various movable items, even when they're used in unconventional ways."
+      ],
+      "options": [
+        "Personal Property (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, that's so groovy! But it shows that intellectual property can cover a wide range of creative expressions, even in alternate realities!"
+      ],
+      "options": [
+        "Intellectual Property (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if there was a world where people could patent their dreams, and no one else could have the same dream without permission.",
+        "That would be so bizarre! But it highlights the importance of intellectual property in protecting original ideas and creations."
+      ],
+      "options": [
+        "Intellectual Property (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Intellectual Property (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, that's so fluffy! But it shows how easements can grant rights to use another's property in various situations, even in fantastical settings."
+      ],
+      "options": [
+        "Easements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if there was an easement allowing you to slide through your neighbor's backyard on a giant waterslide to reach the community pool faster.",
+        "That would be so fun! But it highlights the concept of easements as a way to grant access to another person's property for specific purposes."
+      ],
+      "options": [
+        "Easements (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Easements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that in a fictional city called \"Cakeland,\" zoning regulations determine where bakeries can build giant, edible cake houses?",
+        "Haha, that's so tasty! But it shows how zoning regulations can be used to control and organize land use, even in deliciously imaginative scenarios."
+      ],
+      "options": [
+        "Zoning Regulations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if there was a town with zoning regulations that required every neighborhood to have a trampoline park within walking distance.",
+        "That would be so bouncy and fun! But it highlights how zoning regulations can shape the layout and amenities of a community."
+      ],
+      "options": [
+        "Zoning Regulations (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Zoning Regulations (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Adverse Possession (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That would be so thrilling and dangerous! But it highlights the idea of adverse possession and how it can apply to various situations."
+      ],
+      "options": [
+        "Adverse Possession (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's fascinating and adventurous! But it demonstrates the concept of adverse possession and how it can lead to ownership under certain circumstances."
+      ],
+      "options": [
+        "Adverse Possession (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the guy who played his trumpet loudly every night, bothering all his neighbors?",
+        "Sounds like a real \"toot\" in the neck! I bet they couldn't wait for him to hit the mute button!"
+      ],
+      "options": [
+        "Nuisance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My neighbor has this habit of leaving their garbage cans out on the sidewalk, and it smells awful!",
+        "Yuck! That's one trashy situation. Time to air out your grievances with them!"
+      ],
+      "options": [
+        "Nuisance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a bakery next door to my house, and they always have bright lights on at night while baking.",
+        "Well, that's a \"glaring\" issue! Maybe they need a reminder to keep things low-key after dark."
+      ],
+      "options": [
+        "Nuisance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know my friend signed a lease agreement to live in a treehouse for a year?",
+        "Wow, they must be really \"branching out\" with their living arrangements!"
+      ],
+      "options": [
+        "Lease Agreements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin rented an apartment where the landlord allows only cats but no dogs.",
+        "Sounds like a \"purr-fect\" place for feline enthusiasts, but a \"ruff\" deal for dog lovers!"
+      ],
+      "options": [
+        "Lease Agreements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just found out that my lease agreement says I have to repaint the walls every time I sneeze!",
+        "That's \"snot\" fair at all! Better stock up on tissues and paint cans!"
+      ],
+      "options": [
+        "Lease Agreements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the city that used eminent domain to build a park full of trampolines?",
+        "Yeah, I guess they just needed a little extra \"spring\" in their step!"
+      ],
+      "options": [
+        "Eminent Domain (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My neighbor's house was taken by the government to make way for a new cheese factory.",
+        "That's a \"grate\" loss for your neighbor, but at least it's for the greater \"gouda\" of the community!"
+      ],
+      "options": [
+        "Eminent Domain (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The government wants to acquire my land to build a museum dedicated to rubber ducks.",
+        "Oh, \"quack\" a doodle doo! What a unique way to make a splash in the neighborhood!"
+      ],
+      "options": [
+        "Eminent Domain (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My landlord just installed a chocolate fountain in the lobby, but it's against our lease to use it!",
+        "That's just cocoa-nuts! Talk about a sweet temptation they're putting you through!"
+      ],
+      "options": [
+        "Landlord-Tenant Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend's landlord painted their apartment in rainbow colors without asking them first.",
+        "Wow, they really \"brushed\" past the tenant's rights on that one. How un-palette-able!"
+      ],
+      "options": [
+        "Landlord-Tenant Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The tenant upstairs started a small circus in their living room, and the landlord had to step in.",
+        "Yikes! Sounds like a real juggling act between respecting their privacy and maintaining order."
+      ],
+      "options": [
+        "Landlord-Tenant Law (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the town that charges property taxes based on the number of garden gnomes you have?",
+        "That's gnome-sense! I guess they really dig deep to find unique ways to tax their residents!"
+      ],
+      "options": [
+        "Property Taxes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend just got their property tax bill, and it was so high, they thought it was an April Fool's joke!",
+        "Ouch! Sounds like a taxing situation. Maybe they should double-check the math for any \"prank-ulations.\""
+      ],
+      "options": [
+        "Property Taxes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My neighbor decided to pay their property taxes by creating a sculpture out of coins.",
+        "What a \"cents-ational\" idea! I bet it made quite an impression at the tax office!"
+      ],
+      "options": [
+        "Property Taxes (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know there's a bank that offers mortgages just for people who want to live in haunted houses?",
+        "No way! I guess they're really \"spiriting\" away the competition with that spooky offer!"
+      ],
+      "options": [
+        "Mortgages (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend got a mortgage to buy a house made entirely of recycled bottles!",
+        "Wow, talk about a \"glass\" act! They must be really committed to eco-friendly living."
+      ],
+      "options": [
+        "Mortgages (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard of a couple who took out a mortgage and accidentally bought a house on wheels!",
+        "Oops! Sounds like they're really \"rolling\" with the punches on this one. Home is where you park it, right?"
+      ],
+      "options": [
+        "Mortgages (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin just got a deed for a piece of land on Mars!",
+        "That's out of this world! I hope they're ready for some \"stellar\" adventures in their new Martian backyard."
+      ],
+      "options": [
+        "Deeds (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A friend of mine received a deed to a lighthouse as a wedding gift.",
+        "Wow, talk about a \"beacon\" of love! I hope their marriage is as steady as the guiding light."
+      ],
+      "options": [
+        "Deeds (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the guy who traded his car for a deed to an island full of squirrels?",
+        "That's nuts! I guess he really wanted to branch out and explore nature up close and personal."
+      ],
+      "options": [
+        "Deeds (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just bought title insurance for my new house, which is built entirely out of LEGO bricks!",
+        "Sounds like a \"blockbuster\" investment! It's always good to have a solid foundation, even if it's made of plastic."
+      ],
+      "options": [
+        "Title Insurance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend got title insurance for their treehouse, and then they found out it was haunted!",
+        "Yikes! That's one \"tree-mendous\" surprise. At least they're covered in case the ghosts try to claim ownership."
+      ],
+      "options": [
+        "Title Insurance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know there's a company that offers title insurance for underwater homes?",
+        "Wow, that's really making a splash in the market! I guess it's better to be safe than \"soggy.\""
+      ],
+      "options": [
+        "Title Insurance (correct answer)"
+      ]
+    }
+  ]
+}

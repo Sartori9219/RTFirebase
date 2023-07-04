@@ -1,0 +1,733 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, did you know I had a party with 10 pizzas, but I could only invite 5 friends because I didn't have enough money for more pizza?",
+        "Next time, plan ahead and save up money for extra pizza so everyone can join!"
+      ],
+      "options": [
+        "Budgeting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wanted to buy a super cool robot toy, but I spent all my money on candy instead!",
+        "You should have made a plan to spend a little on candy and save the rest for the robot toy!"
+      ],
+      "options": [
+        "Budgeting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I went to the fair and spent all my tickets on the first game! Now I can't go on any rides or play any other games!",
+        "It's like having a ticket budget! Next time, spread out your tickets so you can enjoy more fun activities!"
+      ],
+      "options": [
+        "Budgeting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I made spaghetti every day this week, and now my family is turning into spaghetti monsters!",
+        "Try planning different meals for each day to keep things exciting and un-spaghetti-fy your family!"
+      ],
+      "options": [
+        "Meal Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a moldy sandwich under my bed! Yuck!",
+        "Store your food properly in the fridge or pantry, so it doesn't turn into a science experiment!"
+      ],
+      "options": [
+        "Food Storage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've only been eating donuts for a week, and now I feel like a jelly-filled donut!",
+        "Mix in fruits, veggies, and other healthy foods to feel more like a superhero than a donut!"
+      ],
+      "options": [
+        "Nutrition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I tried to cook dinner, but I accidentally turned our kitchen into a smoke machine!",
+        "Learn different cooking techniques, like baking or steaming, to avoid turning your kitchen into a rock concert!"
+      ],
+      "options": [
+        "Cooking Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I spent all day watching cat videos and forgot to do my homework!",
+        "Schedule some time for cat videos, but also save time for important tasks like homework and chores!"
+      ],
+      "options": [
+        "Time Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wore my favorite shirt for a month, and now it can stand up on its own!",
+        "Keep things clean with regular washing so your clothes don't turn into statues!"
+      ],
+      "options": [
+        "Cleaning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I ripped my pants doing a super ninja kick, and now everyone can see my superhero undies!",
+        "Learn to sew, and you can fix your pants and keep your secret identity safe!"
+      ],
+      "options": [
+        "Sewing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I washed my white clothes with a red sock, and now everything is pink!",
+        "Separate your laundry by color to avoid turning your wardrobe into a cotton candy collection!"
+      ],
+      "options": [
+        "Laundry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Our house is making so many creaky noises; I think it's haunted!",
+        "Regular home maintenance can fix those spooky sounds and keep your home ghost-free!"
+      ],
+      "options": [
+        "Home Maintenance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I left all the lights on in the house and now my electric bill is huge!",
+        "Save energy by turning off lights and appliances when not in use to avoid a monstrous bill!"
+      ],
+      "options": [
+        "Energy Conservation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I threw away everything and now have a mountain of trash in my backyard!",
+        "Reduce, reuse, and recycle to keep your yard looking like a garden, not a landfill!"
+      ],
+      "options": [
+        "Waste Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I planted pizza seeds, but nothing is growing!",
+        "Plant real seeds and learn to garden, so you can grow delicious fruits and veggies instead!"
+      ],
+      "options": [
+        "Gardening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I put a trampoline in the kitchen, and now everyone keeps bumping into things!",
+        "Arrange your home safely to avoid accidents and keep your trampoline in the backyard!"
+      ],
+      "options": [
+        "Home Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I let my little brother eat ice cream for breakfast, lunch, and dinner, and now he's bouncing off the walls!",
+        "Learn about proper childcare to keep kids healthy and happy without turning them into sugar-powered rockets!"
+      ],
+      "options": [
+        "Childcare (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My family argues over who gets the TV remote every night!",
+        "Learn about family dynamics and find ways to compromise, like taking turns or watching shows together!"
+      ],
+      "options": [
+        "Family Dynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I invited friends over, but all I had to offer them were crackers and water!",
+        "Improve your hospitality skills to make your guests feel welcome and entertained with yummy treats and fun activities!"
+      ],
+      "options": [
+        "Hospitality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I bought a pet rock online, but it doesn't do anything!",
+        "Learn about consumer education to make smart choices and spend your money on things that are useful and fun!"
+      ],
+      "options": [
+        "Consumer Education (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I saved all my money in a piggy bank, but now I can't buy anything because I can't carry it around!",
+        "Learn about personal finance and find a better way to save, spend, and manage your money without weighing you down!"
+      ],
+      "options": [
+        "Personal Finance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just got my allowance, and I want to buy 10 candy bars, 3 video games, and a pet unicorn!",
+        "To make sure you don't run out of money, try giving each item a priority and see if you have enough for all of them. You might find that pet unicorn is too expensive!"
+      ],
+      "options": [
+        "Budgeting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My pet rock wants a new outfit, but I also want to save for a new skateboard. What do I do?",
+        "You can put some of your money aside for the skateboard and spend a little on your pet rock's outfit. That way, everyone's happy, and you're still saving up!"
+      ],
+      "options": [
+        "Budgeting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to build the world's tallest ice cream cone, but I only have $5. Can I do it?",
+        "You might not be able to build the tallest ice cream cone, but you can still enjoy a smaller one. Plan how many scoops you can buy with your $5 and enjoy a delicious treat within your budget!"
+      ],
+      "options": [
+        "Budgeting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to eat pizza for breakfast, lunch, and dinner every day this week!",
+        "Eating pizza all the time might be fun, but it's important to have variety. Plan a mix of meals that include different food groups so you stay healthy and happy!"
+      ],
+      "options": [
+        "Meal Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I eat a burger as big as my head for dinner tonight?",
+        "That sounds fun, but it might be too much! Plan a balanced meal with a smaller burger, some veggies, and a fruit for dessert."
+      ],
+      "options": [
+        "Meal Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm going to a party and need to bring a snack. What should I do?",
+        "Plan a fun and tasty snack that's easy to share, like fruit kabobs or mini sandwiches. Make sure you have enough for everyone to enjoy!"
+      ],
+      "options": [
+        "Meal Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a sandwich under my bed from last month. Can I still eat it?",
+        "Oh no! It's better to store food in the fridge or pantry to keep it fresh. You should throw away the old sandwich and make a new one."
+      ],
+      "options": [
+        "Food Storage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have too many apples, and I don't want them to go bad. What should I do?",
+        "Store your apples in a cool, dark place like a pantry or fridge. If you still have too many, you can make applesauce or share them with friends!"
+      ],
+      "options": [
+        "Food Storage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I accidentally left my ice cream on the kitchen counter. Now it's all melted! What do I do?",
+        "Oops! In the future, remember to put ice cream back in the freezer right away. For now, you can try making a milkshake with the melted ice cream."
+      ],
+      "options": [
+        "Food Storage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that eating only cookies will give me superpowers. Is that true?",
+        "Cookies are tasty, but eating a balanced diet with fruits, vegetables, protein, and whole grains will give you the energy and nutrients you need to be your best self!"
+      ],
+      "options": [
+        "Nutrition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I grow taller if I eat more spinach like my favorite cartoon character?",
+        "Spinach is full of nutrients and good for you, but it won't magically make you taller. Eating a balanced diet and getting enough sleep can help you grow strong and healthy, though!"
+      ],
+      "options": [
+        "Nutrition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What happens if I eat only jellybeans for a week?",
+        "Eating just jellybeans won't give you the nutrients your body needs to stay healthy. It's important to eat a variety of foods, including fruits, vegetables, proteins, and whole grains."
+      ],
+      "options": [
+        "Nutrition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to cook spaghetti, but I don't have a stove. Can I cook it in the sun?",
+        "Cooking spaghetti in the sun might not work very well. Try asking an adult for help to use the stove or find an alternative cooking method."
+      ],
+      "options": [
+        "Cooking Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I make toast by holding bread over a candle?",
+        "That's not the safest way to make toast. It's better to use a toaster or oven with adult supervision to avoid accidents."
+      ],
+      "options": [
+        "Cooking Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to make a cake, but I don't have an oven. What should I do?",
+        "No oven? No problem! You can try making a no-bake dessert, like a refrigerator cake or pudding, instead."
+      ],
+      "options": [
+        "Cooking Techniques (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have to finish my homework, clean my room, and practice my dance moves before dinner. How can I do it all?",
+        "Make a schedule and break down your tasks into smaller steps. Set aside time for each task and try to stay focused while you work. You can do it!"
+      ],
+      "options": [
+        "Time Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to watch my favorite show, but I also need to walk my dog. What should I do?",
+        "Try walking your dog first so they get their exercise, and then you can enjoy your show without any distractions. That's good time management!"
+      ],
+      "options": [
+        "Time Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I need to finish a school project, but I also want to play video games. How can I do both?",
+        "Set a timer to work on your project for a certain amount of time, then reward yourself with a break to play video games. This way, you can get your work done and still have fun!"
+      ],
+      "options": [
+        "Time Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I spilled juice on the floor. Can I clean it up with my socks?",
+        "Using your socks might not be the best idea. Grab a paper towel or a cloth to clean the spill, and make sure to clean the area with soap and water afterward."
+      ],
+      "options": [
+        "Cleaning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My room is so messy that I can't find my favorite toy. How do I clean it up?",
+        "Start by picking up one thing at a time and putting it away. You can make it a fun game by seeing how many items you can put away in a minute!"
+      ],
+      "options": [
+        "Cleaning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I clean my windows with peanut butter?",
+        "Peanut butter won't clean your windows very well. Try using a window cleaner and a cloth or paper towel for a streak-free shine."
+      ],
+      "options": [
+        "Cleaning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My teddy bear lost an arm! Can I sew it back on with spaghetti?",
+        "Spaghetti isn't strong enough to sew your teddy bear's arm back on. You'll need a needle and thread to fix your cuddly friend."
+      ],
+      "options": [
+        "Sewing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to sew a button onto my shirt, but I don't have any thread. Can I use dental floss?",
+        "Dental floss can actually work as a temporary solution! It's strong and durable, but it's a good idea to replace it with thread when you get the chance."
+      ],
+      "options": [
+        "Sewing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have a hole in my sock. Can I fix it with tape?",
+        "Tape might be a temporary fix, but sewing the hole closed with a needle and thread will make your sock last longer."
+      ],
+      "options": [
+        "Sewing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I wash my clothes in the dishwasher?",
+        "Washing your clothes in the dishwasher isn't a good idea. Use a washing machine or hand-wash them in the sink with laundry detergent for best results."
+      ],
+      "options": [
+        "Laundry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I accidentally mixed my red shirt with my white clothes, and now everything is pink! What should I do?",
+        "Oops! In the future, separate your laundry by color to avoid color bleeding. For now, try rewashing the pink clothes with a color-safe bleach or a color-remover product."
+      ],
+      "options": [
+        "Laundry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I dry my clothes in the microwave?",
+        "Using a microwave to dry clothes is not safe. Instead, use a dryer, hang them outside, or lay them flat to air-dry."
+      ],
+      "options": [
+        "Laundry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a squeaky door in my house. Can I fix it with jelly?",
+        "Jelly won't fix a squeaky door. Try using a lubricant like WD-40 or ask an adult for help with a more suitable solution."
+      ],
+      "options": [
+        "Home Maintenance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My room is too dark. Can I paint it with glow-in-the-dark paint to make it brighter?",
+        "Glow-in-the-dark paint can be fun, but it might not be enough to brighten your room. Try adding more lighting or choosing a lighter paint color for the walls."
+      ],
+      "options": [
+        "Home Maintenance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I use duct tape to fix a leaky faucet?",
+        "Duct tape is a temporary fix, but it's best to ask an adult for help or call a professional to fix a leaky faucet properly."
+      ],
+      "options": [
+        "Home Maintenance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How can I save energy while playing video games?",
+        "Turn off the game console when you're not playing and unplug chargers when they're not in use. This can help conserve energy and save money on your electric bill!"
+      ],
+      "options": [
+        "Energy Conservation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I save energy by using my superhero powers to light up my room instead of a lamp?",
+        "Superhero powers might not be real, but you can save energy by using energy-efficient light bulbs and turning off lights when you leave the room."
+      ],
+      "options": [
+        "Energy Conservation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Will wearing a sweater make my house use less energy?",
+        "Wearing a sweater can help you feel warmer without turning up the heat. Lowering the thermostat and using blankets can also help conserve energy at home."
+      ],
+      "options": [
+        "Energy Conservation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I recycle my old homework?",
+        "Yes, you can! Paper is recyclable, so put your old homework in the recycling bin instead of the trash. Just make sure to remove any staples or paperclips first!"
+      ],
+      "options": [
+        "Waste Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend said they're going to throw away their old toys. What should I tell them?",
+        "Suggest donating the toys to a local charity or thrift store instead of throwing them away. This helps reduce waste and gives the toys a new life!"
+      ],
+      "options": [
+        "Waste Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I use a banana peel as a bookmark?",
+        "A banana peel might not make the best bookmark, as it can get messy. Instead, consider composting the peel and using a reusable bookmark to reduce waste."
+      ],
+      "options": [
+        "Waste Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I grow a pizza tree in my backyard?",
+        "Pizza trees don't exist, but you can grow some of the ingredients for pizza, like tomatoes and basil, in your garden. Happy gardening!"
+      ],
+      "options": [
+        "Gardening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I plant candy in my garden and grow a candy plant?",
+        "As fun as that sounds, candy plants aren't real. But you can grow fruits, vegetables, and herbs that make for tasty and healthy snacks!"
+      ],
+      "options": [
+        "Gardening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How can I make my plants grow faster? Should I sing to them?",
+        "While singing to your plants might not make them grow faster, giving them plenty of sunlight, water, and nutrients will help them thrive."
+      ],
+      "options": [
+        "Gardening (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a mysterious bottle under the sink. Can I use it as a magic potion?",
+        "It's important not to play with unknown chemicals. Ask an adult to help you identify the bottle's contents and store it safely. Remember, safety first!"
+      ],
+      "options": [
+        "Home Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I use my toy lightsaber to change a lightbulb?",
+        "Changing a lightbulb with a toy lightsaber isn't safe. Ask an adult to help you change the lightbulb using the proper tools and precautions."
+      ],
+      "options": [
+        "Home Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to make my room into a giant pillow fort. Is that safe?",
+        "Building a pillow fort can be fun, but make sure not to block exits, cover heating vents, or create tripping hazards. Keep your fort safe and enjoy your cozy space!"
+      ],
+      "options": [
+        "Home Safety (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm babysitting my little brother, and he's bored. What can I do to entertain him?",
+        "Try playing age-appropriate games, reading a story, or doing a fun craft together. You'll both have a great time and make lasting memories!"
+      ],
+      "options": [
+        "Childcare (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My baby sister is crying, and I don't know what to do. Help!",
+        "Check if she needs a diaper change, is hungry, or needs a nap. If you're still unsure, ask an adult for help to make sure she's safe and comfortable."
+      ],
+      "options": [
+        "Childcare (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Can I let my little cousin watch cartoons all day while I'm watching him?",
+        "While watching some cartoons is fine, it's important to balance screen time with other activities, like playing outside, reading, or doing a puzzle together."
+      ],
+      "options": [
+        "Childcare (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My grandma is having trouble reaching a book on a high shelf. How can I help her?",
+        "Offer to get the book for her or find a safe step stool for her to use. It's important to help your grandma stay safe and comfortable at home."
+      ],
+      "options": [
+        "Elder Care (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My grandpa says he's feeling lonely. What can I do to help?",
+        "Spend time with your grandpa, talk to him about his memories and interests, or play a game together. Your company can make a big difference in his day!"
+      ],
+      "options": [
+        "Elder Care (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to make a special meal for my elderly neighbor. What should I cook?",
+        "Choose a healthy, balanced meal that's easy to chew and swallow. You can also ask your neighbor about any dietary restrictions or preferences they might have."
+      ],
+      "options": [
+        "Elder Care (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My sister always takes my toys without asking. What should I do?",
+        "Talk to your sister and let her know how her actions make you feel. You can also suggest sharing your toys and taking turns to play with them."
+      ],
+      "options": [
+        "Family Dynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My mom wants me to do chores, but I want to play. What should I do?",
+        "Try making a deal with your mom. Complete your chores first, and then enjoy your playtime. This shows responsibility and helps maintain a happy household."
+      ],
+      "options": [
+        "Family Dynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My family always argues about what movie to watch on movie night. How can we pick a movie without fighting?",
+        "Suggest taking turns choosing the movie or create a voting system to decide on a movie that everyone can enjoy together."
+      ],
+      "options": [
+        "Family Dynamics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to have a tea party for my stuffed animals. How can I make it extra fancy?",
+        "Set the table with your favorite cups and saucers, use a pretty tablecloth, and serve tiny sandwiches and treats. You can also create invitations for your stuffed animals to make the event feel special!"
+      ],
+      "options": [
+        "Hospitality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friends are coming over for a sleepover. How can I make them feel welcome?",
+        "Prepare a cozy sleeping area with blankets and pillows, offer them snacks and drinks, and plan fun activities to enjoy together. Make sure to ask if they have any preferences or needs to ensure a great sleepover experience!"
+      ],
+      "options": [
+        "Hospitality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How can I welcome a new neighbor who just moved in next door?",
+        "Bake them a treat or create a small welcome gift, then introduce yourself and your family. Offer your help and share any useful information about the neighborhood."
+      ],
+      "options": [
+        "Hospitality (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to buy a new toy, but I don't know if it's a good one. How can I find out?",
+        "Read reviews online, ask friends for their opinions, and compare the toy's features and prices with similar products. This will help you make an informed decision before you buy."
+      ],
+      "options": [
+        "Consumer Education (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I saw an ad for a super cool gadget, but I'm not sure if it's worth the money. What should I do?",
+        "Do some research about the gadget, read reviews, and compare prices. Think about whether you'll use it often and if it's something you really need or want."
+      ],
+      "options": [
+        "Consumer Education (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I have a gift card, but I don't know what to spend it on. Any ideas?",
+        "Make a list of things you need or really want, and then prioritize them. Choose something that will make you happy and that you'll use or enjoy for a long time."
+      ],
+      "options": [
+        "Consumer Education (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to save up for a new video game, but I keep spending my allowance on candy. What should I do?",
+        "Create a savings plan and set a goal for how much you need to save. Try cutting back on candy purchases and putting that money towards your video game goal instead."
+      ],
+      "options": [
+        "Personal Finance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found a dollar on the sidewalk. Should I spend it on ice cream or save it?",
+        "It's up to you! Consider your current savings and spending habits. If you've been saving well, it might be fun to treat yourself to ice cream. If not, adding it to your savings is a smart choice."
+      ],
+      "options": [
+        "Personal Finance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I want to start saving money, but I don't know how. Can you help?",
+        "Start by setting a savings goal and figuring out how much you can save each week or month. Keep track of your spending and try to cut back on non-essential items. Save your change in a piggy bank or open a savings account to watch your money grow!"
+      ],
+      "options": [
+        "Personal Finance (correct answer)"
+      ]
+    }
+  ]
+}

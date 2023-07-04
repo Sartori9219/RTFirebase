@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Jazz Walks",
+        "Jazz Hands",
+        "Jazz Squares",
+        "Jazz Pirouettes",
+        "Isolations",
+        "Fosse Style",
+        "Ball Change",
+        "Kick Ball Change",
+        "Jazz Layout",
+        "Syncopation",
+        "Improvisation",
+        "Jazz Pas de Bourr\u00e9e",
+        "Jazz Drag",
+        "Contractions",
+        "Jazz Turns"
+    ],
+    "hints": {
+        "Jazz Walks": "A stylized way of walking in jazz dance, often with a hip sway and low center of gravity.",
+        "Jazz Hands": "A popular jazz dance move where the hands are opened wide with fingers spread.",
+        "Jazz Squares": "A four-step move that forms a square pattern, often used as a transition step.",
+        "Jazz Pirouettes": "A turn on one foot, adapted from ballet but with a more relaxed and fluid upper body.",
+        "Isolations": "Moves where one part of the body is moved while the rest is kept still, to highlight body control.",
+        "Fosse Style": "Named after Bob Fosse, this style emphasizes sensuality, humor, and intricate detail in hand movements.",
+        "Ball Change": "A two-step foot movement where weight is shifted quickly from the ball of one foot to the other.",
+        "Kick Ball Change": "A variation of the ball change, adding a kick with the non-weighted foot.",
+        "Jazz Layout": "A move where dancers stretch backward into a backbend, often while kicking a leg up.",
+        "Syncopation": "A rhythmic concept where emphasis is placed on beats that are usually not emphasized, giving jazz dance its characteristic 'swing'.",
+        "Improvisation": "Freestyling or creating movements on the spot, an important part of jazz dance.",
+        "Jazz Pas de Bourr\u00e9e": "A quick three-step pattern, often used for changing direction or transitioning between moves.",
+        "Jazz Drag": "A move where one foot drags along the ground while the other carries the body's weight.",
+        "Contractions": "A movement concept where the body contracts inward, often used to show emotion or musicality in jazz dance.",
+        "Jazz Turns": "Any turning move used in jazz dance, which can include pirouettes, chain\u00e9s, and pencil turns."
+    }
+}

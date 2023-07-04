@@ -1,0 +1,595 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Not an army, but you're definitely helping fight hunger in your community by giving to those in need!",
+        "My friend and I are collecting cans for the food bank. Are we starting a can army?"
+      ],
+      "options": [
+        "Philanthropy and charitable giving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Well, not a fairy, but donating your profits to a good cause makes you a generous and caring person!",
+        "If I give away my lemonade stand profits, will I become a lemonade fairy?"
+      ],
+      "options": [
+        "Philanthropy and charitable giving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's awesome! Giving to others is a great way to practice philanthropy and make a positive impact.",
+        "I donated my old toys to the local shelter, and now I feel like a superhero!"
+      ],
+      "options": [
+        "Financial institutions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "No money monsters here! Banks are important financial institutions that help people manage, save, and invest their money.",
+        "Why do banks have such big buildings? Are they hiding a money monster inside?"
+      ],
+      "options": [
+        "Financial institutions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "While that's one way to save, using financial institutions like banks can provide more security and help your money grow.",
+        "My grandpa says he keeps his money under his mattress. Is that a magical money safe?"
+      ],
+      "options": [
+        "Financial institutions (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Not quite, but putting your money in a bank or credit union can help it grow with interest over time.",
+        "If I put my money in a piggy bank, will it grow into a money tree?"
+      ],
+      "options": [
+        "Smart shopping and consumer awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Well, I can't guarantee unicorns, but waiting for sales and discounts can save you money on the things you want to buy!",
+        "Is it true that if I wait long enough, I can buy a unicorn at a discount?"
+      ],
+      "options": [
+        "Smart shopping and consumer awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Not exactly! She's being a smart consumer by checking the ingredients and nutritional information to make informed choices.",
+        "My mom always reads the labels when we go grocery shopping. Is she trying to find secret messages?"
+      ],
+      "options": [
+        "Smart shopping and consumer awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Sort of! Being a smart shopper means finding the best deals and making sure you're getting the most value for your money.",
+        "Why do we compare prices at different stores? Are we on a treasure hunt?"
+      ],
+      "options": [
+        "Financial planning for college (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the secret to paying for college without getting buried in student loans?"
+      ],
+      "options": [
+        "Financial planning for college (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, in a way, yes! Tuition, room and board, and other expenses can add up. That's why it's important to plan ahead and save for college.",
+        "Is college like a pizza? The more toppings you add, the more it costs?"
+      ],
+      "options": [
+        "Financial planning for college (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's their way of planning for the future, just like you should save and plan for college expenses!",
+        "Why do squirrels bury nuts all over the place?"
+      ],
+      "options": [
+        "Inflation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Unfortunately, we can't turn back time. Inflation has made things more expensive over the years, so we need to adapt and plan our finances accordingly.",
+        "I heard that back in the day, a movie ticket only cost a nickel! Can we bring back those prices?"
+      ],
+      "options": [
+        "Inflation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It could be, thanks to inflation! Over the years, the cost of things like education and housing has gone up, sometimes faster than wages.",
+        "My parents say that my college education will cost more than their house did. Is that possible?"
+      ],
+      "options": [
+        "Inflation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Well, one reason is inflation! They need to keep up with the rising costs of fighting crime and protecting the city.",
+        "Why do superheroes like Batman and Iron Man need to keep getting new suits and gadgets?"
+      ],
+      "options": [
+        "Inflation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I invent a time machine, can I go back and buy a bunch of candy for cheap?"
+      ],
+      "options": [
+        "Inflation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Actually, because of inflation, your money might lose value over time. It's better to invest it or put it in a savings account that earns interest.",
+        "If I save all my money under my mattress, will it grow?"
+      ],
+      "options": [
+        "Inflation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's because of inflation! Over time, the general price level of goods and services rises, making things cost more than they used to.",
+        "Why did my grandpa say he could buy a whole pizza for just a dollar back in the day?"
+      ],
+      "options": [
+        "Basics of insurance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "While it's a fun idea, insurance policies generally cover tangible items. It's important to understand the basics of insurance to protect your assets.",
+        "If I buy an invisibility cloak, will insurance cover it if I lose it...or can't find it?"
+      ],
+      "options": [
+        "Basics of insurance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "While pet insurance can cover some expenses, car insurance would typically cover vehicles. Remember, insurance is meant to help manage financial risks.",
+        "If I insure my pet hamster, will the policy cover its tiny hamster-sized car, too?"
+      ],
+      "options": [
+        "Basics of insurance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's a good idea to insure valuable items. Homeowner's or renter's insurance can cover personal belongings, including your prized collection.",
+        "Do I need insurance to protect my collection of vintage video game consoles?"
+      ],
+      "options": [
+        "Financial goal setting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Setting a goal to spend all your money might not be the best approach. Focus on balancing spending with saving and investing for the future.",
+        "If I make a goal to spend all my money on pizza, does that count as financial planning?"
+      ],
+      "options": [
+        "Financial goal setting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "While it's fun to dream big, it's also important to set achievable financial goals, like saving for college or buying a car.",
+        "I want to save up for a spaceship so I can visit Mars on weekends. Is that a realistic financial goal?"
+      ],
+      "options": [
+        "Financial goal setting (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's important to set goals that are meaningful to you, but also consider long-term priorities like education or saving for the future.",
+        "If I set a financial goal to buy a lifetime supply of rubber ducks, is that a good plan?"
+      ],
+      "options": [
+        "Basics of taxes and tax planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You might be able to claim some work-related expenses as deductions, but it's important to consult a tax professional for specific advice.",
+        "If I become a professional unicorn wrangler, can I claim a tax deduction for glitter?"
+      ],
+      "options": [
+        "Basics of taxes and tax planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Spending money on candy won't exempt you from taxes. Understanding your tax obligations is important, no matter what you buy.",
+        "Is it true that if I only spend money on candy, I won't have to pay taxes?"
+      ],
+      "options": [
+        "Basics of taxes and tax planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "As long as you're a citizen of a country that levies taxes, you'll likely have tax obligations\u2014even if you're on the moon!",
+        "If I move to the moon, will I still have to pay taxes on Earth?"
+      ],
+      "options": [
+        "Basics of taxes and tax planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Even with an unusual business, you'll likely have tax obligations. Understanding tax rules can help you avoid any surprises.",
+        "Do I have to pay taxes if I start a business selling invisible pet rocks?"
+      ],
+      "options": [
+        "Basics of taxes and tax planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, no. Wearing a tinfoil hat won't change your tax obligations. It's important to learn about taxes and plan accordingly.",
+        "I heard that if you wear a tinfoil hat, you don't have to pay taxes. Is that true?"
+      ],
+      "options": [
+        "Basics of taxes and tax planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "While they might not send a cookie, paying taxes helps fund important services like schools, roads, and public safety.",
+        "If I pay my taxes, will the government send me a thank you note and a cookie?"
+      ],
+      "options": [
+        "Understanding loans and debt management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "As fun as that sounds, you can't escape your debt. It's important to have a plan to pay back what you owe and keep your finances in check.",
+        "If I get a loan to buy a spaceship, can I just fly away from my debt?"
+      ],
+      "options": [
+        "Understanding loans and debt management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Not quite, but having too much debt can cause financial stress. It's important to borrow wisely and manage your debt responsibly.",
+        "Is it true that if I have too much debt, I'll turn into a pumpkin at midnight?"
+      ],
+      "options": [
+        "Understanding loans and debt management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's important to prioritize your needs over wants. Borrowing for essential things, like education or a home, is usually better.",
+        "If I borrow money to buy a pet dinosaur, is that considered good debt management?"
+      ],
+      "options": [
+        "Introduction to investing and compound interest (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Not quite like a beanstalk, but investing wisely and taking advantage of compound interest can help your money grow over time.",
+        "If I invest my money, does that mean it'll grow like a beanstalk to the sky?"
+      ],
+      "options": [
+        "Introduction to investing and compound interest (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "While I like your creativity, remember that investing comes with risks. Always do your research and make informed decisions.",
+        "Can I invest in a marshmallow factory and watch my money grow as fluffy as the marshmallows?"
+      ],
+      "options": [
+        "Introduction to investing and compound interest (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Haha, not exactly. But compound interest can make your money grow significantly over time, even without a time machine.",
+        "So, if I invest in a time machine company, will my compound interest go back in time?"
+      ],
+      "options": [
+        "Introduction to investing and compound interest (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's hard to predict the future, but it's wise to diversify your investments to reduce risk. Maybe consider other industries too!",
+        "I want to invest in a company that makes unicorn-themed skateboards. Will I become rich?"
+      ],
+      "options": [
+        "Introduction to investing and compound interest (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Investing takes time and patience. It's important to think long-term and let the power of compound interest work its magic.",
+        "If I invest my lunch money today, will I be a millionaire by tomorrow?"
+      ],
+      "options": [
+        "Introduction to investing and compound interest (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Sort of! With compound interest, your money grows faster because you earn interest on both the original amount and the accumulated interest.",
+        "Compound interest is like planting a money tree, right?"
+      ],
+      "options": [
+        "Basics of credit and credit scores (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Buying an elephant might not be the best idea, but building credit by responsibly using a credit card for smaller purchases can help.",
+        "If I want to improve my credit score, should I buy a pet elephant on credit?"
+      ],
+      "options": [
+        "Basics of credit and credit scores (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Well, not exactly. But a good credit score can help you get better loan terms and lower interest rates, which is still pretty cool!",
+        "I heard if I have a good credit score, I can get a free trip to the moon!"
+      ],
+      "options": [
+        "Basics of credit and credit scores (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You got it! A high credit score shows lenders that you're responsible with your money, making it easier to get loans.",
+        "My credit score is like a high score in a video game, right? The higher, the better!"
+      ],
+      "options": [
+        "The importance of an emergency fund (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's a creative example, but yes, having an emergency fund can help cover unexpected costs like that.",
+        "My pet rock needs emergency surgery. Good thing I have an emergency fund!"
+      ],
+      "options": [
+        "The importance of an emergency fund (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "An emergency fund is for unexpected expenses, like medical bills or car repairs. Save the spaceship for your regular savings!",
+        "If I have an emergency fund, can I use it to buy a spaceship in case of an alien invasion?"
+      ],
+      "options": [
+        "The importance of an emergency fund (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's always better to have a separate emergency fund, so you don't have to rely on selling your prized possessions.",
+        "Why do I need an emergency fund? I can just sell my comic book collection if something bad happens!"
+      ],
+      "options": [
+        "Opening and managing a bank account (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Well, you can use your account to manage your money, but make sure to budget and save for other important things too!",
+        "Can I use my bank account to buy a lifetime supply of pizza?"
+      ],
+      "options": [
+        "Opening and managing a bank account (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Your money will likely earn interest over time, and when you remember it, you might have even more money than you started with!",
+        "What happens if I put all my money in a bank account and then forget about it for 100 years?"
+      ],
+      "options": [
+        "Opening and managing a bank account (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "No worries! Just contact your bank, and they'll help you reset your password, so you can access your account safely.",
+        "I opened a bank account, but now I can't find the password to my secret treasure chest!"
+      ],
+      "options": [
+        "Opening and managing a bank account (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish! But opening a bank account does come with other benefits, like earning interest and keeping your money safe.",
+        "If I open a bank account, can I get a pet unicorn as a bonus?"
+      ],
+      "options": [
+        "Opening and managing a bank account (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "It's great that you opened an account, but remember, it's there to help you manage and save your money, not just for fun.",
+        "I just opened a bank account, and now I'm going to withdraw all my money and build a money fort!"
+      ],
+      "options": [
+        "Opening and managing a bank account (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "While that's one way to do it, opening a bank account is safer and helps you manage your money better.",
+        "I'm going to store all my money in a sock under my bed!"
+      ],
+      "options": [
+        "Understanding wants vs needs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "While having the latest gadget is tempting, it's important to consider if it's really a need or just a want.",
+        "I need to get the latest phone model, even though mine works just fine!"
+      ],
+      "options": [
+        "Understanding wants vs needs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Well, owning a dinosaur would be quite a challenge. Let's think about whether it's a genuine need or a cool but unnecessary want.",
+        "I want to buy a pet dinosaur, but my mom says I don't need one. She just doesn't get it."
+      ],
+      "options": [
+        "Understanding wants vs needs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A personal robot would be amazing, but is it a true need or just a fun want? It's essential to distinguish between the two.",
+        "I need a personal robot to do my homework, clean my room, and make me snacks!"
+      ],
+      "options": [
+        "Understanding wants vs needs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Having options is nice, but do you really need all 10? Prioritize your needs and choose what's most important.",
+        "I need 10 different colors of the same shirt because I can't decide which one I like best!"
+      ],
+      "options": [
+        "Understanding wants vs needs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "A shark might be cool, but do you really need it? It's important to know the difference between what we want and what we need.",
+        "I want to buy a pet shark! I need one to protect my goldfish!"
+      ],
+      "options": [
+        "Understanding wants vs needs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That sounds fun, but is it a need or a want? Maybe think about what's necessary and what's just for fun.",
+        "I need a giant trampoline in my room so I can jump all day!"
+      ],
+      "options": [
+        "Budgeting and saving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why not split your money between both? Enjoy the amusement park and save up for the video game at the same time.",
+        "I can't decide if I want to buy a new video game or go to the amusement park."
+      ],
+      "options": [
+        "Budgeting and saving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's a lot of stickers! How about starting with a smaller amount and saving the rest of your money for other fun things?",
+        "I'm going to buy 500 stickers to decorate my entire room!"
+      ],
+      "options": [
+        "Budgeting and saving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If you really want it, try creating a savings plan. Set aside some money each week, and before you know it, you'll have enough to buy the jacket!",
+        "I found a super cool jacket at the mall, but it's pretty expensive."
+      ],
+      "options": [
+        "Budgeting and saving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That sounds like fun, but you might get tired. How about watching a few movies now and saving the rest of the gift card for later?",
+        "I got a gift card for the movies, but I want to see 10 movies in a row!"
+      ],
+      "options": [
+        "Budgeting and saving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hold on! Have you thought about the cost of taking care of a llama? Maybe save that money and consider a more budget-friendly pet.",
+        "I won $100 in the school raffle! I'm going to buy a pet llama!"
+      ],
+      "options": [
+        "Budgeting and saving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I'm going to spend all my birthday money on pizza!"
+      ],
+      "options": [
+        "Budgeting and saving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "New phones can be pricey! Try saving up for a few months and see if you still want it. You might even find a better deal by then!",
+        "My friend just got a fancy new phone, and I want one too!"
+      ],
+      "options": [
+        "Budgeting and saving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "How about setting aside a portion of your allowance each week? You'll be able to afford it in no time!",
+        "I want to buy a new skateboard, but it's too expensive!"
+      ],
+      "options": [
+        "Budgeting and saving (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's a lot of candy! Maybe you should save half your allowance and buy just 10 candy bars instead.",
+        "I got my allowance today, and I'm going to buy 20 candy bars!"
+      ],
+      "options": [
+        "Budgeting and saving (correct answer)"
+      ]
+    }
+  ]
+}

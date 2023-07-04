@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Digital Citizenship",
+        "Online Privacy",
+        "Data Security",
+        "Intellectual Property",
+        "Cyberbullying",
+        "Digital Divide",
+        "Information Accuracy",
+        "Artificial Intelligence and Ethics",
+        "Social Media Ethics",
+        "Digital Footprint",
+        "Net Neutrality",
+        "Open Source vs. Proprietary Software",
+        "Accessibility and Inclusivity in Technology",
+        "The Right to be Forgotten",
+        "Surveillance and Ethics"
+    ],
+    "hints": {
+        "Digital Citizenship": "This involves behaving responsibly and ethically when using technology. It includes respecting others online, understanding and respecting digital rights and laws, and using digital tools responsibly.",
+        "Online Privacy": "This relates to personal data protection online. It emphasizes understanding what information to share online, with whom, and how to protect one's personal data.",
+        "Data Security": "This focuses on protecting digital data from threats like hacking or theft. It encompasses secure practices like strong password use, two-factor authentication, and understanding phishing scams.",
+        "Intellectual Property": "This refers to the ownership rights to a creative work or invention, which can be violated by activities like software piracy or plagiarizing online content.",
+        "Cyberbullying": "This involves the use of technology to harm or harass others in a deliberate, repeated, and hostile manner.",
+        "Digital Divide": "This refers to the gap between individuals who have access to modern information technology and those who don't.",
+        "Information Accuracy": "This emphasizes the importance of discerning reliable sources from unreliable ones, spotting fake news, and understanding the dangers of misinformation.",
+        "Artificial Intelligence and Ethics": "This covers the ethical considerations of AI usage, like bias in machine learning algorithms and the potential impact of AI on employment.",
+        "Social Media Ethics": "This relates to behaving respectfully and responsibly on social media platforms, understanding the impact of one's words and actions, and being mindful of the content one shares.",
+        "Digital Footprint": "This refers to the trail of information you leave behind while using the internet, including websites visited, emails sent, and information submitted to online services.",
+        "Net Neutrality": "This concept involves the principle that all internet traffic should be treated equally, without any discrimination or preference given to certain types of content.",
+        "Open Source vs. Proprietary Software": "This refers to the ethical considerations in using open-source software (freely available to the public) versus proprietary software (owned by individuals or companies).",
+        "Accessibility and Inclusivity in Technology": "This concept involves designing technology that is accessible and usable by all people, regardless of their abilities or disabilities.",
+        "The Right to be Forgotten": "This is a concept in data privacy, referring to the individual's right to have personal data deleted from a company's servers and the internet at large.",
+        "Surveillance and Ethics": "This concept involves ethical considerations about personal privacy, governmental surveillance, and the balance between security and individual freedoms."
+    }
+}

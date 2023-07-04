@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Congress of Vienna",
+        "Monroe Doctrine",
+        "Greek War of Independence",
+        "Belgian Revolution",
+        "Texas Revolution",
+        "Opium Wars",
+        "Revolutions of 1848",
+        "California Gold Rush",
+        "Crimean War",
+        "Indian Rebellion of 1857",
+        "American Civil War",
+        "Meiji Restoration",
+        "Franco-Prussian War",
+        "British Raj in India",
+        "Berlin Conference"
+    ],
+    "hints": {
+        "Congress of Vienna": "A diplomatic conference held after the fall of Napoleon to redraw the map of Europe and establish a balance of power.",
+        "Monroe Doctrine": "A U.S. policy opposing European colonization and interference in the Western Hemisphere.",
+        "Greek War of Independence": "A successful war fought by the Greeks to gain independence from the Ottoman Empire.",
+        "Belgian Revolution": "A conflict leading to the secession of Belgium from the United Kingdom of the Netherlands.",
+        "Texas Revolution": "A rebellion against Mexican rule, which led to the establishment of the Republic of Texas.",
+        "Opium Wars": "Two wars between China and Britain over the opium trade, resulting in British victory and the opening of Chinese ports to foreign trade.",
+        "Revolutions of 1848": "A series of political upheavals throughout Europe, driven by demands for more democratic governments and national self-determination.",
+        "California Gold Rush": "A massive migration to California following the discovery of gold, which transformed the American West.",
+        "Crimean War": "A conflict between Russia and an alliance of France, Britain, the Ottoman Empire, and Sardinia, primarily over control of the Black Sea region.",
+        "Indian Rebellion of 1857": "A widespread uprising against British rule in India, leading to the end of the East India Company's rule and direct control by the British Crown.",
+        "American Civil War": "A civil war fought between the Union (northern states) and the Confederacy (southern states) over issues such as slavery and states' rights.",
+        "Meiji Restoration": "A period of rapid modernization and Westernization in Japan, which transformed the country into a major world power.",
+        "Franco-Prussian War": "A conflict between France and Prussia, resulting in a Prussian victory and the unification of Germany under Prussian leadership.",
+        "British Raj in India": "The period of direct British rule over India, which led to significant social, political, and economic changes.",
+        "Berlin Conference": "A meeting of European powers to establish rules for the colonization of Africa, leading to the \"Scramble for Africa\" and widespread European imperialism on the continent."
+    }
+}

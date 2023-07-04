@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Active Listening",
+        "Nonverbal Communication",
+        "Clarity and Conciseness",
+        "Empathy and Emotional Intelligence",
+        "Persuasion and Influence",
+        "Asking Open-Ended Questions",
+        "Providing Constructive Feedback",
+        "Public Speaking and Presentation Skills",
+        "Effective Writing and Editing",
+        "Adaptability to Different Communication Styles",
+        "Storytelling and Narrative Skills",
+        "Negotiation and Conflict Resolution",
+        "Interpersonal Communication",
+        "Assertiveness and Setting Boundaries",
+        "Cross-Cultural and Diversity Communication"
+    ],
+    "hints": {
+        "Active Listening": "Be fully present and focused on the speaker, avoid interrupting, and ask clarifying questions to show engagement.",
+        "Nonverbal Communication": "Maintain eye contact, use appropriate body language, and be aware of facial expressions and tone of voice.",
+        "Clarity and Conciseness": "Keep messages simple, eliminate jargon, and avoid over-explaining or being overly verbose.",
+        "Empathy and Emotional Intelligence": "Understand and validate others' feelings, and respond with empathy and compassion.",
+        "Persuasion and Influence": "Build credibility, establish rapport, and use compelling arguments and evidence to persuade others.",
+        "Asking Open-Ended Questions": "Encourage conversation and deeper understanding by asking questions that require more than a yes or no answer.",
+        "Providing Constructive Feedback": "Be specific, focus on behavior rather than personality, and offer suggestions for improvement.",
+        "Public Speaking and Presentation Skills": "Practice, use engaging visuals, and deliver information in an organized and confident manner.",
+        "Effective Writing and Editing": "Write clearly and concisely, proofread for errors, and use appropriate formatting and structure.",
+        "Adaptability to Different Communication Styles": "Recognize and adjust to various communication styles, preferences, and cultural differences.",
+        "Storytelling and Narrative Skills": "Use relatable stories, anecdotes, and metaphors to make messages more memorable and engaging.",
+        "Negotiation and Conflict Resolution": "Remain calm, focus on interests rather than positions, and seek mutually beneficial solutions.",
+        "Interpersonal Communication": "Build rapport, demonstrate respect, and establish trust in one-on-one and small group interactions.",
+        "Assertiveness and Setting Boundaries": "Communicate needs and expectations clearly, stand up for yourself, and maintain professional boundaries.",
+        "Cross-Cultural and Diversity Communication": "Be sensitive to cultural differences, practice active listening, and use inclusive language."
+    }
+}

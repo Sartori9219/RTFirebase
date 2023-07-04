@@ -1,0 +1,36 @@
+{
+    "options": [
+        "HVAC Fundamentals",
+        "Types of HVAC Systems",
+        "Heating Systems",
+        "Ventilation Systems",
+        "Air Conditioning Systems",
+        "Refrigeration Cycle",
+        "Ductwork and Air Distribution",
+        "Indoor Air Quality",
+        "Energy Efficiency and Conservation",
+        "HVAC Controls and Automation",
+        "Load Calculations",
+        "HVAC Maintenance and Troubleshooting",
+        "HVAC Tools and Equipment",
+        "Safety and Industry Standards",
+        "Career Opportunities in HVAC"
+    ],
+    "hints": {
+        "HVAC Fundamentals": "Basic principles of heating, ventilation, and air conditioning, including heat transfer, thermodynamics, and comfort factors.",
+        "Types of HVAC Systems": "Overview of various HVAC system designs such as central, split, and mini-split systems.",
+        "Heating Systems": "Types of heating systems, including furnaces, boilers, and heat pumps, along with their components and functions.",
+        "Ventilation Systems": "The importance of proper ventilation, types of ventilation systems, and methods for improving indoor air quality.",
+        "Air Conditioning Systems": "Different types of air conditioning systems, their components, and how they operate to provide cooling and dehumidification.",
+        "Refrigeration Cycle": "Understanding the refrigeration cycle, its components, and how they work together to transfer heat.",
+        "Ductwork and Air Distribution": "Design, installation, and maintenance of duct systems for efficient air distribution in buildings.",
+        "Indoor Air Quality (IAQ)": "Factors affecting IAQ, methods to assess and improve IAQ, and the importance of maintaining good IAQ for health and comfort.",
+        "Energy Efficiency and Conservation": "Strategies for optimizing energy use in HVAC systems, including equipment selection, insulation, and preventive maintenance.",
+        "HVAC Controls and Automation": "Introduction to control systems used in HVAC, including thermostats, sensors, and building automation systems.",
+        "Load Calculations": "Estimating heating and cooling loads for buildings to properly size HVAC equipment.",
+        "HVAC Maintenance and Troubleshooting": "Techniques for maintaining and troubleshooting common HVAC issues, such as leaks, malfunctions, and component failures.",
+        "HVAC Tools and Equipment": "Familiarization with tools and equipment used by HVAC technicians, including hand tools, meters, and testing devices.",
+        "Safety and Industry Standards": "Importance of safety procedures and adherence to industry standards in the HVAC field.",
+        "Career Opportunities in HVAC": "Exploration of various career paths within the HVAC industry, including technician, installer, designer, and sales roles."
+    }
+}

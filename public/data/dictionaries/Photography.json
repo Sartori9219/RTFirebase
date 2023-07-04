@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Aperture",
+        "Shutter speed",
+        "ISO",
+        "Depth of field",
+        "Composition",
+        "Rule of thirds",
+        "White balance",
+        "Lighting techniques",
+        "Focal length",
+        "Exposure triangle",
+        "Camera modes",
+        "Histograms",
+        "Post-processing",
+        "RAW vs JPEG",
+        "Framing"
+    ],
+    "hints": {
+        "Aperture": "The opening in a camera lens that controls the amount of light entering the camera, affecting exposure and depth of field.",
+        "Shutter speed": "The length of time the camera shutter remains open, controlling the exposure and motion blur in a photograph.",
+        "ISO": "The sensitivity of the camera's sensor to light, which affects the overall brightness and noise level of a photo.",
+        "Depth of field": "The distance between the nearest and farthest objects in a scene that appear acceptably sharp, influenced by aperture and focal length.",
+        "Composition": "The arrangement of elements within a photograph, including the subject, background, and other visual components.",
+        "Rule of thirds": "A compositional guideline that divides an image into nine equal parts using two horizontal and two vertical lines, suggesting placing key elements along these lines or at their intersections.",
+        "White balance": "The adjustment of color temperature in a photograph to make colors appear more natural under different lighting conditions.",
+        "Lighting techniques": "Different methods of using natural or artificial light sources to create specific moods, highlights, and shadows in a photograph.",
+        "Focal length": "The distance between the camera's lens and the image sensor, determining the magnification and angle of view in a photograph.",
+        "Exposure triangle": "A concept that demonstrates the relationship between aperture, shutter speed, and ISO in determining the correct exposure for a photograph.",
+        "Camera modes": "Various settings on a camera that allow for automatic or manual control over exposure, focus, and other photographic elements.",
+        "Histograms": "Graphical representations of the distribution of tonal values in a photograph, providing information about exposure and contrast.",
+        "Post-processing": "The process of editing and enhancing photographs using software to correct exposure, color balance, and other visual elements.",
+        "RAW vs JPEG": "Two common file formats for saving digital photographs, with RAW retaining more image data and allowing for greater editing flexibility, while JPEG is a compressed format with smaller file sizes.",
+        "Framing": "The technique of using elements within a scene to create a frame around the subject, drawing attention and adding depth to a photograph."
+    }
+}

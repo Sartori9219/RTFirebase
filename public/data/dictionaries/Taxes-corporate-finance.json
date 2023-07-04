@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Corporate tax rates",
+        "Taxable income",
+        "Deductions",
+        "Tax credits",
+        "Depreciation",
+        "Carryovers and carrybacks",
+        "Transfer pricing",
+        "Tax loss provisions",
+        "Dividends-received deduction",
+        "Foreign tax credits",
+        "Tax-exempt organizations",
+        "Tax deferral strategies",
+        "Controlled foreign corporations",
+        "Tax reporting requirements",
+        "Tax incentives and subsidies"
+    ],
+    "hints": {
+        "Corporate tax rates": "Rates at which corporations are taxed on their profits.",
+        "Taxable income": "A corporation's income subject to taxation after accounting for deductions.",
+        "Deductions": "Expenses that can be subtracted from a corporation's taxable income to reduce tax liability.",
+        "Tax credits": "Reductions in a corporation's tax liability, often provided as incentives for specific actions.",
+        "Depreciation": "The allocation of the cost of tangible assets over their useful life, reducing taxable income.",
+        "Carryovers and carrybacks": "Rules allowing corporations to apply net operating losses to offset income in other tax years.",
+        "Transfer pricing": "The pricing of goods and services exchanged between related corporate entities, impacting taxable income.",
+        "Tax loss provisions": "Rules allowing corporations to claim losses from prior years to reduce current tax liability.",
+        "Dividends-received deduction": "A deduction for corporations that receive dividends from other corporations.",
+        "Foreign tax credits": "Credits offered to corporations for taxes paid in foreign countries, reducing domestic tax liability.",
+        "Tax-exempt organizations": "Nonprofit entities exempt from paying federal income tax on specific income types.",
+        "Tax deferral strategies": "Techniques used to delay the payment of taxes to future periods.",
+        "Controlled foreign corporations": "Foreign corporations controlled by domestic shareholders, with specific tax implications.",
+        "Tax reporting requirements": "Regulations dictating the information corporations must report to tax authorities.",
+        "Tax incentives and subsidies": "Government programs providing financial benefits to corporations to encourage specific actions or investments."
+    }
+}

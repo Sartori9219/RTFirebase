@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Division of labor",
+        "Invisible hand",
+        "Laissez-faire",
+        "Self-interest",
+        "Specialization",
+        "Market equilibrium",
+        "Law of supply and demand",
+        "Role of government",
+        "Productivity and growth",
+        "Free trade",
+        "Natural price",
+        "Wages and profits",
+        "Accumulation of capital",
+        "Saving and investment",
+        "Role of competition"
+    ],
+    "hints": {
+        "Division of labor": "Breaking down work into smaller tasks to improve efficiency and productivity.",
+        "Invisible hand": "The natural force that guides the economy, resulting from individuals pursuing their self-interest.",
+        "Laissez-faire": "The belief that government should not interfere with the economy and should allow markets to operate freely.",
+        "Self-interest": "The pursuit of personal gain, which drives economic activity and benefits the overall economy.",
+        "Specialization": "Focusing on a specific skill or product to increase efficiency and expertise.",
+        "Market equilibrium": "The point at which supply and demand balance, resulting in stable prices.",
+        "Law of supply and demand": "The principle that the price of a good or service will eventually reach a level where the quantity supplied equals the quantity demanded.",
+        "Role of government": "Adam Smith believed the government should protect property rights, enforce contracts, and provide public goods, but not interfere in the economy.",
+        "Productivity and growth": "Increased efficiency and specialization lead to economic growth and development.",
+        "Free trade": "The absence of trade barriers, allowing goods and services to flow freely between countries.",
+        "Natural price": "The price at which supply equals demand, without any outside influence or intervention.",
+        "Wages and profits": "Workers and business owners are motivated by the pursuit of wages and profits, which leads to increased productivity and economic growth.",
+        "Accumulation of capital": "Saving and investing in productive resources, such as machinery, to increase output and wealth.",
+        "Saving and investment": "The act of setting aside income for future consumption or investment, which contributes to economic growth.",
+        "Role of competition": "Competition between businesses drives innovation, efficiency, and lower prices, benefiting consumers and the economy as a whole."
+    }
+}

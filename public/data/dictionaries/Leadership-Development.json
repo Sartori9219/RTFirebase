@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Emotional Intelligence",
+        "Active Listening",
+        "Effective Communication",
+        "Delegation and Empowerment",
+        "Conflict Resolution",
+        "Decision Making and Problem Solving",
+        "Time Management and Prioritization",
+        "Goal Setting and Vision Casting",
+        "Coaching and Mentoring",
+        "Motivating and Inspiring Others",
+        "Change Management and Adaptability",
+        "Team Building and Collaboration",
+        "Performance Management and Feedback",
+        "Ethical Leadership and Integrity",
+        "Cross-Cultural and Diversity Management"
+    ],
+    "hints": {
+        "Emotional Intelligence": "Practice self-awareness and empathy to better understand and manage emotions in yourself and others.",
+        "Active Listening": "Give undivided attention, ask open-ended questions, and paraphrase to ensure understanding.",
+        "Effective Communication": "Tailor your message to your audience and use clear, concise language for better comprehension.",
+        "Delegation and Empowerment": "Assign tasks based on individual strengths and provide the necessary resources and autonomy for success.",
+        "Conflict Resolution": "Address issues openly, encourage constructive dialogue, and seek win-win solutions.",
+        "Decision Making and Problem Solving": "Gather information, weigh pros and cons, and involve stakeholders to make informed decisions.",
+        "Time Management and Prioritization": "Set clear goals, identify priorities, and allocate time effectively to achieve objectives.",
+        "Goal Setting and Vision Casting": "Establish SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals and communicate a compelling vision for the future.",
+        "Coaching and Mentoring": "Offer guidance, support, and constructive feedback to help team members grow and develop.",
+        "Motivating and Inspiring Others": "Recognize achievements, provide opportunities for growth, and create a positive work environment.",
+        "Change Management and Adaptability": "Anticipate and proactively address change, and encourage flexibility and resilience in your team.",
+        "Team Building and Collaboration": "Foster trust, open communication, and shared responsibility to create high-performing teams.",
+        "Performance Management and Feedback": "Set expectations, monitor progress, and provide regular feedback to drive continuous improvement.",
+        "Ethical Leadership and Integrity": "Lead by example, uphold organizational values, and make decisions based on ethical principles.",
+        "Cross-Cultural and Diversity Management": "Promote inclusion and celebrate diversity to leverage the unique strengths of all team members."
+    }
+}

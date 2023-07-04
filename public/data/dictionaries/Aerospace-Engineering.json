@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Aerodynamics",
+        "Propulsion",
+        "Aircraft Structures",
+        "Stability and Control",
+        "Spacecraft Design",
+        "Orbital Mechanics",
+        "Flight Mechanics",
+        "Avionics",
+        "Materials and Structures",
+        "Computational Fluid Dynamics",
+        "Aircraft Systems and Instruments",
+        "Aeroelasticity",
+        "Navigation and Control",
+        "Aerospace Materials",
+        "Thermodynamics"
+    ],
+    "hints": {
+        "Aerodynamics": "The study of how air flows around the aircraft, crucial for understanding flight.",
+        "Propulsion": "The study of how to generate thrust to move the aircraft, typically via jet engines.",
+        "Aircraft Structures": "The study of the physical construction and design of aircraft.",
+        "Stability and Control": "How to keep an aircraft stable and controlled during flight.",
+        "Spacecraft Design": "The process of designing and building spacecraft for various missions.",
+        "Orbital Mechanics": "The study of the motion of objects in space, influenced by gravity and other forces.",
+        "Flight Mechanics": "The study of how forces and moments affect aircraft during flight.",
+        "Avionics": "The electronic systems used in aircraft, satellites, and spacecraft.",
+        "Materials and Structures": "The study of materials used in aerospace applications and how structures withstand different forces.",
+        "Computational Fluid Dynamics": "The use of computers to simulate and analyze fluid (like air) flow.",
+        "Aircraft Systems and Instruments": "The devices and systems that assist in navigating, controlling, and operating the aircraft.",
+        "Aeroelasticity": "The study of how aerodynamic forces interact with structural dynamics.",
+        "Navigation and Control": "The technology and methods used for controlling the path of an aircraft or spacecraft.",
+        "Aerospace Materials": "The study of materials that are used in aerospace applications for their special properties.",
+        "Thermodynamics": "The study of heat, work, and energy, which is fundamental to understand engines and heat shields."
+    }
+}

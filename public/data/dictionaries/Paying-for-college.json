@@ -1,0 +1,36 @@
+{
+    "options": [
+        "FAFSA",
+        "Scholarships",
+        "Grants",
+        "Work-study programs",
+        "Student loans",
+        "Community college",
+        "Employer tuition assistance",
+        "529 plans",
+        "Education tax credits",
+        "College savings bonds",
+        "Family contributions",
+        "Part-time job",
+        "AP/IB courses",
+        "Attend in-state public schools",
+        "ROTC programs"
+    ],
+    "hints": {
+        "FAFSA": "Complete the Free Application for Federal Student Aid to determine your eligibility for financial aid.",
+        "Scholarships": "Apply for scholarships based on academic achievement, sports, or special talents.",
+        "Grants": "Look for federal, state, and institutional grants that don't need to be repaid.",
+        "Work-study programs": "Secure a part-time job on campus through a federal or state-funded program.",
+        "Student loans": "Borrow money from the government or private lenders to cover tuition, which must be repaid.",
+        "Community college": "Save money by starting at a community college and then transferring to a four-year institution.",
+        "Employer tuition assistance": "Check if your parents' employers offer tuition assistance programs.",
+        "529 plans": "Invest in a tax-advantaged 529 plan to save for college expenses.",
+        "Education tax credits": "Take advantage of tax credits like the American Opportunity Tax Credit or the Lifetime Learning Credit.",
+        "College savings bonds": "Purchase bonds that grow tax-free if used for education expenses.",
+        "Family contributions": "Request help from family members to cover college costs.",
+        "Part-time job": "Work a part-time job to help pay for college expenses.",
+        "AP/IB courses": "Take Advanced Placement or International Baccalaureate courses to earn college credits.",
+        "Attend in-state public schools": "Save on tuition by attending a public college or university in your state.",
+        "ROTC programs": "Participate in a Reserve Officers' Training Corps program for financial assistance and military career opportunities."
+    }
+}

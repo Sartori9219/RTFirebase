@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Hardware",
+        "Software",
+        "Operating Systems",
+        "Networking",
+        "Programming Languages",
+        "Databases",
+        "Cloud Computing",
+        "Cybersecurity",
+        "Web Development",
+        "Mobile App Development",
+        "Data Analytics",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Virtual Reality",
+        "Internet of Things"
+    ],
+    "hints": {
+        "Hardware": "The physical components of a computer system, such as the CPU, memory, and storage devices.",
+        "Software": "The programs and applications that run on a computer, enabling it to perform specific tasks.",
+        "Operating Systems": "The software that manages a computer's hardware and software resources, providing a user interface and facilitating communication between the user and the computer.",
+        "Networking": "The process of connecting computers and other devices together to share information and resources, such as files and printers.",
+        "Programming Languages": "The languages used to write software and create applications, such as Python, Java, and C++.",
+        "Databases": "Organized collections of data that can be easily accessed, managed, and updated, often used for storing large amounts of information.",
+        "Cloud Computing": "The delivery of computing services, such as storage and processing power, over the internet, allowing users to access resources remotely.",
+        "Cybersecurity": "The protection of computer systems, networks, and data from theft, damage, or unauthorized access.",
+        "Web Development": "The design and creation of websites, including their visual appearance, functionality, and underlying code.",
+        "Mobile App Development": "The process of designing and creating applications for mobile devices, such as smartphones and tablets.",
+        "Data Analytics": "The examination, cleaning, and analysis of data to discover patterns, draw conclusions, and inform decision-making.",
+        "Artificial Intelligence": "The development of computer systems that can perform tasks typically requiring human intelligence, such as visual perception, speech recognition, and decision-making.",
+        "Machine Learning": "A subset of artificial intelligence that focuses on teaching computers to learn from and adapt to data, improving their performance over time.",
+        "Virtual Reality": "A computer-generated simulation of a three-dimensional environment that users can interact with using specialized equipment, such as headsets and gloves.",
+        "Internet of Things": "The network of interconnected devices, objects, and sensors that collect and exchange data, enabling new forms of communication and automation."
+    }
+}

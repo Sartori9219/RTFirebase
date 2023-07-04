@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Plaque and Tartar",
+        "Brushing Techniques",
+        "Flossing Techniques",
+        "Importance of Fluoride",
+        "Dental Sealants",
+        "Balanced Diet and Nutrition",
+        "Gum Diseases",
+        "Cavity Prevention",
+        "Oral Cancer Screening/ Prevention",
+        "Scary Ingredients in Tobacco",
+        "Tongue Cleaning",
+        "Bad Breath Prevention Tips",
+        "Importance of Regular Dental Checkups",
+        "Tools Used in Dental Cleaning and Exam",
+        "Technology Used in Preventive Dentistry"
+    ],
+    "hints": {
+        "Plaque and Tartar": "Understanding the difference between plaque and tartar, how to minimize their formation, and their effect on oral health.",
+        "Brushing Techniques": "Learning proper brushing techniques, including the type and size of toothbrush, duration, and angle of brushing",
+        "Flossing Techniques": "Learning proper flossing techniques including thread selection, technique, duration, and frequency of flossing.",
+        "Importance of Fluoride": "Understanding the benefits of fluoride on oral health, including remineralization of teeth and strengthening of tooth enamel.",
+        "Dental Sealants": "Understanding what dental sealants are, how they are applied, and how they help prevent cavities.",
+        "Balanced Diet and Nutrition": "Understanding how diet and nutrition affect oral health, and how to maintain a balanced diet for a healthy mouth.",
+        "Gum Diseases": "Common gum diseases, their causes, symptoms, and treatments.",
+        "Cavity Prevention": "Understanding how tooth decay occurs, how to prevent cavities, and how cavities are treated.",
+        "Oral Cancer Screening/ Prevention": "Understanding how oral cancer occurs, common risk factors, and prevention tips.",
+        "Scary Ingredients in Tobacco": "Understanding the harmful effects of tobacco on oral health, including oral cancer, gum disease, and tooth loss.",
+        "Tongue Cleaning": "Understanding how tongue cleaning helps prevent bad breath and improve oral hygiene.",
+        "Bad Breath Prevention Tips": "Understanding the causes of bad breath and tips for maintaining fresh breath and good oral hygiene.",
+        "Importance of Regular Dental Checkups": "Understanding the importance of regular dental checkups and cleanings for preventive care and early detection of dental problems.",
+        "Tools Used in Dental Cleaning and Exam": "Understanding the different tools and instruments used in dental cleaning and exams, and their purpose.",
+        "Technology Used in Preventive Dentistry": "Understanding the different types of technology used in preventive dentistry, including digital X-rays, intraoral cameras, and laser therapy."
+    }
+}

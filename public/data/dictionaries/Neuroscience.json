@@ -1,0 +1,33 @@
+{
+    "options": [
+        "Synapses",
+        "Neurotransmitters",
+        "Neuroplasticity",
+        "Brain Hemispheres",
+        "The Central Nervous System (CNS)",
+        "The Peripheral Nervous System (PNS)",
+        "Action Potentials",
+        "Reflex Arcs",
+        "Sensory Perception",
+        "Motor Systems",
+        "The Autonomic Nervous System (ANS)",
+        "Sleep and Circadian Rhythms",
+        "Memory and Learning",
+        "Emotions and the Brain"
+    ],
+    "hints": {
+        "Neurons": "These are the fundamental units of the brain and nervous system, the cells responsible for receiving sensory input from the external world, sending motor commands to our muscles, and transforming and relaying the electrical signals at every step in between.",
+        "Synapses": "Synapses are the points where two neurons meet. They allow for neurons to pass an electrical or chemical signal to another neuron.",
+        "Neurotransmitters": "These are the chemicals used by neurons to transmit signals across a synapse. Different neurotransmitters have different effects on the receiving neuron, and imbalances in certain neurotransmitters are associated with various mental health disorders.",
+        "Neuroplasticity": "This is the ability of the brain to reorganize itself and form new neural connections throughout life. Neuroplasticity allows the neurons in the brain to compensate for injury and disease and to adjust their activities in response to new situations or to changes in their environment.",
+        "Brain Hemispheres": "The human brain is divided into two halves or hemispheres, each responsible for different types of cognitive skills. The left hemisphere is generally more involved in language and logic, while the right hemisphere is more involved in spatial abilities and visual imagery.",
+        "The Central Nervous System (CNS)": "This is one of the two major divisions of the nervous system and includes the brain and spinal cord. The CNS is responsible for integrating sensory information and responding accordingly.",
+        "The Peripheral Nervous System (PNS)": "This is the other major division of the nervous system, which connects the CNS to the limbs and organs. It's essentially a communication relay going back and forth between the brain and the extremities.",
+        "Action Potentials": "These are the electrical impulses that neurons use to communicate with each other. They are triggered when the sum of excitatory and inhibitory signals to a neuron reach a certain threshold.",
+        "Reflex Arcs": "These are neural pathways that control reflex actions. They provide a mechanism for the immediate and automatic response to potentially harmful stimuli.",
+        "Sensory Perception": "This is the process by which our brains interpret the sensory information that is sent to it, allowing us to understand and interact with our environment.",
+        "Motor Systems": "These are networks of brain structures involved in the generation and control of movement, including voluntary movements (like walking or reaching for a glass) and involuntary movements (like the reflex pulling your hand away from a hot stove).",
+        "The Autonomic Nervous System (ANS)": "This is a component of the peripheral nervous system that regulates involuntary physiologic processes including heart rate, blood pressure, respiration, digestion, and sexual arousal. It contains two antagonistic sets of nerves, the sympathetic and parasympathetic nervous systems.",
+        "Sleep and Circadian Rhythms": "Circadian rhythms are physical, mental, and behavioral changes that follow a roughly 24-hour cycle. Sleep is regulated by these rhythms and is believed to serve several functions, including the conservation of energy."
+    }
+}

@@ -1,0 +1,436 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, did you know that if we had a gazillion watermelons, nobody would want to pay much for them?",
+        "Oh, you mean because there would be so many, everyone could have as many as they want, and the price would go down?"
+      ],
+      "options": [
+        "Law of supply and demand (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if unicorns were real, but there were only 5 in the entire world!",
+        "Whoa, I bet people would pay a fortune to see or own one, since they'd be so rare and special!"
+      ],
+      "options": [
+        "Law of supply and demand (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we could make ice cream that never melts, but it takes a super long time to make each scoop?",
+        "Hmmm, I guess there wouldn't be much ice cream around, and we'd probably have to pay more for it because it's harder to get!"
+      ],
+      "options": [
+        "Law of supply and demand (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I buy this giant gummy bear, I won't have enough money to buy the chocolate frog!",
+        "So you have to choose which treat you'd rather have and give up the other one, huh?"
+      ],
+      "options": [
+        "Opportunity cost (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that Farmer Joe added one more cow to his farm, and it gave him just enough extra milk to make it worth it!",
+        "Wow, so he thought about the extra cost and benefit of having that one more cow, huh?"
+      ],
+      "options": [
+        "Marginal analysis (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "When the price of comic books went up by a dollar, I still bought the same amount!",
+        "But when the price of candy doubled, I stopped buying it altogether!"
+      ],
+      "options": [
+        "Elasticity of demand (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "At the toy store, the robot action figures sold out quickly, but the store was left with a ton of dinosaur toys.",
+        "Maybe if they had the right number of each toy, they'd all sell out at the same time!"
+      ],
+      "options": [
+        "Market equilibrium (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I ate three slices of pizza and loved them all, but the fourth one wasn't as satisfying.",
+        "Yeah, sometimes the more we have of something, the less we enjoy each extra piece."
+      ],
+      "options": [
+        "Law of diminishing marginal utility (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know there's a lemonade stand on every corner of our neighborhood now?",
+        "Wow, they're all selling the same lemonade, so they'll have to compete on price and service!"
+      ],
+      "options": [
+        "Perfect competition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In our town, there's only one place to buy video games, and they're super expensive!",
+        "Yeah, they can charge whatever they want since they're the only game store around."
+      ],
+      "options": [
+        "Monopoly (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you notice that there are only a few big pizza places in our city, and they all have similar prices?",
+        "Yeah, it's like they have an unspoken agreement not to compete too much with each other."
+      ],
+      "options": [
+        "Oligopoly (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "No one wants to clean the park, but we all want it to be clean!",
+        "If only there was a way for everyone to chip in, and the park would be clean for all of us to enjoy."
+      ],
+      "options": [
+        "Market failure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My neighbor started a bee farm and now all our flowers are blooming like crazy!",
+        "That's great! They're helping your garden without even knowing it."
+      ],
+      "options": [
+        "Externalities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love going to the park, and it's free for everyone!",
+        "Yeah, it's nice that public places like that are available for everyone to enjoy."
+      ],
+      "options": [
+        "Public goods (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My sister is amazing at drawing, but not so great at math. I'm the opposite.",
+        "So she could make awesome art for your math project, and you could help her with her math homework!"
+      ],
+      "options": [
+        "Comparative advantage (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My grandpa said he used to buy candy bars for a nickel, but now they're a whole dollar!",
+        "Wow, prices sure have gone up over time, huh?"
+      ],
+      "options": [
+        "Inflation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that during the Great Depression, prices for some things actually went down!",
+        "Yeah, sometimes when the economy is really bad, prices can fall instead of rising."
+      ],
+      "options": [
+        "Deflation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The government says landlords can't charge more than $1,000 for rent, so everyone can afford a place to live!",
+        "That's a way to make sure housing doesn't get too expensive for people."
+      ],
+      "options": [
+        "Price ceiling (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "There's a law that says the minimum wage has to be $15 an hour, so everyone can make a decent living.",
+        "That helps make sure workers get paid enough to live on, no matter what job they have."
+      ],
+      "options": [
+        "Price floor (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I found this awesome toy for $5, but I would have paid $10 for it!",
+        "So you got a great deal and saved some money in the process!"
+      ],
+      "options": [
+        "Consumer surplus (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My dad sold his homemade cookies at the bake sale for $3 each, but it only cost him $1 to make them.",
+        "So he made a nice profit on each cookie he sold!"
+      ],
+      "options": [
+        "Producer surplus (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The more cookies my mom bakes at once, the cheaper each one gets to make!",
+        "Yeah, making things in big batches can save time and money!"
+      ],
+      "options": [
+        "Economies of scale (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My uncle tried to make a super huge pizza, but it took so much time and effort that it cost a fortune!",
+        "Sometimes making things too big can actually be less efficient and more expensive."
+      ],
+      "options": [
+        "Diseconomies of scale (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard our country made a lot of money last year by producing and selling all kinds of goods and services.",
+        "That's a way to measure how well our economy is doing overall!"
+      ],
+      "options": [
+        "Gross Domestic Product (GDP) (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My grandma said that during the last recession, lots of people lost their jobs and businesses struggled.",
+        "Yeah, a recession is a tough time for the economy when things slow down and it's harder to make money."
+      ],
+      "options": [
+        "Recession (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "People loved my cousin's homemade lemonade so much, she had to keep raising the price to keep up with demand!",
+        "When everyone wants something and there's not enough to go around, prices can rise quickly."
+      ],
+      "options": [
+        "Demand-pull inflation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The price of pizza went up because the cost of cheese and flour increased.",
+        "Sometimes when it gets more expensive to make things, the prices go up for customers too."
+      ],
+      "options": [
+        "Cost-push inflation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the Silly Sock Crisis? People were losing jobs, but the price of socks with funny faces kept going up!",
+        "That's such a weird mix of problems \u2013 a stagnant economy and rising prices at the same time!"
+      ],
+      "options": [
+        "Stagflation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The government decided to build a giant statue of a marshmallow man to create jobs and boost the economy!",
+        "Haha! What a fun way to spend money and help people at the same time!"
+      ],
+      "options": [
+        "Fiscal policy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard the Bank of Fairyland is printing more magic coins to make it easier for people to borrow and spend money.",
+        "That's one way to sprinkle some fairy dust on the economy and encourage growth!"
+      ],
+      "options": [
+        "Monetary policy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My cousin learned how to juggle flaming pineapples! That's a pretty unique skill, huh?",
+        "Yeah! The more skills and knowledge people have, the more valuable they are to the economy."
+      ],
+      "options": [
+        "Human capital (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if the Kingdom of Donuts put a huge wall around their borders and didn't let any donuts in or out!",
+        "Oh no! That would make it so hard for other countries to enjoy their delicious donuts and trade with them."
+      ],
+      "options": [
+        "Trade barriers (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the Land of Lollipops, you can trade 1 candy cane for 5 lollipops! What a sweet deal!",
+        "It's like a sugar-filled foreign exchange market, trading different kinds of candy!"
+      ],
+      "options": [
+        "Currency exchange rates (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that the town of Ice Creamville built a giant ice cream factory, and now everyone has jobs making ice cream cones?",
+        "That's awesome! The town must be growing and getting richer with all that ice cream money!"
+      ],
+      "options": [
+        "Economic growth (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that in Candyland, they measure their economy in gummy bears produced every year?",
+        "Haha, I guess that makes sense for a place where everything is made of candy!"
+      ],
+      "options": [
+        "Gross Domestic Product (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In Balloonville, they keep blowing up their balloons bigger and bigger, so now it costs more air to buy things!",
+        "Sounds like their economy is really \"inflating\" over there!"
+      ],
+      "options": [
+        "Inflation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The robots in RoboTown took over all the jobs, so now the town is full of unemployed teddy bears!",
+        "Oh no! We need to find new jobs for those cuddly little guys!"
+      ],
+      "options": [
+        "Unemployment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "To save Unicorn Island from a recession, the government decided to build a magical rainbow bridge!",
+        "That's a colorful way to create jobs and boost the economy with some government spending!"
+      ],
+      "options": [
+        "Fiscal policy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In Penguinopolis, the Central Igloo Bank made it easier to borrow fish by lowering the ice-cold interest rates!",
+        "That should help the penguins swim their way to a more prosperous economy!"
+      ],
+      "options": [
+        "Monetary policy (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "On Planet Pizza, everyone suddenly craved extra toppings, so the demand for all goods and services shot up!",
+        "They must be really hungry for some cheesy, delicious economic growth!"
+      ],
+      "options": [
+        "Aggregate demand (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In Dinosaur Valley, all the T-Rex factories started producing more toy dinosaurs than ever before!",
+        "Wow, with more goods and services available, their economy must be roaring with success!"
+      ],
+      "options": [
+        "Aggregate supply (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The tiny village of Antopia grew so much that they built skyscrapers made of breadcrumbs!",
+        "Those ants must be working hard to lift their economy to new heights!"
+      ],
+      "options": [
+        "Economic growth (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Kingdom of Cats started trading their fancy catnip with the Dog Republic for chew toys!",
+        "That's a paws-itively great way for both countries to benefit from exchanging goods!"
+      ],
+      "options": [
+        "International trade (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the mystical land of Fairies and Gnomes, they exchange glitter for gnome hats to keep their trading balanced.",
+        "What a magical way to make sure everyone gets their fair share of sparkles and stylish headwear!"
+      ],
+      "options": [
+        "Balance of payments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Bureau of Burger Statistics measures the price of burgers, fries, and shakes to see if the cost of living is going up!",
+        "That must be one tasty way to keep track of how much it costs to live in Burgerland!"
+      ],
+      "options": [
+        "Consumer Price Index (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the land of Crafters, the Glue People are amazing at making glue, while the Scissor Clan can cut anything like a pro!",
+        "Sounds like they're all using their unique skills to create the best products!"
+      ],
+      "options": [
+        "Specialization (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "The Republic of Rubber Ducks put a tax on imported rubber duckies to protect their own squeaky toy industry!",
+        "Quack-tastic! That should help their local businesses stay afloat!"
+      ],
+      "options": [
+        "Tariffs (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the mystical land of Pillowtopia, you can exchange 2 fluffy pillows for 3 super soft blankets!",
+        "That's a cozy way to trade with other lands and keep warm at the same time!"
+      ],
+      "options": [
+        "Exchange rate (correct answer)"
+      ]
+    }
+  ]
+}

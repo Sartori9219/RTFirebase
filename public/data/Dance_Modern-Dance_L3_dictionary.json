@@ -1,0 +1,408 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why are you dancing with your vacuum cleaner?",
+        "Just working on my 'Dust Buster Boogie'! No choreography, all improvisation!"
+      ],
+      "options": [
+        "Improvisation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's with the penguin dance?",
+        "I'm improvising! It's the 'Iceberg Imitation'."
+      ],
+      "options": [
+        "Improvisation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you trying to be a tree in the wind?",
+        "Exactly! It's my 'Whimsical Willow' improvisation dance."
+      ],
+      "options": [
+        "Improvisation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you dancing with your chair?",
+        "It's called contact improvisation! The chair and I are partners in this dance."
+      ],
+      "options": [
+        "Contact Improvisation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you trying to wrestle that lamp?",
+        "Nah, just working on some contact improvisation. Light touch, get it?"
+      ],
+      "options": [
+        "Contact Improvisation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you hugging that tree and swaying side to side?",
+        "It's not a hug, it's a dance! I'm practicing contact improvisation with nature."
+      ],
+      "options": [
+        "Contact Improvisation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you falling over your own feet and then standing back up?",
+        "It's not clumsiness, it's a modern dance technique called fall and recovery!"
+      ],
+      "options": [
+        "Fall and Recovery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you okay? You keep falling down.",
+        "Oh, don't worry! I'm just practicing my fall and recovery dance moves!"
+      ],
+      "options": [
+        "Fall and Recovery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Nope, just executing a textbook 'fall and recovery'. It's high art!"
+      ],
+      "options": [
+        "Fall and Recovery (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you dancing while making breakfast?",
+        "It's not just cooking, it's modern dance! We use everyday movements!"
+      ],
+      "options": [
+        "Use of Everyday Movements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you flapping your arms like a chicken?",
+        "It's modern dance! We incorporate everyday movements, even if they're a bit... fowl."
+      ],
+      "options": [
+        "Use of Everyday Movements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you dancing while brushing your teeth?",
+        "It's a part of modern dance! Everyday movements can be so... refreshing!"
+      ],
+      "options": [
+        "Use of Everyday Movements (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you rolling on the floor?",
+        "I'm not just rolling, I'm practicing groundwork in modern dance!"
+      ],
+      "options": [
+        "Groundwork (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you okay? Why are you crawling on the floor?",
+        "I'm fine! Just working on my modern dance groundwork. It's all about connecting with the floor."
+      ],
+      "options": [
+        "Groundwork (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you looking for something on the floor?",
+        "Nope, just practicing my groundwork. It's a key part of modern dance!"
+      ],
+      "options": [
+        "Groundwork (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you dancing like a teapot?",
+        "It's my individualistic interpretation of being steamed up!"
+      ],
+      "options": [
+        "Emotion and Individualism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you dancing like you're in a thunderstorm?",
+        "I'm expressing my inner turmoil. Modern dance is all about emotion and individualism!"
+      ],
+      "options": [
+        "Emotion and Individualism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you dancing with such exaggerated movements?",
+        "I'm expressing my joy! That's the beauty of emotion and individualism in modern dance."
+      ],
+      "options": [
+        "Emotion and Individualism (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you dancing in a spacesuit?",
+        "It's modern dance! I can choose my costume freely. Plus, I'm doing the moonwalk!"
+      ],
+      "options": [
+        "Freedom of Costume Choice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you wearing a chef's outfit for your dance performance?",
+        "In modern dance, I can choose any costume I like. I'm cooking up a storm on the dance floor!"
+      ],
+      "options": [
+        "Freedom of Costume Choice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you really going to dance in that superhero cape?",
+        "Absolutely! In modern dance, my costume choice is free. I'm dancing my way to save the world!"
+      ],
+      "options": [
+        "Freedom of Costume Choice (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you dancing around the living room with a map?",
+        "It's modern dance! I'm choreographing a journey around the world!"
+      ],
+      "options": [
+        "Choreography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you making all those strange moves with the broomstick?",
+        "I'm not just cleaning; I'm choreographing my dance piece for the modern dance class!"
+      ],
+      "options": [
+        "Choreography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you making those moves with your video game controller?",
+        "I'm not just gaming, I'm choreographing my next modern dance routine!"
+      ],
+      "options": [
+        "Choreography (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What are you doing, acting like a tree in the living room?",
+        "Oh, I'm not just being a tree. I'm embodying the struggles of nature in my performance art!"
+      ],
+      "options": [
+        "Performance Art (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you pretending to be a carrot while you dance around the kitchen?",
+        "I'm not pretending! I'm expressing the life journey of a carrot through performance art!"
+      ],
+      "options": [
+        "Performance Art (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you dancing while eating your sandwich?",
+        "This is no ordinary meal. This is a performance art piece about the mundane in everyday life!"
+      ],
+      "options": [
+        "Performance Art (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did you just start dancing in the middle of this conversation?",
+        "Why not? I felt the rhythm of our chat and went with it!"
+      ],
+      "options": [
+        "Spontaneity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you just do a pirouette while making coffee?",
+        "Sure did! Felt like the right thing to do in the moment."
+      ],
+      "options": [
+        "Spontaneity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you always this random, twirling around in the grocery store?",
+        "You call it random, I call it spontaneity!"
+      ],
+      "options": [
+        "Spontaneity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "You know, we could both clean this room faster if we danced while doing it.",
+        "Dance-cleaning? Now, that's teamwork!"
+      ],
+      "options": [
+        "Collaboration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let's create a dance routine that tells the story of a hero's journey.",
+        "Great idea! I'll be the hero, and you can be the dragon."
+      ],
+      "options": [
+        "Collaboration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Let's choreograph a dance to this song!",
+        "Sure! You take the chorus, I'll handle the verses."
+      ],
+      "options": [
+        "Collaboration (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you painting your shoes?",
+        "I'm about to do a dance inspired by Picasso!"
+      ],
+      "options": [
+        "Interdisciplinary Nature (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is there a book on your head while you dance?",
+        "I'm combining my love for literature with my dance routine!"
+      ],
+      "options": [
+        "Interdisciplinary Nature (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you dancing with a microscope?",
+        "I'm choreographing a dance about scientific discovery!"
+      ],
+      "options": [
+        "Interdisciplinary Nature (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you dancing in a supermarket?",
+        "Yes, it's my new choreography for 'aisle 5 tango'!"
+      ],
+      "options": [
+        "Site-Specific Dance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you dancing on a bridge?",
+        "My dance routine is inspired by the architecture!"
+      ],
+      "options": [
+        "Site-Specific Dance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you dancing in the forest?",
+        "Yes, nature is my stage today!"
+      ],
+      "options": [
+        "Site-Specific Dance (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you dancing with a book on your head?",
+        "I'm practicing my body awareness, balancing is key!"
+      ],
+      "options": [
+        "Body Awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you dancing with your eyes closed?",
+        "I'm practicing to sense my body without seeing, it's a body awareness thing!"
+      ],
+      "options": [
+        "Body Awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you trying to dance while peeling a banana?",
+        "Yes, I'm practicing multitasking while being aware of my body movement!"
+      ],
+      "options": [
+        "Body Awareness (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why are you arranging furniture while dancing?",
+        "I'm not just arranging, I'm creating a dance composition. Each furniture move is a dance step!"
+      ],
+      "options": [
+        "Dance Composition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Are you dancing or conducting an orchestra?",
+        "Both! I'm composing my dance to match this symphony!"
+      ],
+      "options": [
+        "Dance Composition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do you have paint and brushes out while dancing?",
+        "Each brush stroke is a dance move. I'm composing a dance that paints a picture!"
+      ],
+      "options": [
+        "Dance Composition (correct answer)"
+      ]
+    }
+  ]
+}

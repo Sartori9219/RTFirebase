@@ -1,0 +1,274 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Why do the numbers on my secret spy decoder always increase by 3? It goes 2, 5, 8, 11, 14...",
+        "Ah, that's a sequence pattern! It helps you crack secret codes by following the pattern. Keep adding 3 to find the next number!"
+      ],
+      "options": [
+        "Sequence Patterns (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed that the aliens in my favorite video game always appear in a pattern - one spaceship, two spaceships, three spaceships, and so on!",
+        "That's a sequence pattern! You can predict how many spaceships will show up next and prepare your laser blaster accordingly. Pew pew!"
+      ],
+      "options": [
+        "Sequence Patterns (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "one unicorn hair, two dragon scales, three fairy wings, and so on.",
+        "It's a sequence pattern! By understanding the pattern, you can create even more powerful potions. Just keep adding one more of each ingredient!"
+      ],
+      "options": [
+        "Sequence Patterns (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you notice the floor tiles at the mall? They repeat the same pattern of stars and circles over and over!",
+        "Yeah, that's a spatial pattern! It's like a never-ending dance of shapes across the floor."
+      ],
+      "options": [
+        "Spatial Patterns (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do the leaves on this plant look like they're in a spiral?",
+        "That's a spatial pattern! Nature is full of them. It's like plants have their own secret code for arranging their leaves."
+      ],
+      "options": [
+        "Spatial Patterns (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In my favorite video game, the maze walls always create the same pattern, no matter which level I'm on!",
+        "That's a spatial pattern in action! It helps you navigate the maze and find your way to victory."
+      ],
+      "options": [
+        "Spatial Patterns (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "At lunch, I noticed that everyone who brought a sandwich also brought a piece of fruit. What's up with that?",
+        "That's a categorical pattern! People who pack sandwiches seem to like packing fruit too. It's like a lunchbox buddy system."
+      ],
+      "options": [
+        "Categorical Patterns (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do all superhero movies have the hero saving the day and the villain losing?",
+        "That's a categorical pattern! In superhero movies, there's a common theme of good triumphing over evil."
+      ],
+      "options": [
+        "Categorical Patterns (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I noticed that every time I wear my lucky socks, my team wins the game!",
+        "That's a categorical pattern, but it could also be just a coincidence. Still, it's fun to think your socks have magical winning powers!"
+      ],
+      "options": [
+        "Categorical Patterns (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just folded this paper butterfly in half, and both sides look exactly the same!",
+        "That's symmetry! You've created a perfectly balanced butterfly ready to take flight."
+      ],
+      "options": [
+        "Symmetry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does my snowflake have six identical branches?",
+        "It's because of symmetry! Snowflakes are nature's way of showing us how beautiful balance can be."
+      ],
+      "options": [
+        "Symmetry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the mirror, my reflection looks just like me, but flipped!",
+        "That's symmetry in action! Your reflection is like your mirror twin, showing perfect balance."
+      ],
+      "options": [
+        "Symmetry (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I saw a picture of a triangle made of smaller triangles, which were made of even smaller triangles! How does that work?",
+        "That's recursion! It's a pattern that keeps repeating itself within itself, like a never-ending triangle party!"
+      ],
+      "options": [
+        "Recursion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why do Russian nesting dolls keep having smaller dolls inside them?",
+        "That's an example of recursion! Each doll contains a smaller version of itself, like a doll family tree."
+      ],
+      "options": [
+        "Recursion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "In the movie, there was a dream within a dream within another dream! How is that possible?",
+        "That's recursion at work! It's like dreams stacking on top of each other like layers of a cake."
+      ],
+      "options": [
+        "Recursion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the moon look different every night? It starts as a crescent, becomes full, and then goes back to a crescent again!",
+        "That's periodicity! The moon's phases repeat in a cycle, showing us nature's predictable patterns."
+      ],
+      "options": [
+        "Periodicity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Every morning, my cat meows at the same time for breakfast. It's like she has an alarm clock inside her!",
+        "That's periodicity! Your cat has a built-in schedule, and she's sticking to it."
+      ],
+      "options": [
+        "Periodicity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why does the school bell ring at the same times every day?",
+        "It's because of periodicity! The bell follows a regular schedule to keep everyone on track throughout the day."
+      ],
+      "options": [
+        "Periodicity (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I can learn to ride a scooter, do you think I can learn to ride a skateboard too?",
+        "Sure! That's analogical reasoning. Both activities involve balancing on wheels, so your scooter skills might help you learn to skateboard."
+      ],
+      "options": [
+        "Analogical Reasoning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why is it easier to learn a new language if you already know a similar one?",
+        "That's because of analogical reasoning! You can use what you know about one language to help you understand the other."
+      ],
+      "options": [
+        "Analogical Reasoning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My friend said that solving a jigsaw puzzle is like putting together a story from different pieces. What does that mean?",
+        "That's an example of analogical reasoning! Your friend is comparing the process of assembling a puzzle to the process of piecing together a story."
+      ],
+      "options": [
+        "Analogical Reasoning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Every time it rains, my dog hides under the bed. I guess he's afraid of rain!",
+        "That's inductive reasoning! You observed your dog's behavior and made a general conclusion about his fear of rain."
+      ],
+      "options": [
+        "Inductive Reasoning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've noticed that whenever I wear sunscreen, I don't get sunburned. So, sunscreen must protect my skin!",
+        "You got it! That's inductive reasoning at work. You used your experiences to make a generalization about sunscreen."
+      ],
+      "options": [
+        "Inductive Reasoning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "All the apples I've eaten have been sweet, so I think apples are sweet fruits.",
+        "That's inductive reasoning! You used your experience with apples to make a conclusion about their taste."
+      ],
+      "options": [
+        "Inductive Reasoning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "All birds have feathers, and penguins are birds. So, penguins must have feathers too!",
+        "Exactly! That's deductive reasoning. You applied a general rule about birds to figure out something about penguins."
+      ],
+      "options": [
+        "Deductive Reasoning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If I finish my homework, I can play video games. I finished my homework, so now I can play!",
+        "You used deductive reasoning! You applied a rule about finishing homework to figure out that it's time for video games."
+      ],
+      "options": [
+        "Deductive Reasoning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "All superheroes have special powers, and Super Sally is a superhero. She must have special powers!",
+        "Great use of deductive reasoning! You applied what you know about superheroes to learn something about Super Sally."
+      ],
+      "options": [
+        "Deductive Reasoning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "To make a sandwich, I need to follow specific steps - grab bread, add toppings, and then put it all together. It's like a recipe!",
+        "You're using algorithmic thinking! It's all about following a sequence of steps to achieve a desired outcome."
+      ],
+      "options": [
+        "Algorithmic Thinking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've got a plan to clean my room faster - first, pick up the clothes, then put away the toys, and finally, vacuum!",
+        "That's algorithmic thinking! You've created a step-by-step process to help you clean your room efficiently."
+      ],
+      "options": [
+        "Algorithmic Thinking (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I made up a secret handshake with my friend. We always do it in the same order - high five, fist bump, and then a spin!",
+        "You're using algorithmic thinking! You came up with a specific sequence of actions to make your secret handshake unique."
+      ],
+      "options": [
+        "Algorithmic Thinking (correct answer)"
+      ]
+    }
+  ]
+}

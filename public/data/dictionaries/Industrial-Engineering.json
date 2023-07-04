@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Process Engineering",
+        "Systems Engineering",
+        "Operations Research",
+        "Quality Control",
+        "Ergonomics",
+        "Facility Layout",
+        "Lean Manufacturing",
+        "Six Sigma",
+        "Supply Chain Management",
+        "Inventory Management",
+        "Project Management",
+        "Time and Motion Study",
+        "Simulation",
+        "Production Planning",
+        "Work Measurement"
+    ],
+    "hints": {
+        "Process Engineering": "The design, operation, control, and optimization of chemical, physical, and biological processes.",
+        "Systems Engineering": "An interdisciplinary field of engineering that focuses on how to design and manage complex systems over their life cycles.",
+        "Operations Research": "The use of mathematical models, statistics and algorithms to help make better decisions.",
+        "Quality Control": "The process of detecting mistakes in operational outputs and correcting them.",
+        "Ergonomics": "The study of designing equipment and devices that fit the human body, its movements, and its cognitive abilities.",
+        "Facility Layout": "The arrangement of physical machines and spaces to optimize efficiency.",
+        "Lean Manufacturing": "A systematic method for waste minimization within a manufacturing system without sacrificing productivity.",
+        "Six Sigma": "A set of techniques and tools for process improvement, aiming to reduce defects and variability.",
+        "Supply Chain Management": "The management of the flow of goods and services, including all processes that transform raw materials into final products.",
+        "Inventory Management": "The supervision of non-capitalized assets, inventory, and stock items.",
+        "Project Management": "The practice of initiating, planning, executing, controlling, and closing the work of a team to achieve specific goals and meet specific success criteria.",
+        "Time and Motion Study": "The business efficiency technique combining the Time Study work of Frederick Winslow Taylor with the Motion Study work of Frank and Lillian Gilbreth.",
+        "Simulation": "The imitation of the operation of a real-world process or system over time.",
+        "Production Planning": "The planning of production and manufacturing modules in a company or industry.",
+        "Work Measurement": "The application of techniques designed to establish the time for a qualified worker to carry out a specified job at a defined level of performance."
+    }
+}

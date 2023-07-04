@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Self-Assessment",
+        "Career Exploration",
+        "Resume Writing",
+        "Cover Letter Writing",
+        "Interview Skills",
+        "Networking",
+        "Job Shadowing",
+        "Internships",
+        "Volunteering",
+        "Career Pathways",
+        "Soft Skills",
+        "Technical Skills",
+        "Career Planning",
+        "Work-Life Balance",
+        "Entrepreneurship"
+    ],
+    "hints": {
+        "Self-Assessment": "Understanding your interests, skills, values, and personality traits. This is the first step to identifying the types of careers that may be a good fit for you.",
+        "Career Exploration": "Researching different occupations to understand what they involve. This includes looking at the skills needed, education required, average salary, job outlook, etc.",
+        "Resume Writing": "The process of crafting a document that summarizes your skills, experiences, and accomplishments. A strong resume is often key to securing an interview for a job.",
+        "Cover Letter Writing": "Writing a persuasive document that accompanies your resume. It should be tailored to each job application, explaining why you are a good fit for the specific role.",
+        "Interview Skills": "The ability to effectively communicate your skills and experiences during a job interview. This also includes understanding how to prepare for an interview and follow up afterward.",
+        "Networking": "Building and maintaining professional relationships. Networking can often lead to job opportunities and can provide valuable insights into different careers.",
+        "Job Shadowing": "Spending time observing a professional on the job to get a better understanding of a particular career. It can provide a firsthand look at the day-to-day activities of a profession.",
+        "Internships": "Gaining practical experience in a professional setting. Internships can be a great way to gain skills, make connections, and explore careers.",
+        "Volunteering": "Unpaid work that can help you gain skills and experiences. Volunteering can also be a good way to explore career interests and demonstrate commitment to a cause or organization.",
+        "Career Pathways": "The different routes you can take to enter and advance within a career. Understanding career pathways can help you plan the steps needed to achieve your career goals.",
+        "Soft Skills": "Non-technical skills that relate to how you work and interact with others. Examples include communication, teamwork, and problem-solving skills.",
+        "Technical Skills": "Specific abilities or knowledge needed for a job. These can be gained through education, training, or experience, and can be specific to a particular industry or career.",
+        "Career Planning": "The ongoing process of setting career goals and planning the steps to achieve them. This involves continuous self-assessment, career exploration, and skill development.",
+        "Work-Life Balance": "The balance between your work responsibilities and your personal life. It's important to consider the impact of different careers on your desired lifestyle.",
+        "Entrepreneurship": "The process of starting and running your own business. This can be an exciting career path for those who are innovative, self-motivated, and willing to take risks."
+    }
+}

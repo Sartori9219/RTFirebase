@@ -1,0 +1,408 @@
+{
+  "questions": [
+    {
+      "question": [
+        "What would happen if we built a zoo right next to an airport? \u2708\ufe0f\ud83e\udd81"
+      ],
+      "options": [
+        "Land Use Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if your city had a neighborhood made entirely of ice cream shops! \ud83c\udf66\ud83c\udf68",
+        "Yum, but wouldn't that be a bit impractical? We'd need more variety in land use to make our city functional and vibrant!"
+      ],
+      "options": [
+        "Land Use Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you hear about the city that put a skate park, a library, and a fire station all on the same block? \ud83d\udef9\ud83d\udcda\ud83d\ude92",
+        "Sounds like they could use some better land use planning to create a more balanced and organized urban environment!"
+      ],
+      "options": [
+        "Land Use Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you mix a residential zone with an amusement park? \ud83c\udfe0\ud83c\udfa2",
+        "A roller coaster of emotions and some very sleepless nights! Zoning regulations help keep things in order. \ud83d\ude04"
+      ],
+      "options": [
+        "Zoning Regulations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the city that accidentally zoned a farm next to a concert venue? \ud83d\ude9c\ud83c\udfb6",
+        "Oh no! I bet the cows were utterly confused! Good zoning regulations would've prevented that mix-up."
+      ],
+      "options": [
+        "Zoning Regulations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine living in a skyscraper right next to a peaceful park! \ud83c\udf33\ud83c\udfe2",
+        "That's why we have zoning regulations \u2013 to make sure buildings and spaces complement each other, rather than clash!"
+      ],
+      "options": [
+        "Zoning Regulations (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we designed a city in the shape of a giant pizza? \ud83c\udf55",
+        "Haha, that would be a tasty urban design, but we might need something more practical for efficient transportation and land use! \ud83d\ude97\ud83c\udfd9\ufe0f"
+      ],
+      "options": [
+        "Urban Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you ever wondered why some cities have streets that look like a maze? \ud83c\udf00",
+        "Yeah, it's like they were designed by a confused hamster! Good urban design should make getting around easy and enjoyable! \ud83d\udc39\ud83c\udf06"
+      ],
+      "options": [
+        "Urban Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If urban designers were artists, what would be their canvas? \ud83c\udfa8",
+        "The city itself! They'd paint with buildings, streets, and public spaces to create a functional and beautiful masterpiece! \ud83c\udfde\ufe0f\ud83d\udd8c\ufe0f"
+      ],
+      "options": [
+        "Urban Design (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you call a city that's environmentally friendly and socially responsible? \ud83c\udf33\ud83d\udc6b",
+        "A \"green\" dream come true! That's the goal of sustainable development. \ud83d\ude04"
+      ],
+      "options": [
+        "Sustainable Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the eco-friendly city win the \"Most Sustainable\" award? \ud83c\udfc6",
+        "Because it was always one step ahead in reducing its carbon footprint! \ud83e\uddb6\ud83c\udf0e"
+      ],
+      "options": [
+        "Sustainable Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If sustainable development was a superhero, what would its superpower be? \ud83e\uddb8\u200d\u2640\ufe0f",
+        "The ability to balance economic growth, social equity, and environmental protection for a better future! \u2696\ufe0f\ud83c\udf31"
+      ],
+      "options": [
+        "Sustainable Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the bus go to school? \ud83d\ude8c\ud83c\udfeb",
+        "To get a little more \"class\"! Public transportation plays a crucial role in connecting people to education and other opportunities. \ud83d\ude04"
+      ],
+      "options": [
+        "Public Transportation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the most musical form of public transportation? \ud83c\udfbc",
+        "The \"sub-way\" station, because it's always full of underground hits! \ud83d\ude87\ud83c\udfb6"
+      ],
+      "options": [
+        "Public Transportation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If public transportation were a chef, what would be its signature dish? \ud83c\udf7d\ufe0f",
+        "A well-balanced menu of buses, trains, and bike-sharing options, served with a side of efficiency and accessibility! \ud83d\ude8d\ud83d\ude86\ud83d\udeb2"
+      ],
+      "options": [
+        "Public Transportation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the chicken cross the road in a walkable city? \ud83d\udc13\ud83d\udeb6\u200d\u2640\ufe0f",
+        "To get to the other side safely thanks to pedestrian-friendly infrastructure, of course! \ud83d\ude04"
+      ],
+      "options": [
+        "Walkability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the best way to explore a walkable city? \ud83d\udc63",
+        "On foot! You can take in all the sights, sounds, and smells at a leisurely pace, without worrying about traffic. \ud83c\udf38\ud83d\udeb6\u200d\u2642\ufe0f"
+      ],
+      "options": [
+        "Walkability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If walkability were a dance move, what would it be called? \ud83d\udc83",
+        "The \"Sidewalk Shuffle\" \u2013 a smooth and accessible groove that everyone can enjoy! \ud83d\ude0e"
+      ],
+      "options": [
+        "Walkability (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you combine a bakery, an apartment building, and an office in one place? \ud83e\udd56\ud83c\udfe2",
+        "A recipe for mixed-use development success! It's a tasty blend of living, working, and shopping all in one spot. \ud83d\ude0b"
+      ],
+      "options": [
+        "Mixed-Use Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the city planner love mixed-use development so much? \ud83c\udf06",
+        "Because it created vibrant, walkable communities where people could live, work, and play all in the same area! \ud83d\udeb6\u200d\u2640\ufe0f\ud83c\udf89"
+      ],
+      "options": [
+        "Mixed-Use Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If mixed-use development were a pizza, what toppings would it have? \ud83c\udf55",
+        "A little bit of everything! Residential, commercial, and recreational ingredients all mixed together to create a delicious urban experience. \ud83d\ude04"
+      ],
+      "options": [
+        "Mixed-Use Development (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the tree get promoted to park manager? \ud83c\udf33",
+        "Because it had the perfect combination of \"branch\" management and \"root\" planning skills! Green spaces and parks need good caretakers! \ud83d\ude04"
+      ],
+      "options": [
+        "Green Spaces and Parks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the best way to recharge your batteries in a busy city? \ud83d\udd0b",
+        "Spending time in green spaces and parks! They're like natural power outlets for our minds and bodies. \ud83c\udf3f\ud83c\udfde\ufe0f"
+      ],
+      "options": [
+        "Green Spaces and Parks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If green spaces and parks were a band, what would their hit song be called? \ud83c\udfb6",
+        "\"Oasis in the Concrete Jungle\" \u2013 a catchy tune about the importance of nature in our urban lives! \ud83c\udfb5\ud83c\udf3a"
+      ],
+      "options": [
+        "Green Spaces and Parks (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the historic building apply for a job as a history teacher? \ud83c\udfdb\ufe0f\ud83d\udc69\u200d\ud83c\udfeb",
+        "Because it had so many stories to tell! Historic preservation helps ensure these stories are not forgotten. \ud83d\ude04"
+      ],
+      "options": [
+        "Historic Preservation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you combine a passion for architecture and a love of history? \ud83d\udcd0\ud83d\udcda",
+        "A historic preservation enthusiast, ready to save our past for future generations to enjoy! \ud83c\udff0\ud83d\udd0d"
+      ],
+      "options": [
+        "Historic Preservation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If historic preservation were a superhero, what would its arch-nemesis be called? \ud83e\uddb8\u200d\u2642\ufe0f",
+        "\"The Bulldozer\" \u2013 a villain bent on demolishing history in favor of modern development! But our hero always saves the day! \ud83d\udea7\ud83c\udf1f"
+      ],
+      "options": [
+        "Historic Preservation (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What did the affordable house say to the luxury mansion? \ud83c\udfd8\ufe0f\ud83d\udc8e",
+        "\"I may be small, but I make a big difference for families in need!\" Affordable housing is essential for creating inclusive and diverse communities. \ud83d\ude04"
+      ],
+      "options": [
+        "Affordable Housing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the city planner become a matchmaker for affordable housing? \ud83d\udc95",
+        "Because they knew that people and homes need to find their perfect fit, without breaking the bank! \ud83d\udcb0\ud83c\udfe0"
+      ],
+      "options": [
+        "Affordable Housing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If affordable housing were a superhero, what would its special power be? \ud83e\uddb8\u200d\u2640\ufe0f",
+        "The ability to create safe, comfortable, and budget-friendly homes for everyone in need! \ud83c\udf06\u2728"
+      ],
+      "options": [
+        "Affordable Housing (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you cross a well-planned city with environmentally-friendly practices? \ud83c\udf33\ud83c\udfd9\ufe0f",
+        "A shining example of smart growth! It's the perfect blend of urban development and sustainability. \ud83d\ude04"
+      ],
+      "options": [
+        "Smart Growth (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the city planner enroll in \"Smart Growth Academy\"? \ud83c\udf93",
+        "To learn how to create cities that are efficient, sustainable, and people-friendly! \ud83d\udeb4\u200d\u2640\ufe0f\ud83c\udf3f"
+      ],
+      "options": [
+        "Smart Growth (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If smart growth were a chef, what would its signature dish be? \ud83c\udf7d\ufe0f",
+        "A delicious mix of walkable neighborhoods, green spaces, and diverse land use \u2013 all served on a plate of sustainability! \ud83e\udd57\ud83c\udf06"
+      ],
+      "options": [
+        "Smart Growth (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What did the abandoned factory say when it became a trendy loft apartment building? \ud83c\udfed\ud83d\udecb\ufe0f",
+        "\"I've been given a new lease on life!\" Urban redevelopment can transform underused spaces into vibrant, thriving communities. \ud83d\ude04"
+      ],
+      "options": [
+        "Urban Redevelopment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the city planner become an urban magician? \ud83c\udfa9\u2728",
+        "To turn rundown areas into bustling neighborhoods with the magic of urban redevelopment! \ud83c\udf06\ud83d\udd2e"
+      ],
+      "options": [
+        "Urban Redevelopment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If urban redevelopment were a superhero, what would its origin story be? \ud83e\uddb8\u200d\u2642\ufe0f",
+        "Born from the ashes of neglected spaces, it gained the power to revitalize and rejuvenate cities for the greater good! \ud83c\udfd7\ufe0f\ud83d\udca5"
+      ],
+      "options": [
+        "Urban Redevelopment (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the bridge become an infrastructure planner? \ud83c\udf09",
+        "Because it wanted to help connect people and places in the most efficient and sustainable way! \ud83d\ude04"
+      ],
+      "options": [
+        "Infrastructure Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you cross a city planner with an engineer? \ud83d\udd27\ud83d\udcd0",
+        "An infrastructure planning expert, ready to build the future of our cities! \ud83d\ude87\ud83c\udfd7\ufe0f"
+      ],
+      "options": [
+        "Infrastructure Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If infrastructure planning were a movie, what would the tagline be? \ud83c\udfac",
+        "\"Building Tomorrow's World Today\" \u2013 a thrilling tale of designing and constructing the essential foundations of modern life! \ud83c\udf06\ud83d\udee3\ufe0f"
+      ],
+      "options": [
+        "Infrastructure Planning (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the bicycle lobby for better infrastructure in the city? \ud83d\udeb2",
+        "Because it wanted to create a wheel-y great environment for cyclists to ride safely and efficiently! \ud83d\ude04"
+      ],
+      "options": [
+        "Bicycle Infrastructure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What's the key ingredient for a bike-friendly city? \ud83c\udf06",
+        "A well-planned bicycle infrastructure with dedicated lanes, bike racks, and safe intersections! \ud83d\udeb4\u200d\u2640\ufe0f\ud83d\udea6"
+      ],
+      "options": [
+        "Bicycle Infrastructure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If bicycle infrastructure were a superhero, what would its mission be? \ud83e\uddb8\u200d\u2642\ufe0f",
+        "To protect and serve cyclists by creating a connected network of safe and accessible bike routes throughout the city! \ud83c\udf09\ud83d\udeb4"
+      ],
+      "options": [
+        "Bicycle Infrastructure (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What do you get when you combine a construction project with environmental awareness? \ud83c\udfd7\ufe0f\ud83c\udf33",
+        "An environmentally responsible development guided by thorough Environmental Impact Assessments! \ud83d\ude04"
+      ],
+      "options": [
+        "Environmental Impact Assessments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Why did the city planner become an environmental detective? \ud83d\udd75\ufe0f\u200d\u2640\ufe0f",
+        "To uncover the potential impacts of proposed projects on the environment and find ways to mitigate them through Environmental Impact Assessments! \ud83d\udd0d\ud83c\udf3f"
+      ],
+      "options": [
+        "Environmental Impact Assessments (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "If Environmental Impact Assessments were a superhero, what would their special power be? \ud83e\uddb8\u200d\u2642\ufe0f",
+        "The ability to foresee and evaluate the consequences of development projects on the environment, ensuring a sustainable future for all! \ud83c\udf0e\ud83d\udcab"
+      ],
+      "options": [
+        "Environmental Impact Assessments (correct answer)"
+      ]
+    }
+  ]
+}

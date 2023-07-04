@@ -1,0 +1,360 @@
+{
+  "questions": [
+    {
+      "question": [
+        "Hey, did you know that the number of people who get sunburned while wearing sunglasses is surprisingly high?",
+        "Oh really? I guess we should start investigating the factors that contribute to this phenomenon and track how it spreads among the population!"
+      ],
+      "options": [
+        "Epidemiology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I've noticed a strange trend - whenever I eat ice cream, I see more people wearing shorts outside. What's up with that?",
+        "Interesting! Maybe we should collect data on ice cream consumption and shorts-wearing habits to see if there's a connection or just a coincidence."
+      ],
+      "options": [
+        "Epidemiology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you ever wondered why some people can eat spicy food without breaking a sweat, while others can't handle the heat at all?",
+        "Yeah, it's so fascinating! We could study the distribution of spicy-food tolerance in different populations and identify the factors that influence it."
+      ],
+      "options": [
+        "Epidemiology (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the new dance craze that's also a workout? It's called \"The Healthy Hustle\"!",
+        "That sounds like a fun way to promote physical activity and get people moving. Let's join in and spread the health!"
+      ],
+      "options": [
+        "Health Promotion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just learned that laughing can actually improve your immune system. Maybe we should start a joke-telling club at school!",
+        "Great idea! Encouraging laughter and positive emotions can definitely contribute to better health. Sign me up for the club!"
+      ],
+      "options": [
+        "Health Promotion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Absolutely! Making nutritious choices more accessible and appealing can really help promote healthier habits among our peers."
+      ],
+      "options": [
+        "Health Promotion (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Hey, did you know that washing your hands while singing \"Happy Birthday\" twice can help prevent the spread of germs?",
+        "That's a fun and catchy way to remember how long we should wash our hands for! Let's spread the word to keep everyone healthy!"
+      ],
+      "options": [
+        "Disease Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that wearing a cape made out of mosquito nets can protect you from mosquito-borne diseases like malaria. Superhero style!",
+        "Haha, that's a creative and entertaining way to remind people about the importance of using mosquito nets in areas where these diseases are common."
+      ],
+      "options": [
+        "Disease Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "My science teacher told us that eating a balanced diet is like having an army of tiny soldiers protecting us from different diseases.",
+        "That's a cool analogy! Eating a variety of nutritious foods can indeed help boost our immune system and keep us healthy."
+      ],
+      "options": [
+        "Disease Prevention (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that plants are like nature's vacuum cleaners? They help clean the air by absorbing pollutants!",
+        "Wow, that's awesome! Let's start an indoor garden in our classroom to improve our air quality and create a healthier environment."
+      ],
+      "options": [
+        "Environmental Health (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard that if we all used reusable water bottles, we could prevent thousands of plastic bottles from ending up in the ocean and harming marine life."
+      ],
+      "options": [
+        "Environmental Health (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's a brilliant idea! Promoting eco-friendly transportation options can definitely contribute to better environmental health for all."
+      ],
+      "options": [
+        "Environmental Health (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just read about this amazing doctor who travels the world giving out free hugs as a way to spread love and promote mental health.",
+        "That's such a heartwarming and creative approach to addressing global health issues! It shows that even small acts of kindness can make a difference."
+      ],
+      "options": [
+        "Global Health (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that there's an international competition where chefs cook nutritious meals using only locally sourced ingredients from around the world?"
+      ],
+      "options": [
+        "Global Health (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I love that idea! Using a superhero to highlight global health challenges can inspire people to take action and work together for a healthier world."
+      ],
+      "options": [
+        "Global Health (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Wow, that's crazy! We should build a \"Healthcare Bridge\" to help close the gap and ensure everyone has equal access to health services."
+      ],
+      "options": [
+        "Health Disparities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That would be both entertaining and educational! It could raise awareness about health inequalities and inspire creative solutions to address them."
+      ],
+      "options": [
+        "Health Disparities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that some neighborhoods have more fast-food restaurants than grocery stores, making it harder for residents to access healthy foods?"
+      ],
+      "options": [
+        "Health Disparities (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if we had a \"Healthcare Olympics\" where countries compete to create the most effective and efficient health policies?",
+        "That's an interesting idea! It could encourage governments to prioritize health policy improvements and learn from each other's successes."
+      ],
+      "options": [
+        "Health Policy and Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Have you heard about the new app that lets you rate your healthcare experiences like a restaurant review? It's called \"DocAdvisor\"!",
+        "That sounds like a fun and useful way to give feedback and help improve healthcare management. Let's try it out and share our thoughts!"
+      ],
+      "options": [
+        "Health Policy and Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I just read a comic book where superheroes work together to create a universal healthcare system that ensures everyone has access to quality care."
+      ],
+      "options": [
+        "Health Policy and Management (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that bacteria sometimes throw \"infection parties\" where they invite their virus friends to infect unsuspecting humans?"
+      ],
+      "options": [
+        "Infectious Diseases (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Infectious Diseases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we had tiny detectives who could track down and catch viruses before they cause outbreaks, like a microscopic Sherlock Holmes!"
+      ],
+      "options": [
+        "Infectious Diseases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that your body has a \"sugar alarm\" that goes off when you've had too many sweets, increasing your risk of developing type 2 diabetes?",
+        "That's a funny way to explain it! It's important to maintain a balanced diet and stay active to help prevent non-communicable diseases like diabetes."
+      ],
+      "options": [
+        "Non-communicable Diseases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I read a story about a superhero named \"Heart-Healthy Harry\" who fights against unhealthy habits to protect people from heart disease."
+      ],
+      "options": [
+        "Non-communicable Diseases (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Non-communicable Diseases (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That sounds like a fun and delicious way to improve our nutrition! Let's challenge ourselves to create a colorful meal plan for the week."
+      ],
+      "options": [
+        "Nutrition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I wish we had a magical kitchen that could instantly turn junk food into healthy, nutritious meals without losing any of the taste."
+      ],
+      "options": [
+        "Nutrition (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "What if there was a superhero called \"Vitamin Vixen\" who could tell us exactly which nutrients we're lacking and how to get them from our diet?",
+        "That would be so helpful! Until then, let's educate ourselves about proper nutrition and make informed choices to keep our bodies in tip-top shape."
+      ],
+      "options": [
+        "Nutrition (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Mental Health (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if we could wear special glasses that turn negative thoughts into funny cartoons, making it easier to cope with stress and anxiety.",
+        "What a creative idea! In the meantime, let's remember to practice self-care and seek support when needed to maintain our mental well-being."
+      ],
+      "options": [
+        "Mental Health (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "That's an interesting and entertaining approach! Let's invite some friends over for a laughter session and see how it affects our mental state."
+      ],
+      "options": [
+        "Mental Health (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Social Determinants of Health (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard about a town where people started planting fruit trees in public spaces, making fresh produce accessible to everyone, regardless of income."
+      ],
+      "options": [
+        "Social Determinants of Health (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Imagine if our pets could talk and advocate for better living conditions, education, and healthcare in our communities, like furry little activists!"
+      ],
+      "options": [
+        "Social Determinants of Health (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you know that biostatisticians are like detectives who use math to solve health mysteries and uncover hidden patterns in data?",
+        "That's a cool way to think about it! I guess you could say they're the Sherlock Holmes of the health world, using numbers as their magnifying glass."
+      ],
+      "options": [
+        "Biostatistics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "I heard there's a game show where contestants have to analyze health data and make predictions using biostatistics. It's called \"The Number Crunchers\"!"
+      ],
+      "options": [
+        "Biostatistics (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Biostatistics (correct answer)"
+      ]
+    },
+    {
+      "question": [
+        "Did you hear about the new superhero team called \"The Immunity Squad\"? They go around protecting people from diseases by giving them vaccinations!"
+      ],
+      "options": [
+        "Vaccination (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Vaccination (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Vaccination (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Community Health (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Community Health (correct answer)"
+      ]
+    },
+    {
+      "question": [],
+      "options": [
+        "Community Health (correct answer)"
+      ]
+    }
+  ]
+}

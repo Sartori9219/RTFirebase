@@ -1,0 +1,36 @@
+{
+    "options": [
+        "Active listening",
+        "Rapport building",
+        "Assertiveness",
+        "Emotional intelligence",
+        "Adaptability",
+        "Problem-solving",
+        "Persuasion",
+        "Conflict resolution",
+        "Patience",
+        "Preparation and research",
+        "Communication",
+        "Decision-making",
+        "Collaborative mindset",
+        "Creativity",
+        "Cultural awareness"
+    ],
+    "hints": {
+        "Active listening": "Paying close attention to what the other party is saying and responding thoughtfully, demonstrating understanding and respect.",
+        "Rapport building": "Developing trust and positive relationships with negotiation counterparts to facilitate open dialogue and collaboration.",
+        "Assertiveness": "Clearly and confidently expressing your needs, concerns, and goals without being aggressive or confrontational.",
+        "Emotional intelligence": "Recognizing, understanding, and managing your own emotions and those of others during negotiations.",
+        "Adaptability": "Adjusting your approach and tactics based on changing circumstances, new information, or the other party's reactions.",
+        "Problem-solving": "Identifying issues and working together to find mutually beneficial solutions.",
+        "Persuasion": "Convincing others of the merits of your proposals and influencing their decisions.",
+        "Conflict resolution": "Addressing disagreements and finding ways to overcome obstacles and reach a consensus.",
+        "Patience": "Remaining calm and composed, even during challenging or high-pressure negotiations.",
+        "Preparation and research": "Gathering relevant information and developing a well-informed strategy before entering negotiations.",
+        "Communication": "Expressing ideas clearly and concisely, using appropriate language and nonverbal cues.",
+        "Decision-making": "Evaluating options and making informed choices that best align with your objectives.",
+        "Collaborative mindset": "Approaching negotiations with a focus on working together to achieve mutually beneficial outcomes.",
+        "Creativity": "Generating innovative ideas and solutions to address the needs and interests of all parties involved.",
+        "Cultural awareness": "Understanding and respecting cultural differences and adapting your negotiation style accordingly."
+    }
+}
