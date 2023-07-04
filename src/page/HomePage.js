@@ -37,6 +37,7 @@ function groupByTitle(data) {
 }
 
 function HomePage({ navigation }) {
+  console.log("hello")
   const { user, loginWithGoogle, logout } = useContext(DataContext);
   const [userData, setUserData] = useState();
 
